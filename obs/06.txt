@@ -1,7 +1,7 @@
 ====== 6. God Provides for Isaac ======
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?direct&}}
+{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg}}
 
 
 When Abraham was very old, his son, Isaac, had grown to be a man. So Abraham sent one of his servants back to the land where his relatives lived to bring back a wife for his son, Isaac.
