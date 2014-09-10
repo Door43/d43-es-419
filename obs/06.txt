@@ -1,7 +1,7 @@
 ====== 6. God Provides for Isaac ======
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg}}
 
 
 When Abraham was very old, his son, Isaac, had grown to be a man. So Abraham sent one of his servants back to the land where his relatives lived to bring back a wife for his son, Isaac.
@@ -10,7 +10,7 @@ When Abraham was very old, his son, Isaac, had grown to be a man. So Abraham sen
 Cuando Abraham era muy viejo, su hijo, Isaac, había crecido hasta convertirse en un hombre. Así que Abraham envió a uno de sus siervos de nuevo a la tierra donde vivían sus parientes para traer de vuelta una esposa para su hijo Isaac.
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?direct&}}
 
 
 After a very long journey to the land where Abraham's relatives lived, God led the servant to Rebekah. She was the granddaughter of Abraham's brother.
