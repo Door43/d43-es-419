@@ -1,7 +1,7 @@
 ====== 11. The Passover ======
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-01.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-01.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-01.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg}}
 
 
 God warned Pharaoh that if he did not let the Israelites go, then he would kill all the firstborn males of both people and animals. When Pharaoh heard this he still refused to believe and obey God.
@@ -10,7 +10,7 @@ God warned Pharaoh that if he did not let the Israelites go, then he would kill 
 Dios advirtió a Faraón que si no dejaba ir a los israelitas, entonces él iba a matar a todos los varones primogénitos de las personas y animales. Cuando el Faraón oyó esto, todavía se negaba a creer y obedecer a Dios.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-02.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-02.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-02.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg}}
 
 
 God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect lamb and kill it.
@@ -19,7 +19,7 @@ God provided a way to save the firstborn son of anyone who believed in him. Each
 Dios proveyó un camino para salvar al hijo primogénito de todo aquel que cree en él. Cada familia tenía que elegir un cordero perfecto y matarlo.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-03.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-03.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-03.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg}}
 
 
 God told the Israelites to put some of the lamb's blood around the door of their house, and to roast the meat and eat it quickly, along with bread that was made without yeast. He also told them to be ready to leave Egypt when they ate.
@@ -28,7 +28,7 @@ God told the Israelites to put some of the lamb's blood around the door of their
 Dios dijo a los israelitas que poner un poco de la sangre del cordero en torno a la puerta de su casa, y para asar la carne y comer rápidamente, junto con el pan que fue hecho sin levadura. También les dijo que estar listo para salir de Egipto cuando comían.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-04.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-04.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-04.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg}}
 
 
 The Israelites did everything just as God had commanded them to do. In the middle of the night, God went throughout Egypt killing every firstborn son.
@@ -37,7 +37,7 @@ The Israelites did everything just as God had commanded them to do. In the middl
 Los israelitas hicieron todo tal como Dios les había mandado hacer. En el medio de la noche, Dios pasó por todo Egipto matando a todo hijo primogénito.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-05.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-05.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-05.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg}}
 
 
 All the houses of the Israelites had blood around the doors, so God passed over those houses. Everybody inside them was safe. They were saved because of the lamb's blood.
@@ -46,7 +46,7 @@ All the houses of the Israelites had blood around the doors, so God passed over 
 Todas las casas de los israelitas tenían sangre alrededor de las puertas, así que Dios pasó por alto esas casas. Todo el mundo dentro de ellos estaba a salvo. Fueron salvados por la sangre del cordero.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-07.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-07.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-07.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg}}
 
 
 Every Egyptian firstborn male died, from the firstborn of the prisoner in jail, to the firstborn of Pharaoh. Many people in Egypt were crying and wailing because of their deep sadness.
@@ -55,7 +55,7 @@ Every Egyptian firstborn male died, from the firstborn of the prisoner in jail, 
 Cada primogénito varón egipcio murió, desde el primogénito del preso en la cárcel, hasta el primogénito del Faraón. Muchas personas en Egipto estaban llorando y lamentándose por su profunda tristeza.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-08.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-08.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-11-08.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg}}
 
 
 That same night, Pharaoh called for Moses and Aaron and said, "Take the Israelites and leave Egypt immediately!" The Egyptian people also urged the Israelites to leave immediately.
