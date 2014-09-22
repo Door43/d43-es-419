@@ -10,7 +10,7 @@ The Israelites were very happy to leave Egypt. They were no longer slaves, and t
 Los Israelitas estaban muy contentos para salir de Egipto. ¡Ya no eran esclavos, y estaban yendose para la tierra prometida! Los Egipcios les dieron a los Israelitas cualquier cosa que ellos pidieron, aun el oro, la plata y las otras cosas de valor. Algunas personas de otros paises creyeron en Dios y fueron con los Israelitas mientras dejaron a Egipto.
 
 
-[[:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-12-02.jpg?media=https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-12-02.jpg|{{:https:api.unfoldingword.org:obs:jpg:1:en:360px:obs-en-12-02.jpg?direct&}}]]
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-02.jpg}}
 
 
 God led them with a tall pillar of cloud that went ahead of them during the day, and which became a tall pillar of fire at night. God was always with them and guided them as they traveled. All they had to do was follow him.
