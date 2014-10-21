@@ -20,3 +20,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Latest Status**
 {{page>en:uwadmin:es-419:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/es-419|Ethnologue data]]
