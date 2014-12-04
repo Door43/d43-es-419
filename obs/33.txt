@@ -1,6 +1,6 @@
 ====== 33. The Story of the Farmer ======
 
-33. La historia del agricultor
+====== 33. La Historia del Agricultor ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
 
@@ -12,9 +12,9 @@ Un dia, Jesus estaba ensenando una muchedumbre de gente cerca a la orilla del la
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds. 
+Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
 
-Jesus les conto esta historia. "Un agricultor salio para sembrar unas semillas. Mentras estaba esparciendo las semillas a mano, algunas semillas por causualidad se cayeron en el camino, y las aves llegaron y comieron todas aquellas smeillas.
+Jesus les conto esta historia. "Un agricultor salio para sembrar unas semillas. Mentras estaba esparciendo las semillas a mano, algunas semillas por causualidad se cayeron en el camino, y las aves llegaron y comieron todas aquellas semillas."
 
 
 
@@ -22,16 +22,14 @@ Jesus les conto esta historia. "Un agricultor salio para sembrar unas semillas. 
 
 "Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
 
-Otras semillas se cayeron en tiera rocosa, donde habia muy poca tierra. Las semillas en la tierra rocosa se brotaron rapidamente, pero sus raices no pudieron ir profundamente en el la tierra. Cuando salio el sol y se calento, las plantas se secaron y muerieon. 
-
+"Otras semillas se cayeron en tiera rocosa, donde habia muy poca tierra. Las semillas en la tierra rocosa se brotaron rapidamente, pero sus raices no pudieron ir profundamente en el la tierra. Cuando salio el sol y se calento, las plantas se secaron y muerieon."
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
 
 "Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
 
-"Otras semillas se cayeron entre arbustos espinosos. Aquellas semillas empezaron a crecer, pero las espinas las ahogaron. Asi, las plantas que creceieron de las semillas en la tierra espinosa no produjeron granos.
-
+"Otras semillas se cayeron entre arbustos espinosos. Aquellas semillas empezaron a crecer, pero las espinas las ahogaron. Asi, las plantas que creceieron de las semillas en la tierra espinosa no produjeron granos."
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
@@ -39,7 +37,6 @@ Otras semillas se cayeron en tiera rocosa, donde habia muy poca tierra. Las semi
 "Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
 
 "Otras semillas se cayeron en la tierra buena. Estas semillas crecieron y produjeron 30, 60, o aun 100 veces m'as de granos como la semilla que fue sembrada. El que tiene oidos, oiga!"
-
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
@@ -54,7 +51,6 @@ Esta historia confundio a los discipulos. Asi, Jesus les explico. "La semilla es
 "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
 
 "La tierra rocosa es una persona que oye la palabra de Dios y la recibe con gozo. Pero cuando el experimenta las dificultades o la persecuciones, el vuelve para atras."
-
 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
@@ -74,5 +70,4 @@ Esta historia confundio a los discipulos. Asi, Jesus les explico. "La semilla es
 //A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
 
 //Una historia de la Biblia: Mateo 13:1-8, 18-23; Marcos 4:1-8, 13-20; Lucas 8:4-15//
-
 
