@@ -18,7 +18,7 @@ Jesús dijo: "El reino de Dios se parece a un rey que quiso ajustar cuentas con 
 
 "Since the servant could not pay the debt, the king said, 'Sell this man and his family as slaves to make payment on his debt.'"
 
-"Dado que el siervo no podía pagar la deuda, el rey <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>dijo</font> ," Vendan este hombre y su familia como esclavos para hacer el pago de su deuda. '"
+"Dado que el siervo no podía pagar la deuda, el rey dijo," Vendan este hombre y su familia como esclavos para hacer el pago de su deuda. '"
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?direct&}}
 
