@@ -1,0 +1,17 @@
+====== Comprehension Questions ======
+
+
+Translators should use these questions during the level checking process this way:
+
+
+    - Translate the story.
+    - Read the story to some one that speaks your language and did not help with the translation.
+    - Ask them the questions on these pages.
+    - Did they answer the questions correctly? Then the translation is very accurate, natural and clear.
+    - Did they not answer some of the questions correctly? Then correct the translation.
+
+
+The translation can be approved for level 2 when the questions have been answered correctly.
+
+
+<nspages es-419:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Comprehension Questions for the Open Bible Stories:">
