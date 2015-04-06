@@ -10,7 +10,9 @@ La palabra "bueno" tiene diferentes significados, dependiendo en el contexto. Al
 
   * A "good" thing is suitable, pleasing, or excellent.
 
-       Una "buena" cosa es apropiada, agradable, o excelente.
+<code>
+     Una "buena" cosa es apropiada, agradable, o excelente.
+</code>
 
   *
   * A "good" action is morally right.
@@ -18,9 +20,13 @@ La palabra "bueno" tiene diferentes significados, dependiendo en el contexto. Al
   * Something that is "good" can be beneficial or helpful.
   * Algo que es "bueno" puede ser beneficioso o favorable.
   * A "good" thing can fulfill its purpose by being productive or plentiful. as in, "good land."
+  * Una "bena" cosa puede cumplir el proposito de ser productiva o completa. como en, "la buena tierra"
   * A person can be "good" at what they do if they are skillful at their task or profession, as in, "a good farmer."
+  * Una persona puede ser "buena" en lo que el hace, si el esta entrenado para realizar su tarea o su profesion
 
 "Good" is often contrasted with "evil" in the Bible.
+
+"Bueno" es a menudo contrastado con "Mal" en la Biblia.
 
 [See also: **[[:es-419:obs:notes:key-terms:holy|holy]]**, **[[:es-419:obs:notes:key-terms:righteous|righteous]]**, **[[:es-419:obs:notes:key-terms:evil|evil]]**]
 
