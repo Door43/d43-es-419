@@ -1,25 +1,27 @@
-====== heaven ======
-
+====== heaven  cielo ======
 
 ==== (heaven, sky, heavenly) ====
+
+(cielo,celestial)
 
 ===== Definition: =====
 
 The word "heaven" can refer to two different things in the Bible:
 
-    * Sometimes "heaven" refers to the place where God lives.
-    * Other times it refers to the sky: the space above the earth, including the air we breathe and everything we see above the earth, such as the blue expanse and the clouds, sun, moon, and stars.
-    * In some contexts "heaven" could refer to both the sky and the place where God lives.
-
+  * Sometimes "heaven" refers to the place where God lives
+  * **algunas veces "cielo" se refiere a un lugar donde Dios vive.**
+  * Other times it refers to the sky: the space above the earth, including the air we breathe and everything we see above the earth, such as the blue expanse and the clouds, sun, moon, and stars.
+  * **otras veces  "el cielo"  es el espacio arriva de la tierra, esto incluye el aire que respiramos  y el espacio que esta arriva de la tierra, incluyendo donde esta el sol, la luna y las estrellas.**
+  * In some contexts "heaven" could refer to both the sky and the place where God lives.
+  * **en una definicion el cielo es el espacio donde dios vive.**
+  *
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.** 
-  ***[[:es-419:obs:notes:frames:14-11|[14-11]]]** He (God) gave them bread from **heaven**, called "manna."
-  ***[[:es-419:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven** and peace on earth to the people he favors!"
-  ***[[:es-419:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly** Father will do to every one of you if you do not forgive your brother from your heart."
-  ***[[:es-419:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven** and said, "Father, thank you for hearing me."
-  ***[[:es-419:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
-
-
+  * **[[:es-419:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.**
+  * **[[:es-419:obs:notes:frames:14-11|[14-11]]]** He (God) gave them bread from **heaven**, called "manna."
+  * **[[:es-419:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven**  and peace on earth to the people he favors!"
+  * **[[:es-419:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly**  Father will do to every one of you if you do not forgive your brother from your heart."
+  * **[[:es-419:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven**  and said, "Father, thank you for hearing me."
+  * **[[:es-419:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
 ~~DISCUSSION:off~~
