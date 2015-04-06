@@ -1,25 +1,24 @@
-====== witness ======
+====== witness testigo ======
 
-
-===== Definition: =====
-
+===== Definition: Definición =====
 
 A witness is someone who has seen or heard something happen.
 
+\\
+**Un testigo es alguien que ha visto o escuchado algo que ha sucedido.**
 
-    * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
-    * Witnesses are expected to tell the truth about what they have seen or heard.
-    * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
-
-[See also: **[[es-419:obs:notes:key-terms:guilt|guilt]]**, **[[es-419:obs:notes:key-terms:judge|judge]]**]
-
+   * During a trial, witnesses tell what they have seen or heard. What the witnesses say helps the judge to decide if the person being accused is guilty or innocent.
+  * **Durante un proceso, un testigo dice lo que ha visto u oído.  Lo que el testigo dice ayuda al juez a decidir si la persona acusada es culpable o inocente.**
+  * Witnesses are expected to tell the truth about what they have seen or heard.
+  * **Se espera que los testigos digan la verdad sobre lo que han visto u oído. **
+  * A witness who does not tell the truth about what he has seen or heard is called a, "false witness."
+  * **Un testigo que no dice la verdad de lo que ha visto u oído  se le llama, ¨testigo falso".**
+[See also: **[[:es-419:obs:notes:key-terms:guilt|guilt]]**, **[[:es-419:obs:notes:key-terms:judge|judge]]**]
 
 ===== Examples from the Bible stories: =====
 
-    * **[[:es-419:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
-    * **[[:es-419:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
-    * **[[:es-419:obs:notes:frames:42-08|[42-08]]]** "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
-    * **[[:es-419:obs:notes:frames:43-07|[43-07]]]** "We are **witnesses** to the fact that God raised Jesus to life again." 
-
-
+  * **[[:es-419:obs:notes:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **false witnesses**  who lied about him.
+  * **[[:es-419:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, "We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?"
+  * **[[:es-419:obs:notes:frames:42-08|[42-08]]]**"It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things."
+  * **[[:es-419:obs:notes:frames:43-07|[43-07]]]**"We are **witnesses**  to the fact that God raised Jesus to life again."
 ~~DISCUSSION:off~~
