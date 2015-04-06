@@ -1,5 +1,7 @@
 ====== Open Bible Stories (es-419) ======
 
+{{  :en:obs-pic_360p.jpg?nolink&300}}**50 historias clave de la Biblia, desde la Creación hasta Apocalipsis, para evangelismo y discipulado, en texto, audio y video, en cualquier teléfono movil, en cualquier lenguaje, totalmente gratis.** 
+
 Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[:en:obs:help|here]], and useful information may also be found at [[:en:get-started|"Getting Started"]] and [[:en:tips-tricks|"Tips & Tricks"]]. If you need help, [[:contact|just ask]]!
 
 {{page>es-419:obs:stories}}{{page>en:obs:active}}
