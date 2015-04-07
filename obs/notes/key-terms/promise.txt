@@ -4,14 +4,14 @@
 
 A promise is a vow or commitment to do something.
 
-**una promesa es prometir o jurar hacer algo**
+**Una promesa es un voto o un compromiso de hacer algo**
 
    * When someone promises to do something, he says that he will definitely do it.
-  * **cuando alguien promete hacer algo, el jura firmemente hacerlo**
+  * **Cuando alguien promete hacer algo, el dice que definitivamente lo hará.**
   * When someone promises that something will happen, he says that it will definitely happen.
-  * **cuando alguien promete que algo pasara, el dice que firmemente pasara**
+  * **Cuando alguien promete que algo pasará, el dice que definitivamente pasará.**
   * Promises are important parts of formal agreements such as covenants.
-  * **promesas son partes importantes en contratos legales como pactos**
+  * **Las promesas son partes importantes en contratos formales como los convenios.**
 [See also: **[[:es-419:obs:notes:key-terms:covenant|covenant]]**]
 
 ===== Examples from the Bible stories: =====
