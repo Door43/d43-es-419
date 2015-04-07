@@ -1,7 +1,4 @@
-====== heal ======
-
-**sanar**
-===== Definition: =====
+====== heal **sanar**  =========== Definition: =====
 
 **Definición:**
 
