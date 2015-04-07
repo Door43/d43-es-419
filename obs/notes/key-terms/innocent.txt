@@ -1,23 +1,26 @@
-====== innocent ======
-
+====== innocent- inocente ======
 
 ===== Definition: =====
 
+**Definición:**
+
 To be innocent means to **not** be guilty of something.
 
-  * In the case of a crime, a person is innocent of the crime if he has **not** committed that crime.
-  * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
+**Ser inocente significa //no// ser culpable de algo.**
 
+   * In the case of a crime, a person is innocent of the crime if he has **not**  committed that crime.
+  * **En el caso de un crimen, la persona es inocente si no ha cometido ese crimen**.
+  * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
+  * **Jesus es el único ser humano que fue completamente inocente, porque nunca cometió ningún error, El no tenía pecado**.
 The opposite of "innocent" is "guilty."
 
-[See also: **[[es-419:obs:notes:key-terms:guilt|guilt]]**]
+**Lo contrario de "inocente"  es "culpable"**
 
+[See also: **[[:es-419:obs:notes:key-terms:guilt|guilt]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
-  ***[[:es-419:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**." 
-  ***[[:es-419:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
-
-
+  * **[[:es-419:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
+  * **[[:es-419:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
+  * **[[:es-419:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
 ~~DISCUSSION:off~~
