@@ -1,23 +1,25 @@
-====== mock ======
-
+====== mock burlarse ======
 
 ===== Definition: =====
 
+===== Definición: =====
 
-To deride or make fun of someone, especially  in a cruel way.
+To deride or make fun of someone, especially in a cruel way.
 
-    * Mocking often involves taunting someone and laughing at them.
-    * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
-    * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
+Ridiculizar a alguien de una manera <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>especialmente</font> cruel.
 
+  * Mocking often involves taunting someone and laughing at them.
+  * **Burla supone de insultar a alguien y reirse del.**
+  * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
+  * **El burlarse de alguien es pretender honrarle pero todavía menospreciandole de alguna manera.**
+  * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
+  * **Una persona también puede burlarse de alguien imitando las palabras o acciones <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>de la persona</font> con el intento de avergonzarlo.**
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah. 
-  ***[[:es-419:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked** him.
-  ***[[:es-419:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked** him by saying, "Look, the King of the Jews!"
-  ***[[:es-419:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked** Jesus, but the other said, "Do you have no fear of God?"
-  ***[[:es-419:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked** Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
-
-
+  * **[[:es-419:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah.
+  * **[[:es-419:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked**  him.
+  * **[[:es-419:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked**  him by saying, "Look, the King of the Jews!"
+  * **[[:es-419:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked**  Jesus, but the other said, "Do you have no fear of God?"
+  * **[[:es-419:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked**  Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
 ~~DISCUSSION:off~~
