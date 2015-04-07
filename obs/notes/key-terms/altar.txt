@@ -1,4 +1,4 @@
-====== altar ======
+====== altar **altar**  ======
 
 ===== Definition: =====
 
