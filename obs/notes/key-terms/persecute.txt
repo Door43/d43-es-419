@@ -1,29 +1,31 @@
-====== persecute ======
-
+====== persecute perseguir ======
 
 ==== (to persecute, persecution) ====
 
+==== (perseguir, persecución) ====
 
 ===== Definition: =====
 
+===== Definición: =====
 
 To persecute someone is to repeatedly attack him or to treat him cruelly.
 
-    * It is possible to persecute a single person, a small group of people, or even a large number of people.
-    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
-    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
-    * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+**El perseguir a alguien es repetidamente atarclo o tratarlo cruelmente.**
 
-[See also: **[[es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**, **[[es-419:obs:notes:key-terms:rome|Rome]]**, **[[es-419:obs:notes:key-terms:christian|Christians]]**, **[[es-419:obs:notes:key-terms:church|Church]]**]
-
+   * It is possible to persecute a single person, a small group of people, or even a large number of people.
+  * **Es posible perseguir a una sola persona, a un pequeño grupo de personas o a hasta un grupo grande de personas.**
+  * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
+  * **Los líderes religiosos judíos persiguieron a Jesús porque no les gustó lo que estaba enseñando.**
+  * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted the Christians. However, the believers refused to stop preaching and teaching about Jesus, and the Church continued to grow.
+  * **Después que Jesús regresó al cielo, los líderes religiosos judíos y el gobierno romano persiguieron a los cristianos. Pero los creyentes se rehusaron a dejar de predicar y enseñar sobre Jesús, y la Iglésia comenzó a crecer.**
+  * Other words for "persecution" are "mistreatment" or, "abuse" or, "oppression" or, "hostility."
+  * **Otras palabras para "persecución" son "maltrato" o "abuso" o "opresión" o "hostilidad".**
+[See also: **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**, **[[:es-419:obs:notes:key-terms:rome|Rome]]**, **[[:es-419:obs:notes:key-terms:christian|Christians]]**, **[[:es-419:obs:notes:key-terms:church|Church]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-    * **[[:es-419:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
-    * **[[:es-419:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
-    * **[[:es-419:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
-    * **[[:es-419:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
-
-
+  * **[[:es-419:obs:notes:frames:33-07|[33-07]]]**"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
+  * **[[:es-419:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting**  the followers of Jesus, so the believers fled to other places.
+  * **[[:es-419:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute**  me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting**  me!"
+  * **[[:es-419:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted**  the believers."
 ~~DISCUSSION:off~~
