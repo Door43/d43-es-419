@@ -1,19 +1,16 @@
 ===== Open Eyes [02-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?nolink&}}
 
 Suddenly, **their eyes were opened**, and they realized **they were naked**. They tried to **cover their bodies** by sewing leaves together to make clothes.
 
-===== Important Terms: =====
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>De repente, sus ojos fueron abiertos, y se dieron cuenta que estaban desnudos. Ellos intentaron cubrir sus cuerpos al coser algunas hojas juntas para hacerse ropa.</font>
 
+===== Important Terms: =====
 
 ==== Translation Notes: ====
 
-
-  * **their eyes were opened** - This could be translated as, "they saw things differently." This expression means they now understood something for the first time. In your language, there may be an expression with similar meaning that you could use to translate this.
-  * **realized they were naked** - After the man and the woman disobeyed God, they felt ashamed that they were naked. That is why they used leaves to try to cover their naked bodies.
-  * **cover their bodies** - The man and the woman attempted to use leaves to hide themselves from God.
-
-
+  * **their eyes were opened**  - This could be translated as, "they saw things differently." This expression means they now understood something for the first time. In your language, there may be an expression with similar meaning that you could use to translate this.
+  * **realized they were naked**  - After the man and the woman disobeyed God, they felt ashamed that they were naked. That is why they used leaves to try to cover their naked bodies.
+  * **cover their bodies**  - The man and the woman attempted to use leaves to hide themselves from God.
 **[[:es-419:obs:notes:frames:02-05|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-07|>>]]**
