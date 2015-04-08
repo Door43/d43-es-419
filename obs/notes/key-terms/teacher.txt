@@ -1,33 +1,34 @@
-====== teacher ======
-
+====== teacher maestro ======
 
 ==== (teacher, Teacher) ====
 
+==== (maestro, Maestro) ====
 
 ===== Definition: =====
 
+===== Definición: =====
 
 A teacher is a person who instructs other people. Teachers help others to obtain and use both knowledge and skills.
 
+**Un maestro es una persona que instruye a otra persona. Maestros ayudan a que otros obtengan y usen sus conocimientos y habilidades.**
 
-    * The word "teacher" is used in a special sense in the Bible for someone who teaches about God, rather than for a school teacher for children.
-    * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
-    * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
-    * People called Jesus, "Teacher" as a title of respect because he taught them about God.
-    * Some cultures have other words that they use to show respect to those who teach about God, such as, "Sir" or, "Rabbi" or, "Preacher."
-
-
-[See also: **[[es-419:obs:notes:key-terms:disciple|disciple]]**, **[[es-419:obs:notes:key-terms:preach|preach]]**]
-
+   * The word "teacher" is used in a special sense in the Bible for someone who teaches about God, rather than for a school teacher for children.
+  * **La palabra "maestro" es usada de una forma especial en la Biblia para referirse a alguien que enseña sobre Dios, a cambio de un maestro de niños que enseña en una escuela.**
+  * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
+  * **Los que aprenden de un maestro son llamados "estudiantes". Gente que aprende verdades espirituales con un maestro, también son llamados "discípulos".**
+  * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
+  * **En estas historias, la palabra "maestro" es capitalizada como "Maestro" cuando es usada como un título para Jesús.**
+  * People called Jesus, "Teacher" as a title of respect because he taught them about God.
+  * **La gente le llamaba a Jesús, "Maestro" como un título de respeto porque el les enseñaba sobre Dios.**
+  * Some cultures have other words that they use to show respect to those who teach about God, such as, "Sir" or, "Rabbi" or, "Preacher."
+  * **Algunas culturas tienen otras palabras que ellos usan para mostrar respeto a aquellos que enseñan sobre Dios, por ejemplo, "Señor" o "Rabí" o "Predicador".**
+[See also: **[[:es-419:obs:notes:key-terms:disciple|disciple]]**, **[[:es-419:obs:notes:key-terms:preach|preach]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-    * **[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
-    * **[[:es-419:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
-    * **[[:es-419:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
-    * **[[:es-419:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
-    * **[[:es-419:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God. 
-
-
+  * **[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "**Teacher**, what must I do to inherit eternal life?"
+  * **[[:es-419:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, "Good **Teacher**, what must I do to have eternal life?"
+  * **[[:es-419:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, "Let's go back to Judea." "But **Teacher**," the disciples answered, "Just a short time ago the people there wanted to kill you!"
+  * **[[:es-419:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, "Greetings, **Teacher**," and kissed him.
+  * **[[:es-419:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**, and he spoke with authority because he is the Son of God.
 ~~DISCUSSION:off~~
