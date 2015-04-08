@@ -1,4 +1,4 @@
-====== <font 20px/inherit;;inherit;;inherit>chariot</font>     ======
+====== <font 14px/inherit;;inherit;;inherit>chariot</font>     ======
 
 ====== <font 20px/inherit;;inherit;;inherit>Carruaje</font>     ======
 
