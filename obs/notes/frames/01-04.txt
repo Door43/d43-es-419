@@ -1,24 +1,19 @@
 ===== God Created the Land [01-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?nolink}}
+On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**.
 
-On the **third day**, **God spoke** and separated the water from the dry land. He called the dry land “**earth**,” and he called the water “seas.” God saw that what he had **created** was **good**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el tercer día, Dios habló y separó el agua de la tierra seca. El llamó la tierra seca “tierra,” y El llamó el agua “mares.” Dios vio que lo que había creado fue bueno.</font>
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **third day** - The next in the series of orderly days in which God prepared the earth for life.
-  * **God spoke** - God created the dry land by speaking a command.
-  * **earth** - This word is used here to refer to dirt or soil, which is what dry land is made of. The word "earth" in **[[:es-419:obs:notes:frames:01-01|[01-01]]]** refers to the whole world that people live on.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **third day**  - The next in the series of orderly days in which God prepared the earth for life.
+  * **God spoke**  - God created the dry land by speaking a command.
+  * **earth**  - This word is used here to refer to dirt or soil, which is what dry land is made of. The word "earth" in **[[:es-419:obs:notes:frames:01-01|[01-01]]]** refers to the whole world that people live on.
+  * **created**  - This word is used here in the sense of making something out of nothing.
 **[[:es-419:obs:notes:frames:01-03|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-05|>>]]**
