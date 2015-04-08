@@ -1,24 +1,19 @@
 ===== God Made Eve [01-13] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?nolink&}}
 
 So **God** made **Adam** fall into **a deep sleep**. Then God **took one of Adam's ribs and made** it into **a woman** and **brought her to him**.
 
-===== Important Terms: =====
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces, Dios hizo que Adán cayera en un sueño profundo. Entonces Dios tomó una de las costillas de Adán y de ella hizo una mujer y la trajo a él.</font>
 
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **a deep sleep** - This was a deeper sleep than normal.
-  * **took one of Adam's ribs and made** - The verbs indicate God's very personal act of removing the rib from Adam and shaping it into a woman.
-  * **a woman** - She was the first woman, the female version of human beings that was missing until now.
-  * **brought her to him** - God personally introduced them. He presented the woman to Adam, almost like offering a special gift.
-
-
+  * **a deep sleep**  - This was a deeper sleep than normal.
+  * **took one of Adam's ribs and made**  - The verbs indicate God's very personal act of removing the rib from Adam and shaping it into a woman.
+  * **a woman**  - She was the first woman, the female version of human beings that was missing until now.
+  * **brought her to him**  - God personally introduced them. He presented the woman to Adam, almost like offering a special gift.
 **[[:es-419:obs:notes:frames:01-12|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-14|>>]]**
