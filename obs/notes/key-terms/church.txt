@@ -1,16 +1,16 @@
-====== church ======
-
-iglesia
+====== church iglesia ======
 
 ==== (church, Church) ====
 
+(iglesia, Iglesia)
+
 ===== Definition: =====
 
-Definicion
+Definición
 
 The word, "church" refers to a group of people who believe in Jesus. When those believers are in a local area such as a city or a region, it is written as, "church." When it refers to believers everywhere, it is written as, "Church."
 
-La palabra "iglesia" se refiere a un grupo de personas que creen en Jesus. Cuando estos creyentes estan en un area local como una ciudad o region, esta escrito como "iglesia." Cuando el termino se refiere a creyentes en general, esta escrito como "Iglesia."
+La palabra "iglesia" se refiere a un grupo de personas que creen en Jesús. Cuando estos creyentes estan en un area local como una ciudad o region, esta escrito como "iglesia." Cuando el termino se refiere a creyentes en general, esta escrito como "Iglesia."
 
   * The original meaning of the word for "church" in the Bible is "called out (to meet together)."
   * El significado original de la palabra "iglesia" en la Biblia es: "ser llamados" (para reunirse)."
