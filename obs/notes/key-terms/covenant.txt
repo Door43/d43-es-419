@@ -1,6 +1,4 @@
-====== covenant ======
-
-pacto
+====== covenant pacto ======
 
 ===== Definition: =====
 
