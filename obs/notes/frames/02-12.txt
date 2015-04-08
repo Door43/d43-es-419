@@ -1,12 +1,12 @@
 ===== Out of the Garden [02-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-12.jpg?nolink}}
+Then **God** said, “Now that the human beings have become **like us by knowing good and evil**, they must not be allowed to eat the **fruit** of the **tree of life** and live forever.” So God sent **Adam** and **Eve** away from the beautiful garden. God placed large, powerful **angels** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
 
-Then **God** said, “Now that the human beings have become **like us by knowing good and evil**, they must not be allowed to eat the **fruit** of the **tree of life** and live forever.” So God sent **Adam** and **Eve** away from the beautiful garden. God placed large, powerful **angels** at the entrance to the garden to keep anyone from eating the fruit of the tree of life. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “Ahora que los seres humanos han llegado a ser como nosotros al saber el bien y el mal, ellos no deben ser permitidos que coman de la fruta del arbol de la vida y vivir para siempre.” Entonces, Dios envió a Adán y a Eva del huerto bonito. Dios puso ángeles fuertes a la entrada del huerto para no permitir que nadie comiera de la fruta del arbol de vida.</font>
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
@@ -15,14 +15,10 @@ Then **God** said, “Now that the human beings have become **like us by knowing
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
   * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
   * **[[:es-419:obs:notes:key-terms:angel|angels]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **like us by knowing good and evil** - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil."
-  * **fruit** - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-  * **tree of life** - This was an actual tree with fruit. See **[[:es-419:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil."
+  * **fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
+  * **tree of life**  - This was an actual tree with fruit. See **[[:es-419:obs:notes:frames:01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:es-419:obs:notes:frames:02-11|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:03-01|>>]]**
