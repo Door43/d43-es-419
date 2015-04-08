@@ -1,12 +1,12 @@
 ===== Two Trees [01-11] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?nolink}}
+**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
 
-**In the middle** of the **garden**, God planted two special trees—the **tree of life** and the **tree of the knowledge of good and evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el medio del huerto, Dios plantó dos arboles especiales-el arbol de la vida y el arbol del conocimiento del bien y mal. Dios dijo que Adán podría comer del cualquier arbol del huerto menos del arbol del conocimiento del bien y mal. Si él comió de este arbol, él moriría.</font>
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:life|life]]**
@@ -14,18 +14,13 @@
   * **[[:es-419:obs:notes:key-terms:evil|evil]]**
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
   * **[[:es-419:obs:notes:key-terms:death|die]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **in the middle**  - The central location emphasizes the importance of the two trees.
+  * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
+  * **tree of life**  - Anyone who ate fruit from this tree would never die.
+  * **tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
+  * **knowledge**  - To know or understand by personal experience.
+  * **good and evil**  - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
+  * **die**  - In this instance, he would die both physically and spiritually.
 **[[:es-419:obs:notes:frames:01-10|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-12|>>]]**
