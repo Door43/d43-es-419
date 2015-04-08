@@ -1,25 +1,20 @@
 ===== The Lie [02-04] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink}}
+The snake responded to the woman, “That is not **true**! You will not **die**. **God** just knows that as soon as you eat it, you will be **like God** and will **understand good and evil** like he does.”
 
-The snake responded to the woman, “That is not **true**! You will not **die**. **God** just knows that as soon as you eat it, you will be **like God** and will **understand good and evil** like he does.” 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>La serpiente respondió a la mujer, “¡Aquella no es la verdad! No morirá. Dios sabe que tan pronto que la come, será como Dios y entenderá el bien y el mal como El.</font>
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:true|true]]**
   * **[[:es-419:obs:notes:key-terms:death|die]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
   * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **like God** - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  * **understand good and evil** - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
-
-
+  * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
+  * **understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
 **[[:es-419:obs:notes:frames:02-03|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-05|>>]]**
