@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
+
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “¡Deje que sea la luz! Y había luz. Dios vio que la luz fue buena y la llamó “día.” El la separó de la oscuridad, que había llamado “noche.” Dios creó la luz en el primer día de la creación.</font>
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
