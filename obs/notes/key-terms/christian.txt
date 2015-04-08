@@ -1,4 +1,5 @@
-====== <font 14px color: inherit; font-weight: normal; line-height: 1.4; background-color: inherit;/inherit;;inherit;;inherit font-weight: normal; line-height: 1.4; background-color: inherit;>Christian</font> **Cristiano**  ======
+====== Christian  **Cristiano** ======
+
 **Definition:**
 
 **Definición**
@@ -16,15 +17,15 @@
   * <font 14px/inherit;;inherit;;inherit>Be careful to translate this term with a word that can refer to everyone who believes in Jesus, not just certain groups.</font>
   * <font 14px/inherit;;inherit;;inherit>Tenga cuidado de traducir este termino con una palabra que pueda referirse a todos los que creen en Jesus, y no a ciertos grupos.</font>
 
-<font 20px/inherit;;inherit;;inherit>[See also:  ** church]]  ** ,  ** disciple]]  ** ,  ** believer]]  ** ,  ** Jesus]]  ** ,  ** Messiah]]  ** ,  ** Son of God]]  ** ]</font>
+<font 20px/inherit;;inherit;;inherit>[See also: ** church]] **  , ** disciple]] **  , ** believer]] **  , ** Jesus]] **  , ** Messiah]] **  , ** Son of God]] **  ]</font>
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:es-419:obs:notes:frames:46-09|[46-09]]]** It was at Antioch that believers in Jesus were first called "**Christians**."
-  * **[[:es-419:obs:notes:frames:47-14|[47-14]]]**] Paul and other **Christian**  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
-  * **[[:es-419:obs:notes:frames:49-15|[49-15]]]** If you believe in Jesus and what he has done for you, you are a **Christian**!
-  * **[[:es-419:obs:notes:frames:49-16|[49-16]]]** If you are a **Christian**, God has forgiven your sins because of what Jesus did.
-  * **[[:es-419:obs:notes:frames:49-17|[49-17]]]** Even though you are a **Christian**, you will still be tempted to sin.
-  * **[[:es-419:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told **Christians**  to proclaim the good news to people who have never heard it.
-  * **[[:es-419:obs:notes:frames:50-11|[50-11]]]** When Jesus returns, every **Christian**  who has died will rise from the dead and meet him in the sky.
+  * **[[[46-09]]]** It was at Antioch that believers in Jesus were first called "**Christians**."
+  * **[[[47-14]]]**] Paul and other **Christian**  leaders traveled to many cities, preaching and teaching people the good news about Jesus.
+  * **[[[49-15]]]** If you believe in Jesus and what he has done for you, you are a **Christian**!
+  * **[[[49-16]]]** If you are a **Christian**, God has forgiven your sins because of what Jesus did.
+  * **[[[49-17]]]** Even though you are a **Christian**, you will still be tempted to sin.
+  * **[[[50-03]]]** Before he returned to heaven, Jesus told **Christians**  to proclaim the good news to people who have never heard it.
+  * **[[[50-11]]]** When Jesus returns, every **Christian**  who has died will rise from the dead and meet him in the sky.
 ~~DISCUSSION:off~~
