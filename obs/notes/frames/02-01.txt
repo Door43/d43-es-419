@@ -1,24 +1,19 @@
 ===== A Perfect World [02-01] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink}}
+**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**.
 
-**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but this did not cause them to feel any **shame**, because there was no **sin** in the world. They often walked in the garden and **talked with God**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Cuando el día séptimo llegó, Dios había terminado su trabajo. Entonces Dios descansó de todo lo que había hecho. El bendijo el día séptimo y lo hizo santo, porque en este día El descansó de Su trabajo. Esto es como Dios creó el universo y todo lo que estaba en él.</font>
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **garden** - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:es-419:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
-  * **talked with God** - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  * **shame** - The feeling that comes with knowing we have sinned or that we fall short in some way. Before sin came into the world, there was no sense of shame about being naked.
-
-
+  * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:es-419:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
+  * **talked with God**  - The word for "talk" should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
+  * **shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way. Before sin came into the world, there was no sense of shame about being naked.
 **[[:es-419:obs:notes:frames:01-16|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-02|>>]]**
