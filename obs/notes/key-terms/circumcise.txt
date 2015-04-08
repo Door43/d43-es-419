@@ -1,4 +1,4 @@
-====== circumcise  <font 14px font-weight: normal; line-height: 1.4;/inherit;;inherit;;inherit>circuncidar</font>  ======
+====== circumcise circuncidar ======
 
 ===== Definition: =====
 
@@ -15,6 +15,6 @@ Circuncidar a alguien es cortar la piel de la punta del miembro viril a un hijo 
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:es-419:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[:es-419:obs:notes:frames:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  * **[[[05-03]]]**"You must **circumcise**  every male in your family."
+  * **[[[05-05]]]** That day Abraham **circumcised**  all the males in his household.
 ~~DISCUSSION:off~~
