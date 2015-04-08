@@ -1,23 +1,18 @@
 ===== The Snake [02-02] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink}}
+But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?”
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did God really tell you** not to eat the **fruit from any of the trees** in the garden?” 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Pero había una serpiente astuta en el huerto. El hizo la pregunta a la mujer, “¿En verdad le dijo Dios que no comiera la fruta de algún arbol en el huerto?”</font>
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **crafty** - Clever and sly, with the intent to deceive.
-  * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
-
-
+  * **crafty**  - Clever and sly, with the intent to deceive.
+  * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
+  * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
+  * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
 **[[:es-419:obs:notes:frames:02-01|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-03|>>]]**
