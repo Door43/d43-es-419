@@ -1,26 +1,20 @@
 ===== God Created the Plants [01-05] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?nolink}}
+Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**.
 
-Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**. 
-
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “Deje que la tierra produzca​ toda clase de arboles y plantas.” Y esto fue lo que sucedió. Dios vio que lo que había creado fue bueno.</font>
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **God said** - God created all vegetation by speaking a command.
-  * **let the earth produce** - This is a command that happened immediately because God spoke it.
-  * **all kinds** - The many different species, or types, of plants and trees.
-  * **created** - This word is used here in the sense of making something out of nothing.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-
-
+  * **God said**  - God created all vegetation by speaking a command.
+  * **let the earth produce**  - This is a command that happened immediately because God spoke it.
+  * **all kinds**  - The many different species, or types, of plants and trees.
+  * **created**  - This word is used here in the sense of making something out of nothing.
+  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
 **[[:es-419:obs:notes:frames:01-04|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-06|>>]]**
