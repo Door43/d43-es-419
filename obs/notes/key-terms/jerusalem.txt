@@ -2,16 +2,25 @@
 
 ===== Facts: =====
 
+**Datos:**
+
 Jerusalem was a city in the land of Israel. It is still there today.
 
-  * King David conquered Jerusalem from one of the Canaanite tribes and made it his capital.
-  * The temple was built in Jerusalem by David's son, King Solomon.
+**Jerusalem era una ciudad en la tierra de Israel. Y todavia lo es.**
+
+   * King David conquered Jerusalem from one of the Canaanite tribes and made it his capital.
+  * **El Rey David conquisto a Jerusalem de una de las tribus de los Canaanita y la hizo la capital.**
+  * The temple was built in Jerusalem by David's son, King Solomon
+  * **El templo fue construido en Jerusalem por el hijo de David, Rey Solomom**.
   * God sent the Babylonians to destroy Jerusalem because of Israel's sin. However, he allowed them to return and rebuild Jerusalem 70 years later.
+  * **Dios mando a los Babilonias que destruyeran a Jerusalem por el pecado de Israel. Sin embargo, el permitio que regreseran y reconstruyeran a Jerusalem 70 anos despues.**
   * Jerusalem was the city where Jesus the Messiah was put on trial and sentenced to die on a cross.
+  *
+  *
+  * **Jerusalem era una ciudad donde Jesus el Mesias fue puesto en prueba y sentenciado a morir en la cruz.**
   * Jerusalem was one of the main places where Jesus spent time with his disciples after he came back to life, and before returning to heaven.
-
-[See also: **[[es-419:obs:notes:key-terms:david|David]]**, **[[es-419:obs:notes:key-terms:solomon|Solomon]]**, **[[es-419:obs:notes:key-terms:messiah|Messiah]]**, **[[es-419:obs:notes:key-terms:jesus|Jesus]]**]
-
+  * **Jerusalem era unos de los sitios principales donde Jesus pasaba tiempo con sus discipulos despues que regreso a la vida y despues que regreso al cielo.**
+[See also: **[[:es-419:obs:notes:key-terms:david|David]]**, **[[:es-419:obs:notes:key-terms:solomon|Solomon]]**, **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**, **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**]
 
 ===== Examples from the Bible stories: =====
 
