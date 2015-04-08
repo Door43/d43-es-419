@@ -1,27 +1,30 @@
-====== tempt ======
-
+====== tempt tentar ======
 
 ==== (to tempt, temptation) ====
 
+==== (tentar, tentación) ====
 
 ===== Definition: =====
 
+===== Definición: =====
+
 To tempt someone is to try to get that person to do something wrong.
 
-    * A temptation is something that causes a person to want to do something wrong.
-    * People are tempted by their own sinful nature and by other people.
-    * Satan also tempts people to disobey God and to sin against God by doing wrong things.
-    * Jesus resisted all of Satan's temptations. Jesus never sinned.
+**Tentar a alguien es tratar de forzar a esa persona a que haga algo incorrecto.**
 
-[See also: **[[es-419:obs:notes:key-terms:sin|sin]]**, **[[es-419:obs:notes:key-terms:disobey|disobey]]**, **[[es-419:obs:notes:key-terms:satan|Satan]]**]
-
+   * A temptation is something that causes a person to want to do something wrong.
+  * **Una tentación es algo que provoca a que una persona haga algo incorrecto.**
+  * People are tempted by their own sinful nature and by other people.
+  * **La gente es tentada por su propia naturaleza pecadora y por otras personas.**
+  * Satan also tempts people to disobey God and to sin against God by doing wrong things.
+  * **Satán también tenta personas a que desobedezcan a Dios y a que pequen contra Dios haciendo cosas malas.**
+  * Jesus resisted all of Satan's temptations. Jesus never sinned.
+  * **Jesús resistió todas las tentaciones que Sátanas le puso al frente. Jesús nunca pecó.**
+[See also: **[[:es-419:obs:notes:key-terms:sin|sin]]**, **[[:es-419:obs:notes:key-terms:disobey|disobey]]**, **[[:es-419:obs:notes:key-terms:satan|Satan]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-  * **[[:es-419:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted** him to sin.
+  * **[[:es-419:obs:notes:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted**  him to sin.
   * **[[:es-419:obs:notes:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
   * **[[:es-419:obs:notes:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
-
-
 ~~DISCUSSION:off~~
