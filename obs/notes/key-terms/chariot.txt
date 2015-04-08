@@ -1,23 +1,20 @@
-====== <font 14px/inherit;;inherit;;inherit>chariot</font>     ======
+====== <font 12px/inherit;;inherit;;inherit>chariot</font>    <font 12px line-height: 1.2; background-color: inherit;/inherit;;inherit;;inherit font-family: inherit; font-size: 12px; line-height: 1.2; background-color: inherit;>Carruaje</font>  ======
 
-====== <font 20px/inherit;;inherit;;inherit>Carruaje</font>     ======
+<font 12px font-weight: bold; line-height: 1.2; background-color: inherit;/inherit;;inherit;;inherit font-size: 12px; font-weight: bold; line-height: 1.2; background-color: inherit;>Definition:</font>
 
-===== <font 20px/inherit;;inherit;;inherit>Definition:</font>     =====
+<font 12px/inherit;;inherit;;inherit>Definicion</font>
 
-<font 20px/inherit;;inherit;;inherit>Definicion</font>
+<font 12px/inherit;;inherit;;inherit>In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.</font>
 
-<font 20px/inherit;;inherit;;inherit>In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.</font>
+<font 12px/inherit;;inherit;;inherit>En tiempos antiguos, los carruajes eran carretas livianas con dos ruedas jaladas por caballos.</font>
 
-<font 20px/inherit;;inherit;;inherit>En tiempos antiguos, los carruajes eran carretas livianas con dos ruedas jaladas por caballos.</font>
+  * <font 12px/inherit;;inherit;;inherit>People would sit or stand in chariots, using them for war or travel.</font>
+  * <font 12px/inherit;;inherit;;inherit>La gente podia sentarse o permanecer de pie en esos carruajes, y las usaban para la guerra o como una forma de transporte.</font>
+  * <font 12px/inherit;;inherit;;inherit>In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.</font>
+  * <font 12px/inherit;;inherit;;inherit>En la guerra, un ejercito con carruajes tenia una gran ventaja en velocidad y mobilidad que aquellos ejercitos que nos los tenian.</font>
 
-  * <font 20px/inherit;;inherit;;inherit>People would sit or stand in chariots, using them for war or travel.</font>
-  * <font 20px/inherit;;inherit;;inherit>La gente podia sentarse o permanecer de pie en esos carruajes, y las usaban para la guerra o como una forma de transporte.</font>
-  * <font 20px/inherit;;inherit;;inherit>In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.</font>
-  * <font 20px/inherit;;inherit;;inherit>En la guerra, un ejercito con carruajes tenia una gran ventaja en velocidad y mobilidad que aquellos ejercitos que nos los tenian.</font>
+===== <font 12px/inherit;;inherit;;inherit>Examples from the Bible stories:</font>     =====
 
-===== <font 20px/inherit;;inherit;;inherit>Examples from the Bible stories:</font>     =====
-
-  * <font 20px/inherit;;inherit;;inherit>** [12-10]]]  ** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their  ** chariots  ** to get stuck.</font>
-  * <font 20px/inherit;;inherit;;inherit>** [45-07]]]  ** As he walked along the road, Philip saw an important official from Ethiopia riding in his  ** chariot  ** .</font>
-
+  * <font 12px/inherit;;inherit;;inherit>** [12-10]]]  ** So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their  ** chariots  ** to get stuck.</font>
+  * <font 12px/inherit;;inherit;;inherit>** [45-07]]]  ** As he walked along the road, Philip saw an important official from Ethiopia riding in his  ** chariot  ** .</font>
 ~~DISCUSSION:off~~
