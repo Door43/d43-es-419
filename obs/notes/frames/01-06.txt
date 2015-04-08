@@ -1,25 +1,20 @@
 ===== God Created the Sun, Moon and Stars [01-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?nolink&}}
 
 On **the fourth day** of creation, **God spoke** and made the sun, the moon, and the stars. **God** made them to give **light** to the earth and to mark **day and night**, **seasons and years**. God saw that what he had **created** was **good**.
 
-===== Important Terms: =====
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el cuarto día de la creación, Dios habló y hizo el sol, la luna, y las estrellas. Dios los hizo para dar luz a la tierra y para marcar el día y la noche, las estaciones y los años. Dios vio que lo que había creado fue bueno.</font>
 
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **the fourth day** - The next in the orderly series of days in which God created.
-  * **God spoke** - God created the sun, moon, and stars by speaking a command.
-  * **light** - Shining objects in the sky now provided light for the earth.
-  * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
-  * **created** - This word is used here in the sense of making something out of nothing.
-
-
+  * **the fourth day**  - The next in the orderly series of days in which God created.
+  * **God spoke**  - God created the sun, moon, and stars by speaking a command.
+  * **light**  - Shining objects in the sky now provided light for the earth.
+  * **day and night, seasons and years**  - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
+  * **created**  - This word is used here in the sense of making something out of nothing.
 **[[:es-419:obs:notes:frames:01-05|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-07|>>]]**
