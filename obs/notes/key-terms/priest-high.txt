@@ -2,13 +2,17 @@
 
 ===== Definition: =====
 
+**Datos:**
+
 The high priest was the leader over all of Israel's priests.
 
-  * The Israelites had many priests, but only one high priest at a time.
+**El alto sacerdote era el lider sobre todos los sacerdotes de Israel.**
+
+   * The Israelites had many priests, but only one high priest at a time.
+  * **Los Israelistas tenian muchos sacerdotes pero uno era el alto a todo tiempo.**
   * The high priest had special responsibilities. He was the only one who was permitted to go into the most holy part of the Temple to offer a special sacrifice once a year.
-
-[See also: **[[es-419:obs:notes:key-terms:priest|priest]]**, **[[es-419:obs:notes:key-terms:temple|Temple]]**]
-
+  * **El alto sacerdote tenia responsabilidades especiales. El era el unico que estaba permitido entrar en la parte mas sagrada del Templo para ofrecer un sacrificio especial una vez al ano.**
+[See also: **[[:es-419:obs:notes:key-terms:priest|priest]]**, **[[:es-419:obs:notes:key-terms:temple|Temple]]**]
 
 ===== Examples from the Bible stories: =====
 
