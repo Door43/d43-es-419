@@ -3,18 +3,19 @@
 ==== (life, live, living, lives, alive) ====
 
 **(vida, vive, viviendo, vidas, vivo**)
-
 ===== Definition: Definicion =====
 
 There are two ways that "life" is used in the Bible–"physical life" and "spiritual life." The types of "life" are similar in some respects, but there are also important differences between them.
 
-**Hay dos maneras de usar  "vida" en la biblia, "vida fisica" y "vida espiritual" Los tipos de "vida" son parecidas en algunos  sentidos,  pero tambien    hay unas differencias entre estas dos**
-
+**Hay dos maneras de usar "vida" en la biblia, "vida fisica" y "vida espiritual" Los tipos de "vida" son parecidas en algunos sentidos, pero tambien hay unas differencias entre estas dos**
 ===   ===
 
   * Physical life is the presence of the spirit in the body. God breathed life into Adam's body, and he became a living being.
+  * **vida fisica es la presencia de el espiritu en el cuerpo. Dios soplo vida en el cuerpo de Adan, y se convirtio en un ser viviente  **
   * A "life" can also refer to an individual person, as in, "several lives were saved".
+  *
   * Sometimes the word "life" refers to the experience of living, as in, "made their lives miserable" or to one's lifespan as in, "toward the end of his life."
+  *
   * To be "living" may refer to being alive or to be residing somewhere.
   * The opposite of "life" is "death."
 
@@ -28,13 +29,11 @@ There are two ways that "life" is used in the Bible–"physical life" and "spiri
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life** into him.
-  ***[[:es-419:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living ** in the world.
-  ***[[:es-419:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  ***[[:es-419:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life** he sinned terribly before God.
-  ***[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  ***[[:es-419:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  ***[[:es-419:obs:notes:frames:44-05|[44-05]]]** "You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
-
-
+  * **[[:es-419:obs:notes:frames:01-10|[01-10]]]** So God took some dirt, formed it into a man, and breathed **life**  into him.
+  * **[[:es-419:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
+  * **[[:es-419:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
+  * **[[:es-419:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
+  * **[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
+  * **[[:es-419:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
+  * **[[:es-419:obs:notes:frames:44-05|[44-05]]]**"You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
 ~~DISCUSSION:off~~
