@@ -1,24 +1,19 @@
 ===== Adam Was Alone [01-12] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?nolink}}
+Then **God** said, “It is **not good** for man to be **alone**.” But none of the animals could be **Adam's helper**.
 
-Then **God** said, “It is **not good** for man to be **alone**.” But none of the animals could be **Adam's helper**. 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “No es bueno que el hombre esté solo.” Pero ninguno de los animales podría ser el ayudador de Adán.</font>
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
   * **[[:es-419:obs:notes:key-terms:adam|Adam's]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **not good** - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
-  * **alone** - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
-  * **Adam's helper** - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
-
-
+  * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
+  * **alone**  - Adam was the only human, with no possibility of a relationship with another person, and unable to reproduce children and multiply.
+  * **Adam's helper**  - There was no one who was similar enough to Adam to join with him to accomplish the task that God gave to him. None of the animals could do this.
 **[[:es-419:obs:notes:frames:01-11|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-13|>>]]**
