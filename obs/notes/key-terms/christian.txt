@@ -1,10 +1,8 @@
-====== <font 14px/inherit;;inherit;;inherit>Christian</font>     ======
+====== **<font 16px/inherit;;inherit;;inherit>Christian    Cristiano</font>    **  ======
 
-<font 14px/inherit;;inherit;;inherit>Cristiano</font>
+<font 16px/inherit;;inherit;;inherit>** Definition:</font>   **
 
-===== <font 14px/inherit;;inherit;;inherit>Definition:</font>     =====
-
-<font 14px/inherit;;inherit;;inherit>Definicion</font>
+**<font 14px/inherit;;inherit;;inherit>Definición:</font>    **
 
 <font 14px/inherit;;inherit;;inherit>After Jesus went back to heaven, people started calling his followers "Christians" because they were followers of Christ, which is another word for "Messiah."</font>
 
