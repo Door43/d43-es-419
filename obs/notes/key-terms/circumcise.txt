@@ -1,20 +1,19 @@
-====== circumcise circuncidar ======
+====== circumcise __//circuncidar//__  ======
 
 ===== Definition: =====
 
-Definicion:
+Definición:
 
 To circumcise someone is to cut off the foreskin of that man or male child.
 
-Circuncidar a alguien es cortar la piel de la punta del miembro viril a un hijo varon.
+**Circuncidar a alguien es cortar la piel de la punta del prepucio de tal hombre o su hijo varón.**
 
-  * God commanded Abraham's family to circumcise every male among his family and servants as a sign of his covenant with them.
-  * Dios ordeno a la familia de Abraham a que circuncidaran a todos los varones y sirvientes como un signo de su pacto con ellos.
+   * God commanded Abraham's family to circumcise every male among his family and servants as a sign of his covenant with them.
+  * **Dios ordenó a la familia de Abraham a que circuncidaran a todos los varones y sirvientes como un signo de su pacto con ellos.**
   * God also commanded Abraham's descendants to continue to do this for every baby boy born into their households.
-  * Dios tambien ordeno a los descendientes de Abraham a que continuaran haciendo esto con cada uno de los ninos que nacieran en sus casas.
-
+  * **Dios tambien ordenó a los descendientes de Abraham a que continuaran haciendo esto con cada uno de los niños que nacieran en sus casas.**
 ===== Examples from the Bible stories: =====
 
-  * **[[[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  * **[[:es-419:obs:notes:key-terms:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
+  * **[[:es-419:obs:notes:key-terms:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
 ~~DISCUSSION:off~~
