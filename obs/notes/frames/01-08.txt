@@ -1,28 +1,23 @@
 ===== God Created the Animals [01-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&}}
 
 On **the sixth day** of creation, **God said**, “Let there be **all kinds** of **land animals**!” And it happened just like God said. Some were **farm animals**, some **crawled on the ground**, and some were **wild**. And God saw that **it was good**.
 
-===== Important Terms: =====
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el sexto día de la creación, Dios dijo, ”!Deje que sea toda clase de animales de la tierra!” Y sucedió justo como Dios dijo. Algunos fueron animales de la granja, algunos se arrastaron sobre el suelo, y algunos fueron selváticos. Y Dios vio que fue bueno</font>
 
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **the sixth day** - The next event in a continuing, orderly progression of days and creative acts.
-  * **God said** - God's spoken word is the means by which the animals were created.
-  * **all kinds** - This indicates a great variety, but also order.
-  * **land animals** - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
-  * **farm animals** - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
-  * **crawled on the ground** - This probably includes reptiles, and possibly the insects.
-  * **wild** - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
-  * **it was good** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-
-
+  * **the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
+  * **God said**  - God's spoken word is the means by which the animals were created.
+  * **all kinds**  - This indicates a great variety, but also order.
+  * **land animals**  - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
+  * **farm animals**  - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
+  * **crawled on the ground**  - This probably includes reptiles, and possibly the insects.
+  * **wild**  - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
+  * **it was good**  - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
 **[[:es-419:obs:notes:frames:01-07|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-09|>>]]**
