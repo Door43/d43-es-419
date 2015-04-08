@@ -1,22 +1,17 @@
 ===== Where Are You? [02-07] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink}}
+Then the man and his wife heard the sound of **God walking** through the garden. They both hid from God. Then God called to the man, “**Where are you**?” **Adam** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
 
-Then the man and his wife heard the sound of **God walking** through the garden. They both hid from God. Then God called to the man, “**Where are you**?” **Adam** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.” 
+<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces el hombre y su esposa escucharon el sonido de Dios caminando por el huerto. Ambos ellos se escondieron de Dios. Entonces, Dios llamó al hombre, “¿Dónde estás?” Adán le respondió “Le escuché caminando en el huerto, y tenía miedo, porque estuve desnudo. Entonces, me escondí.”</font>
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **God walking** - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Where are you?** - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
-
-
+  * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
+  * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
 **[[:es-419:obs:notes:frames:02-06|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-08|>>]]**
