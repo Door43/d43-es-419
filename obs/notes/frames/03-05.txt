@@ -1,7 +1,6 @@
-===== Loading the Boat [03-05] =====
+===== Loading the Boat [03-05] **Cargando el Barco**  =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&}}
 
 **God** also commanded **Noah** and his family to gather enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
 
