@@ -1,21 +1,15 @@
 ===== Isaac Married Rebekah [06-03] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink&}}
 
 **Rebekah** **agreed** to leave her family and go back with the **servant** to **Isaac's** home. Isaac married her as soon as she arrived.
-
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah]]**
   * **[[:es-419:obs:notes:key-terms:servant|servant]]**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac's]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **Rebekah agreed** - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
-
+  * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
+  * **Rebeca aceptó**- A pesar de que los padres de Rebeca arreglaron su matrimonio, ellos no la forzaron a ir a casarse con Isaac.
 **[[:es-419:obs:notes:frames:06-02|<<]] | [[:es-419:obs:notes:06|Up]] | [[:es-419:obs:notes:frames:06-04|>>]]**
