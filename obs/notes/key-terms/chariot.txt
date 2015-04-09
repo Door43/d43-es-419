@@ -1,4 +1,4 @@
-====== chariot //__Carruaje__ //  ======
+====== chariot //__Carruaje__ //f ======
 
 Definition:
 
@@ -6,10 +6,10 @@ Definition:
 
 In ancient times, chariots were lightweight carts with two wheels that were pulled by horses.
 
-<font inherit/inherit;;inherit;;inherit>** En tiempos antiguos, los carruajes eran carretas livianas con dos ruedas jaladas por caballos.  **</font>
+<font inherit/inherit;;inherit;;inherit>** En tiempos antiguos, los carruajes eran carretas livianas con dos ruedas haladas por caballos.  **</font>
 
   * People would sit or stand in chariots, using them for war or travel.
-  * **La gente podia sentarse o permanecer de pie en esos carruajes, y las usaban para la guerra o como una forma de transporte.**
+  * **La gente podia sentarse o permanecer de pie en esos carruajes, y los usaban para la guerra o como una forma de transporte.**
   * In war, an army that had chariots had a great advantage of speed and mobility over an army that did not have chariots.
 
   * **En la guerra, un ejercito con carruajes tenia una gran ventaja en velocidad y mobilidad sobre aquellos ejércitos que nos los tenían.**
