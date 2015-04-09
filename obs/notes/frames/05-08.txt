@@ -1,12 +1,9 @@
 ===== The Sacrifice [05-08] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink}}
-
-When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaac** and laid him on an **altar**. He was about to **kill his son** when **God** said, “**Stop! Do not hurt the boy**! Now I know that **you fear me** because you did not keep **your only son** from me.” 
-
+When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaac** and laid him on an **altar**. He was about to **kill his son** when **God** said, “**Stop! Do not hurt the boy**! Now I know that **you fear me** because you did not keep **your only son** from me.”
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]]**
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]]**
@@ -14,14 +11,17 @@ When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaa
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]]**
   * **[[:es-419:obs:notes:key-terms:altar|altar]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **kill his son** - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **Stop! Do no hurt the boy!** - God protected Isaac and kept Abraham from killing him.
-  * **you fear me** - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
-  * **your only son** - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Isaac and it was through Isaac that God would fulfill his promise.
-
+  * **kill his son**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
+  * **sacrificar a su hijo:  ** Dios no queria un sacrificio humano. Dios queria ver que Abraam le amaba mas que a su propio hijo y que obedeceria a Dios cuando El le pidio que le devolviera el hijo que le habia dado.
+  *
+  * **Stop! Do no hurt the boy!**  - God protected Isaac and kept Abraham from killing him.
+  * **Alto! No lastimes al muchacho!  ** Dios protegio a Issac e impidio que Abraham lo sacrificara.
+  *
+  * **you fear me**  - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
+  * **tu me temes: ** Abraam era temeroso de Dios, lo que incluye respeto y reverencia hacia DIos. Y por medio de todas esa cosas, el obedecia a DIos.
+  *
+  * **your only son**  - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Isaac and it was through Isaac that God would fulfill his promise.
+  * **tu unico hijo: ** Ismael era tambien hijo de Abraam, pero Isaac era el unico hijo de Abraam y Sara. El pacto de Dios era con Isaac, y fue atraves de el que Dios cumplio con su promesa.
 **[[:es-419:obs:notes:frames:05-07|<<]] | [[:es-419:obs:notes:05|Up]] | [[:es-419:obs:notes:frames:05-09|>>]]**
