@@ -1,26 +1,28 @@
-====== truth ======
-
+====== truth verdad ======
 
 ==== (truth, true, truly) ====
 
+==== (verdad, verdadero, verdaderamente) ====
 
 ===== Definition: =====
 
+===== Definición: =====
+
 Something that is "true" matches or conforms to how things really are. "True" things really did or really will happen.
 
-    * True things are real, genuine, actual, rightful, legitimate, or factual.
-    * The truth is an understanding, belief, fact, or statement that is true.
+**Algo que es "verdadero", es conforme con las cosas genuinas. Cosas "verdaderas" pasaron en realidad o van a pasar.**
 
-"True" is the opposite of "false." "Truth" is the opposite of a lie or deception.
-
+   * True things are real, genuine, actual, rightful, legitimate, or factual.
+  * **Cosas verdaderas son reales, genuinas, actuales, justas, legítimas o factuales.**
+  * The truth is an understanding, belief, fact, or statement that is true.
+  * **La verdad es un entendimiento, creencia, dato o una declaración que es verdadera.**"True" is the opposite of "false." "Truth" is the opposite of a lie or deception.
+**"Verdad" es lo contrario de "falso". "Verdad" es lo contrario de una mentira o decepción.**
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
-  ***[[:es-419:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
-  ***[[:es-419:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God." 
-  ***[[:es-419:obs:notes:frames:39-10|[39-10]]]** "I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me." Pilate said, "What is **truth**?"
-
-
+  * **[[:es-419:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
+  * **[[:es-419:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true **  that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  * **[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true **  God.
+  * **[[:es-419:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God."
+  * **[[:es-419:obs:notes:frames:39-10|[39-10]]]**"I have come to earth to tell the **truth**  about God. Everyone who loves the **truth**  listens to me." Pilate said, "What is **truth**?"
 ~~DISCUSSION:off~~
