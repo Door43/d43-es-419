@@ -1,12 +1,9 @@
 ===== Test of Faith [05-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink}}
-
-When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Take Isaac, your only **son**, and **kill him** as a **sacrifice** to me.” Again Abraham **obeyed** God and **prepared to sacrifice** his son. 
-
+When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Take Isaac, your only **son**, and **kill him** as a **sacrifice** to me.” Again Abraham **obeyed** God and **prepared to sacrifice** his son.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
@@ -15,13 +12,14 @@ When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Tak
   * **[[:es-419:obs:notes:key-terms:son|son]]**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]]**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **God tested Abraham's faith** - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
-  * **kill him** - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-  * **prepared to sacrifice** - Abraham got ready to sacrifice his son. God stopped him before he killed his son.
-
+  * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
+  * **Dos puso a prueba la fe de Abram**: Dios queria que Abram mostrara su completa sumision a El, y que el obedeceria cualquier cosa que Dios le pidiera.
+  *
+  * **kill him**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
+  * **matalo:  ** Dios no queria un sacrificio humano. Dios queria ver que Abram le amaba mas que a su hijo, y que obedeceria a Dios ahun cuando Dios le pidio que le devolviera el hijo que le habia dado.
+  *
+  * **prepared to sacrifice**  - Abraham got ready to sacrifice his son. God stopped him before he killed his son.
+  * **preparacion del sacificio: ** Abraham se preparo para sacrificar a su hijo. Dios lo detuvo antes de que sacrificara a su hijo.
 **[[:es-419:obs:notes:frames:05-05|<<]] | [[:es-419:obs:notes:05|Up]] | [[:es-419:obs:notes:frames:05-07|>>]]**
