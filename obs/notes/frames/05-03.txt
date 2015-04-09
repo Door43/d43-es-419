@@ -1,12 +1,9 @@
 ===== God Renewed the Covenant [05-03] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink}}
-
-God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.” 
-
+God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:covenant|covenant]]**
@@ -14,13 +11,14 @@ God said, “I am **God** Almighty. I will make a **covenant** with you.” Then
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]]**
   * **[[:es-419:obs:notes:key-terms:circumcise|circumcise]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **father of many nations** - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
-  * **I will be their God** - Another way to say this is, "I will be the God that they will worship."
-  * **every male in your family** - This could be translated as, "every boy and man in your family." This included Abram's servants and his descendants.
-
+  * **father of many nations**  - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
+  * **padre de muchas naciones: ** Abraam tendria muchos descendientes, y tendrian sus propias tierras y se gobernarian a si mismos. Sus descendientes y muchos otros recordarian que Abraam fue su ancestro y le honrarian.
+  *
+  * **I will be their God**  - Another way to say this is, "I will be the God that they will worship."
+  * **Yo sere su Dios: ** Otra forma de decir esto es: "Yo sere el Dios a quien ellos adoraran".
+  *
+  * **every male in your family**  - This could be translated as, "every boy and man in your family." This included Abram's servants and his descendants.
+  * **cada varon en tu familia: ** Esto puede ser traducido como:  "cada nino y hombre en tu familia". Esto tambien incluia a los descendientes y sirvientes de Abraam.
 **[[:es-419:obs:notes:frames:05-02|<<]] | [[:es-419:obs:notes:05|Up]] | [[:es-419:obs:notes:frames:05-04|>>]]**
