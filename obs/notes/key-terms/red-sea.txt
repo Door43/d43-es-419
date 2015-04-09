@@ -1,23 +1,22 @@
-====== Red Sea ======
+====== Red Sea Mar Rojo ======
 
-
-===== Facts: =====
+===== Facts: Verdades: =====
 
 The Red Sea is a body of water that separates northern Africa from the Arabian Peninsula.
 
-  * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
+**El Mar Rojo es una masa de agua que separa el norte de Africa de la Peninsula Arabica**
+
+   * The Red Sea forms much of the eastern border of Egypt and is to the southwest of the Promised Land.
+  * **El Mar Rojo forma mucho de los limites de Egipto y esta al sur oeste de la Tierra Prometida.**
   * The Red Sea is long and narrow. It is larger than a lake or river, but smaller than an ocean.
+  * **El Mar Rojo es largo y angosto.  Es mas largo que un lago o rio, pero mas pequeno que un oceano.**
   * The Israelites had to cross the Red Sea when they were fleeing from Egypt.
-
-[See also: **[[es-419:obs:notes:key-terms:egypt|Egypt]]**, **[[es-419:obs:notes:key-terms:promised-land|Promised Land]]**]
-
+  * **Los Israelitas tuvieron que cruzar el Mar Rojo cuando huyeron de Egipto.**
+[See also: **[[:es-419:obs:notes:key-terms:egypt|Egypt]]**, **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:es-419:obs:notes:frames:12-04|[12-04]]]**  When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
-  ***[[:es-419:obs:notes:frames:12-05|[12-05]]]**  Then God told Moses, "Tell the people to move toward the **Red Sea**."
-  ***[[:es-419:obs:notes:frames:13-01|[13-01]]]**  After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
-
-
+  * **[[:es-419:obs:notes:frames:12-04|[12-04]]]** When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh's army and the **Red Sea**.
+  * **[[:es-419:obs:notes:frames:12-05|[12-05]]]** Then God told Moses, "Tell the people to move toward the **Red Sea**."
+  * **[[:es-419:obs:notes:frames:13-01|[13-01]]]** After God led the Israelites through the **Red Sea**, he led them through the wilderness to a mountain called Sinai.
 ~~DISCUSSION:off~~
