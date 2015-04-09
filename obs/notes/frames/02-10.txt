@@ -12,4 +12,5 @@
 ==== Translation Notes: ====
 
   * **childbirth very painful**  - Some languages may need to express this as a verb. You could say, "I will cause you to have much more pain when you give birth to children."
+  * **parto muy doloroso: ** En algunos lenguajes tendremos que expresar este termino como un verbo. Podemos decir: "Hare que tengas mucho mas dolor cuando des a luz".
 **[[:es-419:obs:notes:frames:02-09|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-11|>>]]**
