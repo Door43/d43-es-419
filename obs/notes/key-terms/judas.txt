@@ -2,14 +2,19 @@
 
 ===== Facts: =====
 
+**Datos:**
+
 Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
 
-  * Judas managed the apostles' money, but he stole some of it for himself.
+Judas era uno de los doce apostoles de Jesus. **Sin embargo, el traiciono a Jesus con los lideres judios.**
+
+   * Judas managed the apostles' money, but he stole some of it for himself.
+  * **Judas manejo el dinero de los apostoles**, pero el **robo parte para el.**
   * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
+  * **Judas traiciono a Jesus diciendole a los lideres religiosos donde podian arrestar a el.**
   * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
-
-[See also: **[[es-419:obs:notes:key-terms:apostle|apostle]]**, **[[es-419:obs:notes:key-terms:betray|betray]]**, **[[es-419:obs:notes:key-terms:jewish-leaders|religious leaders]]**]
-
+  * **Cuando los lideres religiosos condenaron a Jesus a morir, Judas lamento haber traicionado Jesus, asi que el se mato.**
+[See also: **[[:es-419:obs:notes:key-terms:apostle|apostle]]**, **[[:es-419:obs:notes:key-terms:betray|betray]]**, **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leaders]]**]
 
 ===== Examples from the Bible stories: =====
 
