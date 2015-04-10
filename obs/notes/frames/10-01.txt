@@ -1,13 +1,9 @@
 ===== Let My People Go! [10-01] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
 **Moses** and **Aaron** went **to Pharaoh**. They said, “This is what the **God of Israel** says, ‘**Let my people go**!’” Pharaoh did not **listen to** them. Instead of letting the **Israelites** go free, he forced them to work even harder!
-
-
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]]**
@@ -15,16 +11,14 @@
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **to Pharaoh** – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel** - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go** – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people** - See "my people" in **[[:es-419:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to** – This could be translated as "heed" or, "obey."
-
-
+  * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
+  * **a Faraón: ** Podría ser mas claro decir: "al palacio del Faraón para hablar con él."
+  *
+  * **God of Israel**  - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
+  * **Dios de Israel:**  Esto tambien puede traducirse como: "Dios, que escogio a los Israelitas para que fueran su pueblo", o "Dios, aquel que rige a Israel", o El Dios a quien los Israelitas adoran".
+  * **Let My people go**  – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
+  * **my people**  - See "my people" in **[[:es-419:obs:notes:frames:09-13|[09-13]]]**.
+  * **listen to**  – This could be translated as "heed" or, "obey."
 **[[:es-419:obs:notes:frames:09-15|<<]] | [[:es-419:obs:notes:10|Up]] | [[:es-419:obs:notes:frames:10-02|>>]]**
