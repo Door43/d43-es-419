@@ -1,21 +1,24 @@
-===== The Rainbow [03-16] **El Arcoiris**  =====
+===== The Rainbow [03-16] **El Arcoiris** =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
 **God** then made the first **rainbow** as **a sign of his promise**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
 
-**Dios hizo el primer arcoiris como senal de su promesa.  Cada vez que el arcoiris aparece en el cielo, Dios se acordara de lo que el prometio y asi su gente.**
+**Dios hizo el primer arcoiris como senal de su promesa. Cada vez que el arcoiris aparece en el cielo, Dios se acordara de lo que el prometio y asi su gente.**
 ===== Important Terms: =====
 
 **Terminos Importantes:**
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+   * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **Dios**
   * **[[:es-419:obs:notes:key-terms:promise|promise]]**
+  * **promesa**
 ===== Translation Notes: =====
 
 **Notas Traducidas:**
+
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **arcoiris - Esto es un arco en muchos colores  de luz que a menudo se aparece en el cielo despues de una tormenta de lluvia.**
+  * **arcoiris - Esto es un arco en muchos colores de luz que a menudo se aparece en el cielo despues de una tormenta de lluvia.**
   * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
   * **senal - Una senal es algo (como un objeto o evento) que le da cierto significado o que los puntos de algo no son ciertos o van a pasar.**
   * **as a sign of his promise**  – In some languages it may be better to say, "to show that he had promised."
