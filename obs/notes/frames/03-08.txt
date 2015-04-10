@@ -1,19 +1,18 @@
-===== Safe from the Flood [03-08] =====
+===== Safe from the Flood [03-08] Salvados del Diluvio [03-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&}}
 
 Everything that lived on the dry land **died**, except the people and animals that were in the boat. The boat floated on the water and kept everything inside the boat safe from drowning.
 
+**Toso lo que vivia en la tierra seca murio, excepto la gente y los animales que estaban en el barco. El barco flotaba el agua y mantuvio todo adentro salvo de ahogarse.**
 ===== Important Terms: =====
 
+**Terminos Importantes:**
 
   * **[[:es-419:obs:notes:key-terms:death|died]]**
-
-
+  * **murio**
 ===== Translation Notes: =====
 
-
- * //(There are no notes for this frame.)// 
+* //(There are no notes for this frame.)//
 
 **[[:es-419:obs:notes:frames:03-07|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-09|>>]]**
