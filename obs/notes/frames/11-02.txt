@@ -1,24 +1,19 @@
 ===== The Sacrifice [11-02] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink&}}
 
 **God provided** a way to **save** the firstborn **son** of anyone who **believed** in him. Each family had to choose a **perfect lamb** and kill it.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:save|save]]**
   * **[[:es-419:obs:notes:key-terms:son|son]]**
   * **[[:es-419:obs:notes:key-terms:believe|believed]]**
   * **[[:es-419:obs:notes:key-terms:lamb|lamb]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **God provided** – God is the only one who could provide the way to save the Israelites' sons from death.
-  * **perfect lamb** - That is, "a young sheep or goat that had no blemishes or defects."
-
-
+  * **God provided**  – God is the only one who could provide the way to save the Israelites' sons from death.
+  * **Dios previsto - Dios es el unico que pudo proporcionar el modo de salvar los Israelitas' hijos de muerte. **
+  * **perfect lamb**  - That is, "a young sheep or goat that had no blemishes or defects."
+  * **perfecto**
 **[[:es-419:obs:notes:frames:11-01|<<]] | [[:es-419:obs:notes:11|Up]] | [[:es-419:obs:notes:frames:11-03|>>]]**
