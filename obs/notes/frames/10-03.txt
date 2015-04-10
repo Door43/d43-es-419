@@ -1,22 +1,16 @@
 ===== The Water Became Blood [10-03] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
 **God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:nile-river|Nile River]]**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
+  * **convirtio el Rio Nilo en sangre:**  En algunos idiomas se podría decir: "convirtió las aguas del Río Nilo en sangre". En vez de encontrar agua en el río, había sangre; así que todos los peces murieron y la gente no tenía agua para beber.
 **[[:es-419:obs:notes:frames:10-02|<<]] | [[:es-419:obs:notes:10|Up]] | [[:es-419:obs:notes:frames:10-04|>>]]**
