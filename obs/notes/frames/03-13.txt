@@ -1,22 +1,25 @@
-===== Leaving the Boat [03-13] =====
+===== Leaving the Boat [03-13] **Dejando el Barco [03-13]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink}}
+**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat.
 
-**Two months later** **God** said to **Noah**, “You and your family and all the animals may leave the boat now. **Have many children** and grandchildren and **fill the earth**.” So Noah and his family came out of the boat. 
-
+**Dos meses despues Dios le dijo a Noe, "Tu y tu familia y todos los animales pueden dejar el barco ahora. Tengan muchos ninos y nietos y llenen la tierra."**
 ===== Important Terms: =====
 
+**Terminos Importantes:**
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **Dios**
   * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
-
-
+  * **Noe**
 ===== Translation Notes: =====
 
-
-  * **Two months later** - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
-  * **Have many children** – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
-  * **fill the earth** - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
-
+**Notas Traducidas:**
+  * **Two months later**  - This means two months after Noah released the dove from the ark. It may be necessary to say this explicitly if it is not clear.
+  * **Dos meses despues - Esto significa que dos meses despues Noe libero la paloma del arca. Es necesario decir esto explicitamente por sino no esta claro.**
+  * **Have many children**  – To make sure it is clear that this was God's command and desire, you could say, "You must have many children." or, "I want you to have many children."
+  * **Tengan muchos ninos- Para estar suguro que esto esta claro que esto fue mandado y deseado por Dios**, hay que decir**, "Ustedes deben tener muchos ninos, o, Yo quiero que ustedes tengan muchos ninos."**
+  * **fill the earth**  - If this is not clear, it may be necessary to say, "and fill the earth with people" or, "so that there will be many people living on the earth."
+  * **Llena la tierra-Esto no esta claro, Puede ser necesario decir, "llena la tierra con gente" o "entonces habra mucha gente en la tierra."**
 **[[:es-419:obs:notes:frames:03-12|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-14|>>]]**
