@@ -1,23 +1,27 @@
-===== The Animals Came [03-06] =====
+===== The Animals Came [03-06] Los Animales Vinieron [03-06] =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink}}
+**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**.
 
-**God sent** a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal that could be **used for sacrifices**. When they were all in the boat, **God himself closed the door**. 
-
+**Dios mando un varon y una hembra de cada animal y pajaro a Noe para que pudieran entrar al barco** **y los mantuvieran salvos durante el diluvio. Dios mando siete machos y siete hembras de cada animal para que fueran utilizadas para sacrificios. Cuando ya todos estaban en el barco, Dios mismo cerro la puerta.**
 ===== Important Terms: =====
 
+**Terminos Importantes:**
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **Dios**
   * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
+  * **Noe**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]]**
-
-
+  * **sacrificios**
 ===== Translation Notes: =====
 
-
-  * **God sent** - Noah did not need to find the animals. God sent them to him.
-  * **used for sacrifices** - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  * **God himself closed the door** - This emphasizes that it was God who shut the door.
-
+**Notas Traducidas**
+  * **God sent**  - Noah did not need to find the animals. God sent them to him.
+  * **Dios mando- Noe no necesitaba encontrar a los animales. Dios se los mando a el.**
+  * **used for sacrifices**  - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
+  * **usados para sacrificios - En algunos idiomas puede ser mejor decir, "animales eran aceptados para sacrificio." Dios decidio que la gente deberia sacrificar animales para el, pero el solo le  permitio a ellos ciertas clases de animales.**
+  * **God himself closed the door**  - This emphasizes that it was God who shut the door.
+  * **Dios mismo cerro la muerta - Esto emfatiza que Dios fue el cerro la puerta.**
 **[[:es-419:obs:notes:frames:03-05|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-07|>>]]**
