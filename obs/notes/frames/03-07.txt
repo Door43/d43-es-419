@@ -1,19 +1,22 @@
-===== The Rain Began [03-07] =====
+===== The Rain Began [03-07] **La lluvia comenzo [03-07]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink}}
+Then it began to **rain, and rain, and rain**. It rained for forty days and forty nights without stopping! Water also came gushing up out of the earth. Everything in the **whole world was covered with water**, even the highest mountains.
 
-Then it began to **rain, and rain, and rain**. It rained for forty days and forty nights without stopping! Water also came gushing up out of the earth. Everything in the **whole world was covered with water**, even the highest mountains. 
-
+**Entonces empenzo a llover, y llover, y llover. Lluvio por cuarenta dias y cuarenta noches sin parar! Agua vino efusiva arriba fuera de la tierra. Todo en el mundo estaba cubierto de agua, hasta las montanas mas altas.**
 ===== Important Terms: =====
 
-
+**Terminos Importantes**
 
 ===== Translation Notes: =====
 
+**Notas Traducidas**
 
-  * **rain, and rain, and rain** - This emphasizes that there was an unusual, extreme amount of rain. Other languages may have a different way of emphasizing this.
-  * **gushing** - This indicates that there was a large amount of water coming out.
-  * **whole world was covered** - This refers to all the earth being covered with water from the flood.
-
+  * **rain, and rain, and rain**  - This emphasizes that there was an unusual, extreme amount of rain. Other languages may have a different way of emphasizing this.
+  * **llovio, y llovio, y llovio - Esto emfatiza que habia una extrema cantidad de agua sobre lo usual. Otros idiomas pueden usar una forma diferente deemfatizar esto.**
+  * **gushing**  - This indicates that there was a large amount of water coming out
+  * **efusiva - Esto indica que habia una grande cantidad de agua callendo**.
+  * **whole world was covered**  - This refers to all the earth being covered with water from the flood.
+  * **El mundo entero estaba cubieto - Esto se refiere que toda la tierra estaba cubierta con agua del diluvio.**
 **[[:es-419:obs:notes:frames:03-06|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-08|>>]]**
