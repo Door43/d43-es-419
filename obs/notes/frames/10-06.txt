@@ -1,23 +1,19 @@
 ===== The Animals Died [10-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-06.jpg?nolink&}}
 
 Next, **God** caused all the farm animals that belonged to the **Egyptians** to get sick and die. But **Pharaoh’s heart was hardened**, and he would not let the **Israelites** go.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]]**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh's]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **farm animals** - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
-  * **heart was hardened** - See note in **[[:es-419:obs:notes:frames:10-04|[10-04]]]**.
-
-
+  * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
+  * **ganado: **  Este término se refiere a todos los animales que los Egipcios usaban para su trabajo, tales como: caballos, burros, camellos, vacas, ovejas y cabras.
+  *
+  * **heart was hardened**  - See note in **[[:es-419:obs:notes:frames:10-04|[10-04]]]**.
+  * **su corazón fué endurecido:**  Ver nota en (10-04).
 **[[:es-419:obs:notes:frames:10-05|<<]] | [[:es-419:obs:notes:10|Up]] | [[:es-419:obs:notes:frames:10-07|>>]]**
