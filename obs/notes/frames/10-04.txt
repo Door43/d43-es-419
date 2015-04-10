@@ -1,11 +1,9 @@
 ===== The Frogs [10-04] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-04.jpg?nolink&}}
 
 **God sent frogs all over Egypt**. **Pharaoh begged Moses** to take away the frogs. But after all the frogs died, Pharaoh **hardened his heart** and would not let the **Israelites** leave Egypt.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]]**
@@ -13,13 +11,8 @@
   * **[[:es-419:obs:notes:key-terms:beg|begged]]**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **God sent frogs all over Egypt** - This could be translated as, "God caused many frogs to appear throughout Egypt."
-  * **hardened his heart** - He became stubborn again and refused to obey God.
-
-
+  * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
+  * **hardened his heart**  - He became stubborn again and refused to obey God.
 **[[:es-419:obs:notes:frames:10-03|<<]] | [[:es-419:obs:notes:10|Up]] | [[:es-419:obs:notes:frames:10-05|>>]]**
