@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
 After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
+
+Después de un largo viaje a la tierra donde vivían los parientes de Abraham, Dios guió al siervo a Rebeca. Ella era la nieta del hermano de Abraham.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham's]]**
