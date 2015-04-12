@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&}}
 
 That day **Abraham circumcised all the males in his household**. About a year later, when Abraham was 100 years old and **Sarah** was 90, Sarah gave birth to Abraham's **son**. They named him **Isaac** as **God** had told them to do.
+
+Aquel día Abraham circuncidó a todos los machos en su casa. Aproximádamente un año después, cuando Abraham tenía 100 años de edad y Sarah tenía 90 años, Sarah dio a luz al hijo de Abraham. Le llamaron Isaac como Dios les había dicho.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]]**
