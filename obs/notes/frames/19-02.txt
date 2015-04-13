@@ -1,11 +1,9 @@
 ===== Elijah Rebuked Ahab [19-02] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink&}}
 
 **Elijah** was a **prophet** when **Ahab** was **king** over the **kingdom of Israel**. Ahab was an **evil** man who encouraged people to **worship** a false **god** named **Baal**. Elijah said to Ahab, “There will be no rain or dew in the kingdom of Israel **until I say so**.” **This made Ahab very angry**.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
@@ -16,13 +14,10 @@
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
   * **[[:es-419:obs:notes:key-terms:god-false|god]]**
   * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **until I say so** - This may be translated as, "until I command the rain and dew to come again."
-  * **This made Ahab very angry** – This could be translated as, "When Ahab heard what Elijah said, he became very angry."
-
-
+  * **until I say so**  - This may be translated as, "until I command the rain and dew to come again."
+  * **hasta que Yo diga - Esto se puede traducir como, "hasta que Yo comande la lluvia y el rocio otra vez"**
+  * **This made Ahab very angry**  – This could be translated as, "When Ahab heard what Elijah said, he became very angry
+  * **Esto hizo que Ahab cojiera mucho coraje-Esto se puede traducir como, "Cuando Ahab oyo que Elias dijo, le dio mucho coraje**
 **[[:es-419:obs:notes:frames:19-01|<<]] | [[:es-419:obs:notes:19|Up]] | [[:es-419:obs:notes:frames:19-03|>>]]**
