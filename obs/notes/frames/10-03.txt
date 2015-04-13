@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
 **God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
+
+Dios convirtió el río Nilo en sangre, pero el Faraón todavía no dejaría ir a los israelitas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
