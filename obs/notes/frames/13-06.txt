@@ -1,9 +1,11 @@
 ===== More Commandments [13-06] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?nolink&}}
 
 “**Honor** your father and your mother. Do not murder. **Do not commit adultery**. **Do not steal**. **Do not lie**. Do not desire to have your neighbor’s wife, his house, or anything that belongs to him.”
+
+Honren a su padre y a su madre. No maten. No cometan adulterio. No roben. No mientan. No codicien a la esposa de su vecino, su casa, ni cualquier otra cosa que le pertenece.
+
 ===== Important Terms: =====
 
 
