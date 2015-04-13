@@ -4,30 +4,34 @@
 
 On **the sixth day** of creation, **God said**, “Let there be **all kinds** of **land animals**!” And it happened just like God said. Some were **farm animals**, some **crawled on the ground**, and some were **wild**. And God saw that **it was good**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el sexto día de la creación, Dios dijo, ”!Deje que sea toda clase de animales de la tierra!” Y sucedió justo como Dios dijo. Algunos fueron animales de la granja, algunos se arrastaron sobre el suelo, y algunos fueron selváticos. Y Dios vio que fue bueno</font>
+Al sexto día de la creación, Dios dijo, "Que haya todo tipo de animales en la tierra!" Y así fué. Algunos eran animales de campo, algunos se arrastraban por el piso y algunos eran salvajes. Y Dios vió que era bueno.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
-==== On **the sixth day** of creation, **God said**, “Let there be **all kinds** of **land animals**!” And it happened just like God said. Some were **farm animals**, some **crawled on the ground**, and some were **wild**. And God saw that **it was good**. ====
+  * **__[[:es:obs:notes:key-terms:god|
+God
+
+</font> ]]__**
+  * **__[[:es:obs:notes:key-terms:good|
+good
+
+</font> ]]__**
 
 ==== Translation Notes: ====
 
   * **the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
-  * **el sexto día - El próximo evento en una progresión ordenada de días y actos creativos.**
+  * **el sexto día - El próximo evento en una progresión continua y ordenada de dias y actos creativos.**
   * **God said**  - God's spoken word is the means by which the animals were created.
-  * **Dios dijo - La palabra verbalizada es el medio por el cual los animales fueron creados.**
+  * **Dios díjo - La palabra verbal de Dios es el medio por el cual los animales fueron creados.**
   * **all kinds**  - This indicates a great variety, but also order.
-  * **todo tipo - Esto indica una gran variedad, pero también orden.**
+  * todo tipo - Esto indica una gran variedad pero también.
   * **land animals**  - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
-  * **animales de la tierra - Todo tipo de animal que vivía en la tierra, opuesto a los pájaros, o animales que vivían en los mares.**
   * **farm animals**  - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
-  * **animales de campo - Los tipos de animals de la tierra que normalmente convivían en paz con los humans<font inherit/inherit;;inherit;;inherit>–</font>    <font inherit/inherit;;inherit;;inherit>animales domesticados.</font>    **
-  * **crawled on the ground**  - This probably includes reptiles, and possibly the insects.
-  * **se arrestraban por el piso - Esto probablemente incluye reptiles e los insectos.**
-  * **wild**  - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
-  * **salvaje - Los tipos de animales que normalmente no conviven en paz con humanos porque usualmente les tienen miedo o porque son peligrosos para los humanos.**
-  * **it was good**  - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-  * **era bueno - Esta frase se repite a través del proceso de la creación para mostrar que cada cada etapa y que cumplía con el sabio plan y propósito de Dios.**
-**[[:es-419:obs:notes:frames:01-07|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-09|>>]]**
+  * <font inherit/inherit;;inherit;;inherit>** crawled on the ground ** - This probably includes reptiles, and possibly the insects.</font>
+  * <font inherit/inherit;;inherit;;inherit>** se arrestraban por el piso - Esto probablemente incluye reptiles y posiblemente insectos. **</font>
+  * <font inherit/inherit;;inherit;;inherit>** wild ** - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.</font>
+  * <font inherit/inherit;;inherit;;inherit>** salvaje - Los tipos de animales que normalmente no conviven en paz con humanos porque generalmente les tienen miedo o porque son peligrosos para los humanos. **</font>
+  * <font inherit/inherit;;inherit;;inherit>** it was good ** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.</font>
+  * <font inherit/inherit;;inherit;;inherit>** era bueno - Esta frase se repite a través del proceso de la creación para mostrar que cada etapa cumplía exactamente con el sabio plan y propósito de Dios. **</font>
+
+<font inherit/inherit;;inherit;;inherit>** <<]] | Up]] | >>]] **</font>
