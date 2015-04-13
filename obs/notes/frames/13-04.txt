@@ -1,9 +1,11 @@
 ===== I Am Your God [13-04] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
 **Then God gave them the covenant and said**, “I am **Yahweh**, **your God**, **who saved you from slavery** in **Egypt**. Do not **worship** other **gods**.”
+
+Entonces, Dios les dio el pacto y les dijo, “Yo Soy Jehovah, su Dios, Quien les salvó de la esclavitud en Egipto. No adoren otros dioses.”
+
 ===== Important Terms: =====
 
 
