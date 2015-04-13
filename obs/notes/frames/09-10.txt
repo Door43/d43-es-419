@@ -1,9 +1,11 @@
 ===== Moses Fled from Egypt [09-10] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
 When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
+
+Cuando el Faraón oyó lo que Moises hubo hecho, él intentó matarlo. Moises se fugó de Egipto al desierto donde él estaría seguro de los soldados del Faraón.
+
 ===== Important Terms: =====
 
 
