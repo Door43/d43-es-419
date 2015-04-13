@@ -1,11 +1,9 @@
 ===== Elijah Challenged Ahab [19-05] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&}}
 
 After three and a half years, **God** told **Elijah** to return to the **kingdom of Israel** and **speak with Ahab because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” Elijah replied to him, “You are the troublemaker! **You have abandoned Yahweh**, the true God, and **worshiped Baal**. Bring all the people of the kingdom of Israel to **Mount Carmel**.”
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
@@ -14,15 +12,13 @@ After three and a half years, **God** told **Elijah** to return to the **kingdom
   * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]]**
   * **[[:es-419:obs:notes:key-terms:worship|worshiped]]**
   * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **speak with Ahab because he was going to send** – This could be translated as, "tell Ahab that God was going to send."
-  * **you troublemaker** - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain.
-  * **You have abandoned Yahweh** - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.
-  * **Mount Carmel** - Mount Carmel is the name of a mountain located in northern Israel. It is over 500 meters high.
-
-
+  * **speak with Ahab because he was going to send**  – This could be translated as, "tell Ahab that God was going to send."
+  * **hablar con Ahab porque el iba a mandar - Esto se puede traducir como, "dile a Ahab que Dios va a mandar."**
+  * **you troublemaker**  - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain.
+  * **tu agitador - Esto significa ,"Tu eres un agitador!" Ahab estaba acusando a Elias por causar problemas y decir al rey que el estaba haciendo mal y tambien por parar la lluvia.**
+  * **You have abandoned Yahweh**  - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.
+  * **Tu has abandonado a Jesus - **
+  * **Mount Carmel**  - Mount Carmel is the name of a mountain located in northern Israel. It is over 500 meters high.
 **[[:es-419:obs:notes:frames:19-04|<<]] | [[:es-419:obs:notes:19|Up]] | [[:es-419:obs:notes:frames:19-06|>>]]**
