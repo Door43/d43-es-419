@@ -1,4 +1,4 @@
-====== crucify /__/crucificar//__  ======
+====== crucify  crucificar ======
 
 ===== Definition: =====
 
@@ -11,11 +11,11 @@ To crucify someone is to tie him or hang him to a cross and leave him there to s
    * People who were crucified died from either blood loss or suffocation.
   * **Las personas crucificadas morían desangrados o asfixiados.**
   * Crucifixion was a common method that the Roman Empire used to execute the worst criminals or people who had rebelled against the authority of Rome.
-  * **La crucifición fue un método común de castigo que el Imperio Romano usó para matar a los peores criminales, o a gente que se rebelaba a la autoridad de Roma.**
+  * **La crucifición fue un método común de castigo que el Imperio Romano usó para ejecutar los peores criminales, o a gente que se rebelaba a la autoridad de Roma.**
   * The Roman Empire used professional executioners to crucify people. These executioners made crucifixions as long and as painful as possible.
   * **El imperio Romano usaba verdugos profesionales para crucificar a la gente. Estas ejecuciones las hacían tan largas y dolorosas como les fuera posible.**
   * During the time of Jesus, Rome ruled the Jews and did not allow them to execute a criminal. When the Jewish religious leaders wanted to kill Jesus, they had to ask the Roman governor to order his soldiers to crucify Jesus.
-  * **Durante el tiempo de Jesús, Roma gobernaba a los Judíos y no les permitía ejecutar a criminales. Cuando los líderes Judíos quisieron matar a Jesús, tuvieron que pedir al gobernador Romano que diera órdenes a sus soldados para que lo crucificaran.**
+  * **Durante el tiempo de Jesús, Roma gobernaba a los Judíos y no les permitía ejecutar a criminales. Cuando los líderes regioaos Judíos quisieron matar a Jesús, tuvieron que pedir al gobernador Romano que diera órdenes a sus soldados para que lo crucificaran.**
   * The Romans crucified Jesus by nailing him to a cross. He suffered for six hours, and then died.
   * **Los Romanos crucificaron a Jesús clavándolo a una cruz. El sufrió por seis horas hasta que finalmente murió.**
 [See also: **[[:es-419:obs:notes:key-terms:cross|cross]]**, **[[:es-419:obs:notes:key-terms:rome|Roman Empire]]**]
