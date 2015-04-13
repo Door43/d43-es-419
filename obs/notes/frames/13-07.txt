@@ -1,9 +1,11 @@
 ===== The Stone Tablets [13-07] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
 Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
+
+Entonces, Dios escribió los diez mandamientos en dos tablas de piedra y las dio a Moisés. Dios también, les dio muchas otras leyes y reglas para seguir. Si la gente obedeciera estas leyes, Dios les prometió que les bendeciría. Si las desobediciera, Dios les castigaría.
+
 ===== Important Terms: =====
 
 
