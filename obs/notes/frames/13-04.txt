@@ -8,7 +8,6 @@ Entonces, Dios les dio el pacto y les dijo, “Yo Soy Jehovah, su Dios, Quien le
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:covenant|covenant]]**
   * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]]**
@@ -17,14 +16,12 @@ Entonces, Dios les dio el pacto y les dijo, “Yo Soy Jehovah, su Dios, Quien le
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]]**
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
   * **[[:es-419:obs:notes:key-terms:god-false|gods]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
-
-
+  * **Then God gave them the covenant and said**  - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
+  * **Después Dios les dió el pacto y dijo - Lo que Dios dice después es el contenido del pacto, es decir, El le dice al pueblo las cosas que tienen que obedecer. Esto puede ser traducido como, "Después Dios les dijo Su pacto, El dijo" o "Después Dios hizo este pacto con ellos".**
+  * **Yahweh your God**  - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
+  * **Jehová tu Dios - En algunos idiomas puede ser más natural el cambiar el orden y decir "tu Dios Jehová". Asegúrate que no suene como los israelitas tenían más deun Dios. Debe de ser claro que Jehová era el único Dios. Otra manera de traducir esto sería, "Jehová, que es tu Dios" o "tu Dios, quien se llama Jehová".**
+  * **who saved you from slavery**  - This could be translated as, "I freed you from slavery."
+  * **quien te libré de la esclavitud - Esto puede ser traducido como, "Te libré de la esclavitud".**
 **[[:es-419:obs:notes:frames:13-03|<<]] | [[:es-419:obs:notes:13|Up]] | [[:es-419:obs:notes:frames:13-05|>>]]**
