@@ -1,9 +1,11 @@
 ===== Moses Killed an Egyptian [09-09] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
 When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
+
+Cuando Moises pensó que nadie le vería, él mató al Egipcio y enteró su cuerpo. Pero alguien vio lo que Moises hizo.
+
 ===== Important Terms: =====
 
 
