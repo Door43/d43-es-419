@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-10.jpg?nolink&}}
 
 The **kingdoms** of **Judah** and **Israel** became enemies and often fought against each other.
+
+Los reinos de Judá e Israel se convirtieron en enemigos y, a menudo lucharon unos contra otros.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:kingdom|kingdoms]]**
