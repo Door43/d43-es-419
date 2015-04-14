@@ -1,8 +1,8 @@
-====== disobey- desobedecer ======
+====== disobey- desobedecer p ======
 
 ===== Definition: =====
 
-**Definición:**
+===== Definición: =====
 
 There are several ways to disobey someone.
 
@@ -11,12 +11,12 @@ There are several ways to disobey someone.
    * It is possible to disobey by refusing or failing to do something that was commanded.
   * **Es posible desobedecer si se rehusa o falla en hacer algo que fue asignado a hacer**.
   * We can also disobey by doing something that was prohibited.
-  * **Podemos también desobedecer cuando hacemos algo que  fue prohibido**.
+  * **Podemos también desobedecer cuando hacemos algo que fue prohibido**.
   * And we can disobey by doing something differently than we were instructed.
-  * **Podemos desobedecer cuando se hace algo diferente a lo que se  dijo que se hiciera.**
+  * **Podemos desobedecer cuando se hace algo diferente a lo que se dijo que se hiciera.**
 To "disobey" is the opposite of to "obey."
 
-**"desobedecer"  es lo contrario de "obedecer"**
+**"desobedecer" es lo contrario de "obedecer"**
 
 [See also: **[[:es-419:obs:notes:key-terms:evil|evil]]**, **[[:es-419:obs:notes:key-terms:sin|sin]]**, **[[:es-419:obs:notes:key-terms:obey|obey]]**]
 
