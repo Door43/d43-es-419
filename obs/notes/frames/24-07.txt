@@ -1,8 +1,11 @@
 ===== John Baptized Jesus [24-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?nolink&}}
 
 **John** said to **Jesus**, “**I am not worthy to baptize you**. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” So John baptized him, even though Jesus had never **sinned**.
+
+Juan le dijo a Jesús: “Yo no soy digno de bautizar a usted. Usted me debe bautizar en su lugar.” Pero Jesús dijo: “Usted me bautizaría, porque es la cosa justa.” Así, Juan lo bautizó, a pesar de que Jesús nunca había pecado.
+
 ===== Important Terms: =====
 
 
