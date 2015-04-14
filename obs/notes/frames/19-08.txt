@@ -1,24 +1,21 @@
 ===== Baal Did Not Answer [19-08] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink&}}
 
 Then the **prophets** of **Baal prayed to Baal**, “Hear us, Baal!” All day long they prayed and **shouted** and even **cut themselves with knives**, but **there was no answer**.
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
   * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
   * **[[:es-419:obs:notes:key-terms:pray|prayed]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **prayed to Baal** - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
-  * **shouted** - They yelled or called out loudly to Baal.
-  * **cut themselves with knives** - They injured themselves with knives as an extreme way to show their devotion to Baal, hoping that this would persuade him to listen to them.
-  * **there was no answer** - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
-
-
+  * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
+  * **ore a Baal - los profeta**s de Baal preguntaron a Baal que mandara **fuego sobre el toro que prepararon como sacrificio.**
+  * **shouted**  - They yelled or called out loudly to Baal.
+  * **Grito - Ellos gritaron o llamaron bien alto a Baal.**
+  * **cut themselves with knives**  - They injured themselves with knives as an extreme way to show their devotion to Baal, hoping that this would persuade him to listen to them.
+  * **se cortaron ellos mismos con cuchillos  - Ellos mismos se hirieron con cuchillos en una forma extrema para ensenar su devocion por Baal, con la esperanza que eso iba a persuadirlo a el para escucharlos.**
+  * **there was no answer**  - There was no response of any kind to their shouting, and no fire came to burn up the sacrifice.
+  * **no hubo respuesta - No hubo respuesta  de niguna clase por sus gritos, y ningun fuego quemo el sacrificio.**
 **[[:es-419:obs:notes:frames:19-07|<<]] | [[:es-419:obs:notes:19|Up]] | [[:es-419:obs:notes:frames:19-09|>>]]**
