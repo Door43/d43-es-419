@@ -1,11 +1,9 @@
 ===== Jeremiah Suffered for God [19-17] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?nolink&}}
 
 Most of the time, the people did not **obey God**. They often mistreated the **prophets** and sometimes even killed them. Once, the prophet **Jeremiah** was put into a **dry well** and left there to die. He sank down into the mud that was in the bottom of the well, but then the **king had mercy on him** and ordered his servants to pull Jeremiah out of the well before he died.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:obey|obey]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
@@ -13,13 +11,10 @@ Most of the time, the people did not **obey God**. They often mistreated the **p
   * **[[:es-419:obs:notes:key-terms:jeremiah|Jeremiah]]**
   * **[[:es-419:obs:notes:key-terms:king|king]]**
   * **[[:es-419:obs:notes:key-terms:mercy|mercy]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **dry well** - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, "empty well."
-  * **had mercy on him** – This means he was kind to Jeremiah and helped him.
-
-
+  * **dry well**  - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, "empty well."
+  * **pozo seco - El pozo actualmente no tenia agua en el, pero ****todav**ia habia **fango en el fondo. ** Esto **se puede traducir como, "pozo vacio."**
+  * **had mercy on him**  – This means he was kind to Jeremiah and helped him.
+  * **ten misericordia en el - Esto significa que era noble con Jeremias y lo ayudo.**
 **[[:es-419:obs:notes:frames:19-16|<<]] | [[:es-419:obs:notes:19|Up]] | [[:es-419:obs:notes:frames:19-18|>>]]**
