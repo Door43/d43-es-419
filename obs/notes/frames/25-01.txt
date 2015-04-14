@@ -1,8 +1,11 @@
 ===== Satan Tempted Jesus [25-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
 Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
+
+Inmediatamente después de que Jesús fue bautizado, el Espíritu Santo lo llevó al desierto, donde ayunó durante cuarenta días y cuarenta noches. Entonces, Satanás se acercó a Jesús y le tentó a pecar.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
