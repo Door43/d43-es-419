@@ -1,8 +1,11 @@
 ===== Joseph Married Mary [23-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-03.jpg?nolink&}}
 
 So **Joseph** married **Mary** and took her home as his wife, but **he did not sleep with her** until she had given birth.
+
+Entonces, José se casó con María y la llevó a casa como su esposa, pero él no durmió con ella hasta que ella había dado a luz.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/joseph-nt|Joseph]]**
