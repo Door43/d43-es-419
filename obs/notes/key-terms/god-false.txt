@@ -1,26 +1,28 @@
-God God
 
+
+**God //__Dios__ // **
 ==== (god, gods) ====
+
+(dios, dioses)
 
 ===== Definition: =====
 
-Definicion:
+Definición:
 
 A god is something that people worship because they believe it has great power to affect their lives.
 
-Un dios es algo que la gente adora porque creen que posee un gran poder que puede afectar sus vidas.
+**Un dios es algo a lo que la gente rinde culto porque creen que posee un gran poder que puede afectar sus vidas.**
 
-  * When god is written with a small 'g,' it refers to a false god.
-  * Cuando la palabra "dios" se escribe con "g" minuscula, se refiere a un dios falso.
+   * When god is written with a small 'g,' it refers to a false god.
+  * **Cuando la palabra "dios" se escribe con "g" minuscula, se refiere a un dios falso.**
   * When God is written with a capital 'G,' it refers to the one and only true God.
-  * Cuando la palabra Dios se escribe con "G" mayuscula, se refiere al unico y verdadero Dios.
+  * **Cuando la palabra Dios se escribe con "G" mayúscula, se refiere al único y verdadero Dios.**
   * These "gods" do not exist. Yahweh is the only God, and he has no rival.
-  * Estos "dioses" no existen. Yahweh es el unico Dios y no tiene rivales.
+  * **Estos "dioses" no existen. Jehová es el único Dios y no tiene rivales.**
   * People sometimes make idols as symbols of their false gods.
-  * A veces la gente hace idolos como simbolos de sus falsos dioses.
+  * **A veces la gente hace idolos como símbolos de sus falsos dioses.**
   * Demons often deceive people into believing that these false gods and their idols have power.
-  * Los demonios enganan continuamente a la gente haciendoles creer que estos dioses falsos y sus idolos tienen algun poder.
-
+  * **Los demonios engañan contínuamente a la gente haciéndoles creer que estos dioses falsos y sus ídolos tienen algún poder.**
 [See also: **[[:es-419:obs:notes:key-terms:god|God]]**, **[[:es-419:obs:notes:key-terms:idol|idol]]**, **[[:es-419:obs:notes:key-terms:demon|demon]]**]
 
 ===== Examples from the Bible stories: =====
@@ -31,3 +33,4 @@ Un dios es algo que la gente adora porque creen que posee un gran poder que pued
   * **[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
   * **[[:es-419:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
 ~~DISCUSSION:off~~
+
