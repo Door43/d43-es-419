@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-01.jpg?nolink&}}
 
 **Throughout the history of** the **Israelites**, **God** sent them **prophets**. The prophets heard messages from God and then told the people God’s messages.
+
+A lo largo de la historia de los israelitas, Dios les envió profetas. Los profetas escucharon mensajes de Dios y luego dijeron a la gente los mensajes de Dios.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
