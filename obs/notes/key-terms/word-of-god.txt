@@ -1,9 +1,11 @@
-**word of God palabra de Dios**//__Italic Text__//p
 
+
+**word of God palabra de Dios, p**
 ==== (word of God, God's word, scripture, Word of God) ====
 
-****(palabra de Dios, palabra de Dios, escritura, Palabra de Dios)**
-**===== Definition: =====
+(palabra de Dios, palabra de Dios, escritura, Palabra de Dios)
+
+===== Definition: =====
 
 The "word of God" refers to all that God has said to people. Usually it refers to his written message, also known as the "scriptures."
 
@@ -30,3 +32,4 @@ The "word of God" refers to all that God has said to people. Usually it refers t
   * **[[:es-419:obs:notes:frames:48-12|[48-12]]]** But Jesus is the greatest prophet of all. He is the **Word of God**.
   * **[[:es-419:obs:notes:frames:49-18|[49-18]]]** God tells you to pray, to study his **word**, to worship him with other Christians, and to tell others what he has done for you.
 ~~DISCUSSION:off~~
+
