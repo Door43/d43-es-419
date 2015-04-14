@@ -1,9 +1,11 @@
 ===== Mary and Elizabeth [22-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&}}
 
 Soon after the **angel** spoke to **Mary**, she went and visited **Elizabeth**. **As soon as Elizabeth heard Mary’s greeting**, Elizabeth’s **baby jumped inside her**. The women rejoiced together about **what God had done for them**. After Mary visited Elizabeth for three months, Mary returned home.
+
+Poco después de que el ángel habló a María, ella fue y visitó a Elizabeth. En cuanto Isabel oyó el saludo de María, el bebé de Elizabeth saltó dentro de ella. Las mujeres se regocijaron juntos acerca de lo que Dios había hecho por ellas. Después de estar María con Isabel por tres meses, María regresó a su casa.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/angel|angel]]**
