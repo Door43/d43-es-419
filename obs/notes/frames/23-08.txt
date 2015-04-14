@@ -1,8 +1,11 @@
 ===== The Shepherds Visited Jesus [23-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-08.jpg?nolink&}}
 
 The **shepherds** soon arrived at the place where **Jesus** was and they found him lying in a feeding trough, just as the **angel** had told them. They were very excited. **Mary** was very happy, too. The shepherds returned to the fields where their sheep were, **praising God** for **all they had heard and seen**.
+
+Los pastores pronto llegaron al lugar donde estaba Jesús y lo encontraron acostado en un pesebre, al igual que el ángel les había dicho. Ellos estaban muy emocionados. María era muy feliz, también. Los pastores se volvieron a los campos donde sus ovejas estaban, alabando a Dios por todo lo que habían oído y visto.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/shepherd|shepherds]]**
