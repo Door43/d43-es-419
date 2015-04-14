@@ -1,8 +1,11 @@
 ===== A Baptism of Repentance [24-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
 When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
+
+Cuando la gente oyó el mensaje de Juan, muchos de ellos se arrepintieron de sus pecados y Juan los bautizaba. Muchos líderes religiosos también, llegaron a ser bautizados por Juan, pero no se arrepintieron ni confesaron sus pecados.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/john-baptist|John's]]**
