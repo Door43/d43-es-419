@@ -1,33 +1,26 @@
-====== descendant- descendiente ======
+====== descendant- descendiente p ======
 
 ===== Definition: =====
 
-**Definicion**:
+===== Definición: =====
 
 A descendant is someone who is a direct blood relative of someone else further back in history.
 
-**Un descendiente es alguien que es un familiar directo de alguien en el pasado**.
+**Un descendiente es alguien que es un familiar directo, de sangre o biológico de alguien en el pasado**.
 
    * For example, Abraham was a descendant of Noah.
-  * **Por ejemplo, Abran era descendiente de Noe.**
+  * **Por ejemplo, Abraham era descendiente de Noé.**
   * A person's descendants would be his children, grandchildren, great-great-grandchildren, etc.
-  * **El descendiente de una persona serian sus hijos, nietos, bis-nietos,etc.**
+  * **El descendiente de una ser persona ser****ían** **sus hijos, nietos, bisnietos, etc.**
 ===== Examples from the Bible stories: =====
 
 **Ejemplos de historias de la Biblia:**
 
-  * **[[:es-419:obs:notes:frames:02-09|[02-09]]]**"The woman's **descendant**  will crush your head, and you will wound his heel."
-  * **"Los descendientes de la mujer aplastaran tu cabeza, y tu heriras su tobillo"**
-  * **[[:es-419:obs:notes:frames:04-09|[04-09]]]**"I give the land of Canaan to your **descendants**."
-  * **"Le dare la tierra de Canaan a tus descendientes."**
-  * **[[:es-419:obs:notes:frames:05-10|[05-10]]]**"Your **descendants**  will be more than the stars in the sky."
-  * **"Tus descendientes seran mas que las estrellas en los cielos."**
+  * **[[:es-419:obs:notes:frames:02-09|[02-09]]]**"The woman's **descendant**  will crush your head, and you will wound his heel.
+  * **[[:es-419:obs:notes:frames:04-09|[04-09]]]**"I give the land of Canaan to your **descendants**.
+  * **[[:es-419:obs:notes:frames:05-10|[05-10]]]**"Your **descendants**  will be more than the stars in the sky.
   * **[[:es-419:obs:notes:frames:17-07|[17-07]]]**"Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  * **"¡Alguien de tu familia siempre gobernara como rey sobre Israel, y el Mesias sera uno de tus descendientes!"**
   * **[[:es-419:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants**  of David.
-  * **Los reyes de Juda eran descendientes de David.**
   * **[[:es-419:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  * **Dios le prometio al Rey David que el Mesías seria uno de los descendientes de David.**
-  * **[[:es-419:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant**  of David.
-  * **Dios le prometio a David que el Mesías seria uno de sus descendientes. Jesus, el Mesías,fue ese descendiente especial de David**.
+  * **[[:es-419:obs:notes:frames:48-13|[48-13]]]** <font inherit/inherit;;inherit;;inherit>God promised David that the Messiah would be one of his</font> **descendants** <font inherit/inherit;;inherit;;inherit>. Jesus, the Messiah, was that special</font> **descendant** <font inherit/inherit;;inherit;;inherit>of David.</font>
 ~~DISCUSSION:off~~
