@@ -1,11 +1,9 @@
 ===== Judah Was Unfaithful [18-13] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-18-13.jpg?nolink&}}
 
 The **kings** of **Judah** were **descendants** of **David**. Some of these kings were **good** men who **ruled justly** and **worshiped God**. But most of Judah’s kings were **evil**, **corrupt**, and they worshiped **idols**. Some of the kings even **sacrificed** their children to false **gods**. Most of the people of Judah also **rebelled** against God and worshiped other gods.
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:king|kings]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|Judah]]**
@@ -20,12 +18,14 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrificed]]**
   * **[[:es-419:obs:notes:key-terms:god-false|gods]]**
   * **[[:es-419:obs:notes:key-terms:rebel|rebelled]]**
-
-
 ==== Translation Notes: ====
 
   * **ruled justly**  - This means they ruled according to God's laws. This can be translated as, "when they ruled, they did what was right."
-  * **corrupt**  - This can be translated as, "did what was wrong in order to get whatever they wanted."
+  * **goberno con justicia - Esto significa que gobernaron de acuerdo  **a las reglas de Dios. Esto se puede traducir como, "que cuando gobernaron hicieron lo que era correcto."** **
+  * **corrupt**  - This can be translated as, "did what was wrong in order to get whatever they wanted.
+  * **corrucpto - Esto se puede traducir como, "hice lo que era incorrecto en orden de obtener lo que ellos querian.**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estas referencias pueden estar un poco diferentes en algunas traducciones de la Biblia.**
+  *
   * //Una historia de la Biblia de: 1 Reyes 1-6; 11-12//
 **[[:es-419:obs:notes:frames:18-12|<<]] | [[:es-419:obs:notes:18|Up]] | [[:es-419:obs:notes:frames:19-01|>>]]**
