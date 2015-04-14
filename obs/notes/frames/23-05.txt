@@ -1,8 +1,11 @@
 ===== The Birth of Jesus [23-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
 When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
+
+Cuando llegaron a Belén, no había lugar para quedarse. La única habitación que pudieron encontrar fue un lugar donde permanecían los animales. El bebé nació allí y su madre lo acostó en un pesebre, porque no tenían una cama para él. Le pusieron por nombre Jesús.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/bethlehem|Bethlehem]]**
