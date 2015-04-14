@@ -1,4 +1,4 @@
-<font inherit/inherit;;inherit;;inherit>god,  __  // gods p //  __</font>
+<font 14px/inherit;;inherit;;inherit>god,  __  // gods p  //  __</font>
 
 (dios, dioses)
 
@@ -20,12 +20,12 @@ A god is something that people worship because they believe it has great power t
   * **A veces la gente hace idolos como símbolos de sus falsos dioses.**
   * Demons often deceive people into believing that these false gods and their idols have power.
   * **Los demonios engañan contínuamente a la gente haciéndoles creer que estos dioses falsos y sus ídolos tienen algún poder.**
-[See also: **[[:es-419:obs:notes:key-terms:god|Dios Dios F]]**, **[[:es-419:obs:notes:key-terms:idol|idol idolo]]**, **[[:es-419:obs:notes:key-terms:demon|demon demonio F]]**]
+[See also: **[[Dios Dios F]]**, **[[idol idolo]]**, **[[demon demonio F]]**]
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:es-419:obs:notes:key-terms:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
-  * **[[:es-419:obs:notes:key-terms:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
-  * **[[:es-419:obs:notes:key-terms:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
-  * **[[:es-419:obs:notes:key-terms:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
-  * **[[:es-419:obs:notes:key-terms:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+  * **[[[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
+  * **[[[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
+  * **[[[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
+  * **[[[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
+  * **[[[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
