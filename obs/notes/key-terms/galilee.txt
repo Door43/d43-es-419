@@ -1,4 +1,4 @@
-====== Galilee ======
+====== Galilee **Galilea**  ======
 
 Galilea
 
@@ -8,13 +8,12 @@ Datos:
 
 Galilee is the most northern part of Israel, farther north than Samaria.
 
-Galilea es el area mas al Norte de Israel, mas al Norte que Samaria.
+Galilea es el area mas al Norte de Israel, mas** lejos** al Norte de Samaria.
 
-  * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
-  * Galilea esta delimitada al Este por un lago grande llamado " el Mar de Galilea."
+   * Galilee is bordered on the east by a large lake called "the Sea of Galilee."
+  * **Galilea esta bordeada en el este por un lago largo llamado "el Mar de Galilea."**
   * Jesus grew up and lived in the town of Nazareth in Galilee.
-  * Jesus crecio y vivio en el pueblo de Nazareth en Galilea.
-
+  * **Jesus crecio y vivio en una ciudad de Nazaret en Galilea.**
 [See also: **[[:es-419:obs:notes:key-terms:samaria|Samaria]]**, **[[:es-419:obs:notes:key-terms:nazareth|Nazareth]]**]
 
 ===== Examples from the Bible stories: =====
