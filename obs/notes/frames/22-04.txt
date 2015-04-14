@@ -1,10 +1,11 @@
 ===== An Angel Spoke to Mary [22-04] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&}}
 
 When **Elizabeth** was **six months pregnant**, the same **angel** suddenly appeared to **Elizabeth’s relative**, whose name was **Mary**. She was a **virgin** and **was engaged** to be married to a man named **Joseph**. The angel said, “You will become pregnant and give birth to a son. You are to name him **Jesus**. He will be the **Son** of the **Most High God** and will rule forever.”
+
+Cuando Elizabeth estaba embarazada de seis meses, el mismo ángel apareció de repente al pariente de Isabel, que se llamaba María. Ella era virgen y estaba comprometida para casarse con un hombre llamado José. El ángel dijo: “Vas a quedar embarazada y dar a luz a un hijo. Vas a nombrarle Jesús. Él será el Hijo del Dios Altísimo y reinará para siempre.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/angel|angel]]**
