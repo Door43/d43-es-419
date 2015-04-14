@@ -1,9 +1,11 @@
 ===== David and Bathsheba [17-10] =====
 
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?nolink&}}
 
 **One day**, when all of **David's** soldiers were away from home fighting battles, he looked out from his palace and **saw** a beautiful woman **bathing**. Her name was **Bathsheba**.
+
+Un día, cuando todos los soldados de David estaban lejos de sus casas peleando las batallas, él miró hacia fuera de su palacio y vio a una hermosa mujer bañandose. Su nombre era Betsabé.
+
 ===== Important Terms: =====
 
 
