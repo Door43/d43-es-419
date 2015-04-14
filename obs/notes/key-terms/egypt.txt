@@ -20,7 +20,7 @@ Egipto es un país en la parte noreste de Africa, al sur y al oeste de la tierra
   * An Egyptian is a person who is a native of Egypt
   * **Un egipcio es una persona nativo de Egipto**.
   * Though the Israelites lived in Egypt for many generations, they were never considered to be Egyptians.
-  * **A pesar que los israelitas vivían en Egipto por muchas generaciones, ellos nunca se consideraron Egipcios.**
+  * **A pesar que los israelitas vivían en Egipto por muchas generaciones, ellos nunca fueron considerados Egipcios.**
 ===== Examples from the Bible stories: =====
 
   * **[[:es-419:obs:notes:frames:08-04|[08-04]]]** The slave traders took Joseph to **Egypt​.****Egypt**  was a large, powerful country located along the Nile River.
