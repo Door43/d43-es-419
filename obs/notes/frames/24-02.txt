@@ -1,8 +1,11 @@
 ===== A Call to Repent [24-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
 Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
+
+Mucha gente vino al desierto para escuchar a John. Él predicó a ellos, diciendo: “¡Arrepiéntanse, porque el reino de Dios está cerca!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/john-baptist|John]]**
