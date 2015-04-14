@@ -1,8 +1,11 @@
 ===== Jesus Is the Lamb of God [24-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
 The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
+
+Al día siguiente, Jesús vino para ser bautizado por Juan. Cuando Juan lo vio, le dijo: “¡Miren! Allí está el Cordero de Dios que quita el pecado del mundo.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
