@@ -1,8 +1,11 @@
 ===== God's Word Gives Life [25-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
 **Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
+
+Jesús le respondió: “Está escrito en la palabra de Dios,” La gente no sólo necesita pan para vivir, pero necesitan cada palabra que Dios habla! '”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
