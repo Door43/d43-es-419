@@ -1,8 +1,11 @@
 ===== Preparing the Way [24-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
 **John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
+
+Juan dijo a los líderes religiosos, “¡Ustedes son serpientes venenosas! Arrepiéntanse y cambien su comportamiento. Todo árbol que no da buen fruto, es cortado y echado en el fuego.” Juan cumplió lo que dijeron los profetas: “He aquí, yo envío mi mensajero delante de ti, el cual preparará tu camino.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/john-baptist|John]]**
