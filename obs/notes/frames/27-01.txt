@@ -1,9 +1,11 @@
 ===== The Lawyer's Question [27-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?nolink&}}
 
 **One day**, an **expert in the Jewish law** came to **Jesus to test him**, saying, “**Teacher**, what must I do **to inherit eternal life**?” Jesus answered, “**What is written in God's law**?”
+
+Un día, un experto en la ley judía se acercó a Jesús para ponerlo a prueba, diciendo: “Maestro, ¿qué debo hacer para heredar la vida eterna?” Jesús le respondió: “¿Qué está escrito en la ley de Dios?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
