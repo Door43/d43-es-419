@@ -1,4 +1,4 @@
-===== The Rainbow [03-16] **El Arcoiris** =====
+===== The Rainbow [03-16] El Arco iris =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&}}
 
@@ -11,14 +11,14 @@
   * **[[:es-419:obs:notes:key-terms:promise|promise]]**
 ===== Translation Notes: =====
 
-===== <font inherit/inherit;;inherit;;inherit>Notas Traducidas:</font>  =====
+===== <font inherit/inherit;;inherit;;inherit>Notas Traducidas:</font>     =====
 
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
   * **arco iris - Esto es el arco de muchos colores de luz que a menudo aparece en el cielo después de una tormenta de lluvia.**
   * **a sign**  - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **una señal - Una señal es algo (como un objeto o evento) que le da cierto significado o que  apunta hacia algo que es cierto o que pasará.**
+  * **una señal - Una señal es algo (como un objeto o evento) que le da cierto significado o que apunta hacia algo que es cierto o que pasará.**
   * **as a sign of his promise**  – In some languages it may be better to say, "to show that he had promised."
-  * **como una señal de su promesa**  - **En algunos idiomas puede ser mejor decir, "para mostrar que el había prometido algo".**
+  * **como una señal de su promesa****-****En algunos idiomas puede ser mejor decir, "para mostrar que el había prometido algo".**
   * **Every time**  – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, "From then on, every time."
   * **Cada vez - Asegúrece que esté claro que esto significa "siempre que el arco iris aparece desde ese tiempo en adelante". Puede ser necesario añadir, "De ahora en adelante, cada vez".**
   * **what he promised**  - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
