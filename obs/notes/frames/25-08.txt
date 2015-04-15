@@ -1,8 +1,11 @@
 ===== Angels Ministered to Jesus [25-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?nolink&}}
 
 **Jesus did not give in to Satan's temptations**, so Satan left him. Then **angels** came and took care of Jesus.
+
+Jesús no ceder a las tentaciones de Satanás, por lo que Satanás le dejó. Entonces, los ángeles vinieron y cuidaron de Jesús.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
