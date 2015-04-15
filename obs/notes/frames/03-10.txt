@@ -1,4 +1,4 @@
-===== The Raven [03-10] **El Cuervo [03-10]**  =====
+===== The Raven [03-10] **El Cuervo [03-10]** =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
@@ -7,14 +7,11 @@ After forty more days, **Noah** sent out a bird called a **raven** to see if the
 **Despues de cuarenta dias, Noe mando un pajaro llamado cuervo para ver si el agua habia secado. El cuervo regreso volo para atras y para alante por tierra seca.**
 ===== Important Terms: =====
 
-**Terminos Importantes:**
-
   * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
-  * **Noe**
 ===== Translation Notes: =====
 
-**Notas Traducidas:**
+===== Notas Traducidas: =====
 
   * **raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
-  * **cuervo - Un pajaro negro que vuela y come una variedad de plantas y animales como comida., incluyendo la carne podrida de animales****muertos.**
+  * **cuervo - Un pájaro negro que vuela y come una variedad de plantas y animales, incluyendo la carne podrida de animales ****muertos.**
 **[[:es-419:obs:notes:frames:03-09|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-11|>>]]**
