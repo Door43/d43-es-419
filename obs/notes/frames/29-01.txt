@@ -1,8 +1,11 @@
 ===== How Many Times? [29-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
 **One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
+
+Un día, Pedro le preguntó a Jesús: “Maestro, ¿cuántas veces debo perdonar a mi hermano que peca contra mí? ¿Hasta siete veces?” Jesús dijo, “No siete veces, sino hasta setenta veces siete!” Por esto, Jesús quería decir que siempre deberíamos perdonar. Entonces, Jesús le dijo esta historia.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
