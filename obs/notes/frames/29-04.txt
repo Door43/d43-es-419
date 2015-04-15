@@ -1,8 +1,11 @@
 ===== The Debt Is Canceled [29-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
 “The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
+
+“El siervo se postró de rodillas ante el rey y le dijo: 'Por favor, sea paciente conmigo, y voy a pagar el monto total que le debo.” El rey se compadeció del siervo, por lo que canceló toda su deuda y lo dejó ir. ”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|servant]]**
