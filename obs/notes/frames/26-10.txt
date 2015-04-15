@@ -1,8 +1,11 @@
 ===== The Twelve Disciples [26-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?nolink&}}
 
 Then **Jesus** chose twelve men **who were called his apostles**. The apostles traveled with Jesus and **learned from him**.
+
+Entonces, Jesús escogió a doce hombres que fueron llamados sus apóstoles. Los apóstoles viajaron con Jesús y aprendieron de él.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
