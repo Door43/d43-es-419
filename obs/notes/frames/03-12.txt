@@ -1,4 +1,4 @@
-===== Dry Land [03-12] **Tierra Seca**  =====
+===== Dry Land [03-12] **Tierra Seca** =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
@@ -7,16 +7,11 @@
 **Noe espero otra semana y mando una paloma afuera por la tercera vez. Esta ves encontro un sitio para descansar y no regreso para atras.**
 ===== Important Terms: =====
 
-**Terminos Importantes:**
-
   * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
-  * **Noe**
 ===== Translation Note: =====
 
-**Notas Traducidas:**
-  * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
-  * **Espero una semana mas - Usted puede decir, "espero siete dias mas." El palabra"espero" ensena que Noe estaba permitiendo mas tiempo para que las aguas del diluvio bajaran antes de mandar la paloma de nuevo.**
-  * .
-  *
+===== Notas Traducidas: =====
 
+  * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
+  * **esperó una semana más - Usted puede decir, "esperó siete días más." La palabra "esperó" enseña que Noé estaba permitiendo mas tiempo para que las aguas del diluvio bajaran, antes de enviar la paloma otra vez.**
 **[[:es-419:obs:notes:frames:03-11|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-13|>>]]**
