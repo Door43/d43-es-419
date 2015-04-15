@@ -1,8 +1,11 @@
 ===== The Third Temptation [25-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
 Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
+
+Entonces, Satanás le mostró a Jesús todos los reinos del mundo y toda su gloria y le dijo: “Te daré todo esto si te postras y me adoras.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
