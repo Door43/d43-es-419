@@ -8,7 +8,6 @@ Entonces, Dios escribió los diez mandamientos en dos tablas de piedra y las dio
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]]**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
@@ -18,15 +17,14 @@ Entonces, Dios escribió los diez mandamientos en dos tablas de piedra y las dio
   * **[[:es-419:obs:notes:key-terms:bless|bless]]**
   * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]]**
   * **[[:es-419:obs:notes:key-terms:punish|punish]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:es-419:obs:notes:frames:13-05|[13-05]]]** and **[[:es-419:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:es-419:obs:notes:frames:13-05|[13-05]]]** and **[[:es-419:obs:notes:frames:13-06|[13-06]]]**.
+  * **estos Diez Mandamientos - Esto se refiere a los mandatos que Dios le dió a Moisés para que los israelitas obedecieran. Estan listados en [13-05] y [13-06]. **
+  * **stone tablets**  - These were flat pieces of stone.
+  * **tablas****de piedra - Estos eran piezas planas de piedra.**
+  * **God also gave**  - This can be translated as, "God also told them."
+  * **Dios también dió - Esto puede ser traducido como, "Dios también les dijo".**
+  * **to follow**  - This can be translated as, "that they must obey" or, "that they must keep."
+  * **para seguir - Esto puede ser traducido como, "que tienen que obedecer" o "que tienen que mantener".**
 **[[:es-419:obs:notes:frames:13-06|<<]] | [[:es-419:obs:notes:13|Up]] | [[:es-419:obs:notes:frames:13-08|>>]]**
