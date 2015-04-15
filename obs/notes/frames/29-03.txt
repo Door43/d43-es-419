@@ -1,8 +1,11 @@
 ===== Not Able to Repay [29-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
 “Since the **servant** could not **pay the debt**, the **king** said, ‘Sell this man and his family as **slaves to make payment on his debt**.’”
+
+“Dado que el siervo no podía pagar la deuda, el rey dijo,” Vendan este hombre y su familia como esclavos para hacer el pago de su deuda. '”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|servant]]**
