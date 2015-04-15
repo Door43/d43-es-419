@@ -1,8 +1,11 @@
 ===== The Small Debt [29-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
 “But when the **servant** went out from the king, he found a **fellow servant** who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
+
+“Pero cuando el siervo salió de la presencia del rey, se encontró con un consiervo que le debía una deuda por valor de cuatro meses de salario. El siervo tomó su siervo y le dijo: '''¡Págame el dinero que me debes!'”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|servant]]**
