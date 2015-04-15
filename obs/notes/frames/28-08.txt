@@ -1,8 +1,11 @@
 ===== All Things Are Possible [28-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?nolink&}}
 
 **Jesus** looked at the **disciples** and said, “**With people this is impossible**, but **with God**, **all things are possible**.”
+
+Jesús miró a los discípulos y les dijo: “Con la gente esto es imposible, más para Dios, todo es posible.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
