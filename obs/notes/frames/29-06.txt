@@ -1,8 +1,11 @@
 ===== To Prison [29-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
 “The **fellow servant fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant **threw his fellow servant into prison** until he could pay the debt.”
+
+“El compañero se postró de rodillas y dijo:” Por favor, sea paciente conmigo, y voy a pagar el monto total que le debo. “Pero en cambio, el criado echó a su consiervo en la cárcel hasta que pagara la deuda ”.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|servant]]**
