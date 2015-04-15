@@ -1,8 +1,11 @@
 ===== The Jewish Traveler [27-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
 **Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
+
+Jesús respondió al experto de la ley por contar una historia. “Había un hombre judío que viajaba por el camino de Jerusalén a Jericó.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
