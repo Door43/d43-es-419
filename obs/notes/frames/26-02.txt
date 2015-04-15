@@ -1,8 +1,11 @@
 ===== Jesus in Nazareth [26-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
 **Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
+
+Jésus alla à Nazareth où il avait vécu pendant son enfance. Il entra dans la Synagogue le jour du Sabbat. On lui remit le manuscrit du prophète Esaïe pour qu'il puisse le lire. L'ayant déroulé, il en lut un passage.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
