@@ -1,8 +1,11 @@
 ===== Do Not Test God [25-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-05.jpg?nolink&}}
 
 But **Jesus** replied to **Satan** by quoting from the **scriptures**. He said, “**In God's word**, **he commands his people**, ‘**Do not test the Lord your God**.’”
+
+Pero Jesús le respondió a Satanás citando las Escrituras. Él dijo: “En la Palabra de Dios, Dios manda a su pueblo, 'No pongan a prueba al Señor su Dios.'”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
