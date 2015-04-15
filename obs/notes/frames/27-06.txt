@@ -1,8 +1,11 @@
 ===== The Priest [27-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
 “Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
+
+“Poco después de eso, un sacerdote judío pasó a caminar por ese mismo camino. Cuando este líder religioso vio al hombre que había sido robado y golpeado, se trasladó al otro lado del camino, ignoró ál hombre hombre que necesitaba ayuda, y siguió ir ”.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jew|Jewish]]**
