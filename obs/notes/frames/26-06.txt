@@ -1,8 +1,11 @@
 ===== The Ministry of Elisha [26-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
 **Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
+
+Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había mucha gente en Israel con enfermedades de la piel. Pero Eliseo no sanó a ninguna de ellas. Él sólo sanó la enfermedad de la piel de Naamán, el comandante de los enemigos de Israel.” Las personas que escuchaban a Jesús eran Judios. Así que, cuando le oyeron decir esto, se enfurecieron contra él.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
