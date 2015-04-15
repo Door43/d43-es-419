@@ -1,8 +1,11 @@
 ===== Jesus in Galilee [26-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
 **After overcoming Satan's temptations**, **Jesus returned in the power of the Holy Spirit** to the region of **Galilee** where he lived. Jesus **went from place to place teaching**. **Everyone spoke well of him**.
+
+Après avoir surmonté les tentations de Satan, Jésus, revêtu de la puissance du Saint-Esprit, retourna en Galilée où il demeurait. Jésus alla enseigner de ville en ville. Sa renommée se répandit dans tout le pays.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/satan|Satan's]]**
