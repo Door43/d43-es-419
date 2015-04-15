@@ -1,8 +1,11 @@
 ===== The Ministry of Elijah [26-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?nolink&}}
 
 Then **Jesus** said, “It is **true** that **no prophet is accepted in his own hometown**. During the time of the prophet **Elijah**, there were many widows in **Israel**. But when it did not rain for three and a half years, **God** did not send Elijah to help a widow from Israel, but rather to a widow from a different nation.”
+
+Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había mucha gente en Israel con enfermedades de la piel. Pero Eliseo no sanó a ninguna de ellas. Él sólo sanó la enfermedad de la piel de Naamán, el comandante de los enemigos de Israel.” Las personas que escuchaban a Jesús eran Judios. Así que, cuando le oyeron decir esto, se enfurecieron contra él.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
