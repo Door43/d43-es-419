@@ -1,8 +1,11 @@
 ===== Who Can Be Saved? [28-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
 When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
+
+Cuando los discípulos oyeron lo que dijo Jesús, se sorprendieron y dijeron: “Entonces, ¿quién puede salvarse?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
