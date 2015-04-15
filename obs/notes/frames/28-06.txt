@@ -1,8 +1,11 @@
 ===== The Camel and the Needle [28-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
 Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
+
+Entonces, Jesús dijo a sus discípulos: “¡Es muy difícil para los ricos que entren en el reino de Dios! Sí, es más fácil que un camello pase por el ojo de una aguja que un rico entre en el reino de Dios . ”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
