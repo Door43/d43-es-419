@@ -1,8 +1,11 @@
 ===== What Must I Do? [28-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
 **One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
+
+Un día, un joven rico se acercó a Jesús y le preguntó: “Maestro bueno, ¿qué he de hacer para tener la vida eterna?” Jesús le dijo: “¿Por qué me llamas” bueno ”? Sólo hay uno que es bueno, y que es Dios. Pero si usted quiere tener la vida eterna, obedece las leyes de Dios.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
