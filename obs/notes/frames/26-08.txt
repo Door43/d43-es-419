@@ -1,8 +1,11 @@
 ===== Jesus Healed the Sick [26-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
 Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
+
+Entonces, Jesús se fue por toda la región de Galilea, y grandes multitudes vinieron a él. Trajeron muchas personas que estaban enfermas o con discapacidades, incluidos los que no podían ver, caminar, oír, ni hablar, y Jesús los sanó.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
