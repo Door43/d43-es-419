@@ -1,8 +1,9 @@
 ===== The Second Temptation [25-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink}}
-**
-Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}** Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
+
+Entonces, Satanás llevó a Jesús al punto más alto en el templo y le dijo: “Si eres el Hijo de Dios, tírate abajo, porque está escrito: 'Dios mandará a sus ángeles para llevarte para que su pie no golpees una piedra. '”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
