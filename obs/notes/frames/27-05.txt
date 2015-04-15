@@ -1,8 +1,11 @@
 ===== The Robbers [27-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
 “While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
+
+“Mientras el hombre estaba de viaje, fue atacado por un grupo de ladrones. Se llevaron todo lo que tenía y lo golpearon hasta dejarlo casi muerto. Luego se fueron.”
+
 ===== Important Terms: =====
 
 
