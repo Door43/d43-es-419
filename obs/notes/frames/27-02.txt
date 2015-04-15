@@ -1,10 +1,11 @@
 ===== Obey the Commandments [27-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink}}
-
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?nolink&}}
 
 The **law expert** replied that **God's law** says, “**Love the Lord your God with all your heart, soul, strength, and mind**. And **love your neighbor as yourself**.” **Jesus** answered, “You are correct! Do this and you will **live**.”
+
+El experto de la ley respondió que la ley de Dios dice: “Amarás al Señor tu Dios con todo tu corazón, tu alma, tu fuerza y ​​tu mente. Y amarás a tu prójimo como a tí mismo.” Jesús le respondió: “¡Estás en lo correcto! Haz esto y vivirás.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/gods-law|God's law]]**
