@@ -1,8 +1,11 @@
 ===== The King Heard [29-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
 “Some other **servants** saw **what had happened** and **were greatly disturbed**. They went to the **king** and told him **everything**.”
+
+“Algunos otros siervos vieron lo que había sucedido y se vieron muy perturbados. Fueron al rey y le dijeron todo.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|servants]]**
