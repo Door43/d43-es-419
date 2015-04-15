@@ -9,7 +9,7 @@
 
 **Terminos Importantes:**
 
-  * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
+   * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
   * **Noe**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed]]**
   * **obedecio**
@@ -17,9 +17,10 @@
   * **Dios**
 ===== Translation Notes: =====
 
-**Notas Traducidas:**
+===== Notas Traducidas: =====
+
   * **Noah warned**  - Noah told everyone that God planned to destroy the world because of sin.
-  * **Noe advirtio - Noe le dijo a todo el mundo que Dios planifico destruir al mundo debido al pecado.**
+  * **Noé advirtió - Noé le dijo a todo el mundo que Dios planificaba destruir al mundo debido al pecado.**
   * **turn to God**  - This means that they should stop sinning and start obeying God.
-  * **Regresa a Dios - Esto significa que ellos debian de parar pecando y empezar a obedecer Dios.**
+  * **Regresar a Dios - Esto significa que ellos debían dejar de pecar y empezar a obedecer Dios.**
 **[[:es-419:obs:notes:frames:03-03|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-05|>>]]**
