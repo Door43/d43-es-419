@@ -1,9 +1,11 @@
 ===== Do the Same [27-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
 Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
+
+Entonces, Jesús pidió al experto de la ley, “¿Qué piensa?” “¿Cuál de los tres hombres era un vecino al hombre que fue robado y maltratado?” El respondió, “El hombre que le mostró misericordia.” Jesús de dijo, “Vaya y haga lo mismo.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
