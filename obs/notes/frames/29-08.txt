@@ -1,8 +1,11 @@
 ===== The Wicked Servant [29-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
 “The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
+
+“El rey mandó llamar al siervo y le dijo:” ¡Siervo malvado! Le perdoné su deuda porque me lo suplicó. Usted debería haber hecho lo mismo. 'El rey estaba tan enojado que él arrojó al mal siervo en la cárcel hasta que pagara todo su deuda ”.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/king|king]]**
