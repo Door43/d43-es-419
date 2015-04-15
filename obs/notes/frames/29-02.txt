@@ -1,8 +1,11 @@
 ===== The Huge Debt [29-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
 Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
+
+Jesús dijo: “El reino de Dios se parece a un rey que quiso ajustar cuentas con sus siervos. Una de sus siervos le debía una deuda enorme que valía un salario de 200.000 años '.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
