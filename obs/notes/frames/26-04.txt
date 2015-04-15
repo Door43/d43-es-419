@@ -1,9 +1,11 @@
 ===== The Prophesy about Jesus [26-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
 Then **Jesus** sat down. Everybody watched him closely. They knew the passage of **scripture** that he had just read referred to the **Messiah**. Jesus said, “**The words I just read to you are happening right now**.” All the people were **amazed**. “**Isn’t this the son of Joseph**?” they said.
+
+Entonces, Jesús dijo: “Es cierto que ningún profeta es bien recibido en su ciudad natal. Durante el tiempo del profeta Elías, había muchas viudas en Israel. Pero cuando no llovió durante tres años y medio, Dios no envió a Elías para ayudar a una viuda de Israel, sino a una viuda de una nación diferente ”.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
