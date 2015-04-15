@@ -1,8 +1,11 @@
 ===== Who Is My Neighbor? [27-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?nolink&}}
 
 But the **law expert** wanted to prove that he was **righteous**, so he asked, “**Who is my neighbor**?”
+
+Pero el experto de la ley quería demostrar que era justo, así que, le preguntó: “¿Quién es mi prójimo?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/righteous|righteous]]**
