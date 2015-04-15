@@ -1,8 +1,11 @@
 ===== What Is Our Reward? [28-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
 **Peter** said to **Jesus**, “We have **left everything** and followed you. **What will be our reward**?”
+
+Pedro dijo a Jesús: “Nosotros hemos dejado todo y hemos seguido a usted. ¿Cuál será nuestra recompensa?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
