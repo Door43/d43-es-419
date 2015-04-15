@@ -1,4 +1,4 @@
-===== The Rain Stopped [03-09] **La lluvia paro [03-09]**  =====
+===== The Rain Stopped [03-09] **La lluvia paro [03-09]** =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&}}
 
@@ -7,18 +7,16 @@ After **the rains stopped**, the boat floated on the water for five months, and 
 **Despues que la lluvia, el barco floto en la agua por cinco meses, y durante ese tiempo el agua empeso a bajar. entonces un dia el barco empezo reposo encima de una montana, pero el mundo todavia estaba cubierto con agua. Despues de tres meses, la parte de arriba de las montanas se podian ver.**
 ===== Important Terms: =====
 
-**Terminos Importantes:**
-
 ===== Translation Notes: =====
 
-Notas Traducidas:
+===== Notas Traducidas: =====
 
   * **the rains stopped**  – This could be translated as, "it stopped raining."
-  * **la lluvia paro - Esta se puede traducir como, " la lluvia paro."**
+  * **la lluvia paro - Esto se puede traducir como, "paro de llover".**
   * **boat rested**  - There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain.
-  * **El barco reposo - Habia tanta agua de la lluvia que cubrio las montanas. El barco flotaba sobre las montanas, y cuando el agua empezo a bajar, el barco empezo a bajar y se coloco en una montana.**
+  * **El barco reposo - Había tanta agua de lluvia que cubría las montañas. El barco flotaba sobre las montañas, y cuando el agua empezó a bajar, el barco bajó y quedó colocado en una montaña.**
   * **three more months**  - During the next three months, the water continued to go down.
-  * **tres meses mas - Durante los otros tres meses, el agua siguio bajando.**
-  * **mountains were visible**  - Other ways to translate this would be, "were showing" or, "appeared" or, "could be seen." It may be more clear to say, "After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains.
-  * **Las montanas se podian ver - Otra formas de traducir ** puede ser, "se estaban ensenando" o "apareciendo: o "se podian ver."** Seria mas decir, "Despues se tres meses, el agua habia bajado bastante que Noe y su familia podian ver claramente la parte de arriba de las montanas.**
+  * **tres meses más - Durante los otros tres meses, el agua continuó bajando.**
+  * **mountains were visible**  - Other ways to translate this would be, "were showing" or, "appeared" or, "could be seen." It may be more clear to say, "After three months, the water had gone down enough so that Noah and his family could clearly see the tops of the mountains".
+  * **Las montañas se podían ver - Otras formas de traducir ****pueden ser, "se alcanzaban a ver" o "aparecieron"****, "Después de tres meses, el agua había bajado bastante, tal que Noé y su familia podían ver claramente la parte de arriba de las montañas".**
 **[[:es-419:obs:notes:frames:03-08|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-10|>>]]**
