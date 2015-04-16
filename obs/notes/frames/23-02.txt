@@ -8,21 +8,19 @@ El ángel le dijo: “José, no temas de recibir a María tu esposa. El bebé qu
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:es-419:obs:notes:key-terms/mary|Mary]]**
-  * **[[:es-419:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:es-419:obs:notes:key-terms/son|son]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/yahweh|Yahweh]]**
-  * **[[:es-419:obs:notes:key-terms/save|saves]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sins]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]]**
+  * **[[:es-419:obs:notes:key-terms:mary|Mary]]**
+  * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:es-419:obs:notes:key-terms:son|son]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]]**
+  * **[[:es-419:obs:notes:key-terms:save|saves]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
 ===== Translation Notes: =====
 
-  * **do not be afraid to take Mary as your wife** - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
-  * **is from the Holy Spirit** - That is, "was conceived by a miracle of the Holy Spirit."
-
-
+  * **do not be afraid to take Mary as your wife**  - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
+  * **no tengas miedo de coger a Maria como tu esposa - Esto tambien se puede traducir como, "Deja de pensar si yo debo casarme con Maria" o, "No vaciles**  de coger a Maria **como tu esposa."**
+  * **is from the Holy Spirit**  - That is, "was conceived by a miracle of the Holy Spirit."
+  * **es del Espiritu Santo - Esto es, "fue concevido como un milagro del Espiritu Santo."**
 **[[:es-419:obs:notes:frames:23-01|<<]] | [[:es-419:obs:notes:23|Up]] | [[:es-419:obs:notes:frames:23-03|>>]]**
