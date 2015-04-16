@@ -1,8 +1,9 @@
 ===== Not All Will Be Saved [49-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}
 
 **Jesus** taught that some people will **receive** him and be **saved**, but **others will not**. He said that some people are like good soil. They receive the **good news** of Jesus and are saved. Other people are like the hard soil of a path, where the **seed of God's word** does not enter and does not produce any harvest. Those people reject the message about Jesus and will not enter into **his kingdom**.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
