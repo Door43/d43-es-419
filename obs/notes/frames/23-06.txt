@@ -8,20 +8,19 @@ Esa noche, había unos pastores en un campo cercano cuidando sus rebaños. De re
 
 ===== Important Terms: =====
 
-
-  * **[[:es-419:obs:notes:key-terms/shepherd|shepherds]]**
-  * **[[:es-419:obs:notes:key-terms/angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/bethlehem|Bethlehem]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:shepherd|shepherds]]**
+  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]]**
 ===== Translation Notes: =====
 
-  * **guarding their flocks** - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
-  * **a shining angel** - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
-  * **they were terrified** - The appearance of the supernatural angel was extremely frightening.
-  * **Do not be afraid** - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
-
-
+  * **guarding their flocks**  - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
+  * **Cuidando su rebanos - Un "rebano" es un grupo de ovejas. Los pastores cuidaban de sus ovejas, y protegian de dano y robo. **
+  * **a shining angel**  - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
+  * **un angel brillando - Esto puede traducirse como, " un angel rodeado por una luz brillante**." La **luz brillante podia verse mas brillante en contraste co la oscuridad de la noche.**
+  * **they were terrified**  - The appearance of the supernatural angel was extremely frightening.
+  * **ellos estaban aterrorizados - La aparicion del angel sobrenatural fue extremadamente aterrador.**
+  * **Do not be afraid**  - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
+  * **No tengan miedo - Esto a menudo significa,  "paren de tener miedo." Los pastores tenian mucho miedo cuando vieron al angel diciendole que no teneian que tener miedo.**
 **[[:es-419:obs:notes:frames:23-05|<<]] | [[:es-419:obs:notes:23|Up]] | [[:es-419:obs:notes:frames:23-07|>>]]**
