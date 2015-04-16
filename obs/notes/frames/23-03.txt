@@ -8,13 +8,10 @@ Entonces, José se casó con María y la llevó a casa como su esposa, pero él 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/joseph-nt|Joseph]]**
-  * **[[:es-419:obs:notes:key-terms/mary|Mary]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]]**
+  * **[[:es-419:obs:notes:key-terms:mary|Mary]]**
 ===== Translation Notes: =====
 
-  * **he did not sleep with her** - That is, "he did not have sexual relations with her." He kept her a virgin until the birth of the baby.
-
-
+  * **he did not sleep with her**  - That is, "he did not have sexual relations with her." He kept her a virgin until the birth of the baby.
+  * **el no durmio con ella - Esto es, "el no tuvo relaciones sexuales con ella." La mantuvo a ella una virgen hasra el nacimiento de su bebe.**
 **[[:es-419:obs:notes:frames:23-02|<<]] | [[:es-419:obs:notes:23|Up]] | [[:es-419:obs:notes:frames:23-04|>>]]**
