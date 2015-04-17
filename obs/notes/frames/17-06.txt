@@ -8,7 +8,6 @@ David quería construir un templo en el que todos los israelitas podían adorar 
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:david|David]]**
   * **[[:es-419:obs:notes:key-terms:temple|temple]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
@@ -17,12 +16,8 @@ David quería construir un templo en el que todos los israelitas podían adorar 
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]]**
   * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]]**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
+  * **construir un templo - David queria construir un edificio permanente para adorar a Dios que replacaria el tabernáculo de reunión portable. **
 **[[:es-419:obs:notes:frames:17-05|<<]] | [[:es-419:obs:notes:17|Up]] | [[:es-419:obs:notes:frames:17-07|>>]]**
