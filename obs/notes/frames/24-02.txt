@@ -8,17 +8,16 @@ Mucha gente vino al desierto para escuchar a John. Él predicó a ellos, diciend
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:es-419:obs:notes:key-terms/preach|preached]]**
-  * **[[:es-419:obs:notes:key-terms/repent|Repent]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:john-baptist|John]]**
+  * **[[:es-419:obs:notes:key-terms:preach|preached]]**
+  * **[[:es-419:obs:notes:key-terms:repent|Repent]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
 ===== Translation Notes: =====
 
-  * **wilderness** - See how you translated this word in **[[:es-419:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
-
-
+  * **wilderness**  - See how you translated this word in **[[:es-419:obs:notes:frames:24-01|[24-01]]]**.
+  * **desierto - Mire como usted traducio esta palabra en [24-01]**
+  * **Repent**  - It might be better to say, "Repent from your sins."
+  * **Arrepentirse -****Es mejor decir, "Arrepientense  de sus pecados."**
+  * **the kingdom of God is near**  - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
+  * **el reino de Dios esta cerca - Esto es, "el reino de Dios esta listo para aparecer" o, " el reino de Dios vendra pronto."Esto se  refiere ****a Dios gobernando sobre su gente. Esto tambien se puede traducir como, "el reino de Dios esta a punto de comenzar" o, "Dios prnto va a gobernar sobre nosotros como rey."**
 **[[:es-419:obs:notes:frames:24-01|<<]] | [[:es-419:obs:notes:24|Up]] | [[:es-419:obs:notes:frames:24-03|>>]]**
