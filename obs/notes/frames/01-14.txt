@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&}}
 
-When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her be called '**Woman**,' for she was **madefrom Man**.” This is why **a man leaves** his father and mother and **becomes one** with his wife.
+When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her be called '**Woman**,' for she was **made from Man**.” This is why **a man leaves** his father and mother and **becomes one** with his wife.
 
 <font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Cuando Adán la vio, él dijo, “¡Por fin! ¡Esta es como yo! Qué sea llamada “Mujer,” porque fue hecha del Hombre.” Por esta razón un hombre deja a su padre y a su madre y llega a ser uno con su mujer.</font>
 
@@ -12,14 +12,15 @@ When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her
 ==== Translation Notes: ====
 
   * **At last!**  - Adam's exclamation indicates that he had been waiting for something like the woman.
-  * **Por fin! - La exclamacion de Adan indica que el estaba esperanto por algo como una mujer.**
+  * **Por fin! - La exclamación de Adán indica que el estaba esperando por algo como la mujer.**
   * **like me**  - The woman was the same type of being as Adam, even though there were important differences between them.
+  * **como yo - La mujer era el mismo tipo de ser que Adán, aún cuando habían diferencias importantes entre ellos.**
   * **Woman**  - This word is the feminine form of the word for man.
-  * **Mujer - La palabra es en la forma femenina de la palabra hombre.**
+  * **Mujer - Esta palabra es la forma femenina de la palabra hombre.**
   * **made from man**  - The woman was formed directly from Adam's own body.
-  * **hecho del hombre - La mujer fue formada directamente de cuerpo**
+  * **hecho del hombre - La mujer fue formada directamente del propio cuerpo de Adán.**
   * **a man leaves**  - This is stated in the present tense to indicate what would become the normal situation in the future. Adam did not have a mother or father, but all other men would.
-  * **el hombre se va - Esto esta expresedo en el tiempo presente que indica lo que va a pasar de una siituasion normal en el futuro.**
+  * **el hombre deja- Esto esta expresado en el tiempo presente para indicar lo que iba a convertirse en la situación normal en el futuro. Adán no tenía una madre o un padre, pero todos los hombres que vendrían después tendrían.**
   * **becomes one**  - The husband and wife will share an intimate bond of unity and a commitment to one another that will surpass their relationships to anyone else.
-  * **se**** convirtio en uno - El esposo y esposa van a compartir una enlace de unidad y un compromiso de uno a otro que supera su relacion que cualquier otra persona.**
+  * **se**** convierte en uno - El esposo y esposa van a compartir un lazo íntimo de unidad y un compromiso de uno al otro que superará cualquier relación con otra persona.**
 **[[:es-419:obs:notes:frames:01-13|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-15|>>]]**
