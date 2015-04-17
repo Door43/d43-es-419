@@ -8,7 +8,6 @@ Pero Dios envió al profeta Natán a David con este mensaje: “Porque usted es 
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
   * **[[:es-419:obs:notes:key-terms:nathan|Nathan]]**
@@ -21,15 +20,11 @@ Pero Dios envió al profeta Natán a David con este mensaje: “Porque usted es 
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **the prophet Nathan** – It may be more natural in some languages to say, "a prophet named Nathan."
-  * **man of war** - That is, "man who fights battles." David killed many, many people in battle against the Israelites' enemies. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him.
-  * **this Temple** - That is, "this building for worship" or, "this place of worship."
-  * **from sin** - That is, "from the terrible consequences of their sin."
-
-
+  * **the prophet Nathan**  – It may be more natural in some languages to say, "a prophet named Nathan."
+  * **el profeta Natán - Podria ser mas natural en algunos idiomas decir, "un profeta llamado Natán."**
+  * **man of war**  - That is, "man who fights battles." David killed many, many people in battle against the Israelites' enemies. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him.
+  * **this Temple**  - That is, "this building for worship" or, "this place of worship."
+  * **from sin**  - That is, "from the terrible consequences of their sin."
 **[[:es-419:obs:notes:frames:17-06|<<]] | [[:es-419:obs:notes:17|Up]] | [[:es-419:obs:notes:frames:17-08|>>]]**
