@@ -8,20 +8,19 @@ Dios le dijo a Juan: “El Espíritu Santo vendrá y descansará en alguien que 
 
 ===== Important Terms: =====
 
-
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/john-baptist|John]]**
-  * **[[:es-419:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:es-419:obs:notes:key-terms/baptize|baptize]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:es-419:obs:notes:key-terms/god-father|God the Father]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:john-baptist|John]]**
+  * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:es-419:obs:notes:key-terms:baptize|baptize]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:es-419:obs:notes:key-terms:god-father|God the Father]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son]]**
 ===== Translation Notes: =====
 
   * **God had told John**  - That is, "Before this, God had told John" or, "Before Jesus came to be baptized, God had told John."
+  * **Dios le dijo a Juan - Esto es, "Antes de esto, Dios le dijo a Juan" o, "Antes que Jesus vino para ser bautizado, Dios le dijo a Juan."**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estas referencias pueden un poco diferentes de algunas traducciones de la Biblia.**
   * //Una historia de la Biblia de: Mateo 3; Marcos 1: 9-11; Lucas 3: 1-23//
 **[[:es-419:obs:notes:frames:24-08|<<]] | [[:es-419:obs:notes:24|Up]] | [[:es-419:obs:notes:frames:25-01|>>]]**
