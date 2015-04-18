@@ -1,3 +1,7 @@
 This the list of important words and phrases. Click on the word to learn more.
 
 <nspages es-419:obs:notes:key-terms -title -exclude:home -textPages="List of all OBS Latin Spanish important words:">
+
+====== List of all OBS English Important Words - do not edit these pages ======
+
+{{pagequery>ns:en:bible:notes:key-terms "ktobs"; fulltext; sort=title:asc; display={title}; natsort; showcount; nbCol=3; hidemsg; hidejump;}}
