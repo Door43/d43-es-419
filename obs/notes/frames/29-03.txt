@@ -8,16 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/servant|servant]]**
-  * **[[:es-419:obs:notes:key-terms/king|king]]**
-  * **[[:es-419:obs:notes:key-terms/servant|slaves]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:servant|servant]]**
+  * **[[:es-419:obs:notes:key-terms:king|king]]**
+  * **[[:es-419:obs:notes:key-terms:servant|slaves]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **pay the debt** - That is, "pay back the money he owed to the king."
-  * **to make payment on his debt** - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
-
-
+  * **pay the debt**  - That is, "pay back the money he owed to the king."
+  * **pagar la deuda**
+ -Esto es, "pagar el dinero nque el le debe al rey."
+  * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
+  * **hacer pagos a sus deudas **- Esto puede ser traducido como, " y usar parte de el dinero reciviso de su venta para pagarme parte de lo que me deben.
 **[[:es-419:obs:notes:frames:29-02|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-04|>>]]**
