@@ -8,20 +8,21 @@ Un día, Pedro le preguntó a Jesús: “Maestro, ¿cuántas veces debo perdonar
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sins]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **Un dia **-  Esta frace hace una introduccion de un hecho ocurrido en el pasado. pero no nos da un tiempo especifico. Muchos idiomas tienen una manera similar para contar una historia real.
+  * **my brother**  - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
+  * **mi hermano **-Este termino algunas veces incluye personas que no necesariamente son parte de nuestra familia, pero que comparten otros fuertes lazos tales como religion, cultura racial, ctc
+  * **sins against me**  - This could also be translated as, "does something wrong against me."
+  * **pecar contra m**i - Esto tambien pude ser traducido como, "hacer algo en contra mia."
+  * **Not seven times, but seventy times seven!**  - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us
+  * **Not siete veces, pero setenta veces siete!** ​ - Esto puede ser traducido como, " Ustedes no solamente deben perdonar siete veces, preferiblemente ustedes debrian perdonar setenta veces siete. " Jesus no estaba hablando de un numero exacto. El estaba diciendo que deberiamos perdonar a las personas cada vez que pequen contra nosotros.
+  * **By this, Jesus meant**  - That is, "When Jesus said this he meant."
+  * **Con esto, Jesus quizo decir​ ****-**  " Cuando Jesus dice esto el quiere decir,"
 **[[:es-419:obs:notes:frames:28-10|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-02|>>]]**
