@@ -1,20 +1,16 @@
 ===== Jesus Carried His Cross [40-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
 After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/mock|mocked]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:es-419:obs:notes:key-terms/cross|cross]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:crucify|crucify]]**
+  * **[[:es-419:obs:notes:key-terms:cross|cross]]**
 ===== Translation Notes: =====
 
-  * **led him away** - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **to crucify him** - That is, "to kill him on a cross."
-
-
+  * **led him away**  - That is, "forced him to go with them." This could also be translated as, "took him away."
+  * **to crucify him**  - That is, "to kill him on a cross."
 **[[:es-419:obs:notes:frames:39-12|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-02|>>]]**
