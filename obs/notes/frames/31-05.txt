@@ -1,8 +1,9 @@
-===== Jesus Called Peter [31-05] =====
+===== Jesus Called Peter [31-05]/Jesus llamo a San Pedro[31-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+Then **Peter** said to **Jesus**, “**Master****Bold**** Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
