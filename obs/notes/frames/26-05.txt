@@ -8,17 +8,14 @@ Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había muc
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/true|true]]**
-  * **[[:es-419:obs:notes:key-terms/prophet|prophet]]**
-  * **[[:es-419:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms/israel|Israel]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:true|true]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **no prophet is accepted in his hometown** - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
-
-
+  * **no prophet is accepted in his hometown**  - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
+  * **ningun profeta es aceptado es su ciudad natal -  **Esta frace significa, "gente no reconoce la autoridad del profeta que ha crecido entre ellos."** **
 **[[:es-419:obs:notes:frames:26-04|<<]] | [[:es-419:obs:notes:26|Up]] | [[:es-419:obs:notes:frames:26-06|>>]]**
