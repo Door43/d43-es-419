@@ -14,7 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
-
+  * **quiet place**  - This refers to a place with few people where they could be by themselves.
+  * **lugar quieto **- Esto se refiere a un lugar con poca gente donde la gente esta sola.
 **[[:es-419:obs:notes:frames:29-09|<<]] | [[:es-419:obs:notes:30|Up]] | [[:es-419:obs:notes:frames:30-02|>>]]**
