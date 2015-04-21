@@ -1,12 +1,8 @@
-===== God Created Light [01-02] =====
+===== God Created Light [01-02]  *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
-
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “¡Deje que sea la luz! Y había luz. Dios vio que la luz fue buena y la llamó “día.” El la separó de la oscuridad, que había llamado “noche.” Dios creó la luz en el primer día de la creación.</font>
-
-===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
@@ -17,7 +13,8 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
   * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
   * **que haya - Esto es un comando que tomó efecto inmediatamente porque fué hablado por Dios. Puede ser más natural el traducir esto como una declaración que fue dicha con certeza de que iba a pasar sin duda. Por ejemplo, tu puedes traducir esto como: "Dios dijo, 'Va a ver luz.'" (revisar la traducción de la historia)**
   * **light**  - This was a special light that God created–the sun was not created until later.
-  * **luz - Esto era una luz especial que Dios creó <font inherit/inherit;;inherit;;inherit>el</font>    <font inherit/inherit;;inherit;;inherit>sol no sería creado hasta después.</font>    **
+  * **luz - Esto era una luz especial que Dios creó <font inherit"><font inherit/inherit;;inherit;;inherit>
+el</font>  <font inherit/inherit;;inherit;;inherit>sol no sería creado hasta después.</font>    **
   * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
   * **era bueno - Esta frase es repetida a menudo a través de la historia de la creación y enfatiza que Dios estaba satisfecho con cada etapa de la creación y que cumplía con su plan y propósito.**
   * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
