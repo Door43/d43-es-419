@@ -8,13 +8,11 @@ Pero el experto de la ley quería demostrar que era justo, así que, le pregunt�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/righteous|righteous]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:righteous|righteous]]**
 ===== Translation Notes: =====
 
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
-  * **Who is my neighbor?** - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
-
-
+  * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
+  * **experto de la ley  - Esto es, "un experto el ley Judia."Vea como tu traducistes este termino en [27-01]**
+  * **Who is my neighbor?**  - This could also be translated as, "What do you mean by 'neighbor'?" or, "Which people are my neighbors?" He knew that he did not love everyone, and was asking which people he needed to love.
+  * **Quien es tu projimo? - Esto puede tambien ser traducido como, "Que tu quieres decir por 'projimo'? o, "Quienes son mis projimos?"**
 **[[:es-419:obs:notes:frames:27-02|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-04|>>]]**
