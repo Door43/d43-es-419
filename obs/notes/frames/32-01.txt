@@ -11,8 +11,7 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * Un dia - Esta frase introduce un evento que paso en el pasado, pero no
+  * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
 **[[:es-419:obs:notes:frames:31-08|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-02|>>]]**
