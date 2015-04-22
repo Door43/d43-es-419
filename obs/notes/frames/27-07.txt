@@ -8,17 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-  * **[[:es-419:obs:notes:key-terms/priest|priests]]**
-  * **[[:es-419:obs:notes:key-terms/temple|Temple]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+  * **[[:es-419:obs:notes:key-terms:priest|priests]]**
+  * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * **(Jesus continua para decir la historia.)**
+  * **came down the road**  - That is, "was traveling down that same road."
+  * **vino por el camino - Esto es, "estaba viajando por la misma carretera."**
+  * **Levites were a tribe of Jews**  - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
+  * **Levitas eran una tribu de Judios - Esto es, "Levitas eran de una tribu Israelita de Levi" o, "Levitas era de un clan Israelita de Levi."**
+  *
+  * **ignored**  - That is, "did not help."
+  * **ignoraron - Esto es, "no ayudaron,"**
 **[[:es-419:obs:notes:frames:27-06|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-08|>>]]**
