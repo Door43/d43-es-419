@@ -8,14 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/samaria|Samaritan]]**
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:samaria|Samaritan]]**
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
-
-
+  * **(Jesus continua para decir lahistoria.)**
+  * **walk down**  - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
+  * **canino - Esto es, "viaje a lo largo." Estas gente estaban viajando de una ciudad a otra. Asegurate que esto no suene como que ellos simplemente estaban caminando.**
 **[[:es-419:obs:notes:frames:27-07|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-09|>>]]**
