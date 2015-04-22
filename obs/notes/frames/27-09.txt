@@ -8,15 +8,15 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/samaria|Samaritan]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:samaria|Samaritan]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * **(Jesus continua para decir la historia.)**
+  * **his own donkey**  - Make sure it is clear that "his" refers to the Samaritan.
+  * **su propio burro - Asegurate que este claro que "el" se refiere al Samaritano.**
+  * **roadside inn**  - That is, "a lodging place." This is a place where travelers could get food and stay overnight
+  * **posada en la carretera - Esto es "un sitio de alojamiento**. **"Este es un sitio que los viajeros podian conseguir comida y quedarse la noche**
+  * **where he took care of him**  - This could also be translated as, "where he continued to take care of him."
+  * **sitio donde cuido de el - Esto se puede traducir tambien como, "donde el continuo cuidandolo a el"**
 **[[:es-419:obs:notes:frames:27-08|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-10|>>]]**
