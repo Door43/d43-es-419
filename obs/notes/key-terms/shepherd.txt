@@ -1,26 +1,30 @@
-====== shepherd ======
-
+====== shepherd  pastor ======
 
 ===== Definition: =====
 
+**Definición:**
+
 A shepherd is a person who takes care of sheep.
 
-  * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.
+**Un pastor es una persona que tiene cuidado de las ovejas.**
+
+   * Sometimes a shepherd is the owner of the sheep, and sometimes he works for the owner.
+  * **Algunas veces un pastor es el dueño de las ovejas, y otras veces trabaja para el dueño.**
   * Shepherds lead sheep to grass so they can eat and to safe water so they can drink.
+  * **Los pastores llevan a las ovejas a los pastos para que ellas puedan comer y a fuentes de agua seguras para que puedan beber.**
   * They guide sheep so they don't get lost or wander into danger.
+  * **Ellos conducen a las ovejas para que no se pierdan o vaguen al peligro.**
   * They protect sheep from wild animals that try to attack them.
+  * **Ellos protegen las ovejas de los animales salvajes que tratan de atacarlas.**
   * It is also used as a metaphor about leaders and those who follow them.
-
-[See also: **[[es-419:obs:notes:key-terms:sheep|sheep]]**]
-
+  * **Es también usado como una metáfora sobre los líderes y aquellos que le siguen.**
+[See also: **[[:es-419:obs:notes:key-terms:sheep|sheep]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd** in the wilderness far away from Egypt. 
-  ***[[:es-419:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd** from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep. 
-  ***[[:es-419:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds** in a nearby field guarding their flocks.
-  ***[[:es-419:obs:notes:frames:23-08|[23-08]]]** The **shepherds** soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. 
-  ***[[:es-419:obs:notes:frames:30-03|[30-03]]]**  To Jesus, these people were like sheep without a **shepherd**.
-
-
+  * **[[:es-419:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
+  * **[[:es-419:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
+  * **[[:es-419:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
+  * **[[:es-419:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
+  * **[[:es-419:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
 ~~DISCUSSION:off~~
