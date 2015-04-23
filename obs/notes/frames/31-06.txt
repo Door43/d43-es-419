@@ -1,8 +1,9 @@
-===== Peter Walked on the Water [31-06] =====
+===== Peter Walked on the Water / Pedro camino sobre el agua [31-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&}}
 
 So, **Peter** got out of the boat and started walking to **Jesus** on the surface of the water. But after walking a short distance, he **turned his eyes away from** Jesus and began to look at the waves and to feel the strong wind.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
