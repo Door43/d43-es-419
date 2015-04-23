@@ -8,15 +8,13 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/adultery|adultery]]**
-  * **[[:es-419:obs:notes:key-terms/love|love]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:adultery|adultery]]**
+  * **[[:es-419:obs:notes:key-terms:love|love]]**
 ===== Translation Notes: =====
 
-  * **Which ones do I need to obey?** - That is, "Which laws will be enough for me to receive eternal life?"
-  * **as you love yourself** - That is, "as much as you love yourself" or, "to the same degree that you love yourself."
-
-
+  * **Which ones do I need to obey?**  - That is, "Which laws will be enough for me to receive eternal life?
+  * **Cuales son los que yo tengo que obedecer? - Esto es, "Que leyes son suficientes para mi recibir vida eterna?**
+  * **as you love yourself**  - That is, "as much as you love yourself" or, "to the same degree that you love yourself."
+  * **como tu te amas a ti mismo - Esto es, "tanto como tu te amas a ti mismo" o, "a la misma medida que tu te amas a ti mismo."**
 **[[:es-419:obs:notes:frames:28-01|<<]] | [[:es-419:obs:notes:28|Up]] | [[:es-419:obs:notes:frames:28-03|>>]]**
