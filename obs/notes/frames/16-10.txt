@@ -8,18 +8,15 @@
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:israel|Israelite]]**
   * **[[:es-419:obs:notes:key-terms:gideon|Gideon]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:es-419:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
-
-
+  * **32,000 Israelite soldiers came to Gideon**  - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:es-419:obs:notes:frames:16-08|[16-08]]]**.
+  * **32,000 soldados Israelitas vinieron a Gedeon **- Algunos idiomas pueden necesitar encertar la siguiente oracion para comenzar la historia:  " Gedeon llamo a los Israelitas para que vengan a pelear en contra de los Madianitas" Ver **[16-08]**
+  * **too many**  - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
+  * **demasiados**  - Esto fueron muchos mas soldados que lo que Dios deseo para esta pelea.Si esta cantidad de soldados pelearon y ganaron, ellos pensarían que ganaron la batalla por sus propias fuerzas, y ellos no creerían que Dios hizo esto.
+  * **except for 300 soldiers**  - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
+  * **a excepción por 300 soldados **- Esta oración puede ser traducida como, " Así que Gedeon permitió solamente estar a 300 hombres, y el resto de ellos se fueron a sus casas"
 **[[:es-419:obs:notes:frames:16-09|<<]] | [[:es-419:obs:notes:16|Up]] | [[:es-419:obs:notes:frames:16-11|>>]]**
