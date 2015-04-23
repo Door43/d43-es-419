@@ -1,30 +1,29 @@
-====== Silas ======
-
+====== Silas  Silas ======
 
 ===== Facts: =====
 
+Datos:
 
 Silas was a leader among the believers in Jerusalem.
 
+Silas era un líder entre los creyentes en Jerusalén.
 
-    * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
-    * Silas later traveled with Paul to other cities to teach people about Jesus.
-    * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+  * The church in Jerusalem appointed Silas to go with Paul and Barnabas to the city of Antioch.
+  * La iglesia de Jerusalen escogió a Silas para ir con Pablo y Bernabé a la ciudad de Antioquía.
+  * Silas later traveled with Paul to other cities to teach people about Jesus.
+  * Silas más tarde viajó con Pablo a otras ciudades a enseñar a la gente de Jesús.
+  * Paul and Silas were put in jail in the city of Philippi. They trusted God and sang praises to him while they were there. God released them from the jail, and used them to save the jailer.
+  * Pablo y Silas fueron encarcelados en la ciudad de Filipo.  Ellos confiaron en Dios y cantaron alabanzas a Él, mientras estaban allí.  Dios les libertó de la cárcel y los uso para salvar al calcelero.
 
-
-[See also: **[[es-419:obs:notes:key-terms:jerusalem|Jesusalem]]**, **[[es-419:obs:notes:key-terms:paul|Paul]]**, **[[es-419:obs:notes:key-terms:philippi|Philippi]]**]
-
+[See also: **[[:es-419:obs:notes:key-terms:jerusalem|Jesusalem]]**, **[[:es-419:obs:notes:key-terms:paul|Paul]]**, **[[:es-419:obs:notes:key-terms:philippi|Philippi]]**]
 
 ===== Examples from the Bible stories: =====
 
-
-    * **[[:es-419:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend **Silas** went to the town of Philippi to proclaim the good news about Jesus. 
-    * **[[:es-419:obs:notes:frames:47-02|[47-02]]]** She (Lydia) invited Paul and **Silas** to stay at her house, so they stayed with her and her family.
-    * **[[:es-419:obs:notes:frames:47-03|[47-03]]]** Paul and **Silas** often met with people at the place of prayer. 
-    * **[[:es-419:obs:notes:frames:47-07|[47-07]]]** So the owners of the slave girl took Paul and **Silas** to the Roman authorities, who beat them  and threw them into jail.
-    * **[[:es-419:obs:notes:frames:47-08|[47-08]]]** They put Paul and **Silas** in the most secure part of the prison and even locked up their feet. 
-    * **[[:es-419:obs:notes:frames:47-11|[47-11]]]** The jailer trembled as he came to Paul and **Silas** and asked, "What must I do to be saved?" 
-    * **[[:es-419:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and **Silas** from prison and asked them to leave Philippi. Paul and **Silas** visited Lydia and some other friends and then left the city. 
-
-
+  * **[[:es-419:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend **Silas**  went to the town of Philippi to proclaim the good news about Jesus.
+  * **[[:es-419:obs:notes:frames:47-02|[47-02]]]** She (Lydia) invited Paul and **Silas**  to stay at her house, so they stayed with her and her family.
+  * **[[:es-419:obs:notes:frames:47-03|[47-03]]]** Paul and **Silas**  often met with people at the place of prayer.
+  * **[[:es-419:obs:notes:frames:47-07|[47-07]]]** So the owners of the slave girl took Paul and **Silas**  to the Roman authorities, who beat them and threw them into jail.
+  * **[[:es-419:obs:notes:frames:47-08|[47-08]]]** They put Paul and **Silas**  in the most secure part of the prison and even locked up their feet.
+  * **[[:es-419:obs:notes:frames:47-11|[47-11]]]** The jailer trembled as he came to Paul and **Silas**  and asked, "What must I do to be saved?"
+  * **[[:es-419:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and **Silas**  from prison and asked them to leave Philippi. Paul and **Silas**  visited Lydia and some other friends and then left the city.
 ~~DISCUSSION:off~~
