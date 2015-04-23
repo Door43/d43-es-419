@@ -1,11 +1,12 @@
-===== God Created Light [01-02]  *F =====
+===== God Created Light / Dios creó la luz [01-02] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?nolink&}}
 
 Then **God said**, “**Let there be** light!” And there was **light**. God saw that the light **was good** and called it “day.” He separated it from the darkness, which he called “night.” God created the light on the first day of **creation**.
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
+
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
