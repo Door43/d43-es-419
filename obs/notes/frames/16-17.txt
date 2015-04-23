@@ -8,7 +8,6 @@ Este patrón se repitió muchas veces: los israelitas pecarían, Dios los castig
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
@@ -16,12 +15,8 @@ Este patrón se repitió muchas veces: los israelitas pecarían, Dios los castig
   * **[[:es-419:obs:notes:key-terms:repent|repent]]**
   * **[[:es-419:obs:notes:key-terms:deliverer|deliverer]]**
   * **[[:es-419:obs:notes:key-terms:save|save]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **This pattern repeated many times**  - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
+  * **Este modelo se repitio muchas veces **- esto puede ser traducido como, "Estas cosas se mantuvieron sucediendo una y otra vez" o, "Estas cosas sucedieron muchas veces".
 **[[:es-419:obs:notes:frames:16-16|<<]] | [[:es-419:obs:notes:16|Up]] | [[:es-419:obs:notes:frames:16-18|>>]]**
