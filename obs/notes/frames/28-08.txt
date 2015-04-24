@@ -8,15 +8,13 @@ Jesús miró a los discípulos y les dijo: “Con la gente esto es imposible, m�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
-
+  * **With people this is impossible**  - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
+  * **Con la gente esto es imposible - Esto es, "No es posible para la gente hacer esto" o, "Los seres humanos meros no pueden salvarse a si mismos."**
+  * **with God, all things are possible**  - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person.
+  * **con Dios, todas las cosas son posible - Esto tambien se puede traducir como, "Dios es capaz de hacer cualquier cosa, hasta salvar una persona rica" o, "Dios**  es **capaz de hacer cosas imposibles, asi que el puede  salvar a una persona rica.**
 **[[:es-419:obs:notes:frames:28-07|<<]] | [[:es-419:obs:notes:28|Up]] | [[:es-419:obs:notes:frames:28-09|>>]]**
