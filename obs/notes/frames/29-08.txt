@@ -8,20 +8,20 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/king|king]]**
-  * **[[:es-419:obs:notes:key-terms/servant|servant]]**
-  * **[[:es-419:obs:notes:key-terms/forgive|forgave]]**
-  * **[[:es-419:obs:notes:key-terms/beg|begged]]**
-  * **[[:es-419:obs:notes:key-terms/evil|wicked]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:king|king]]**
+  * **[[:es-419:obs:notes:key-terms:servant|servant]]**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgave]]**
+  * **[[:es-419:obs:notes:key-terms:beg|begged]]**
+  * **[[:es-419:obs:notes:key-terms:evil|wicked]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:es-419:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * **called the servant**  - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
+  * **llamo al sirviente**  - esto es, " manso al sirviente a venir" o, ordeno a sus sirvientes que le trajeran el otro sirviente."
+  * **begged me**  - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
+  * **me suplicaste**  - Esto podria ser traducido como, "me imploraste" o, "insistentemente me pediste que tuviera misericordia"
+  * **You should have done the same**  - That is, "You should have forgiven the man who owed you, just as I forgave you."
+  * **Usted deberia haver hecho lo mismo**  - Esto es, "Usted deberia haber perdonado al hombre que le debia, asi como yo le perdone a Usted."
+  * **threw**  - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:es-419:obs:notes:frames:29-06|[29-06]]]**.
+  * **tiro**  - Esto es, " ordenar a sus guardias poner. " tenga en cuenta "tirar" como fjue traducido en el cuadro [29-06]
 **[[:es-419:obs:notes:frames:29-07|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-09|>>]]**
