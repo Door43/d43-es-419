@@ -8,9 +8,9 @@ El hambre era muy severa no sólo en Egipto, pero también,en Canaan dónde Jaco
 
 ===== Important Terms: =====
 
-  * **[[:en:obs:notes:key-terms:egypt|Egypt]]**
-  * **[[:en:obs:notes:key-terms:canaan|Canaan]]**
-  * **[[:en:obs:notes:key-terms:jacob|Jacob]]**
+  * **[[archive:ktobs:egypt|Egypt]]**
+  * **[[archive:ktobs:canaan|Canaan]]**
+  * **[[archive:ktobs:jacob|Jacob]]**
 ==== Translation Notes: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
