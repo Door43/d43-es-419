@@ -1,8 +1,11 @@
 ===== Jesus and Pilate [39-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
 Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
+
+Temprano la próxima mañana, los líderes de los Judios llevaron a Jesús a Pilato, el gobernador Romano. Ellos esperaban que Pilato condenaría a Jesús como culpable y le condenaría que fuera matado. Pilato preguntó a Jesús, “¿Es Ud. el rey de los Judios?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
