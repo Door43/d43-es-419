@@ -1,8 +1,11 @@
 ===== Come Down from the Cross [40-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
 The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
+
+Los líderes de los Judios y la otra gente en la multitud​ se burlaron de Jesús. Ellos le dijeron, “¡Si Ud. es el Hijo de Dios, bájese de la cruz y sálvese! “Entonces, creeremos en Ud.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
