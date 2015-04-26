@@ -1,8 +1,11 @@
 ===== Before the Jewish Leaders [44-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
 The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
+
+El próximo día, los líderes Judios trajeron a Pedro y a Juan al sumo sacerdote y a los otros líderes religiosos. Ellos preguntaron a Pedro y a Juan, “¿Por qué poder han sanado a este hombre paralítico?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
