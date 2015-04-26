@@ -1,8 +1,11 @@
 ===== God Loves You [49-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink&}}
 
 **God** will **save** everyone who **believes** in **Jesus** and **receives** him as their **Master**. But he will not save anyone who does not believe in him. It does not matter if you are rich or poor, man or woman, old or young, or where you live. God **loves** you and wants you to believe in Jesus so **he can have a close relationship with you**.
+
+Not translated.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/god|God]]**
