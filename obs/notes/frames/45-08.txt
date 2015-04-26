@@ -1,8 +1,11 @@
 ===== The Ethiopian Read Isaiah [45-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
 When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
+
+Cuando Felipe se acercó al carruaje, él oyó al Etíope leyendo de lo que el profeta Isaías escribió. El hombre leyó, “Ellos le llevaron como un cordero para ser matado, y como un cordero está callado, él no dijo una palabra. Ellos le trataron injustamente y no le respetaban. Ellos quitaro la vida de sí.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/chariot|chariot]]**
