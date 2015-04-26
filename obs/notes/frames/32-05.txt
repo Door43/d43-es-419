@@ -1,8 +1,11 @@
 ===== Jesus Commanded the Demons [32-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink&}}
 
 When the man came to **Jesus**, he **fell on his knees** in front of him. Jesus said to the **demon**, “Come out of this man!”
+
+Cuando el hombre llegó a Jesús, se cayó de rodillas ante él. Jesús dijo al demonio, “Salga de este hombre!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
