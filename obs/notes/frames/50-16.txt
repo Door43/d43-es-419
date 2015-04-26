@@ -1,8 +1,11 @@
 ===== The New Heaven and Earth [50-16] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
 Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
+
+Porque Adán y Eva desobedecieron a Dios y trajeron el pecado a este mundo, Dios lo maldijo y decidió destruirlo. Pero algún día Dios creará un nuevo cielo y una nueva tierra que serán perfectos.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
