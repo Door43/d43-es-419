@@ -1,8 +1,11 @@
 ===== Here Is Water [45-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
 As Philip and the Ethiopian traveled, they came to **some water**. The Ethiopian said, “Look! There is some water! **May I be baptized**?” And he told the driver to stop the **chariot**.
+
+Mientras Felipe y el Etíope viajaban, ellos llegaron a un agua. El Etíope dijo, “¡Mire!” !Hay agua! “¿Pueda ser bautizado yo?” Y le dijo al chofer que parara al carruaje.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
