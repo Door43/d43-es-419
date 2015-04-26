@@ -1,8 +1,11 @@
 ===== The Disciples Slept [38-13] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
 **After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
+
+Después de cada tiempo de oración, Jesús volvió a sus discípulos, pero ellos estaban dormidos. Cuando él regresó la tercera vez, Jesús dijo, “¡Despiértanse! Mi traidor está aquí.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/pray|prayer]]**
