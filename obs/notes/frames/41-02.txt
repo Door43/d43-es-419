@@ -1,8 +1,11 @@
 ===== The Tomb Was Sealed [41-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-02.jpg?nolink&}}
 
 **Pilate** said, “Take some soldiers and make the **tomb** as secure as you can.” So **they placed a seal on the stone** at the entrance of the tomb and put the soldiers there to make sure no one could steal the body.
+
+Pilato dijo, “Tomen algunos soldados y hagan la tumba tan segura como sea posible​.” Así, pusieron un sello en la roca a la entrada de la tumba y pusieron soldados allá para asegurar que nadie pudiera robar el cuerpo.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
