@@ -1,8 +1,11 @@
 ===== You Killed the Messiah [45-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-03.jpg?nolink&}}
 
 The **high priest** asked Stephen, “**Are these things true**?” Stephen replied by reminding them of many of the great things **God** had done from the time of **Abraham** to the time of **Jesus**, and how God's people continually **disobeyed** him. Then he said, “You stubborn and **rebellious** people **always reject the Holy Spirit**, just as **your ancestors** always rejected God and killed his **prophets**. But you did something worse than they did! You killed the **Messiah**!”
+
+El sumo sacerdote preguntó a Esteban, “¿Son estas cosas la verdad?” Esteban respondió al recordarles de las muchas cosas grandes que Dios había hecho desde el tiempo de Abraham hasta el tiempo de Jesús, y como la gente de Dios continuamente le desobedecía. Entonces, él dijo, “Uds. son una gente terca y rebelde y siempre rechacen al Espíritu Santo, justo como sus antepasados siempre recharan a Dios y mataran a sus profetas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
