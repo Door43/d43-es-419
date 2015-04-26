@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
+
+“La tierra rocosa es una persona que escucha la palabra de Dios y la recibe con gozo. Pero cuando él experimenta las dificultades o las persecuciones, él vuelve para atras.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
