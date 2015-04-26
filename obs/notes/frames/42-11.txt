@@ -1,8 +1,11 @@
 ===== Jesus Went to Heaven [42-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
 Forty days after **Jesus** rose from the dead, he told his **disciples**, “Stay in **Jerusalem** until my **Father** gives you **power** when the **Holy Spirit comes on you**.” Then Jesus went up to **heaven**, and **a cloud hid him from their sight**. Jesus sat down **at the right hand of God** to rule **over all things**.
+
+Cuarenta días después de resucitar Jesús de la muerte, él dijo a sus discípulos, “Quédense en Jerusalen hasta que mi Padre les de poder cuando el Espíritu Santo venga sobre Uds.” Entonces, Jesús subió al cielo, y una nube le escondió de su vista. Jesús se sentó a la diestra de Dios para reinar sobre todas las cosas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
