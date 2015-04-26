@@ -1,8 +1,11 @@
 ===== Judas Betrayed Jesus [38-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
 **Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
+
+Judas vino con los líderes de los Judios, los soldados, y una muchedumbre. Ellos tenían espadas y palos. Judas se acercó a Jesús y le dijo, “Saludos, Maestro,” y lo besó. Esta fue la señal a los líderes de los Judios para que supieran a quién arrestar. Entonces, Jesús dijo, “¿Judas, me entregas con un beso?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/judas|Judas]]**
