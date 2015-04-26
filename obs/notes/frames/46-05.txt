@@ -1,8 +1,11 @@
 ===== Ananias Baptized Saul [46-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
 So Ananias went to **Saul**, placed his hands on him, and said, “**Jesus**, who appeared to you on your way **here**, sent me to you so that you can **regain your sight** and be filled with the **Holy Spirit**.” Saul immediately was able to see again, and Ananias **baptized** him. Then Saul ate some food and **his strength returned**.
+
+Así, Ananías fue donde Saulo, puso sus manos sobre él, y dijo, “Jesús, quien apareció a Ud. en el camino, me envió a Ud. para que pueda recuperar su vista y ser llenado del Espíritu Santo.” Saulo, inmediatamente, pudo ver otra vez, y Ananías le bautizó. Entonces, Saulo comió una comida y su fuerza se le devolvió.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
