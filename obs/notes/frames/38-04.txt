@@ -1,8 +1,11 @@
 ===== This Is My Body [38-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
 In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. **This is my body**, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
+
+En Jerusalén, Jesús celebró la Pascua con sus discípulos. Durante la cena de la Pascua, Jesús tomó un pan y lo partió. El dijo, “Tomen y coman esto. Esto es mi cuerpo, que es dado por Uds. Hagan esto en memoria de mí.” De esta manera, Jesús dijo que su cuerpo sería sacrificado por ellos.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
