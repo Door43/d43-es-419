@@ -11,10 +11,13 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **mustard seed** - See how you translated this term in **[[:es-419:obs:notes:frames:34-01|[34-01]]]**.
-  * **grows** - You may want to add, "into a mature plant."
-  * **garden plants** - This can also be translated as, "plants that would be planted in a garden."
-  * **rest in** - This may also be translated as, "sit on" or, "perch on."
-
-
+  * **(Jesus continua la historia.)**
+  * **mustard seed**  - See how you translated this term in **[[:es-419:obs:notes:frames:34-01|[34-01]]]**.
+  * **semilla de mostaza - Vea como tu traducistes este termino// en [34-01]// **
+  * **grows**  - You may want to add, "into a mature plant."
+  * **crece - Quiza quieres anadir, "en una planta madura."**
+  * **garden plants**  - This can also be translated as, "plants that would be planted in a garden."
+  * **plantas de jardin - Esto tambien se puede traducir como, "plantas que van hacer sembradas en el jardin."**
+  * **rest in**  - This may also be translated as, "sit on" or, "perch on."
+  * **descansa en - Esto puede ser tambien traducido como,"sentarse sobre o, posarse en."**
 **[[:es-419:obs:notes:frames:34-01|<<]] | [[:es-419:obs:notes:34|Up]] | [[:es-419:obs:notes:frames:34-03|>>]]**
