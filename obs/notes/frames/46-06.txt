@@ -1,8 +1,11 @@
 ===== Saul Preached about Jesus [46-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
 **Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
+
+Inmediatamente, Saulo empezó a predicar a los Judios en Damasco, diciendo, “¡Jesús es el Hijo de Dios!” Los Judios estaban atónitos que el hombre que había tratado de destruir a los creyentes, ahora también, creía en Jesús! Saulo razonaba con los Judios, comprobando que Jesús era el Mesías.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
