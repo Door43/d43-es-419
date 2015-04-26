@@ -1,8 +1,11 @@
 ===== The Younger Son [35-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&}}
 
 “Soon the younger son gathered all that he had and went far away and **wasted his money** in **sinful living**.”
+
+“Pronto el hijo menor agarró todo que tenía y se fue lejos y malgastó su dinero en una vida pecaminosa.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/sin|sinful]]**
