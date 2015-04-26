@@ -1,8 +1,11 @@
 ===== Martha Met Jesus [37-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
 When **Jesus** arrived at **Lazarus**' hometown, Lazarus had already been **dead** for four days. **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
+
+Cuando Jesús llegó al pueblo de Lázaro, Lázaro ya tenía cuatro días de estar muerto. Marta fue para ver a Jesús y le dijo, “Señor, si Ud. sólo había estado aquí, mi hermano no habría muerto. Pero yo creo que Dios le dará cualquier cosa que le pide.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
