@@ -1,9 +1,10 @@
 ===== Wait for the Harvest [50-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
 “The **servants** responded to their **master**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
+“Los siervos le respondieron a su señor, 'Deberíamos arrancar la cizaña?' El señor dijo, 'No. Si hacen esto, arrancarán algo del trigo también. Eseperen hasta la cosecha y entonces, recogan la cizaña en pilas para ser quemada, pero traigan el trigo a mi granero.'”
 
 ===== Important Terms: =====
 
