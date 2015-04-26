@@ -1,8 +1,11 @@
 ===== God Gave His Son [49-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-09.jpg?nolink&}}
 
 But **God loved** everyone in the world so much that he **gave his only Son** so that **whoever believes in Jesus will not be punished for his sins**, **but will live with God foreve**r.
+
+Pero Dios amaba a todos en el mundo tanto que El dio a su único Hijo para que quienquiera que crea en Jesús no será castigado por sus pecados, sino vivirá con Dios para siempre.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/god|God]]**
