@@ -1,8 +1,11 @@
 ===== Judas Killed Himself [39-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
 **Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
+
+Pedro fue y lloró amargamente. Mientras tanto, Judas, el traidor, vio que los líderes de los Judios había condenado a Jesús a la muerte. Judas se llenó de tristeza y fue y se mató.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
