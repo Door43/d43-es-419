@@ -1,8 +1,11 @@
 ===== Spiritual Fruit [33-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?nolink&}}
 
 “But the **good soil is a person** who hears the **word of God**, **believes** it, and **produces fruit**.”
+
+“Pero la tierra buena es la persona que escucha la palabra de Dios, la cree, y produce fruta.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/good|good]]**
