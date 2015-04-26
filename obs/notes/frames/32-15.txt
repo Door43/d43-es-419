@@ -1,8 +1,11 @@
 ===== Who Touched Me? [32-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
 Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
+
+Inmediatamente, Jesús se dio cuenta que poder había salido de él. Así, voltió y pidió, “¿Quién me tocó?” Los discípulos le respondieron, “Hay mucha gente cerca de Ud. y presionándole. Por qué pidió, '¿Quién me tocó?'”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
