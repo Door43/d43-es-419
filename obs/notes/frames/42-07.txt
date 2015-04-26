@@ -1,8 +1,11 @@
 ===== Jesus Opened their Minds [42-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink&}}
 
 **Jesus** said, “I told you that everything written about me in **God’s word** must be **fulfilled**.” Then he **opened their minds so that they could understand** God’s word. He said, “It was written long ago that the **Messiah** would **suffer**, **die**, and **rise** from the dead **on the third day**.”
+
+Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra de Dios debe ser cumpldo.” Entonces, él abrió sus mentes para que pudieran entender la palabra de Dios. El dijo, “Fue escrito hace muchos años que el Mesías sufriría, moriría, y levantaría de la muerte en el tercer día.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
