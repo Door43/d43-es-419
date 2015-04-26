@@ -1,8 +1,11 @@
 ===== Lazarus Was Sick [37-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
 One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
+
+Un día, Jesús recibió un mensaje que Lázaro estaba muy enfermo. Lázaro y sus dos hermanas, María y Marta, eran muy amigos de Jesús. Cuando Jesús escuchó este mensaje, él dijo, “Esta enfermedad no terminará en la muerte, pero es para la gloria de Dios.” Jesús amaba a sus amigos, pero él esperó dos días más dónde estuvo.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
