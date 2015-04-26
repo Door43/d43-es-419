@@ -1,8 +1,10 @@
 ===== Peter's Comments [36-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
 As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+
+Mientras Moises y Elías estvuieron hablando con Jesús, Pedro dijo a Jesús. “Es bueno que estemos aquí. Déjenos hacer tres refugios, uno para Ud., uno para Moises, y uno para Elías.” Pedro no sabía lo que estuvo dieciendo.
 
 ===== Important Terms: =====
 
