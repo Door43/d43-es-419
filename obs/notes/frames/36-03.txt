@@ -1,8 +1,11 @@
 ===== Moses and Elijah [36-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
 Then **Moses** and the prophet **Elijah appeared**. These men had lived on the earth hundreds of years before this. They talked with **Jesus** about **his death**, **which would soon happen in Jerusalem**.
+
+Entonces, Moises y el profeta Elías aparecieron. Estos hombres habían vivido en la tierrra centenares de años antes. Ellos hablaron con Jesús acerca de su muerte, que iba a suceder pronto en Jerusalen.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/moses|Moses]]**
