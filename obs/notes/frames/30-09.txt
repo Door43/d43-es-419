@@ -1,8 +1,11 @@
 ===== More than Enough [30-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
 After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
+
+¡Después de eso, los discípulos recogieron la comida que no se había comido y era suficiente para llenar doce canastos! Toda la comida procedía de los cinco panes y dos peces.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
