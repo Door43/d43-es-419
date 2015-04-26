@@ -1,8 +1,11 @@
 ===== Lydia Was Baptized [47-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
 **God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
+
+Dios abrió el corazón de Lídia para que creyera el mensaje acerca de Jesús, y ella y su familia fueron bautizadas. Ella invitó a Pablo y a Silas que quedaren en su casa, así, ellos quedaban con ella y su familia.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/god|God]]**
