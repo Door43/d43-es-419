@@ -1,8 +1,11 @@
 ===== The Son of God [31-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&}}
 
 **When Peter and Jesus got into the boat**, **the wind** immediately stopped blowing and the water became calm. The **disciples** were amazed. They **worshiped** Jesus, saying to him, “**Truly, you are the Son of God**.”
+
+Cuando Pedro y Jesús llegaron al bote, el viento dejó de soplar de inmediato y el agua se calmó. Los discípulos estuvieron atónitos. Ellos adoraban a Jesús, diciendole, “En verdad, Ud. es el Hijo de Dios.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
