@@ -1,8 +1,11 @@
 ===== Philip Baptized the Ethiopian [45-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-12.jpg?nolink&}}
 
 So they went down into the water, and Philip **baptized** the Ethiopian. After they came up out of the water, the **Holy Spirit** suddenly **carried Philip away** to another place where he continued telling people about **Jesus**.
+
+Así, ellos bajaron al agua, y Felipe le bautizó al Etíope. Después de subir ellos del agua, de repente el Espíritu Santo llevó a Felipe a otro lugar donde él siguió contando a la gente acerca de Jesús.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
