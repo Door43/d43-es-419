@@ -1,8 +1,11 @@
 ===== Peter Fought for Jesus [38-15] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
 **As the soldiers arrested Jesus**, **Peter pulled out his sword** and cut off the ear of a **servant** of the **high priest**. Jesus said, “Put the sword away! I could ask the **Father** for an army of **angels** to defend me. But I **must obey my Father**.” Then Jesus **healed** the man’s ear. After Jesus was arrested, all the **disciples** ran away.
+
+Mientras los soldados arrestaron a Jesús, Pedro sacó su espada y cortó la oreja del siervo del sumo sacerdote. Jesús dijo, “¡Guarda tu espada! Yo podría pedir de mi Padre un ejercito de ángeles para defenderme. Pero tengo que obedecer a mi Padre.” Entonces, Jesús sanó la oreja del hombre. Después de ser arrestado Jesús, todos sus discípulos se escaparon.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
