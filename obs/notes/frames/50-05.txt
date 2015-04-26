@@ -1,8 +1,11 @@
 ===== The Enemy [50-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?nolink&}}
 
 **Jesus** told his **disciples** a story to explain what will happen to people when the world ends. He said, “A man planted **good seed** in his field. While he was sleeping, his enemy came and planted **weed seeds** along with the **wheat**, and then he went away.”
+
+Jesús dijo a los discípulos una historia para explicarles qué sucederá con la gente cuando el mundo se acaba. “Un hombre sembró semilla buena en su campo. Mientras él estaba dormido, su enemigo vino y sembró semillas de cizaña con el trigo, y entonces, se fue.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
