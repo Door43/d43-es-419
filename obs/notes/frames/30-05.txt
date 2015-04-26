@@ -1,8 +1,11 @@
 ===== Five Loaves and Two Fish [30-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
 But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
+
+Pero Jesús dijo a los discípulos: “¡Dénles Uds. de comer!” Ellos respondieron, “¿Cómo podemos hacer eso? Sólo tenemos cinco panes y dos peces.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
