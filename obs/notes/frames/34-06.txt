@@ -1,8 +1,11 @@
 ===== Two Men at the Temple [34-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
 Then **Jesus** told a **story** to some people who **trusted in their own good deeds** and **despised other people**. He said, “Two men went to the **Temple** to **pray**. One of them was a **tax collector**, and the other was a **religious leader**.”
+
+Entonces, Jesús contó una historia a alguna gente que confiaba en sus buenas obras y menospreciaba a otra gente. El dijo, “Dos hombres fueron al Templo para orar. Uno de ellos fue un cobrador de impuestos, y el otro fue un líder religioso.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
