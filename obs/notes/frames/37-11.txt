@@ -1,8 +1,11 @@
 ===== The Leaders Were Jealous [37-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
 But the **religious leaders** of the **Jews** were **jealous**, so they **gathered together** to plan how they could kill **Jesus** and **Lazarus**.
+
+Pero, los líderes religiosos de los Judios estaban celosos, así, ellos se juntaron para hacer planes cómo ellos podrían matar a Jesús y a Lázaro.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|religious leaders]]**
