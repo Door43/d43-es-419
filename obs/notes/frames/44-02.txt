@@ -1,8 +1,11 @@
 ===== Get Up and Walk [44-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
 **Peter** looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. **In the name of Jesus**, **get up** and walk!”
+
+Pedro miróa al paralítico y dijo, “No tengo dinero para darte. Pero le daré lo que tengo. ¡En el nombre de Jesús, párate y camina!”
+
 ===== Important Terms: =====
 
 
