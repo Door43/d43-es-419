@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?nolink&}}
 
 “Other seeds fell into **good soil**. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. **He who has ears, let him hear**!”
+
+“Otras semillas se cayeron en la tierra buena. Estas semillas crecieron y produjeron 30, 60, o aun 100 veces más de granos como la semilla que fue sembrada. El que tiene oidos, oiga!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:good|good]]**
