@@ -1,8 +1,11 @@
 ===== Jesus Appeared to the Women [41-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&}}
 
 As the women were on their way to tell the **disciples** the good news, **Jesus** appeared to them, and they **worshiped** him. Jesus said, “Do not be afraid. Go and tell my disciples to go to **Galilee**. They **will see me** there.”
+
+Mientras las mujeres estuvieron en el camino para decir a los discíplulos las buenas nuevas, Jesús les apareció, y ellas le adoraron. Jesús dijo, “No tengan miedo. Vayan y digan a mis discípulos que vayan a Galilea. Ellos me verán allá.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
