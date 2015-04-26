@@ -1,8 +1,11 @@
 ===== The Miracles [49-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
 **Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+
+Jesús hizo muchos milagros para probar que es Dios. El caminó encima del agua , calmó las tormentas, sanó a muchas peersonas enfermas, echó fuera demonios, levantó los muertos a la vida, y cambió cinco panes y dos pescados pequeños a suficiente comida para dar a comer a 5,000 personas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
