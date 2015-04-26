@@ -1,8 +1,11 @@
 ===== The Women [41-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
 The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
+
+El día después de ser enterrado Jesús fue un día sábado, y los Judios no estaban premitidos que fueran a la tumba en aquel día. Así, muy temprano en la mañana después del sábado, varias mujeres se prepararon para ir a la tumba de Jesús para poner especias en su cuerpo.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
