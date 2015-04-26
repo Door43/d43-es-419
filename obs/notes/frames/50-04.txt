@@ -1,8 +1,11 @@
 ===== Remain Faithful [50-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
 **Jesus** also said, “A **servant** is** not greater than his master**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **suffer**, be encouraged because I have defeated **Satan**, the one who rules this world. If you **remain faithful to me to the end**, then **God will save you**!”
+
+Jesús también, dijo, “Un siervo no es mayor que su señor. Justo como las autoridades de este mundo me han odiado, ellos les torturán y matarán a Uds. por mí. Aunque en este mundo Uds. sufrirán, sean animados porque he vencido a Satanás, él que reina sobre este mundo. Si quieren quedar fieles a mí hasta el fin, entonces, Dios les salvará!””
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
