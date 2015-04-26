@@ -1,8 +1,11 @@
 ===== Back to Judea [37-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
 After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
+
+Después de cumplir los dos días, Jesús dijo a sus discípulos, “Volvamos a Judea.” “Pero Maestro,” respondieron los discípluos, “¡Hace un rato la gente allá quería matarle! Jesús dijo, “Nuestro amigo Lázaro está dormido, y debo despertarle.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
