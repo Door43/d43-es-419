@@ -1,8 +1,11 @@
 ===== The People Were Angry [47-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
 The men who owned the **slave girl** became very angry! They realized that **without the demon**, the slave girl could not tell people **the future**. **This meant that** people would no longer pay her owners money so that she would tell them what would happen to them.
+
+¡Los dueños de la niña esclava se pusieron muy enojados! Ellos se dieron cuenta que sin el demonio, la niña esclava no podría adivinar el futuro. Esto quería decir que la gente ya no pagaría a los dueños dinero para que ella les dijera lo que pasaría con ellos.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/servant|slave girl]]**
