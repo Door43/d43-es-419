@@ -1,8 +1,11 @@
 ===== You Are Witnesses [42-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
 “It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
+
+“También, fue escrito en las escrituras que mis discípulos proclamarán que todos deberían arrepentirse para recibir el perdón de los pecados. Ellos harán esto empezando en Jesrusalen, y luego ir a todos los grupos de gente en todo lugar. Uds. son testigos de estas cosas.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/word-of-god|scriptures]]**
