@@ -1,8 +1,11 @@
 ===== Jesus Walked on the Water [31-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
 Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
+
+Entonces, Jesús terminó de orar y fue a los discípulos. ¡El caminó encima del agua cruzando el lago hacia el bote!
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
