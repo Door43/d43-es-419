@@ -1,8 +1,11 @@
 ===== What Is Truth? [39-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
 Jesus answered, “**You have said so**, but **my kingdom is not an earthly kingdom**. If it were, **my servants would fight for me**. I have come to earth to tell the **truth** about **God**. Everyone who **loves** the truth **listens to me**.” **Pilate** said, “**What is truth**?”
+
+Jesús le contestó, “Ud. lo ha dicho, pero mi reino no es un reino terrenal. Si fuera, mis siervos pelerarían por mí. He venido a la tierra para decir la verdad acerca de Dios. Cada persona que ama la verdad me escucha. “Pilato dijo, “Qué es la verdad?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
