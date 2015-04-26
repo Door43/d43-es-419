@@ -1,8 +1,11 @@
 ===== The Famine [35-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?nolink&}}
 
 “After that, **a severe famine happened** in the land where the younger son was, and he had **no money to buy food**. So he took the only job he could find, **feeding pigs**. He was so miserable and hungry that he wanted to eat the pigs’ food.”
+
+“Después de aquello, un hambre ocurrió en la tierra donde el hijo menor estaba, y él no tenía dinero para comprar comida. Así, él tomó el único trabajo que pudo encontrar, dando comida a los cerdos. Estaba tan miserable y hambriento que él quería comer la comida de los cerdos.”
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
