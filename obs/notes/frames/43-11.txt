@@ -1,8 +1,11 @@
 ===== Repent and Be Baptized [43-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
 **Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
+
+Pedro les contestó, “Cada uno de Uds. debería arrepentirse y ser bautizado en el nombre de Jesucristo para que Dios les perdone los pecados.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
