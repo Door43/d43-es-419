@@ -1,8 +1,11 @@
 ===== The Mustard Seed [34-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
 
 **Jesus** told many other **stories** about the **kingdom of God**. For example, he said, “The kingdom of God is like a **mustard seed** that someone planted in his field. You know that the mustard seed is **the smallest seed of all**.”
+
+Jesús contó muchas otras historias acerca del reino de Dios. Por ejemplo, él dijo, “El reino de Dios es como una semilla de mostaza que alguien sembró en su campo. Uds. saben que la semila de mostaza es la semilla más pequeña de todas.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
