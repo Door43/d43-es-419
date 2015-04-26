@@ -1,8 +1,11 @@
 ===== Guards for the Tomb [41-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-01.jpg?nolink&}}
 
 After the soldiers **crucified Jesus**, **the unbelieving Jewish leaders** said to **Pilate**, “**That liar**, **Jesus**, **said** he would **rise from the dead** after three days. Someone must guard the **tomb** to make sure that his **disciples** do not steal the body and then say he has risen from the dead.”
+
+Después de crucificar a Jesús los soldados, los líderes Judios que no creyeron en Jesús dijeron a Pilato, “Aquel mentiroso, Jesús, dijo que resucitaría de la muerte después de tres días. Alguien debe guardar la tumba para asegurar que sus discípulos no roben el cuerpo y entonces, decir que ha resucitado de la muerte
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/crucify|crucified]]**
