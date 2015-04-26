@@ -1,8 +1,11 @@
 ===== At Gethsemane [38-11] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
 Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
+
+Entonces, Jesús fue con sus discípulos a un lugar llamado Getsemaní. Jesús dijo a sus discípulos que orarsen para que ellos no cayeran en tentación. Jesús fue para orar a solas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
