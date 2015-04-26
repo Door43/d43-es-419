@@ -1,8 +1,11 @@
 ===== Jesus Is Alive [42-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
 The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
+
+Los dos hombres dijeron uno al otro, “¡Aquel fue Jesús!” ¡Por esto nuestros corazones estaban quemando cuando él explicó la palabra de Dios a nosotros!” Inmediatamente, ellos volvieron a Jerusalen. Cuando llegaron, dijeron a los discípulos, “¡Jesús está vivo! ¡Lo hemos visto!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
