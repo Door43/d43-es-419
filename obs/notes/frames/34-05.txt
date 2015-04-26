@@ -1,8 +1,11 @@
 ===== The Perfect Pearl [34-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
 “The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
+
+“El reino de Dios es también, como una perla del valor grande. Cuando un comerciante​ la encontró, él vendió todo lo que tenía y usó el dinero para comprarla.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
