@@ -1,8 +1,11 @@
 ===== Tell the Disciples [41-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
 Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** has **risen** from the dead and **he will go to Galilee ahead of you**.'”
+
+Entonces, el ángel dijo a las mujeres, “Vayan y digan a los discípulos. 'Jesús ha resucitado de de la muerte e irá a Galilea antes de Uds.'”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/angel|angel]]**
