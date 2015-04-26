@@ -1,8 +1,11 @@
 ===== Jesus the Teacher [49-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
 **Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
+
+Jesús era también, un gran maestro, y él habló con autoridad porque era el Hijo de Dios. El enseñó que debemos amar a los demás como a nosotros mismos.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
