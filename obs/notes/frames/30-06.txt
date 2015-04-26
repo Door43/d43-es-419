@@ -1,9 +1,11 @@
 ===== Preparation for the Meal [30-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
 **Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
+
+Jesús dijo a sus discípulos que dijeran a la gente en la multitud que se recostara en la hierba, en grupos de cincuenta personas cada uno.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
