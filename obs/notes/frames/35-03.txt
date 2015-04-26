@@ -1,8 +1,11 @@
 ===== The Two Sons [35-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
 “There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
+
+“Había un hombre que tenía a dos hijos. El hijo menor dijo a su padre, '¡Padre, quiero mi herencia ya!' Así, el Padre dividió su propiedad entre sus dos hijos.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/son|sons]]**
