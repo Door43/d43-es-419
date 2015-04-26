@@ -1,8 +1,11 @@
 ===== Peter's Promise [38-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
 **Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
+
+Entonces, Pedro dijo a Jesús, “¡Aun si debo morir, nunca le niegue a Ud.!” Todos los otros discípulos dijeron lo mismo.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
