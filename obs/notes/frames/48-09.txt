@@ -1,8 +1,11 @@
 ===== The Passover [48-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
 When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
+
+Cuando Dios envió la última plaga sobre Egipto, El dijo a cada familia Isaraelita que matara un cordero perfecto y esparciera la sangre en la parte superior y los lados de sus marcos de las puertas. ​Cuando Dios vio la sangre, El pasó por encima de sus casa y no mató a sus hijos primogénitos. Este evento se llama la Pascua.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/god|God]]**
