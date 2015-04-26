@@ -1,8 +1,11 @@
 ===== The Joyful News [41-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-07.jpg?nolink&}}
 
 The women were **full of fear and great joy**. They ran to tell the **disciples** the **good news**.
+
+Las mujeres estuvieron llenas de miedo y de gran gozo. Ellas corrieron para dar a los discípulos las buenas noticias.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/joy|joy]]**
