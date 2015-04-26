@@ -1,8 +1,11 @@
 ===== Lazarus Was Alive Again [37-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
 So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** told them, “Help him take off those grave clothes and release him!” Many of the **Jews believed** in Jesus **because of this miracle**.
+
+¡Así, Lázaro salió! Todavía estaba envuelto en las telas del sepulcro. Jesús les dijo, “¡Ayúdenle quitar las telas del sepulcro y suéltenle! Muchos de los Judios creyeron en Jesús por este miraglo.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
