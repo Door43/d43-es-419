@@ -1,8 +1,11 @@
 ===== The Good News [50-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
 As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
+
+Mientras esperamos el regreso de Jesús, Dios quiere que vivamos en una manera que le honre. También, él quiere que digamos a otros acerca de su reino. Cuando Jesús estaba viviendo en la tierra él dijo, “Mis discípluos predicarán las buenas nuevas del reino de Dios a la gente en todo el mundo, entonces, el fin llegará.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
