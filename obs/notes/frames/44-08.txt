@@ -1,8 +1,11 @@
 ===== No Other Way but Jesus [44-08] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
 **Peter** answered them, “This man stands before you **healed** by the **power** of **Jesus** the **Messiah**. You **crucified** Jesus, but **God raised** him to life again! You **rejected him**, **but there is no other way to be saved except through the power of Jesus**!”
+
+Pedro les contestó, “Este hombre parado ante Uds. fue sanado por el poder de Jesús el Mesías. ¡Uds. crucificaron a Jesús, pero Dios le levantó a la vida otra vez! Uds. le rechazaron, pero no hay otra manera de ser salvados excepto por el poder de Jesús!”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
