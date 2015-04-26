@@ -1,8 +1,11 @@
 ===== The Church Is Growing [50-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?nolink&}}
 
 For almost 2,000 years, more and more people around the world have been hearing the **good news** about **Jesus** the **Messiah**. **The Church has been growing**. Jesus **promised** he would return **at the end of the world**. Though he has not yet come back, he will keep his promise.
+
+Por casi 2,000 años, más y más personas alrededor del mundo han escuchado las buenas nuevas acerca de Jesús el Mesías. La Iglesia ha estado creciendo. Jesús prometió que él volvería al fin del mundo. Aunque no ha vuleto, él cumpirá con su promesa.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
