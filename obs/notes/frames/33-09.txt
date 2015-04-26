@@ -8,17 +8,21 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/good|good]]**
-  * **[[:es-419:obs:notes:key-terms/word-of-god|word of God]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believes]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:good|good]]**
+  * **[[:es-419:obs:notes:key-terms:word-of-god|word of God]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believes]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
+  * **Jesus continua explicando la historia.)**
   * **good soil**  - See how you translated this term in **[[:es-419:obs:notes:frames:33-05|[33-05]]]**.
+  * **tierra buena - Vea como tu traducistes este termino [33-05]**.
   * **is a person**  - See how you translated this comparison in **[[:es-419:obs:notes:frames:33-06|[33-06]]]**.
+  * **es una persona - Vea como tu traducistes esta comparacion en [33-06]**.
   * **produce fruit**  - See how you translated this phrase in **[[:es-419:obs:notes:frames:33-08|[33-08]]]**.
+  * **produce fruto - Vea como tu traducistes ** esta **frase en [33-08].**
+  *
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estas referencias pueden ser un poco diferentes en algunas traducciones de la Biblia.**
   * //Una historia de la Biblia: Mateo 13:1-8, 18-23; Marcos 4:1-8, 13-20; Lucas 8:4-15//
 **[[:es-419:obs:notes:frames:33-08|<<]] | [[:es-419:obs:notes:33|Up]] | [[:es-419:obs:notes:frames:34-01|>>]]**
