@@ -1,8 +1,11 @@
 ===== Jesus Taught Sinners [35-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&}}
 
 **One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
+
+Un día, Jesús estaba enseñado a muchos cobradores de impuestos y otros pecadores que se juntaron para oirle.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
