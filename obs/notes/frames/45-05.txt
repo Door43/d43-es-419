@@ -1,8 +1,11 @@
 ===== Stephen's Prayer [45-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
 **As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
+
+Mientras Esteban estuvo muriéndose, él gritó, “Jesús, recibe mi espíritu.” Entonces, él cayó a rodillas y gritó otra vez, “Señor, no cuenta este pecado contra ellos.” Entonces, él se murió.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
