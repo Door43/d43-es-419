@@ -1,8 +1,11 @@
 ===== The Jailer Was Baptized [47-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
 The jailer and his whole family **believed** in **Jesus** and were **baptized**. Then the jailer gave **Paul** and **Silas** a meal and they **rejoiced** together.
+
+El carcelero y su familia creyeron en Jesús y fueron bautizados. Entyonces, el carcelero dio a Pablo y a Sílas una comida y se regocijaron juntos.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/believe|believed]]**
