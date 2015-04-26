@@ -1,8 +1,11 @@
 ===== Are You the Son of God? [39-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-03.jpg?nolink&}}
 
 Finally, the **high priest** looked directly at **Jesus** and said, “Tell us, are you the **Messiah**, the **Son of the living God**?”
+
+Finalmente, el sumo sacerdote miró directamente a Jesús y dijo, “Díganos, ¿es Ud. el Mesías, el Hijo del Dios vivo?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
