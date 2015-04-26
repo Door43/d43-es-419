@@ -1,8 +1,11 @@
 ===== The Crippled Man Was Healed [44-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
 Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
+
+Inmediatamente, Dios sanó al paralítico, y él comenzó a caminar y saltar, y alabar a Dios. La gente en el patio del Templo estaba asombrada.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/god|God]]**
