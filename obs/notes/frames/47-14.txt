@@ -1,8 +1,11 @@
 ===== Letters to the Churches [47-14] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?nolink&}}
 
 **Paul** and other **Christian** leaders traveled to many cities, **preaching** and teaching people the **good news** about **Jesus**. They also wrote **many letters** to encourage and teach the **believers** in the **churches**. Some of these letters became books of the Bible.
+
+Pablo y los otros líderes Cristianos viajaban a muchas ciudades, predicando y enseñado a la gente las buenas nuevas de Jesús. Ellos también, escribieron muchas cartas para animar y enseñar a los creyentes en las iglesias. Algunas de las cartas llegaron a ser libros de la Biblia.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
