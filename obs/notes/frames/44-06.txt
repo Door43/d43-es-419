@@ -1,8 +1,11 @@
 ===== Peter and John Were Arrested [44-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
 The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
+
+Los líderes del Templo estaban enojados con lo que Pedro y Juan estaban diciendo. Así, les echaron mano​ y les pusieron en la carcel. Pero muchas personas creyeron el mensaje de Pedro, y el número de los hombres que creyeron en Jesús se aumentó cerca a 5,000.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/temple|Temple]]**
