@@ -1,8 +1,11 @@
 ===== The Two Disciples [42-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
 On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
+
+En el día que Jesús resucitó de la muerte, dos de sus discípulos estuvieron yendo a un pueblo cercano. Mientras ellos caminaron, hablaron acerca de qué sucedió a Jesús. Había esperado que él era el Mesías, pero entonces fue matado. Ahora las mujeres dijeron que estuvo vivo otra vez. Ellos no sabían qué creer.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
