@@ -1,8 +1,11 @@
 ===== The Enemy Is the Devil [50-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?nolink&}}
 
 “The weeds represent the people **who belong to the evil one**. The enemy who planted the weeds represents **the devil**. The harvest **represents the end of the world**, and **the harvesters** represent **God's angels**.”
+
+“La cizaña representa la gente que pertenece al malo. El enemigo que sembró la cizaña representa el diablo. La cosecha respresenta el fin del mundo, y los cosechadores representan los ángeles de Dios.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/evil|evil]]**
