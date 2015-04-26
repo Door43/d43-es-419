@@ -1,8 +1,11 @@
 ===== The Jailer [47-10] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
 **The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
+
+El carcelero se despertó, y cuando vio que las puertas de la carcel estuvieron abiertas, él quedó horrificado! El pensaba que los prisioneros se habían fugado, así él pensó en matarse. (El sabía que las autoridades Romanas le matarían si él permitió que los prisioneros se escaparen.) Pero Pablo le vio y gritó, “¡Párese! No se haga daño. Todos estamos aquí.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/rome|Roman authorities]]**
