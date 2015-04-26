@@ -1,8 +1,11 @@
 ===== Working for Nothing [35-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
 “The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
+
+“El hijo mayor dijo a su padre, '¡Todos estos años he trabajado fielmente para Ud.! Nunca le desobedeciera a Ud., y aun no me dio una cabra pequeña para que yo pudiera celebrar con mis amigos. ¡Pero cuando este hijo suyo que malgastó su dinero en una vida pecaminosa llegó a casa, Ud. mató el mejor becerro para él!
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/faithful|faithfully]]**
