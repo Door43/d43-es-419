@@ -1,8 +1,11 @@
 ===== Stephen Was Stoned [45-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-04.jpg?nolink&}}
 
 When the **religious leaders** heard this, they were so angry that they **covered their ears** and **yelled loudly**. They dragged Stephen out of the city and threw stones at him in order to kill him.
+
+Cuando los líderes religiosos oyeron esto, estaban tan enojados que cubrieron sus orejas y le gritaron de voz en cuello. Ellos arrastaron a Esteban afuera de la ciudad y le tiraron piedras para matarle.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|religious leaders]]**
