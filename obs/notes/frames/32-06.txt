@@ -1,8 +1,11 @@
 ===== My Name Is Legion [32-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
 The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
+
+El hombre con el demonio gritó con una voz alta, “¿Que quiere conimgo , Jesús, Hijo del Dios altísimo? ¡Por favor, no me torture!” Entonces, Jesús pidió al demonio, “¿Cómo se llama?” El respondió, “Me llamo Legión, porque somos muchos.” (Una “legión” fue un grupo de varios millares de soldados en el ejército Romano.)
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/demon-possessed|man with the demon]]**
