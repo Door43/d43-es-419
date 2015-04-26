@@ -1,9 +1,11 @@
 ===== Speaking Other Languages [43-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink}}
-
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
 While the **believers** were all together, suddenly the house where they were was filled with **a sound like a strong wind**. Then something that looked like flames of fire appeared over the heads of all the believers. They were all **filled with the Holy Spirit** and they began to speak **in other languages**.
+
+Cuando los creyentes estuvieron juntos, de repente la casa dónde estuvieron fue llenada con el sonido de un viento fuerte. Entonces, algo que pareció como llamas de fuego apareció sobre la cabeza de todos los creyentes. Fueron llenados con el Espíritu Santo y empezaron a hablar en otras lenguas.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/believer|believers]]**
