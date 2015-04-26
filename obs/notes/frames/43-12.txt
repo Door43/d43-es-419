@@ -1,8 +1,11 @@
 ===== 3000 Believe [43-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
 About 3,000 people **believed** what **Peter** said and became **disciples** of **Jesus**. They were **baptized** and became part of the **church** at **Jerusalem**.
+
+Como 3.000 personas creyeron lo que Pedro dijo y llegaron a ser discípulos de Jesús. Fueron bautizadas y llegaron a ser parte de la iglesia a Jerusalen.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/believe|believed]]**
