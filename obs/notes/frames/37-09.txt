@@ -1,8 +1,11 @@
 ===== Jesus' Prayer [37-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
 Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
+
+Entonces, Jesús miró al cielo y dijo, “Padre, gracias por escucharme. Se que siempre me escucha, pero yo lo digo para el bien de toda esta gente que está aquí, para que ellos crean que Ud. me envió.” Entonces, Jesús gritó, “¡Lázaro, ven fuera!
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
