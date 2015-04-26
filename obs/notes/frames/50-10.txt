@@ -3,6 +3,9 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
 “When the world ends, the **angels** will gather together all the people **who belong to the devil** and throw them into **a raging fire**, where they will cry and grind their teeth in terrible **suffering**. Then **the righteous ones** will **shine like the sun** in the **kingdom** of **God their Father**.”
+
+“Cuando el mundo se acaba, los ángeles recolectarán junto a todas las personas que pertenecen al diablo y las echarán al fuego furioso, donde ellos llorarán y rechinarán los dientes en sufrimiento terrible. Entonces, los justos brillarán como el sol en el reino de Dios su Padre.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:angel|angels]]**
