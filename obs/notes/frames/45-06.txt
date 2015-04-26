@@ -1,8 +1,11 @@
 ===== The People Attacked the Believers [45-06] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-06.jpg?nolink&}}
 
 A young man named **Saul** agreed with the people who killed Stephen and **guarded their robes** while they threw stones at him. That day, many people in **Jerusalem** started **persecuting** the followers of Jesus, so the **believers** fled to other places. **But in spite of this**, they **preached** about Jesus everywhere they went.
+
+Un hombre joven se llamaba Saul estaba de acuerdo con la gente que mató a Esteban y guardaba su ropa mientras ellos tiraron las piedras a él. Aquel día, mucha gente en Jerusalen empezó a perseguir a los seguidores de Jesús, asi, los creyentes se fugaron a otros lugares. Pero, a pesar de esto, ellos predicaban acerca de Jesús a dónde fueron.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
