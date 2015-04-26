@@ -1,6 +1,6 @@
 ===== The Seed on the Rocks [33-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
 “Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
 ===== Important Terms: =====
@@ -8,7 +8,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **rocky ground** - That is, "ground that was full of rocks."
-
-
+  * **Jesus continua su historia**
+  * **rocky ground**  - That is, "ground that was full of rocks."
+  * **suelo rocoso - Esto es, "suelo lleno de piedras."**
 **[[:es-419:obs:notes:frames:33-02|<<]] | [[:es-419:obs:notes:33|Up]] | [[:es-419:obs:notes:frames:33-04|>>]]**
