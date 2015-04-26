@@ -1,8 +1,11 @@
 ===== The House of the High Priest [39-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
 It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
+
+Era la media noche. Los soldados llevaron a Jesús a la casa del sumo sacerdote para que el sumo sacerdote pudiera hacerle preguntas. Pedro les siguió de lejos. Cuando Jesús fue llevado a la casa, Pedro quedó afuera y se calentó por un fuego.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
