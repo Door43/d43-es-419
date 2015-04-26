@@ -1,8 +1,11 @@
 ===== Philip Met the Ethiopian [45-09] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
 Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
+
+Felipe le preguntó al Etíope, “¿Entiende lo que está leyendio?” El Etíope respondió, “No. No puedo entenderlo si nadie me lo explica. Por favor, venga y siéntese a mi lado. ¿Estuvo Isaías escribiendo acerca de sí mismo o del otro?”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/isaiah|Isaiah]]**
