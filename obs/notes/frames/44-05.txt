@@ -1,8 +1,11 @@
 ===== Peter Preached [44-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
 “You are the ones who told the **Roman** governor to kill **Jesus**. You killed the **author of life**, but **God raised** him from the **dead**. Although you did not understand what you were doing, God used **your actions** to **fulfill** the prophecies that the **Messiah** would **suffer** and die. So now, **repent** and **turn to God** so that **your sins will be washed away**.”
+
+“Uds. son los que dijeron al gobernador Romano que matara a Jesús. Uds. mataron al autor de la vida, pero Dios le levantó de la muerte. Aunque Uds. no entendieron lo que estaban haciendo, Dios usó sus acciones para cumplir las profecías que el Mesías sufriría y moriría. Así ahora, arrepiéntanse y vuelvan a Dios para que sus pecados sean lavados.”
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/rome|Roman]]**
