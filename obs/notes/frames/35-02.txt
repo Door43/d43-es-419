@@ -1,8 +1,11 @@
 ===== The Religious Leaders Grumbled [35-02] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&}}
 
 Some **religious leaders** who were also there saw **Jesus** treating these **sinners** as friends, and they began to criticize him to each other. So Jesus told them this **story**.
+
+Algunos líderes religiosos que estuvieron allí también, vieron a Jesús tratando a los pecadores como amigos, y ellos empezaron a criticarle uno al otro. Así, Jesús les contó esta historia.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jewish-leaders|religious leaders]]**
