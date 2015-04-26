@@ -1,22 +1,23 @@
 ===== Persecution and Hardship [33-07] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
 “The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:es-419:obs:notes:key-terms/joy|joy]]**
-  * **[[:es-419:obs:notes:key-terms/persecute|persecution]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
+  * **[[:es-419:obs:notes:key-terms:joy|joy]]**
+  * **[[:es-419:obs:notes:key-terms:persecute|persecution]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:es-419:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:es-419:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * **(Jesus continua explicando la historia.)**
+  * **rocky ground**  - See how you translated this term in **[[:es-419:obs:notes:frames:33-03|[33-03]]]**.
+  * **suelo rocoso - Vea**** como tu traducistes este termino en [33-03]**
+  * **is a person**  - See how you translated this comparison in **[[:es-419:obs:notes:frames:33-06|[33-06]]]**.
+  * **es una persona - Vea como tu traducistes esta comparicion en [33-06]**
+  * **accepts it with joy**  - That is, "believes it joyfully" or, "joyfully agrees that it is true."
+  * **acepta con alegria - Esto es, "cree con alegria" o, "con alegria esta de acuerdo que es verdad**."
+  * **falls away**  - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
+  * **desaparece - Esto es, "ya no sigue a Dios o lo obedece" o, para de seguir o obedecer a Dios."**
 **[[:es-419:obs:notes:frames:33-06|<<]] | [[:es-419:obs:notes:33|Up]] | [[:es-419:obs:notes:frames:33-08|>>]]**
