@@ -1,8 +1,11 @@
 ===== Your Will Be Done [38-12] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
 **Jesus prayed** three times, “**My Father**, if it is possible, please let me not have to **drink this cup of suffering**. But if there is no other way for people’s **sins** to be **forgiven**, then **let your will be done**.” Jesus was very troubled and **his sweat was like drops of blood**. **God** sent an **angel** to strengthen him.
+
+Jesús oró tres veces, “Padre mío, si es posible, por favor, deje que no tengo que tomar esta copa de sufrimiento. Pero si no hay otra manera para que el pecado de la gente sea perdonado, entonces, que tu voluntad sea hecha.” Jesús estaba muy agitado y su sudor fue como gotas de sangre. Dios envió un ángel para fortalecerle.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
