@@ -1,8 +1,11 @@
 ===== Breaking the Bread [42-04] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
 The two men invited **Jesus** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **God** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
+
+Los dos hombres le invitaron a Jesús que quedara con ellos, así lo hizo. Cuando estuvieron listos para la cena, Jesús levantó un pan, dio gracias a Dios por el, y entonces, lo partió. De repente, ellos reconocieron que era Jesúa. Pero al mismo momento, él desapareció de su vista.
+
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
