@@ -8,17 +8,18 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-  * **[[:es-419:obs:notes:key-terms/joy|joy]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
+  * **[[:es-419:obs:notes:key-terms:joy|joy]]**
 ===== Translation Notes: =====
 
   * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
-
+  * **(Jesus dice otra historia.)**
+  * **treasure**  - That is, "something that is very valuable."
+  * **tesoro - Esto es, "algo que tiene mucho valor."**
+  * **buried it again**  - It is also possible to add, "so that no one else would find it."
+  * **enterro otra vez - Es posible anadir tambien, "asi nadie mas lo encontraria."**
+  * **filled with joy**  - Another way to say this is, "very happy" or, "excited."
+  * **se llenaron de alegria - Otra forma de decir esto, "bien contentos" o, "**emocionados."** **
+  * **buy that field**  - Some people may want to add, "so that the treasure would be his."
+  * **comprar el campo - Alguna gente pueden anadir, "asi el tesoro seria de el."**
 **[[:es-419:obs:notes:frames:34-03|<<]] | [[:es-419:obs:notes:34|Up]] | [[:es-419:obs:notes:frames:34-05|>>]]**
