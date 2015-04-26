@@ -1,8 +1,11 @@
 ===== Breaking the Chains [32-03] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
 This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
+
+El hombre estaba tan fuerte que nadie podía controlarle. La gente aun había sujetada sus brazos y piernas con cadenas, pero él las rompió.
+
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
