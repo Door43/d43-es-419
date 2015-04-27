@@ -4,4 +4,4 @@
 
 <font inherit/inherit;;inherit;;inherit>Recursos</font>
 
-  * **[[:es-419:obs|Historias Bíblicas Libres (es-419)]]-Es una mini-Biblia ilustrada en cualquier idioma, en formatos de texto, audio y v´ideo, libre de derechos de autoría.**
+  * **[[:es-419:obs|Historias Bíblicas Libres (es-419)]]-Es una mini-Biblia ilustrada en cualquier idioma, en formatos de texto, audio y video, libre de derechos de autoría.**
