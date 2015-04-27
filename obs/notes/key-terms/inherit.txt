@@ -1,8 +1,8 @@
 ====== inherit heredar ======
 
-==== (to inherit, inheritance) (heredar, herencia) ====
+==== (to inherit, inheritance) heredar, herencia ====
 
-===== Definition: Defenicion: =====
+===== Definition: Definición =====
 
 When someone inherits something, he or she receives something valuable from someone else because of a special relationship with that person.
 
