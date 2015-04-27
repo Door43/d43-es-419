@@ -8,23 +8,20 @@ Jesús también, dijo, “Un siervo no es mayor que su señor. Justo como las au
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/servant|servant]]**
-  * **[[:es-419:obs:notes:key-terms/lord|master]]**
-  * **[[:es-419:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
-  * **[[:es-419:obs:notes:key-terms/faithful|faithful]]**
-  * **[[:es-419:obs:notes:key-terms/save|save]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:servant|servant]]**
+  * **[[:es-419:obs:notes:key-terms:lord|master]]**
+  * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
+  * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
+  * **[[:es-419:obs:notes:key-terms:faithful|faithful]]**
+  * **[[:es-419:obs:notes:key-terms:save|save]]**
 ===== Translation Notes: =====
 
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, "Keep obeying me."
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-
-
+  * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
+  * **no mayor que - Eso es, "no mas importante que" o, en este caso, "no tratado mejor que."**
+  * **because of me**  - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
+  * **in this world**  - This could also be translated as, "in this lifetime."
+  * **remain faithful to me**  - That is, "Keep obeying me."
+  * **to the end**  - That is, "to the end of your life."
+  * **will save you**  - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
 **[[:es-419:obs:notes:frames:50-03|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-05|>>]]**
