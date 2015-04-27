@@ -8,21 +8,18 @@ Muchos grupos de personas todavía no han escuchado acerca de Jesús. Antes de v
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:es-419:obs:notes:key-terms/christian|Christians]]**
-  * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:people-group|people groups]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
+  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
-  * **make disciples** - This has the meaning, "help people to become my disciples."
-  * **The fields are ripe for harvest** - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
-  * **The fields** - In this expression, "The fields" represents the people in the world.
-  * **ripe** - "Ripe" here represents being ready to believe in Jesus.
-  * **harvest** - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
-
-
+  * **make disciples**  - This has the meaning, "help people to become my disciples."
+  * **haz discÍpulos - Esto tiene el significado, "ayuda gente que se conviertan mis discÍpulos."**
+  * **The fields are ripe for harvest**  - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
+  * **The fields**  - In this expression, "The fields" represents the people in the world.
+  * **ripe**  - "Ripe" here represents being ready to believe in Jesus.
+  * **harvest**  - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
 **[[:es-419:obs:notes:frames:50-02|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-04|>>]]**
