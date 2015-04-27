@@ -8,15 +8,13 @@ Un día, Jesús estaba enseñado a muchos cobradores de impuestos y otros pecado
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/tax-collector|tax collectors]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sinners]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:tax-collector|tax collectors]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sinners]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **Un dia - Esta frase introduce un evento que paso en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar para decir una historia real.**
+  * **tax collectors**  - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
+  * **cobradores de impuestos - Los cobradores de impuestos eran considerados ser los peores pecadores porque a menudo se robaban el dinero de la gente recogiendo un impuesto mas alto del que el gobierno requeria.**
 **[[:es-419:obs:notes:frames:34-10|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:35-02|>>]]**
