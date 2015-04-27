@@ -1,8 +1,7 @@
 ====== Door43 (es-419) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+¡Bienvenidos a Door43!, una plataforma abierta colaborativa para crear, traducir y distribuir recursos para discipular en cualquier lenguaje con licencia de uso libre.
 
-===== Resources =====
+<font inherit/inherit;;inherit;;inherit>Recursos</font>
 
-  * **[[es-419:obs|Open Bible Stories (es-419)]]**
-
+  * **[[:es-419:obs|Historias Bíblicas Libres (es-419)]]-Es una mini-Biblia ilustrada en cualquier idioma, en formatos de texto, audio y v´ideo, libre de derechos de autoría.**
