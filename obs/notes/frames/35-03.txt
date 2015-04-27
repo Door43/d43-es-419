@@ -8,15 +8,14 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/son|sons]]**
-  * **[[:es-419:obs:notes:key-terms/inherit|inheritance]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:son|sons]]**
+  * **[[:es-419:obs:notes:key-terms:inherit|inheritance]]**
 ===== Translation Notes: =====
 
   * (Jesus tells the story.)
-  * **my inheritance** - This could be translated as, "the part of your wealth that will be rightfully mine when you die."
-  * **property** - That is, "wealth" or, "possessions." This property would probably have included land, animals, and money.
-
-
+  * **(Jesus dice la historia.)**
+  * **my inheritance**  - This could be translated as, "the part of your wealth that will be rightfully mine when you die."
+  * **mi herencia - Esto puede ser traducido como, "la parte  de tu riqueza que sera mia por derecho cuando tu mueras**."
+  * **property**  - That is, "wealth" or, "possessions." This property would probably have included land, animals, and money.
+  * **propiedad - Esto es, " riqueza" o, "posesiones." Esta propiedad probablemente incluye tierra, animales, y dinero.**
 **[[:es-419:obs:notes:frames:35-02|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:35-04|>>]]**
