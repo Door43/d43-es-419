@@ -8,17 +8,14 @@ Por casi 2,000 años, más y más personas alrededor del mundo han escuchado las
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/church|Church]]**
-  * **[[:es-419:obs:notes:key-terms/promise|promised]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:church|Church]]**
+  * **[[:es-419:obs:notes:key-terms:promise|promised]]**
 ===== Translation Notes: =====
 
-  * **The Church has been growing** - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
-  * **at the end of the world** - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
-
-
+  * **The Church has been growing**  - This could also be translated as, "The number of people in the Church around the world has been increasing" or, "The number of believers in Jesus has been increasing."
+  * **La iglesia a estado creciendo - Esto tambien puede ser traducido como, "El numero de gente en la iglesia alrededor del mundo a estado creciendo"**** o, "El numero de creyientes en Jesus a estado creciendo."**
+  * **at the end of the world**  - This phrase means, "right before the present world comes to an end" or, "in the final days of this world."
 **[[:es-419:obs:notes:frames:49-18|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-02|>>]]**
