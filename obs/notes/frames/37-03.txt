@@ -8,18 +8,16 @@ Los discípulos de Jesús respondieron, “Señor, si Lázaro duerme, entonces, 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus']]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus']]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
 ===== Translation Notes: =====
 
-  * **he will get better** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **I am glad** - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-
-
+  * **he will get better**  - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
+  * **el se mejora - Los discipulos intentaron esto con un sentido****de, "no hay una razon para nosotros ir con el ahora, ya que el se mejora."**
+  * **I am glad**  - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
+  * **Estoy contento - Esto se puede traducirce como, "Yo estoy alegre" o, "Esto es bueno que." No quiere decir que el estaba contento que Lazaro murio, pero mas bien****contento que Dios iba a mostrar que grande el es.**
 **[[:es-419:obs:notes:frames:37-02|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-04|>>]]**
