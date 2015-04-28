@@ -8,18 +8,17 @@ Entonces, María llegó. Ella cayó a los pies de Jesús y le dijo, “Señor, s
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/death|died]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:death|died]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 ===== Translation Notes: =====
 
-  * **Mary** - This was the same woman as in **[[:es-419:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, "knelt down at Jesus' feet" as a sign of respect.
-  * **my brother would not have died.** - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
-
-
+  * **Mary**  - This was the same woman as in **[[:es-419:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
+  * **Maria - Esta es la misma mujer como en [37-01]**
+  * **fell at the feet of Jesus**  - That is, "knelt down at Jesus' feet" as a sign of respect.
+  * **cayo a los pies de Jesus - Esto es, " se arrodillo a los pies de Jesus" como senal de respeto.**
+  * **my brother would not have died.**  - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
+  * **mi hermano no hubiera muerto - Esto es, "tu pudistes guardar a mi hermano de morir" o, "tu pudistes prevenir la muerte de mi hermano" o, "mi hermano podia estar vivo todavia**."
 **[[:es-419:obs:notes:frames:37-05|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-07|>>]]**
