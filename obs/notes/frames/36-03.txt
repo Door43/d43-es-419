@@ -8,19 +8,17 @@ Entonces, Moises y el profeta Elías aparecieron. Estos hombres habían vivido e
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/moses|Moses]]**
-  * **[[:es-419:obs:notes:key-terms/[prophet|prophet]]**
-  * **[[:es-419:obs:notes:key-terms/elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/death|death]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:death|death]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
 ===== Translation Notes: =====
 
-  * **appeared** - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **his death, which would soon happen** - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **in Jerusalem** - Some languages may prefer to say, "in the city of Jerusalem."
-
-
+  * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
+  * **aparecieron - Esto es tambien es posible decir, "aparecieron de la nada."Ellos de repente estaban ahi.**
+  * **his death, which would soon happen**  - This could be translated as, "how he would soon die" or, "how he would soon be killed."
+  * **in Jerusalem**  - Some languages may prefer to say, "in the city of Jerusalem."
+  * **en Jerusalen - Algunos idiomas prefieren decir, "en la ciudad de Jerusalem."**
 **[[:es-419:obs:notes:frames:36-02|<<]] | [[:es-419:obs:notes:36|Up]] | [[:es-419:obs:notes:frames:36-04|>>]]**
