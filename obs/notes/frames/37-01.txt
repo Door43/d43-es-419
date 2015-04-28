@@ -8,21 +8,21 @@ Un día, Jesús recibió un mensaje que Lázaro estaba muy enfermo. Lázaro y su
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:es-419:obs:notes:key-terms/death|death]]**
-  * **[[:es-419:obs:notes:key-terms/glory|glory]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/love|loved]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
+  * **[[:es-419:obs:notes:key-terms:death|death]]**
+  * **[[:es-419:obs:notes:key-terms:glory|glory]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:love|loved]]**
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **Un dia - Esta frase introduce un evento que paso en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar de empezar una historia verdadera.**
+  * **Mary**  - Jesus' mother was also named Mary. This was a different woman.
+  * **Maria - La madre de Jesus era tambien llamada Maria. Esta es una mujer diferente.**
+  *
+  * **this sickness will not end in death**  - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
+  * **esta enfermedad de Lazaro no va a terminar en muerte - Esto tambien se puede traducir como, "el resultado final de esta enfermedad no a hacer muerte." o, "Lazaro esta enfermo**
+  * **it is for the glory of God**  - That is, "this will cause people to praise God for how great he is."
+  * **but he waited where he was for two days**  - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
 **[[:es-419:obs:notes:frames:36-07|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-02|>>]]**
