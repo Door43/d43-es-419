@@ -8,14 +8,13 @@ Jesús y los tres discípulos bajaron de la montaña. Entonces, Jesús les dijo,
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/death|die]]**
-  * **[[:es-419:obs:notes:key-terms/life|life]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:death|die]]**
+  * **[[:es-419:obs:notes:key-terms:life|life]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.**
   * //Una historia de la Biblia de: Mateo 17:1-9; Marcos:2-8; Lucas 9:28-36//
 **[[:es-419:obs:notes:frames:36-06|<<]] | [[:es-419:obs:notes:36|Up]] | [[:es-419:obs:notes:frames:37-01|>>]]**
