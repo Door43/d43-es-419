@@ -8,22 +8,22 @@ Jesús le respondió, “Yo soy la resurrección y la vida. Quienquiera que cree
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/resurrection|Resurrection]]**
-  * **[[:es-419:obs:notes:key-terms/life|Life]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believes]]**
-  * **[[:es-419:obs:notes:key-terms/death|dies]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son of God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:resurrection|Resurrection]]**
+  * **[[:es-419:obs:notes:key-terms:life|Life]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believes]]**
+  * **[[:es-419:obs:notes:key-terms:death|dies]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
 ===== Translation Notes: =====
 
-  * **I am the Resurrection and the Life** - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
-  * **will live, even though he dies.** - That is, "will live forever, even if he dies." The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever.
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
-  * **will never die** - This can also be translated as, "will live forever."
-
-
+  * **I am the Resurrection and the Life**  - This is one of several very powerful "I am" statements in which Jesus says something about his essential nature. In this one, Jesus indicated that he is the "provider" or, "source" of resurrection and life. If possible, translate this phrase in a way that makes it clear that this is his essential nature. This can also be translated as, "I am the one who resurrects people and causes them to live."
+  * **Soy la Resurreccion y la Vida - Esta es una de varios bien poderosos**  "**Yo soy" declaracion en donde Jesus dice algo sobre su naturaleza esencial. En esta, Jesus indico que el es el "proveedor o, fuente" de la resurreccion y vida. Si es posible, traduce esta frase en una forma que hace claro que esta es la esencia natural. Esto tambien **puede ser traducido como, "Yo soy el que resucita a la gente y causa que vivan."** **
+  * **will live, even though he dies.**  - That is, "will live forever, even if he dies." The English word, "he" does not only refer to men. Women who believe in Jesus will also live forever.
+  * **viviran, aunque muera -  Esto es, "viviran para siempre, aunque muera." La Palabra en ingles, "el" no se refiere solamente a los hombres. Las mujeres ** que creen en Jesus tambien viviran para siempre.** **
+  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
+  * **Martha - Martha era la hermana de Lazaro y Maria. Vea [37-01]**
+  * **will never die**  - This can also be translated as, "will live forever."
+  * **nunca morira - Esto se puede tambien traducir como, "vivira para siempre."**
 **[[:es-419:obs:notes:frames:37-04|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-06|>>]]**
