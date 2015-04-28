@@ -8,18 +8,17 @@ So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** to
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believed]]**
-  * **[[:es-419:obs:notes:key-terms/miracle|miracle]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believed]]**
+  * **[[:es-419:obs:notes:key-terms:miracle|miracle]]**
 ===== Translation Notes: =====
 
-  * **Lazarus came out!** - Some languages should say, "Lazarus came out of the tomb!"
-  * **grave clothes** - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
-  * **because of this miracle** - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
-
-
+  * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
+  * **Lazaro salio - Algunos idiomas dirian, "Lazaro sal de la tumba!"**
+  * **grave clothes**  - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
+  * **ropa del selpucro - Esto es, "ropa del entierro." Esto tambien puede ser traducido como, "vendajes del entierro" o, tiras de tela."**
+  * **because of this miracle**  - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
+  * **porque esto es un milagro -**  Esto es, "porque**** Dios habia hecho un asombroso milagro" o,porque Jesus hizo que Lazaro volviera a la vida otra vez."
 **[[:es-419:obs:notes:frames:37-09|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-11|>>]]**
