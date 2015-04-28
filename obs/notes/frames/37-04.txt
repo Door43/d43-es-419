@@ -8,20 +8,20 @@ Cuando Jesús llegó al pueblo de Lázaro, Lázaro ya tenía cuatro días de est
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus']]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus']]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus** - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.** - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him** - That is, "will do whatever you ask him to do."
-
-
+  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
+  * **Martha - Martha era la hermana de Lazaro y Maria. Vea [37-01]**
+  * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
+  * **fuimos al encuentro de Jesus - Esto es, "fui al encuentro de  Jesus **viniendo a la ciudad."** **
+  * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
+  * **mi hermano no hubiera muerto. - Esto es, "tu hibieras sanado mi hermano y el no tenia que morir" o, "tu pudistes prevenir que mi hermano muriera."**
+  * **will give you whatever you ask from him**  - That is, "will do whatever you ask him to do."
+  * **te daria lo que tu pidas por**** el -  Esto es, "haria lo que tu pidas a el hacer**."
 **[[:es-419:obs:notes:frames:37-03|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-05|>>]]**
