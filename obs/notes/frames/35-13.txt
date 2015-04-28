@@ -8,18 +8,22 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/son|son]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/life|alive]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:son|son]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:life|alive]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
+  * **(Jesus continua la historia.)**
   * **it is right for us**  - That is, "it is the right thing for us to do" or, "it is proper for us."
+  * **Si es correcto para nosotros - "Es lo correcto para nosotros hacer" o, "es apropiado para nosotros."**
   * **your brother**  - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
+  * **tu hermano - El padre se refiere a su hijo menor como, "tu hermano" para recordarle a su hijo mayor de su relacion con ** su **hermano menor y como el debe amar a su hermano menor.**
   * **was dead, but now is alive**  - See how you translated this in **[[:es-419:obs:notes:frames:35-09|[35-09]]]**.
+  * **estaba muerto, pero ahora esta vivo - Vea como tu traducistes esto en [35-09]**
   * **He was lost, but now is found!**  - See how you translated this in **[[:es-419:obs:notes:frames:35-09|[35-09]]]**.
+  * **El estaba perdido, pero ahora es encontrado! - Vea como tu traducistes  esto en [35-09]**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estes referencias pueden ser un poco  diferentes**  en algunas **traducciones de la Biblia.**
   * //Una historia de: Lucas 15:11-32//
 **[[:es-419:obs:notes:frames:35-12|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:36-01|>>]]**
