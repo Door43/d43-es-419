@@ -8,17 +8,15 @@ Entonces, Jesús miró al cielo y dijo, “Padre, gracias por escucharme. Se que
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:es-419:obs:notes:key-terms/god-father|Father]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:es-419:obs:notes:key-terms:god-father|Father]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
 ===== Translation Notes: =====
 
-  * **hearing me** - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out** - Some languages may prefer to say, "come out of the tomb."
-
-
+  * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
+  * **oyendome - Esto es, "escuchandome a mi." Puede ser util anadir, "como yo oro a ti" o, "cuando yo te hablo."**
+  * **come out**  - Some languages may prefer to say, "come out of the tomb."
+  * **sal afuera - Algunos idiomas prefieren decir, "salid de la tumba."**
 **[[:es-419:obs:notes:frames:37-08|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-10|>>]]**
