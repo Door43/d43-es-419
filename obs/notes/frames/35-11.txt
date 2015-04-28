@@ -8,13 +8,10 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/son|son]]**
-  * **[[:es-419:obs:notes:key-terms/beg|begged]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:son|son]]**
+  * **[[:es-419:obs:notes:key-terms:beg|begged]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-
-
+  * **(Jesus continua la historia.)**
 **[[:es-419:obs:notes:frames:35-10|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:35-12|>>]]**
