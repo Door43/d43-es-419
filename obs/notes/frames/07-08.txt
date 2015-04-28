@@ -1,5 +1,7 @@
 ===== Jacob Returned Home [07-08] =====
 
+<font 20px/inherit;;inherit;;inherit>** Jacob volvió a casa [07-08] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
 **After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals.
@@ -8,15 +10,11 @@ Después de veinte años de estar lejos de su hogar en Canaán, Jacob regresó a
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]]**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]]**
   * **[[:es-419:obs:notes:key-terms:servant|servants]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
-
+  * **after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
+  * **Veinte años despues **- Jacob había vivido por veinte años en la tierra de donde era su madre.Si eso no es claro  se podría decir, "Después de veinte años viviendo en la tierra de donde sus parientes eran."
 **[[:es-419:obs:notes:frames:07-07|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-09|>>]]**
