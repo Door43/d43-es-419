@@ -8,17 +8,17 @@ La tumba era una cueva con una piedra rodada en frente de su apertura. Cuando Je
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
 ===== Translation Notes: =====
 
-  * **he told them** - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, "He died four days ago and his body is lying there."
-
-
+  * **he told them**  - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
+  * **el les dijo - Esto es, "el le dijo a los hombres. "El probablemente  no le estaba diciendo a Maria y a Martha que quitaran la piedra.**
+  * **Roll the stone away**  - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
+  * **Quita la piedra - Algunos idiomas prefieren  decir, "Mueve la piedra de la apertura de la tumba."**
+  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
+  * **Martha - Martha era la hermana de Lazaro y Maria. Vea [37-01]**
+  * **He has been dead for four days**  - This could also be translated as, "He died four days ago and his body is lying there."
+  * **El habia estado muerto por cuatro dias - Esto puede ser tambien traducido como, "El murio hace cuatro dias  y su cuerpo esta acostado ahi."**
 **[[:es-419:obs:notes:frames:37-06|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-08|>>]]**
