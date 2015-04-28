@@ -1,5 +1,7 @@
 ===== Isaac Blessed Jacob [07-04] =====
 
+<font 20px/inherit;;inherit;;inherit>** Isaac Bendijo a Jacob [07-04] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
 
 **Jacob came to Isaac** and said, “I am **Esau**. I have come so that you can **bless** me.” When Isaac felt the goat hair and smelled the clothes, **he thought it was Esau** and blessed him.
@@ -8,17 +10,14 @@ Jacob fue a Isaac y le dijo: “Yo soy Esaú. He venido para que usted me pueda 
 
 ===== Important Terms: =====
 
-
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]]**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]]**
   * **[[:es-419:obs:notes:key-terms:esau|Esau]]**
   * **[[:es-419:obs:notes:key-terms:bless|bless]]**
-
-
 ===== Translation Notes: =====
 
-
-  * **Jacob came to Isaac** - In some languages it might be more natural to say, "Jacob went to Isaac."
-  * **he thought it was Esau** - He thought that the person he was touching and smelling was Esau.
-
+  * **Jacob came to Isaac**  - In some languages it might be more natural to say, "Jacob went to Isaac."
+  * **Jacob vino a Isaac **- En algunos idiomas esto puede ser mas natural  decir, "Jacob fue a Isaac".
+  * **he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
+  * **el pensó que este era Esau **- El pensó que la persona que el estaba tocando y oliendo era Esau.
 **[[:es-419:obs:notes:frames:07-03|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-05|>>]]**
