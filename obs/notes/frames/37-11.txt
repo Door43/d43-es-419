@@ -8,16 +8,17 @@ Pero, los líderes religiosos de los Judios estaban celosos, así, ellos se junt
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leaders]]**
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
 ===== Translation Notes: =====
 
   * **jealous**  - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
+  * **celosos - Estos es, "celosos del poder de Jesus y popularidad" o, celosos que muchos Judios creian en Jesus."**
   * **gathered together**  - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Se reunieron - Esto es, "se reunieron" o, "se unieron." Esto no era una reunion casual, pero una reunion con un proposito especifico-para planificar como matar a Jesus.**
+  * //A Bible story from//  - These references may be slightly different in some Bible translations
+  * Una historia de la Biblia - **Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.**
   * //Una historia de la Biblia de: Juan 11:1-46//
 **[[:es-419:obs:notes:frames:37-10|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:38-01|>>]]**
