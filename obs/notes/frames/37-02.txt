@@ -8,16 +8,14 @@ Después de cumplir los dos días, Jesús dijo a sus discípulos, “Volvamos a 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/teacher|Teacher]]**
-  * **[[:es-419:obs:notes:key-terms/lazarus|Lazarus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:teacher|Teacher]]**
+  * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
 ===== Translation Notes: =====
 
-  * **Judea** - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
-  * **has fallen asleep, and I must wake him.** - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
-
-
+  * **Judea**  - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
+  * **Judea - Esto se refiere a la seccion sur de Israel, que estaba resuelta por la tribu de Juda. Algunos idiomas prefieren decir, "la region de Judea."**
+  * **has fallen asleep, and I must wake him.**  - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
+  * **se quedo dormido, y Yo lo debo despertar - ** Traduce** esta frase con las palabras normales para "dormido" y "despertar"****en tu idioma. Aunque Jesus estaba usando estas palabras con un significado diferente**, **los discipulos no entendian esto todavia.**
 **[[:es-419:obs:notes:frames:37-01|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-03|>>]]**
