@@ -8,16 +8,14 @@ Entonces, Jesús dijo a los discípulos, “Uno de Uds. me va a traicionar.” L
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/betray|betray]]**
-  * **[[:es-419:obs:notes:key-terms/judas|Judas]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:betray|betray]]**
+  * **[[:es-419:obs:notes:key-terms:judas|Judas]]**
 ===== Translation Notes: =====
 
-  * **give this piece of bread** - That is, "hand this piece of bread."
-  * **is the betrayer** - This could also be translated as, "will betray me" or, "is the one who will betray me."
-
-
+  * **give this piece of bread**  - That is, "hand this piece of bread."
+  * dar** un pedazo de pan - Esto es, "entrega este pedazo de pan."**
+  * **is the betrayer**  - This could also be translated as, "will betray me" or, "is the one who will betray me."
+  * **el traidor - Esto tambien se puede traducir como, "el me va a traicionar" o, "el es el que me va a traicionar."**
 **[[:es-419:obs:notes:frames:38-05|<<]] | [[:es-419:obs:notes:38|Up]] | [[:es-419:obs:notes:frames:38-07|>>]]**
