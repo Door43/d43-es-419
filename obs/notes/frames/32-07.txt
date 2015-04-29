@@ -8,17 +8,21 @@ Los demonios rogaron a Jesús, “¡Por favor, no nos envíe fuera de esta regi�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/demon|demons]]**
-  * **[[:es-419:obs:notes:key-terms/beg|begged]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:demon|demons]]**
+  * **[[:es-419:obs:notes:key-terms:beg|begged]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **do not send us** - That is, "do not make us go."
-  * **Please send us** - That is, "Please let us go."
-  * **instead** - That is, "instead of making us go away."
-  * **Go!** - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
+  * **do not send us**  - That is, "do not make us go."
+  * no nos envies - E**sto**** es, "no nos hagas ir."**
+  * **Please send us**  - That is, "Please let us go."
+  * Por favor **envienos**  - Esto es** Por favor dejanos ir."**
+  * **instead**  - That is, "instead of making us go away."
+  * en vez - En lugar, "de hacer quenos alejemos."
+  *
+  *
+  *
 
-
+  * **Go!**  - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
+  * **Vayansen! - Esto se puede  traducir como, "Ir a los cerdos!" o, Ustedes pueden entrar en los cerdos!"**
 **[[:es-419:obs:notes:frames:32-06|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-08|>>]]**
