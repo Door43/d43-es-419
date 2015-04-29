@@ -8,15 +8,12 @@ Entonces, Pedro dijo a Jesús, “¡Aun si debo morir, nunca le niegue a Ud.!”
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/death|die]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:death|die]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
-  * **deny you** - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
-
-
+  * **deny you**  - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
+  * lo nego - **Esto es, "nego que el lo conocia" o, nego que era su discipulo" o, "te negare."**
 **[[:es-419:obs:notes:frames:38-09|<<]] | [[:es-419:obs:notes:38|Up]] | [[:es-419:obs:notes:frames:38-11|>>]]**
