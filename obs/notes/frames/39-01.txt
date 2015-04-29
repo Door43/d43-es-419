@@ -8,15 +8,13 @@ Era la media noche. Los soldados llevaron a Jesús a la casa del sumo sacerdote 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
 ===== Translation Notes: =====
 
   * **the middle of the night**  - This expression means, "halfway through the night" or, "very late at night.
-  * el medio **de la noche - Esta expresion significa ,"a mitad de la noche" o, bien tarde en la noche.**
+  * el medio **de la noche - Esta expresion significa ,"a media noche" o, bien tarde en la noche.**
   * **to question him**  - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
   * **para hacerle preguntas - Esto es, "para hacerle preguntas para poder encontrar algo que pudieran usar para acusar a Jesus de hacer el mal."**
 **[[:es-419:obs:notes:frames:38-15|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-02|>>]]**
