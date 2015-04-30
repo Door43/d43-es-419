@@ -8,17 +8,15 @@ Todos los líderes religiosos dijeron al sumo sacerdote, “¡El merece la muert
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:es-419:obs:notes:key-terms/death|die]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/mock|mocked]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:es-419:obs:notes:key-terms:death|die]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
 ===== Translation Notes: =====
 
-  * **they blindfolded Jesus** - That is. "they covered Jesus' eyes so that he could not see."
-  * **spit on him** - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-
-
+  * **they blindfolded Jesus**  - That is. "they covered Jesus' eyes so that he could not see."
+  * **ellos vendaron a Jesus - Esto es. "ellos cubrieron los ojos de Jesus asi el no podia ver."**
+  * **spit on him**  - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
+  * **escupieron a el - Esto tambien puede ser traducido como, "lo escupieron para insultarlo" o, "lo escupieron para decir que el era inutil." Esta era una forma  de mostrar despresio a alguien.**
 **[[:es-419:obs:notes:frames:39-04|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-06|>>]]**
