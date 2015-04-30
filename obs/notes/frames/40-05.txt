@@ -8,18 +8,15 @@ Los líderes de los Judios y la otra gente en la multitud​ se burlaron de Jes�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/mock|mocked]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:es-419:obs:notes:key-terms/cross|cross]]**
-  * **[[:es-419:obs:notes:key-terms/save|save]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:es-419:obs:notes:key-terms:cross|cross]]**
+  * **[[:es-419:obs:notes:key-terms:save|save]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
 ===== Translation Notes: =====
 
-  * **believe you** - That is, "believe in you" or, "believe that you are the Messiah."
-
-
+  * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
+  * **te creo - Esto es, "yo creo en ti" o, "creo que tu eres el Mesias."**
 **[[:es-419:obs:notes:frames:40-04|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-06|>>]]**
