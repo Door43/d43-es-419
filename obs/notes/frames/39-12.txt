@@ -8,22 +8,27 @@ Pilato se puso miedoso que la muchedumbre empezaría a amotinarse, así, él ord
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:es-419:obs:notes:key-terms/crucify|crucify]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/rome|Roman]]**
-  * **[[:es-419:obs:notes:key-terms/mock|mocked]]**
-  * **[[:es-419:obs:notes:key-terms/king-of-jews|King of the Jews]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
+  * **[[:es-419:obs:notes:key-terms:crucify|crucify]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:rome|Roman]]**
+  * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
+  * **[[:es-419:obs:notes:key-terms:king-of-jews|King of the Jews]]**
 ===== Translation Notes: =====
 
   * **riot**  - That is, "start doing violent things in their anger."
+  * **motin - Esto es, "Empezaron a hacer cosas violentas en su ira."**
   * **he agreed to have**  - Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. If possible, translate this phrase in a way that shows his reluctance.
+  * **el accedio a que - Pilato no queria matar a Jesus porque el creia que Jesus era inocente, Pero el fue obligado decir a sus soldados para crucificar a Jesus por temor de la multitud. Es posible, traducir esta frase en una forma que muestra su repugnancia.  **
   * **a royal robe**  - That is, "a robe like a king's robe." This robe had a bright color, so it looked like the kind of robe that a king would wear.
+  * **un manto real - Esto es, "un manto como el manto del rey." este manto tenia colores brillantes, asi que se veia como un manto que el rey usaria. **
   * **crown made of thorns**  - This means that they tied thorn branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it.
+  * **una corona hecha de espinas - Esto significa que ellos amarraron ramas con espinas en un circulo para que se viera como una corona. Una corona es un ornamento que el rey usa en su cabeza  para mostrar su autoridad. Pero la corona que le pusieron a Jesus era afilada,  con espinas peligrosas en ella.**
   * **Look**  - That is, "Look at" or, "Here is."
+  *
+  * **Mira - Esto es, " Mira a" o, "Aqui esta."**
   * **the King of the Jews**  - Since the soldiers were mocking Jesus, this could be translated as, "the so-called King of the Jews."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **el Rey de los Judios - Puesto que los soldados se burlaban de Jesus, esto puede ser traducido como, "el llamado rey de los Judios."**
   * //Una historia de la Biblia de: Mateo 26:57-27:26; Marcos 14:53-15:15; Lucas 22:54-23:25; Juan 18:12-19:16//
 **[[:es-419:obs:notes:frames:39-11|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:40-01|>>]]**
