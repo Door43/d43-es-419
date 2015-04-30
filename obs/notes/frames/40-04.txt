@@ -8,24 +8,28 @@ Jesús fue crucificado entre dos ladrones. Uno de ellos se burló de Jesús, per
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:es-419:obs:notes:key-terms/mock|mocked]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/guilt|guilty]]**
-  * **[[:es-419:obs:notes:key-terms/innocent|innocent]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:crucify|crucified]]**
+  * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:guilt|guilty]]**
+  * **[[:es-419:obs:notes:key-terms:innocent|innocent]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
 ===== Translation Notes: =====
 
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **two robbers**  - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
+  * **dos ladrones - Esto puede ser tambien traducido como, "dos bandidos. " Esto es refiere a los criminales que usaron fuerza o, violencia**  para **robar cosas.**
+  * **Do you have no fear of God?**  - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
+  * **Tu no tienes miedo de Dios? **-Este ladron** no esperaba una respuesta a la pregunta; Es la forma que algunos idiomas usaban para ** hacer una **fuerte declaracion.****Si tu idioma no usa preguntas en esta forma, entonces traduce esto asi, "Tu debes tener miedo a Dios!"**
+  * **We are guilty but this man is innocent**  - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
+  * No**sotros**** somos culpables pero este hombre es inocente - Esto puede ser traducido como, "Tu y yo hemos hecho cosas malas y merecemos morir, pero este hombre, Jesus, no ha hecho nada malo y no merece morir."**
+  * **this man**  - This phrase refers to Jesus.
+  * este **hombre - Esta frase se refiere a Jesus.**
+  *
+  * **Please remember me**  - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
+  * **Por favor acuerdate de mi - Esto es, "Por favor aceptame" o, Por favor dame la bienvenida" o, "Por favor permiteme estar contigo." Recuerda" aqui no significa de recordar despues que se te olvido.  Traduce esto en una forma que comunica una humilde peticion.**
+  * **in your kingdom**  - That is, "when you establish your kingdom" or, "when you are ruling as king."
+  * **en tu reino - Esto es, "cuando tu establescas tu reino" o, "cuando tu estes gobernando como Rey."**
+  * **Paradise**  - This is another name for "heaven."
+  * **Paraiso - Esto es otro nombre de "cielo."**
 **[[:es-419:obs:notes:frames:40-03|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-05|>>]]**
