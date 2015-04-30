@@ -1,25 +1,27 @@
-====== Pilate ======
-
+====== Pilate  Pilatos ======
 
 ===== Facts: =====
 
+**Datos:**
+
 Pilate was the Roman governor who sentenced Jesus to death.
 
-    * Because Pilate was the governor, he had the authority to put criminals to death.
-    * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
-    * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+**Pilatos fue el gobernador romano que sentenció a Jesús a muerte.**
 
-[See also: **[[es-419:obs:notes:key-terms:rome|Rome]]**, **[[es-419:obs:notes:key-terms:crucify|crucify]]**, **[[es-419:obs:notes:key-terms:guilt|guilt]]**]
-
+   * Because Pilate was the governor, he had the authority to put criminals to death.
+  * **Como Pilatos era el gobernador, tenía la autoridad de sentenciar a los criminales a la muerte.**
+  * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
+  * **Los líderes religiosos judíos querían que Pilatos crucificara a Jesús, así que ellos mintieron diciendo que Jesús era un criminal.**
+  * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
+  * **Pilatos se dio cuenta de que Jesús no era culpable, pero tenía miedo a la multitud, así que ordeno a los soldados que crucificaran a Jesus.**
+[See also: **[[:es-419:obs:notes:key-terms:rome|Rome]]**, **[[:es-419:obs:notes:key-terms:crucify|crucify]]**, **[[:es-419:obs:notes:key-terms:guilt|guilt]]**]
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate** would condemn Jesus as guilty and sentenced him to be killed. **Pilate** asked Jesus, "Are you the King of the Jews?"
-  ***[[:es-419:obs:notes:frames:39-10|[39-10]]]** **Pilate** said, "What is truth?"
-  ***[[:es-419:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate** went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate** replied, "He is not guilty." But they shouted even louder. Then **Pilate** said a third time, "He is not guilty!"
-  ***[[:es-419:obs:notes:frames:39-12|[39-12]]]** **Pilate** became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
-  ***[[:es-419:obs:notes:frames:40-02|[40-02]]]** **Pilate** commanded that a sign be put above Jesus' head that read, "King of the Jews."
-  ***[[:es-419:obs:notes:frames:41-02|[41-02]]]** **Pilate** said, "Take some soldiers and make the tomb as secure as you can."
-
-
+  * **[[:es-419:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to **Pilate**, the Roman governor. They hoped that **Pilate**  would condemn Jesus as guilty and sentenced him to be killed. **Pilate**  asked Jesus, "Are you the King of the Jews?"
+  * **[[:es-419:obs:notes:frames:39-10|[39-10]]]****Pilate**  said, "What is truth?"
+  * **[[:es-419:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, **Pilate**  went out to the crowd and said, "I find no guilt in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" **Pilate**  replied, "He is not guilty." But they shouted even louder. Then **Pilate**  said a third time, "He is not guilty!"
+  * **[[:es-419:obs:notes:frames:39-12|[39-12]]]****Pilate**  became afraid that the crowd would begin to riot, so he ordered his soldiers to crucify Jesus.
+  * **[[:es-419:obs:notes:frames:40-02|[40-02]]]****Pilate**  commanded that a sign be put above Jesus' head that read, "King of the Jews."
+  * **[[:es-419:obs:notes:frames:41-02|[41-02]]]****Pilate**  said, "Take some soldiers and make the tomb as secure as you can."
 ~~DISCUSSION:off~~
