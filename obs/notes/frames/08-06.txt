@@ -1,13 +1,14 @@
 ===== Pharaoh's Dream [08-06] =====
 
+<font 20px/inherit;;inherit;;inherit>** El sueño de Faraón [08-06] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
 After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
 
-Después de dos años, José todavía estaba en la carcel, aunque era inocente. Una noche, el Faraón, que es lo que los Egipcios llamaban a sus reyes, tuvo dos sueños que le pertubaron mucho. Ninguno de sus consejeros podrían decirle el significado de los sueños.
+Después de dos años, José todavía estaba en la cárcel, aunque era inocente. Una noche, el Faraón, lo cual es  como los Egipcios llamaban a sus reyes, tuvo dos sueños que le perturbaron mucho. Ninguno de sus consejeros podrían decirle el significado de los sueños.
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph]]**
   * **[[:es-419:obs:notes:key-terms:innocent|innocent]]**
@@ -15,14 +16,12 @@ Después de dos años, José todavía estaba en la carcel, aunque era inocente. 
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]]**
   * **[[:es-419:obs:notes:key-terms:king|kings]]**
   * **[[:es-419:obs:notes:key-terms:dream|dreams]]**
-
-
 ==== Translation Notes: ====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  * lo pertubo de gran manera - Esto quiere decir que el rey se sentia mucho miedo y confunsion (por lo que habia visto en sus suenos).
+  * **lo perturbo de gran manera **- Esto significa que el rey  sentía mucho miedo y confusión (por lo que había visto en sus sueños).
   * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, "wise men."
-  * **sus asesores - Estos eran hombrescon poderes especiales y conocimiento que algunas veces podian decir el significado de los sueños. Algunas traducciones se refieren a ellos como, "hombres sabios."**
+  * **sus asesores - ** Estos eran hombres con poderes especiales y conocimiento que algunas veces podían decir el significado de los sueños. Algunas traducciones se refieren a ellos como, "hombres sabios."
   * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-  * **significado de los suenos - La gente de Egipto creian que los sueños eran mensajes de los dioses diciendoles lo que pasaria en el futuro. Dios uso los sueños del Faroa para decirle lo que iva a occurir. **
+  * **significado de los sueños**  - La gente de Egipto creían que los sueños eran mensajes de los dioses diciendo a ellos lo que pasaría en el futuro. Dios uso los sueños del Faraón para decirle lo que iba a ocurrir.
 **[[:es-419:obs:notes:frames:08-05|<<]] | [[:es-419:obs:notes:08|Up]] | [[:es-419:obs:notes:frames:08-07|>>]]**
