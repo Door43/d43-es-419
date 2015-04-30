@@ -1,6 +1,6 @@
-===== Isaac Blessed Jacob [07-04] =====
+===== Isaac Blessed Jacob [07-04]*B =====
 
-<font 20px/inherit;;inherit;;inherit>** Isaac Bendijo a Jacob [07-04] **</font>
+<font 20px/inherit;;inherit;;inherit>** Isaac Bendijo a Jacob [07-04]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
 
@@ -17,7 +17,7 @@ Jacob fue a Isaac y le dijo: “Yo soy Esaú. He venido para que usted me pueda 
 ===== Translation Notes: =====
 
   * **Jacob came to Isaac**  - In some languages it might be more natural to say, "Jacob went to Isaac."
-  * **Jacob vino a Isaac **- En algunos idiomas esto puede ser mas natural  decir, "Jacob fue a Isaac".
+  * **Jacob vino a Isaac **- En algunos idiomas esto puede ser mas natural decir, "Jacob fue a Isaac".
   * **he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
   * **el pensó que este era Esau **- El pensó que la persona que el estaba tocando y oliendo era Esau.
 **[[:es-419:obs:notes:frames:07-03|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-05|>>]]**
