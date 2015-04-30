@@ -8,18 +8,18 @@ Pedro fue y lloró amargamente. Mientras tanto, Judas, el traidor, vio que los l
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/judas|Judas]]**
-  * **[[:es-419:obs:notes:key-terms/betray|betrayer]]**
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:judas|Judas]]**
+  * **[[:es-419:obs:notes:key-terms:betray|betrayer]]**
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
+  * **lloro amargamente - Esto es, "lloro" sintiendo una tristeza profunda" o, "lloro" sintiendo un profundo pesar."**
+  *
+  * **the betrayer**  - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
+  * **el traidor - Esto es, "el que traiciono a Jesus" o, "quien ayudo a los lideres arrestar a Jesus."**
+  * **had condemned Jesus to die**  - That is, "had said that Jesus was guilty and must die."
+  * **condeno a Jesus a morir - Esto es, "dijo que Jesus era culpable y debe morir."**
 **[[:es-419:obs:notes:frames:39-07|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-09|>>]]**
