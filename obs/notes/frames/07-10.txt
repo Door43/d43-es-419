@@ -1,13 +1,14 @@
 ===== The Brothers Were Reunited [07-10] =====
 
+**<font 22px/inherit;;inherit;;inherit>Los hermanos se reunieron [07 -10]</font> **
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
 But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**.
 
-Pero Esaú ya había perdoando a Jacob, y estaban contentos para verse otra vez. Entonces, Jacob vivía en paz en Canaan. Entonces, Isaac se murió, y Jacob y Esaú lo enterraron, Las promesas del pacto que Dios había prometido a Abraham, ahora fueron pasadas a Jabob.
+Pero Esaú ya había perdonado a Jacob, y estaban contentos por verse otra vez. Entonces, Jacob vivía en paz en Canaan. Entonces, Isaac se murió, y Jacob y Esaú lo enterraron, Las promesas del pacto que Dios había prometido a Abraham, ahora fueron pasadas a Jabob.
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:esau|Esau]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgiven]]**
@@ -19,14 +20,17 @@ Pero Esaú ya había perdoando a Jacob, y estaban contentos para verse otra vez.
   * **[[:es-419:obs:notes:key-terms:promise|promises]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]]**
-
-
 ===== Translation Notes: =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
+  * **vivieron pacíficamente **- Esto se refiere al hecho que Esaú y Jacob no estaban enojado el uno con el otro y no se pelearon entre si.
   * **buried him**  - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
+  * **lo sepultaron **- Esto puede significar que ellos cavaron un hueco en la tierra, colocaron el cuerpo de Isaac en el, y cubrieron el hueco con tierra o piedras. O esto puede significar que ellos colocaron el cuerpo de Isaac en una cueva y taparon la entrada.
   * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
+  * **promesas del pacto **- Estas fueron las promesa que Dios hizo en su pacto con Abraham.
   * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:es-419:obs:notes:frames:06-04|[06-04]]]**.
+  * **paso de Isaac a Jacob **- Las promesas pasaron de Abraham a su hijo Isaac, y ahora a Jacob el hijo de Isaac. Esaú no recibió las promesas. Ver también<font 22px/inherit;;rgb(0, 128, 0);;inherit>** [06-04] **</font> .
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una historia de la Biblia: Genesis 25:27-33:20//
+  * //Una Historia de la Biblia //- Estas referencias pueden ser ligeramente diferente en algunas traducciones de la Biblia.
+  * //Una historia de la Biblia: Génesis 25:27-33:20.//
 **[[:es-419:obs:notes:frames:07-09|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:08-01|>>]]**
