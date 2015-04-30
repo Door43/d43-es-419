@@ -8,17 +8,15 @@ Temprano la próxima mañana, los líderes de los Judios llevaron a Jesús a Pil
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:es-419:obs:notes:key-terms/rome|Roman]]**
-  * **[[:es-419:obs:notes:key-terms/king-of-jews|king of the Jews]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
+  * **[[:es-419:obs:notes:key-terms:rome|Roman]]**
+  * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]]**
 ===== Translation Notes: =====
 
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
-
+  * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
+  * **Gobernador romano - Esto es, "El gobierno oficial romano. "**  El gobierno **romano habia nombrado a Pilato para gobernar la region de Judea en Israel.**
+  * **sentence him to be killed**  - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
+  * **sentenciarlo a matar -  Como gobernador, Pilato tenia la autoridad de condenar a Jesus a la muerte y aprobacion de su crucificacion, o, darle la libertad. Los lideres Judios religiosos no tenian la autoridad para que maten a alguien.**
 **[[:es-419:obs:notes:frames:39-08|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-10|>>]]**
