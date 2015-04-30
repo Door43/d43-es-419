@@ -8,18 +8,17 @@ Después de volver al cielo Jesús, los discípulos quedaban en Jesursalen como 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms/believer|believers]]**
-  * **[[:es-419:obs:notes:key-terms/pray|pray]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:es-419:obs:notes:key-terms:believer|believers]]**
+  * **[[:es-419:obs:notes:key-terms:pray|pray]]**
 ===== Translation Notes: =====
 
-  * **returned to heaven** - That is, "went back to heaven."
-  * **stayed in Jerusalem** - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
-
+  * **returned to heaven**  - That is, "went back to heaven."
+  * **volver al cielo**  - Esto es, " ir de nuevo al cielo."
+  * **stayed in Jerusalem**  - That is, "stayed in Jerusalem for awhile." They didn't stay there permanently.
+  * en Jerusalem - Esto es, "quedarse en Jerusalem por un tiempo." Esllos no se quedaron alli para siempre.
 
 **[[:es-419:obs:notes:frames:42-11|<<]] | [[:es-419:obs:notes:43|Up]] | [[:es-419:obs:notes:frames:43-02|>>]]**
