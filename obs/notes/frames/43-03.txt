@@ -1,4 +1,4 @@
-===== Speaking Other Languages [43-03]/Hablando  Otras Lenguas =====
+===== Speaking Other Languages [43-03]/Hablando Otras Lenguas =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?nolink&}}
 
@@ -12,7 +12,9 @@ Cuando los creyentes estuvieron juntos, de repente la casa dónde estuvieron fue
   * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
 ===== Translation Notes: =====
 
-  * **a sound like a strong wind**  - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard."
+  * **a sound like a strong wind**  - That is, "a noise that a strong wind makes" or, "the sound that the wind makes when it blows hard
+  * **un sonido como un fuerte viento**  - Esto es, "un sonido tan fuerte como el que hace el viento" o,."el sonido que el viento hace cuando sopla fuerte
   * **filled with the Holy Spirit**  - That is, "given ability by the Holy Spirit" or, "given power by the Holy Spirit."
+  * llenados con el Espiritu Santo - esto es, "habilidades dadas por el Espiritu Santo" o, " poder dado por el Espiritu Santo"
   * **in other languages**  - This could be translated as, "in languages other than their own language" or, "in foreign languages" or, "as people from other places speak." The believers did not know these languages until the Holy Spirit gave them the power to speak them. Make sure the word used to translate "languages" refers to languages people actually speak and understand.
 **[[:es-419:obs:notes:frames:43-02|<<]] | [[:es-419:obs:notes:43|Up]] | [[:es-419:obs:notes:frames:43-04|>>]]**
