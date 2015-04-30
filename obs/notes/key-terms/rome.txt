@@ -1,27 +1,31 @@
-====== Rome ======
-
+====== Rome  Roma ======
 
 ==== (Rome, Roman) ====
 
+(Roma, romano)
 
 ===== Facts: =====
 
+Datos:
+
 In the current day, Rome is the capital city of the country of Italy.
 
-    * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
-    * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
-    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
-    * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+**Actualmente**, **Roma es la capital del país de Italia.**
 
-
-[See also: **[[es-419:obs:notes:key-terms:pilate|Pilate]]**, **[[es-419:obs:notes:key-terms:paul|Paul]]**, **[[es-419:obs:notes:key-terms:good-news|good news]]**]
+   * During the time of Jesus and the apostles, Rome was the center of the Roman Empire.
+  * **Durante el tiempo de Jesús y los apóstoles, Roma fue el centro del Imperio Romano.**
+  * The Roman Empire ruled over all of the regions around the Mediterranean Sea, including Israel.
+  * **El Imperio Romano gobernaba todas las regiones alrededor del Mar Mediterráneo, incluyendo a Israel.**
+  * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
+  * **El término, "romano" se refiere a todo lo relacionado con las regiones que gobernaba Roma, incluyendo los ciudadanos y los oficiales.**
+  * The Apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
+  * **El apóstol Pablo fue llevado a la ciudad de Roma como prisionero por que predicaba las Buenas Nuevas de Jesús.**
+<font inherit/inherit;;inherit;;inherit>[See also:</font> **[[:es-419:obs:notes:key-terms:pilate|Pilate]]** <font inherit/inherit;;inherit;;inherit>,</font> **[[:es-419:obs:notes:key-terms:paul|Paul]]** <font inherit/inherit;;inherit;;inherit>,</font> **[[:es-419:obs:notes:key-terms:good-news|good news]]** <font inherit/inherit;;inherit;;inherit>]</font>
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:es-419:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:es-419:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:es-419:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:es-419:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
-
-
+  * **[[:es-419:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
+  * **[[:es-419:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
+  * **[[:es-419:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
+  * **[[:es-419:obs:notes:frames:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
 ~~DISCUSSION:off~~
