@@ -8,23 +8,24 @@ Jesús le contestó, “Ud. lo ha dicho, pero mi reino no es un reino terrenal. 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms/servant|servants]]**
-  * **[[:es-419:obs:notes:key-terms/true|truth]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/love|loves]]**
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom|kingdom]]**
+  * **[[:es-419:obs:notes:key-terms:servant|servants]]**
+  * **[[:es-419:obs:notes:key-terms:true|truth]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:love|loves]]**
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
 ===== Translation Notes: =====
 
-  * **You have said so** - That is, "You have spoken correctly."
-  * **my kingdom is not an earthly kingdom** - That is, "my kingdom is not like earthly kingdoms."
-  * **my servants would fight for me** - That is, "my disciples would fight to protect me" so that I could establish my kingdom.
-  * **listens to me** - This could be translated as, "hears my teaching and obeys me." It includes not just hearing Jesus' words, but also doing what he says.
-  * **What is truth?** - that is, "Can anyone know what is true?"
-
-
+  * **You have said so**  - That is, "You have spoken correctly."
+  * **Tu lo has dicho - Esto. "Tu has hablado correctamente."**
+  * **my kingdom is not an earthly kingdom**  - That is, "my kingdom is not like earthly kingdoms."
+  * **mi reino no es un reino terrenal - Esto es, "mi reino no es como los reinos terrenales."**
+  * **my servants would fight for me**  - That is, "my disciples would fight to protect me" so that I could establish my kingdom.
+  * **mis siervos lucharian por mi - Esto, "mis discipulos lucharian para protegerme" asi yo puedo establesco mi reino.**
+  * **listens to me**  - This could be translated as, "hears my teaching and obeys me." It includes not just hearing Jesus' words, but also doing what he says.
+  * **escuchame - Esto puede ser traducido como, "oye mis ensenanzas y obedeceme." Esto incluye no solo escuchar las palabras de Jesus, pero tambien hacer lo que el dice.**
+  * **What is truth?**  - that is, "Can anyone know what is true?"
+  * **Cual es la verdad? - esto es, "Alguien sabe lo que es verdad?"**
 **[[:es-419:obs:notes:frames:39-09|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-11|>>]]**
