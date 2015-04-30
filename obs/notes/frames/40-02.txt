@@ -8,18 +8,16 @@ Los soldados le llevaron a Jesús a un lugar que se llamaba “el cráneo” y c
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/cross|cross]]**
-  * **[[:es-419:obs:notes:key-terms/god-father|Father]]**
-  * **[[:es-419:obs:notes:key-terms/forgive|forgive]]**
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:es-419:obs:notes:key-terms/king-of-jews|King of the Jews]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:cross|cross]]**
+  * **[[:es-419:obs:notes:key-terms:god-father|Father]]**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
+  * **[[:es-419:obs:notes:key-terms:king-of-jews|King of the Jews]]**
 ===== Translation Notes: =====
 
-  * **the Skull** - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **forgive them, because they do not know what they are doing** - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
-
-
+  * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
+  * **el craneo - Una colina cerca de Jerusalen con una blanca, parte superior rocosa en forma como la parte de un craneo**.
+  * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
+  * **perdonalos, porque no saben lo que estan haciendo - Esto es , "ellos no entendian el significado de l**o que estaban haciendo, asi  **que perdonaslo."**  Los **soldados creyeron que Jesus era solo un criminal que merecia morir. Ellos no entendian que el era el Hijo de Dios.**
 **[[:es-419:obs:notes:frames:40-01|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-03|>>]]**
