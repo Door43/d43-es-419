@@ -1,6 +1,6 @@
 ===== The Brothers Were Reunited [07-10] =====
 
-**<font 22px/inherit;;inherit;;inherit>Los hermanos se reunieron [07 -10]</font> **
+**<font 22px/inherit;;inherit;;inherit>Los hermanos se reunieron [07 -10]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
@@ -29,7 +29,7 @@ Pero Esaú ya había perdonado a Jacob, y estaban contentos por verse otra vez. 
   * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
   * **promesas del pacto **- Estas fueron las promesa que Dios hizo en su pacto con Abraham.
   * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:es-419:obs:notes:frames:06-04|[06-04]]]**.
-  * **paso de Isaac a Jacob **- Las promesas pasaron de Abraham a su hijo Isaac, y ahora a Jacob el hijo de Isaac. Esaú no recibió las promesas. Ver también<font 22px/inherit;;rgb(0, 128, 0);;inherit>** [06-04] **</font> .
+  * **paso de Isaac a Jacob **- Las promesas pasaron de Abraham a su hijo Isaac, y ahora a Jacob el hijo de Isaac. Esaú no recibió las promesas. Ver también<font 14px/inherit;;rgb(0, 128, 0);;inherit>** [06-04]</font> **     <font 14px/inherit;;rgb(0, 128, 0);;inherit></font> .
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //Una Historia de la Biblia //- Estas referencias pueden ser ligeramente diferente en algunas traducciones de la Biblia.
   * //Una historia de la Biblia: Génesis 25:27-33:20.//
