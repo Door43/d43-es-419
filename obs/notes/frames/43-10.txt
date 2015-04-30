@@ -1,4 +1,4 @@
-===== What Should We Do? [43-10] =====
+===== What Should We Do? [43-10] / Que Podriamos Nosostros Hacer? =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
@@ -8,14 +8,10 @@ La gente escuchando a Pedro fue conmovida por las cosas que él dijo. Así, preg
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
-  * **deeply moved by** - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
-
-
+  * **deeply moved by**  - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
+  * **Brothers**  - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
 **[[:es-419:obs:notes:frames:43-09|<<]] | [[:es-419:obs:notes:43|Up]] | [[:es-419:obs:notes:frames:43-11|>>]]**
