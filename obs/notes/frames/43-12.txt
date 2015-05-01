@@ -1,4 +1,4 @@
-===== 3000 Believe [43-12] =====
+===== 3000 Believe [43-12] / 3000 Creen =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
@@ -8,18 +8,14 @@ Como 3.000 personas creyeron lo que Pedro dijo y llegaron a ser discípulos de J
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/believe|believed]]**
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:es-419:obs:notes:key-terms/church|church]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:believe|believed]]**
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:es-419:obs:notes:key-terms:church|church]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:es-419:obs:notes:frames:43-11|<<]] | [[:es-419:obs:notes:43|Up]] | [[:es-419:obs:notes:frames:43-13|>>]]**
