@@ -8,17 +8,15 @@ El día después de ser enterrado Jesús fue un día sábado, y los Judios no es
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/sabbath|Sabbath]]**
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:sabbath|Sabbath]]**
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 ===== Translation Notes: =====
 
-  * **the Jews were not permitted** - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-
-
+  * **the Jews were not permitted**  - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
+  * **los Judios no estaban permitidos - Las reglas en el dia de Reposo**  no permitian **a un Judio caminar muy lejos o hacer cualquier tipo de trabajo.**
+  * **burial spices**  - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
+  * **especias del entierro - Esto se refiere a especias aromaticas que eran puestas en el cuerpo muerto para cubrir el mal olor. Esto tambien puede ser traducido como, "especies de olor dulce" o, "aceites de olor dulce o,  "plantas de olor dulce."**
 **[[:es-419:obs:notes:frames:41-02|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-04|>>]]**
