@@ -8,17 +8,15 @@ Cuando las mujeres llegaron al sepúlcro, el ángel les dijo, “No tengan miedo
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/raise|risen]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:raise|risen]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 ===== Translation Notes: =====
 
-  * **Do not be afraid** - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **He has risen from the dead** - This could be translated as, "He has come back to life."
-
-
+  * **Do not be afraid**  - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
+  * **No tengan miedo - Esto es, "Para de tener miedo." Un angel brillando como un relampago**  era una **vista aterradora!**
+  * **He has risen from the dead**  - This could be translated as, "He has come back to life."
+  * **El ha resucitado de la muerte - Esto tambien se puede traducir como, "El ha vuelto a la vida."**
 **[[:es-419:obs:notes:frames:41-04|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-06|>>]]**
