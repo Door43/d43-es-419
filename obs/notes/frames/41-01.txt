@@ -8,21 +8,21 @@ Después de crucificar a Jesús los soldados, los líderes Judios que no creyero
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:es-419:obs:notes:key-terms/raise|rise]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:crucify|crucified]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
+  * **[[:es-419:obs:notes:key-terms:raise|rise]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
-  * **the unbelieving Jewish leaders** - That is, "the Jewish leaders who did not believe in Jesus."
-  * **That liar, Jesus, said** - This could also be translated as, "That man, Jesus, lied and said." They refused to believe that Jesus told the truth about being the Son of God.
-  * **rise from the dead** - That is, "come back to life" or, "become alive again."
-
-
+  * **the unbelieving Jewish leaders**  - That is, "the Jewish leaders who did not believe in Jesus."
+  * **los lideres Judios no creyentes - Esto es, "los lideres Judios quienes no creian en Jesus."**
+  * **That liar, Jesus, said**  - This could also be translated as, "That man, Jesus, lied and said." They refused to believe that Jesus told the truth about being the Son of God.
+  * **Ese  mentiroso**, Jesus**, dijo - Esto tambien se puede traducir como , "**Ese **hombre, Jesus, mintio y dijo." Ellos se nagaron a creer que Jesus dijo la verdad sobre  que el era el Hijo de Dios.**
+  *
+  * **rise from the dead**  - That is, "come back to life" or, "become alive again."
+  * **resucitar de entre los muertos  - Esto es, " volver a la vida" o, "convertido en vivo de nuevo."**
 **[[:es-419:obs:notes:frames:40-09|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-02|>>]]**
