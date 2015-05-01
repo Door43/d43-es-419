@@ -1,15 +1,14 @@
-====== Open Bible Stories (es-419) ======
+====== Historias Bíblicas Libres  (es-419) ======
 
 {{  :en:obs-pic_360p.jpg?nolink&300}}**50 historias claves de la Biblia, desde la Creación hasta Apocalipsis, para evangelismo y discipulado, en texto, audio y video, en cualquier teléfono movil, en cualquier lenguaje, totalmente gratis.**
+==== Una Mini-Biblia Gratis y Libre ====
 
-==== Una Mini-Biblia Gratis y Libre  ====
-
-<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit>Historias</font> Bíblicas<font 14px line-height: 17.8181819915772px;/inherit;;inherit;;inherit></font> Libres fue desarrollado por   [[http://distantshoresmedia.org|Distant Shores Media]], [[http://www.wycliffeassociates.org|Wycliffe Associates]], y  la comunidad mundial de misiones Door43. Las ilustraciones son de © [[http://www.sweetpublishing.com|Sweet Publishing]] y el proyecto completo —texto e ilustraciones—están disponibles bajo [[http://creativecommons.org/licenses/by-sa/4.0|Creative Commons Attribution-ShareAlike 4.0 Unported License]], favor dar crédito a [[http://openbiblestories.com|http://openbiblestories.com]].
+<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>Historias</font>    Bíblicas Libres fue desarrollado por [[http://distantshoresmedia.org|Distant Shores Media]], [[http://www.wycliffeassociates.org|Wycliffe Associates]], y la comunidad mundial de misiones Door43. Las ilustraciones son de © [[http://www.sweetpublishing.com|Sweet Publishing]] y el proyecto completo —texto e ilustraciones—están disponibles bajo [[http://creativecommons.org/licenses/by-sa/4.0|Creative Commons Attribution-ShareAlike 4.0 Unported License]], favor dar crédito a [[http://openbiblestories.com|http://openbiblestories.com]].
 
 Para conocer mas sobre las Historias Bíblicas Libres, visite [[https://unfoldingword.org/stories/|openbiblestories.com]].
 
 ==== Como usted puede ayudar ====
 
-Sientase en libertad de unirse al equipo de tradución y comenzar una nueva traducción, completar alguna ya comenzada o ayudar a revisar una traducción completa.   Mas información de como comenzar a traducir las Historias Bíblicas Libres [[:en:obs:help|aquí]], e información útil también se puede encontrar en [[:en:get-started|" Empezando"]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>y en</font>    [[:en:tips-tricks|"Consejos & Trucos"]]. Si necesita ayuda, <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>¡</font>    [[:contact|solo pregunte]]!
+Sientase en libertad de unirse al equipo de tradución y comenzar una nueva traducción, completar alguna ya comenzada o ayudar a revisar una traducción completa. Mas información de como comenzar a traducir las Historias Bíblicas Libres [[:en:obs:help|aquí]], e información útil también se puede encontrar en [[:en:get-started|" Empezando"]]<font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>y en</font>    [[:en:tips-tricks|"Consejos & Trucos"]]. Si necesita ayuda, <font 14px line-height: 17.8181819915772px/inherit;;inherit;;inherit>¡</font>    [[:contact|solo pregunte]]!
 
 {{page>es-419:obs:stories}}{{page>en:obs:active}}
