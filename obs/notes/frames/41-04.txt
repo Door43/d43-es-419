@@ -8,17 +8,16 @@ De repente, hubo un gran terremoto. Un ángel que brillaba como un relámpago ap
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms/heaven|heaven]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
 ===== Translation Notes: =====
 
-  * **great earthquake** - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
-  * **that shone as bright as lightning** - That is, "whose appearance was as bright as lightning."
-  * **fell to the ground like dead men** - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
-
-
+  * **great earthquake**  - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
+  * **un gran terremoto - Esto tambien se puede traducir como, "terremoto violento" o, "fuerte temblor del suelo."**
+  * **that shone as bright as lightning**  - That is, "whose appearance was as bright as lightning."
+  * **que brillo tan brillanta como**  un relampago - **Esto es, "que su aparicion era tan brillanta como relampago."**
+  * **fell to the ground like dead men**  - They were not dead, but they did not move, just like dead men do not move. They probably had fainted from fright. To make this clear, this could be translated as, "suddenly fell to the ground and did not move."
+  * **cayeron al suelo como hombres muertos -  **Ellos no estaban muertos, pero no se movieron, al igual que los hombres muertos **no se movieron. Ellos probablemente se desmayaron del susto. Para hacer esto claro, esto se puede traducir como, "de momento cayeron al piso y no se movieron."** ** **
 **[[:es-419:obs:notes:frames:41-03|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-05|>>]]**
