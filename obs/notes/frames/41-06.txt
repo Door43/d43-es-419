@@ -8,17 +8,14 @@ Entonces, el ángel dijo a las mujeres, “Vayan y digan a los discípulos. 'Jes
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/raise|risen]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/galilee|Galilee]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:raise|risen]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
 ===== Translation Notes: =====
 
   * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-
-
+  * **el ira a Galilea delante de ti - Esto es, "el se reunira con ustedes en Galilea" o, "el estara en Galilea cuando ustedes lleguen ahi."**
 **[[:es-419:obs:notes:frames:41-05|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-07|>>]]**
