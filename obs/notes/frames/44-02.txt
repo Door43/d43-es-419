@@ -1,4 +1,4 @@
-===== Get Up and Walk [44-02] =====
+===== Get Up and Walk [44-02] / Levantate y Camina =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&}}
 
@@ -8,15 +8,13 @@ Pedro miróa al paralítico y dijo, “No tengo dinero para darte. Pero le daré
 
 ===== Important Terms: =====
 
-
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **In the name of Jesus** - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
-  * **get up** - That is, "stand up."
-
+  * **In the name of Jesus**  - "Name" here stands for the authority and power of the person. Therefore, this expression here means, "by the authority of Jesus."
+  * **En el nombre de Jesus**  - "Nombre" aqui levantar por la autoridad y poder de una persona. Por lo tanto, esa expresion quiere decir, "por la autoridad de Jesus."
+  * **get up**  - That is, "stand up."
+  * l**evantarse**  - Esto es, "pararse"
 
 **[[:es-419:obs:notes:frames:44-01|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-03|>>]]**
