@@ -1,4 +1,4 @@
-===== The Disciples Met Together [43-13] =====
+===== The Disciples Met Together [43-13] / Los Discípulos se Reunieron =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?nolink&}}
 
@@ -8,14 +8,12 @@ Los discípulos escuchaban continuamente la enseñanza de los apóstoles, pasaro
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:es-419:obs:notes:key-terms/pray|prayed]]**
-  * **[[:es-419:obs:notes:key-terms/praise|praising]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/believer|believers]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:apostle|apostles]]**
+  * **[[:es-419:obs:notes:key-terms:pray|prayed]]**
+  * **[[:es-419:obs:notes:key-terms:praise|praising]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:believer|believers]]**
 ===== Translation Notes: =====
 
   * **thought well of them**  - That is, "had a positive opinion of them."
