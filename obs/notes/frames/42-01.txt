@@ -8,17 +8,14 @@ En el día que Jesús resucitó de la muerte, dos de sus discípulos estuvieron 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/raise|raised]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/life|alive]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:raise|raised]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:life|alive]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //**(No hay notas para este marco.)** //
 **[[:es-419:obs:notes:frames:41-08|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-02|>>]]**
