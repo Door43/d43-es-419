@@ -1,12 +1,12 @@
 ===== A New Pharaoh [09-02] =====
 
-<font 20px/inherit;;inherit;;inherit>** Un nuevo Faraón [09-02] **</font>
+<font 20px/inherit;;inherit;;inherit>** Un nuevo Faraón [09-02]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-02.jpg?nolink&}}
 
 After hundreds of years, the number of **Israelites** had become very large. The **Egyptians** no longer remembered **Joseph** and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the **Pharaoh** who was ruling Egypt at that time **made the Israelites slaves** to the Egyptians.
 
-Después de cientos de años, el número de los Israelitas había llegado a ser grande. Los Egipcios ya no recordaban de José y todo lo que él había hecho por ellos. Ellos llegaban a tener miedo de los Israelitas porque había tanto de ellos. Así, el Faraón quien estaba reinando sobre Egipto hizo que los Israelitas fuesen esclavos a los Egipcios.
+Después de cientos de años, el número de los Israelitas había llegado a ser grande. Los Egipcios ya no recordaban de José y todo lo que él había hecho por ellos. Ellos llegaban a tener miedo de los Israelitas porque eran allí muchos de ellos. Así, el Faraón quien estaba reinando sobre Egipto hizo que los Israelitas fuesen esclavos de los Egipcios.
 
 ===== Important Terms: =====
 
@@ -19,7 +19,8 @@ Después de cientos de años, el número de los Israelitas había llegado a ser 
 
   * **Pharaoh**  – "Pharaoh" is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
   * **Faraón**
- - "Faraón" es una palabra Egipcia que se refiere a su rey. Este Faraón fue probablemente el hijo de un Faraón anterior quien había muerto, quien pudo haber sido un descendiente del Faraón que conoció a José.
+- "Faraón" es una palabra Egipcia que se refiere a su rey. Este Faraón fue probablemente el hijo de un Faraón anterior quien había muerto, quien pudo haber sido un descendiente del Faraón que conoció a José.
+
   * **made the Israelites slaves**  - That is, "forced the Israelites to do hard labor against their will and treated them very harshly."
   * **hizo a los Israelitas esclavos**  - Eso es, " forzó a los Israelitas a hacer una labor en contra de su voluntad y tratarlo a ellos muy asperamente".
 **[[:es-419:obs:notes:frames:09-01|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-03|>>]]**
