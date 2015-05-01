@@ -8,14 +8,12 @@ Pilato dijo, “Tomen algunos soldados y hagan la tumba tan segura como sea posi
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/pilate|Pilate]]**
-  * **[[:es-419:obs:notes:key-terms/tomb|tomb]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
+  * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 ===== Translation Notes: =====
 
   * **they placed**  - That is, "the religious leaders and the soldiers placed."
-  * **ellos pusieron - Esto es, "los lideres religiosos y pusieron los soldados."**
+  * **ellos colocaron- Esto es, "los lideres religiosos y  los soldados colocados."**
   * **a seal on the stone**  - They put a soft material like clay or wax between the stone and the tomb and marked it with an official seal. If anyone moved the stone, the material would break and show that someone had entered the tomb. This could also be translated as, "a mark on the stone to forbid people from moving it."
-  * **un sello en la piedra  -  Ellos pusieron**  un **material suave como arcilla o acera entre la piedra y la tumba y marcaron con un sello oficial. Si alguien mueve la piedra, el material se puede romper y mostrar que alguien entro en la tumba. Esto****tambien se puede traducir como, "una marca en la piedra para prohibir a la gente de moverla."**
+  * **un sello en la piedra - Ellos pusieron**  un **material suave como arcilla o acera entre la piedra y la tumba y marcaron con un sello oficial. Si alguien mueve la piedra, el material se puede romper y mostrar que alguien entro en la tumba. Esto tambien**** se puede traducir como, "una marca en la piedra para prohibir a la gente de moverla."**
 **[[:es-419:obs:notes:frames:41-01|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-03|>>]]**
