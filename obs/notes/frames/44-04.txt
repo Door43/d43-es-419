@@ -1,4 +1,4 @@
-===== The Power of Jesus [44-04] =====
+===== The Power of Jesus [44-04] / El Poder de Jesus =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
@@ -8,16 +8,12 @@ La muchedumbre vino rapidamente para ver al hombre sanado. Pedro les dijo, “¿
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/heal|healed]]**
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/power|power]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/faith|faith]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:power|power]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:faith|faith]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:es-419:obs:notes:frames:44-03|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-05|>>]]**
