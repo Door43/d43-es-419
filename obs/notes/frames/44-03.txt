@@ -1,4 +1,4 @@
-===== The Crippled Man Was Healed [44-03] =====
+===== The Crippled Man Was Healed [44-03] / El Paralitico Fue Sanado =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
@@ -8,15 +8,13 @@ Inmediatamente, Dios sanó al paralítico, y él comenzó a caminar y saltar, y 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/heal|healed]]**
-  * **[[:es-419:obs:notes:key-terms/praise|praise]]**
-  * **[[:es-419:obs:notes:key-terms/temple|Temple]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+  * **[[:es-419:obs:notes:key-terms:praise|praise]]**
+  * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
 ===== Translation Notes: =====
 
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-
+  * **courtyard of the Temple**  - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
+  * patio de el Templo - Solo los sacerdotes podian estar en el Templo, pero los Judios regulares eran autorizados para estar dentro de las areas que rodeaban el Templo.
 
 **[[:es-419:obs:notes:frames:44-02|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-04|>>]]**
