@@ -25,7 +25,7 @@
 
 **[[http://door43.org/en/syntax|Diseñar el contenido]]**– Cómo hacer que el contenido tenga el aspecto que debe tener.
 
-**[[http://door43.org/en/tips-tricks|Consejos & Trucos]]**– Atajo Y formas de aumentar la eficiencia.
+**[[http://door43.org/en/tips-tricks|Consejos & ]]** **[[http://door43.org/en/tips-tricks|Trucos]]**– Atajo y formas de aumentar la eficiencia.
 
 **[[http://door43.org/en/technical|Detalles Técnicos]]**– La tecnología que hay tras Door43.
 
@@ -35,4 +35,4 @@ Door43; es un desarrollo activo, según ampliamos la utilidad del contenido, des
 
 ----
 
-//" Ora para que Dios nos abra **puerta** para la Palabra.” —Colosenses **4**:**3** //
+//" Ora para que Dios nos abra **puerta**  para la Palabra.” —Colosenses **4**:**3**  //
