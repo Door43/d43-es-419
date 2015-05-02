@@ -8,22 +8,22 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/repent|repent]]**
-  * **[[:es-419:obs:notes:key-terms/receive|receive]]**
-  * **[[:es-419:obs:notes:key-terms/forgive|forgiveness]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:es-419:obs:notes:key-terms/witness|witnesses]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:word-of-god|scriptures]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:repent|repent]]**
+  * **[[:es-419:obs:notes:key-terms:receive|receive]]**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgiveness]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:es-419:obs:notes:key-terms:people-group|people groups]]**
+  * **[[:es-419:obs:notes:key-terms:witness|witnesses]]**
 ===== Translation Notes: =====
 
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
+  * **proclaim**  - That is, "announce" or, "preach."
+  * **proclamar - Esto es, "anunciar" o, "predicar"**
+  * **They will do this starting in Jerusalem**  - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
+  * **Ellos haran esto empenzando en Jerusalen -  **Esto es, "Ellos comenzaran a hacer esto en Jerusalen" o, "Ellos comenzaran a proclamar estas cosas en Jerusalen.** **
+  * **You are witnesses of these things**  - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
+  *
 
 **[[:es-419:obs:notes:frames:42-07|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-09|>>]]**
