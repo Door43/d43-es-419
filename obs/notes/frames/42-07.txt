@@ -8,20 +8,19 @@ Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:es-419:obs:notes:key-terms/fulfill|fulfilled]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:es-419:obs:notes:key-terms/death|die]]**
-  * **[[:es-419:obs:notes:key-terms/raise|rise]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
+  * **[[:es-419:obs:notes:key-terms:fulfill|fulfilled]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
+  * **[[:es-419:obs:notes:key-terms:death|die]]**
+  * **[[:es-419:obs:notes:key-terms:raise|rise]]**
 ===== Translation Notes: =====
 
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
-
-
+  * **must be fulfilled**  - This can be translated as, "must happen."
+  * **debe ser cumplido - Esto se puede traducir como, "debe suceder."**
+  * **opened their minds so that they could understand**  - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
+  * **abrio sus mentes para que pudieran entender - Esto tambien se puede traducir como, "causo que ellos sean capaces de entender" o, "hizo que ellos sean capaces de comprender."**
+  * **on the third day**  - That is, "after three days" or, "three days later."
+  * **en el tercer dia - **Esto es, "despues de tres dias" o, tres dias despues."** **
 **[[:es-419:obs:notes:frames:42-06|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-08|>>]]**
