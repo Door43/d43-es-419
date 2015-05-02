@@ -8,18 +8,16 @@ Entonces, Jesús les explicó de qué dice la palabra de Dios acerca del Mesías
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/word-of-god|God's word]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms/suffer|suffer]]**
-  * **[[:es-419:obs:notes:key-terms/raise|rise]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
+  * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
+  * **[[:es-419:obs:notes:key-terms:raise|rise]]**
 ===== Translation Notes: =====
 
-  * **on the third day** - Some languages may prefer to say, "on the third day after his death."
-  * **it was almost evening** - This can also be translated as, "the day was ending" or, "the sun was going down" or, "it was starting to get dark."
-
-
+  * **on the third day**  - Some languages may prefer to say, "on the third day after his death."
+  * **en el tercer dia - Algunos idiomas prefieren decir, "en el tercer dia despues de su muerte."**
+  * **it was almost evening**  - This can also be translated as, "the day was ending" or, "the sun was going down" or, "it was starting to get dark."
+  * **era casi de noche - Esto tambien puede ser traducido como, "el dia estaba terminando" o, "el sol se estaba poniendo" o, "estaba empezando a ponerse oscuro."**
 **[[:es-419:obs:notes:frames:42-02|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-04|>>]]**
