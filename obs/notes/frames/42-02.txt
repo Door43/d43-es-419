@@ -8,15 +8,12 @@ Jesús se les acercó y empezó a hablar con ellos, pero ellos no le reconociero
 
 ===== Important Terms: =====
 
-
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
 ===== Translation Notes: =====
 
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
-
+  * **did not recognize him**  - That is, "did not know that it was Jesus."
+  * **no lo reconocieron a el - Esto es, "no sabian que el era Jesus."**
+  * **all the remarkable things that had happened**  - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
+  * **todas las cosas extraordinaria que habian pasado - Esto se refiere a la ensenanza y milagros de Jesus, su muerte, y los reportes de su resurreccion.**
 **[[:es-419:obs:notes:frames:42-01|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-03|>>]]**
