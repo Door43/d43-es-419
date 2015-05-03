@@ -8,15 +8,12 @@ Durante los próximos cuarenta días, Jesús apareció a los dsicípulos muchas 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/life|alive]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom of God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:life|alive]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(**No hay notas para este marco.)** //
 **[[:es-419:obs:notes:frames:42-08|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-10|>>]]**
