@@ -8,17 +8,16 @@ Así, Ananías fue donde Saulo, puso sus manos sobre él, y dijo, “Jesús, qui
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
 ===== Translation Notes: =====
 
-  * **here** - That is, "to Damascus."
-  * **regain your sight** - This could also be translated as, "be able to see again."
-  * **his strength returned** - This could also be translated as, "he became strong again" or, "he felt better."
-
-
+  * **here**  - That is, "to Damascus."
+  * **aqui - Esto es, "para Damasco."**
+  * **regain your sight**  - This could also be translated as, "be able to see again."
+  * **recupero su vista - Esto tambien puede ser traducido como, "poder ver otra vez."**
+  * **his strength returned**  - This could also be translated as, "he became strong again" or, "he felt better."
+  * **su fuerza regreso - Esto tambien se ** puede traducir como, "el volvio hacer fuerte otra vez" o, si sintio mejor."
 **[[:es-419:obs:notes:frames:46-04|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-06|>>]]**
