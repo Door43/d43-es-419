@@ -8,19 +8,18 @@ Mientras Esteban estuvo muriéndose, él gritó, “Jesús, recibe mi espíritu.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/receive|receive]]**
-  * **[[:es-419:obs:notes:key-terms/spirit|spirit]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms/death|died]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:receive|receive]]**
+  * **[[:es-419:obs:notes:key-terms:spirit|spirit]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+  * **[[:es-419:obs:notes:key-terms:death|died]]**
 ===== Translation Notes: =====
 
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
-
+  * **As Stephen was dying**  - That is, "Just before Stephen died."
+  * **Mientras Esteban estaba muriendo - Esto es, "Justo antes que Esteban murio."**
+  * **cried out**  - That is, "called out in a loud voice" or, "said very loudly."
+  * **clamo - Esto es, "llamo en una voz alta" o, "dijo bien alto."**
+  * **do no count this sin against them**  - That is, "do not consider them guilty of the sin of killing me."
+  * **//no cuente este pecado en contra de ellos - Esto es, "no los consideres culpable del pecado por matarme a mi."// **
 **[[:es-419:obs:notes:frames:45-04|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-06|>>]]**
