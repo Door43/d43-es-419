@@ -8,16 +8,14 @@ Después de muchos días, los Judios hicieron un plan para matar a Saulo. Ellos 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jew|Jews]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
-  * **[[:es-419:obs:notes:key-terms/preach|preach]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
+  * **[[:es-419:obs:notes:key-terms:preach|preach]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **the city gates** - The gates were the only normal way into or out of the walled cities.
-  * **lowered him over the city wall in a basket** - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall."
-
-
+  * **the city gates**  - The gates were the only normal way into or out of the walled cities.
+  * **puertas de la ciudad - Estas puertas eran la unica forma normal de entrar o salir de las ciudades amuralladas.**
+  * **lowered him over the city wall in a basket**  - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall." ** **
+  * **lo bajaron por encima de los muros de la pared de la ciudad en una canasta - Otra forma de decir esto puede ser, "lo ayudaron a entrar en una canasta grande y bajaron la canasta con el sobre la murralla de la ciudad."**
 **[[:es-419:obs:notes:frames:46-06|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-08|>>]]**
