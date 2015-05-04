@@ -1,4 +1,4 @@
-===== Wait for the Harvest / Espera Para La Cosecha  [50-07] =====
+===== Wait for the Harvest / Espera Para La Cosecha [50-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?nolink&}}
 
@@ -13,7 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **(Je**
+  * **(Jesús continua a contar la historia.)**
   * **you will pull out some of the wheat as well**  - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
   * **until the harvest**  - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
   * **the wheat**  - That is, "the harvested wheat grains."
