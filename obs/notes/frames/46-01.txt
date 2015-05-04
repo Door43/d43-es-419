@@ -8,20 +8,17 @@ Saulo era un hombre joven que guardaba las túnicas de los hombres que mataron a
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believe]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/persecute|persecuted]]**
-  * **[[:es-419:obs:notes:key-terms/believer|believers]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believe]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:persecute|persecuted]]**
+  * **[[:es-419:obs:notes:key-terms:believer|believers]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
 ===== Translation Notes: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **guarded the robes of the men who killed Stephen**  - See **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
+  * **guardo las tunicas de los hombres que mataron a Esteban - Vea [45-06]**
+  *
+  * **Damascus**  - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
 **[[:es-419:obs:notes:frames:45-13|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-02|>>]]**
