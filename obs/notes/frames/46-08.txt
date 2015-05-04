@@ -8,18 +8,15 @@ Saulo fue a Jerusalen para conocer a los dsicípulos, pero ellos tenían miedo d
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
-  * **[[:es-419:obs:notes:key-terms/jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/believer|believer]]**
-  * **[[:es-419:obs:notes:key-terms/barnabas|Barnabas]]**
-  * **[[:es-419:obs:notes:key-terms/apostle|apostles]]**
-  * **[[:es-419:obs:notes:key-terms/preach|preached]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:believer|believer]]**
+  * **[[:es-419:obs:notes:key-terms:barnabas|Barnabas]]**
+  * **[[:es-419:obs:notes:key-terms:apostle|apostles]]**
+  * **[[:es-419:obs:notes:key-terms:preach|preached]]**
 ===== Translation Notes: =====
 
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
-
+  * **accepted Saul**  - That is, "believed that Saul also was a believer in Jesus."
+  * **aceptaron a Saul - Esto es - "creyeron que Saul era un creyente en Jesus."**
 **[[:es-419:obs:notes:frames:46-07|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-09|>>]]**
