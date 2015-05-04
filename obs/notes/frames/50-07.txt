@@ -21,4 +21,5 @@
   * **the wheat**  - That is, "the harvested wheat grains."
   * **el trigo - Eso es, "la cosechada de granos de trigo."**
   * **barn**  - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
+  * **granero - Esto se refiere al edificio donde la cosechada de granos de trigo fue salvada y guardada. Tambien puede ser llamada una "almacén."**
 **[[:es-419:obs:notes:frames:50-06|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-08|>>]]**
