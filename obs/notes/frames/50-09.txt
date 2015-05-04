@@ -8,19 +8,16 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms/satan|devil]]**
-  * **[[:es-419:obs:notes:key-terms/god|God's]]**
-  * **[[:es-419:obs:notes:key-terms/angel|angels]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
+  * **[[:es-419:obs:notes:key-terms:satan|devil]]**
+  * **[[:es-419:obs:notes:key-terms:god|God's]]**
+  * **[[:es-419:obs:notes:key-terms:angel|angels]]**
 ===== Translation Notes: =====
 
-  * **who belong to the evil one** - That is, "who obey the evil one" or, "who are ruled by the evil one."
-  * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
-  * **the devil** - This could also be translated as, "Satan."
-  * **represents the end of the world** - That is, "represents what will happen to people at the end of the world."
-  * **the harvesters** - This could also be translated as, "the men who harvest the ripe grain" or, "the workers who gather in the ripe grain."
-
-
+  * **who belong to the evil one**  - That is, "who obey the evil one" or, "who are ruled by the evil one."
+  * **quien pertenece al malo - **
+  * **the evil one**  - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
+  * **the devil**  - This could also be translated as, "Satan."
+  * **represents the end of the world**  - That is, "represents what will happen to people at the end of the world."
+  * **the harvesters**  - This could also be translated as, "the men who harvest the ripe grain" or, "the workers who gather in the ripe grain."
 **[[:es-419:obs:notes:frames:50-08|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-10|>>]]**
