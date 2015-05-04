@@ -6,7 +6,6 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 
    * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
-
 ==== Translation Notes: ====
 
   * **God said**  - God created light by means of a simple verbal command.
@@ -14,8 +13,7 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
   * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
   * **que haya - Esto es un comando que tomó efecto inmediatamente porque fué hablado por Dios. Puede ser más natural el traducir esto como una declaración que fue dicha con certeza de que iba a pasar sin duda. Por ejemplo, tu puedes traducir esto como: "Dios dijo, 'Va a ver luz.'" (revisar la traducción de la historia)**
   * **light**  - This was a special light that God created–the sun was not created until later.
-  * **luz - Esto era una luz especial que Dios creó <font inherit"><font inherit/inherit;;inherit;;inherit>
-el</font>  <font inherit/inherit;;inherit;;inherit>sol no sería creado hasta después.</font>    **
+  * **luz - Esto era una luz especial que Dios creó <font inherit/inherit;;inherit;;inherit><font inherit">el</font>    <font inherit/inherit;;inherit;;inherit>sol no sería creado hasta después.</font>    **
   * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
   * **era bueno - Esta frase es repetida a menudo a través de la historia de la creación y enfatiza que Dios estaba satisfecho con cada etapa de la creación y que cumplía con su plan y propósito.**
   * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
