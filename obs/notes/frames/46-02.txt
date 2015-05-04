@@ -8,14 +8,11 @@ Mientras Saulo estaba en el camino a Damasco, una luz brillante resplandeció de
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Saul]]**
-  * **[[:es-419:obs:notes:key-terms/persecute|persecute]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
+  * **[[:es-419:obs:notes:key-terms:persecute|persecute]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
 ===== Translation Notes: =====
 
-  * **on his way** - That is, "on his journey."
-
-
+  * **on his way**  - That is, "on his journey."
+  * **en su camino - Esto es, "en su viaje."**
 **[[:es-419:obs:notes:frames:46-01|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-03|>>]]**
