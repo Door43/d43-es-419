@@ -1,4 +1,4 @@
-===== No Other Way but Jesus [44-08] =====
+===== No Other Way but Jesus [44-08] /No Otra Manera que Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
@@ -8,24 +8,22 @@ Pedro les contestó, “Este hombre parado ante Uds. fue sanado por el poder de 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/heal|healed]]**
-  * **[[:es-419:obs:notes:key-terms/power|power]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/crucify|crucified]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/raise|raised]]**
-  * **[[:es-419:obs:notes:key-terms/life|life]]**
-  * **[[:es-419:obs:notes:key-terms/save|saved]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+  * **[[:es-419:obs:notes:key-terms:power|power]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:crucify|crucified]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:raise|raised]]**
+  * **[[:es-419:obs:notes:key-terms:life|life]]**
+  * **[[:es-419:obs:notes:key-terms:save|saved]]**
 ===== Translation Notes: =====
 
-  * **healed** - That is, "well" or, "whole" or, "strong."
-  * **rejected him** - That is, "refused to accept him" or, "refused to believe in Jesus" or, "refused to believe that Jesus is the Savior."
-  * **but there is no other way to be saved except through the power of Jesus** - This could also be translated as, "but the only way to be saved is through the power of Jesus" or, "but only Jesus can save us, by his power."
-  * **to be saved** - This can also be translated as, "to be saved from our sins" or, "that we can be saved from our sins."
-
-
+  * **healed**  - That is, "well" or, "whole" or, "strong."
+  * **sanado**  - Esto es, "bien" o, "completo" o, "fuerte."
+  * **rejected him**  - That is, "refused to accept him" or, "refused to believe in Jesus" or, "refused to believe that Jesus is the Savior."
+  * **lo rechazaron**  - Esto es, "reusar a aceptarlo" o, " reusar a creer en Jesús" o, "reusar a creer que Jesús es el Salvador."
+  * **but there is no other way to be saved except through the power of Jesus**  - This could also be translated as, "but the only way to be saved is through the power of Jesus" or, "but only Jesus can save us, by his power."
+  * **pero no hay otra manera de ser salvado exepto por el poder de Jesus **- Esto tambien podria ser traducido como, "pero la unica via para ser salvado es atraves de el poder de Jeús" o, "pero solo Jesús puede salvarlo, por su poder."
 **[[:es-419:obs:notes:frames:44-07|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-09|>>]]**
