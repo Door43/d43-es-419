@@ -19,4 +19,4 @@ Un día, cuando Esteban estaba enseñando acerca de Jesús, algunos Judios que n
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Un dia - **  Esta frase introduce un evento que ocurrio en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar para contar una historia verdadera. **[[:es-419:obs:notes:frames:45-01|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-03|>>]]**
+  * **Un dia - **  Esta frase introduce un evento que ocurrio en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar para contar una historia verdadera.   **[[:es-419:obs:notes:frames:45-01|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-03|>>]]**
