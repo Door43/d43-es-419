@@ -1,4 +1,4 @@
-===== Before the Jewish Leaders [44-07] =====
+===== Before the Jewish Leaders [44-07] / Frente a los Lideres Judios =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
@@ -8,16 +8,12 @@ El próximo día, los líderes Judios trajeron a Pedro y a Juan al sumo sacerdot
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/john|John]]**
-  * **[[:es-419:obs:notes:key-terms/priest-high|high priest]]**
-  * **[[:es-419:obs:notes:key-terms/power|power]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:john|John]]**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:es-419:obs:notes:key-terms:power|power]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:es-419:obs:notes:frames:44-06|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-08|>>]]**
