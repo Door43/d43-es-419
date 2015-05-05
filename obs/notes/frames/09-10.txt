@@ -1,6 +1,6 @@
 ===== Moses Fled from Egypt [09-10] =====
 
-<font 20px/inherit;;inherit;;inherit>** Moisés huyó de Egipto [09-10] **</font>
+<font 20px/inherit;;inherit;;inherit>** Moisés huyó de Egipto [09-10]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
@@ -16,5 +16,5 @@ Cuando el Faraón escucho lo que Moisés había hecho, él intentó matarlo. Moi
 ==== Translation Notes: ====
 
   * **wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-  * **desierto**  - El desierto  era una área extensa árida y rocosa. La tierra allí no era buena para el cultivo de alimentos y poca gente vivía allí.
+  * **desierto**  - El desierto era una área extensa árida y rocosa. La tierra allí no era buena para el cultivo de alimentos y poca gente vivían allí.
 **[[:es-419:obs:notes:frames:09-09|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-11|>>]]**
