@@ -1,4 +1,4 @@
-===== Peter and John Were Arrested [44-06] =====
+===== Peter and John Were Arrested [44-06] / Piter y john Fueron Arrestados =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
@@ -8,16 +8,12 @@ Los líderes del Templo estaban enojados con lo que Pedro y Juan estaban diciend
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/temple|Temple]]**
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/john|John]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believed]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:john|John]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believed]]**
 ===== Translation Notes: =====
 
-  * **Peter's message** - That is, "the message that Peter had preached to them."
-  * **number of men** - This was in addition to the woman and children who believed.
-
-
+  * **Peter's message**  - That is, "the message that Peter had preached to them."
+  * **number of men**  - This was in addition to the woman and children who believed.
 **[[:es-419:obs:notes:frames:44-05|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-07|>>]]**
