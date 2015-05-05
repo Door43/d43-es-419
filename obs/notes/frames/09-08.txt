@@ -1,26 +1,24 @@
 ===== An Egyptian Beat a Slave [09-08] =====
 
+<font 20px/inherit;;inherit;;inherit>** Un Egipto golpea un esclavo [09-08] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
 One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
 
-Un día, cuando Moises ya era grande, él vio a un Egipcio pegando a un esclavo Israelí. Moises intentó salvar a su compatriota Israelí.
+Un día, cuando Moisés había crecido, él vio a un Egipcio golpeando a un esclavo Israelita. Moisés intentó salvar a su prójimo Israelita.
 
 ===== Important Terms: =====
-
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptian]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelite]]**
   * **[[:es-419:obs:notes:key-terms:servant|slave]]**
   * **[[:es-419:obs:notes:key-terms:save|save]]**
-
-
 ==== Translation Notes: ====
 
-
-  * **grown up** - Another way to say this would be, "grown into a man."
-  * **fellow Israelite** - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
-
-
+  * **grown up**  - Another way to say this would be, "grown into a man."
+  * **convertido **- Otra forma de decir esto seria, "convertirse en un hombre".
+  * **fellow Israelite**  - This phrase refers to the Israelite slave. The word "fellow" here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+  * **prójimo Israelita **- Esta frase refiere a un esclavo Israelita. La palabra "prójimo" aquí indica que Moisés era también un Israelita.Aunque la hija del Faraón Egipcio levanto a Moisés, Moisés recordó que el era realmente un Israelita.
 **[[:es-419:obs:notes:frames:09-07|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-09|>>]]**
