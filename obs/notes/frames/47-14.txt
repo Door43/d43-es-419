@@ -8,15 +8,13 @@ Pablo y los otros líderes Cristianos viajaban a muchas ciudades, predicando y e
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/christian|Christian]]**
-  * **[[:es-419:obs:notes:key-terms/preach|preaching]]**
-  * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/believer|believers]]**
-  * **[[:es-419:obs:notes:key-terms/church|churches]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:christian|Christian]]**
+  * **[[:es-419:obs:notes:key-terms:preach|preaching]]**
+  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:believer|believers]]**
+  * **[[:es-419:obs:notes:key-terms:church|churches]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
