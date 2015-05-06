@@ -8,15 +8,12 @@ Así, los dueños de la niña esclava llevaron a Pablo y a Sílas a las autorida
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/silas|Silas]]**
-  * **[[:es-419:obs:notes:key-terms/rome|Roman authorities]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:servant|slave girl]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
+  * **[[:es-419:obs:notes:key-terms:rome|Roman authorities]]**
 ===== Translation Notes: =====
 
-  * **threw them** - That is, "put them."
-
-
+  * **threw them**  - That is, "put them."
+  * **los echaron - Esto es, "los pusieron."**
 **[[:es-419:obs:notes:frames:47-06|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-08|>>]]**
