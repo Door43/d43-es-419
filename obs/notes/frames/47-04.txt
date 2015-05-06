@@ -8,16 +8,13 @@ La niña esclava siguió gritando mientras ellos caminaron al lugar de oración,
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:es-419:obs:notes:key-terms/servant|servants]]**
-  * **[[:es-419:obs:notes:key-terms/god|Most High God]]**
-  * **[[:es-419:obs:notes:key-terms/save|saved]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:servant|slave girl]]**
+  * **[[:es-419:obs:notes:key-terms:servant|servants]]**
+  * **[[:es-419:obs:notes:key-terms:god|Most High God]]**
+  * **[[:es-419:obs:notes:key-terms:save|saved]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
 ===== Translation Notes: =====
 
-  * **the way to be saved** - That is, "how you can be saved" or, "how God saves people" or, "God's plan for saving people."
-
-
+  * **the way to be saved**  - That is, "how you can be saved" or, "how God saves people" or, "God's plan for saving people."
+  * **el camino para salvarse  - Esto es, "como tu te puedes salvar" o, "como Dios salva gente" o, "el plan de Dios para salvar gente."**
 **[[:es-419:obs:notes:frames:47-03|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-05|>>]]**
