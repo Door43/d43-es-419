@@ -8,19 +8,17 @@ Pablo y Silas muy a menudo se reunían con la gente al lugar de oración. Cada d
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/silas|Silas]]**
-  * **[[:es-419:obs:notes:key-terms/pray|prayer]]**
-  * **[[:es-419:obs:notes:key-terms/servant|slave girl]]**
-  * **[[:es-419:obs:notes:key-terms/demon-possessed|possessed by a demon]]**
-  * **[[:es-419:obs:notes:key-terms/demon|demon]]**
-  * **[[:es-419:obs:notes:key-terms/lord|masters]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
+  * **[[:es-419:obs:notes:key-terms:pray|prayer]]**
+  * **[[:es-419:obs:notes:key-terms:servant|slave girl]]**
+  * **[[:es-419:obs:notes:key-terms:demon-possessed|possessed by a demon]]**
+  * **[[:es-419:obs:notes:key-terms:demon|demon]]**
+  * **[[:es-419:obs:notes:key-terms:lord|masters]]**
 ===== Translation Notes: =====
 
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **her masters**  - In this case, this could also be translated as, "her owners."
+  * **sus amos - En este caso, esto se puede traducir como, "sus propietarios."**
+  * **as a fortuneteller**  - That is, "as someone who told people what would happen to them in the future."
+  * **como una adivinadora - Esto es, "como alguien que le dijo a la gente lo que le iba a suceder a ellos en el futuro."**
 **[[:es-419:obs:notes:frames:47-02|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-04|>>]]**
