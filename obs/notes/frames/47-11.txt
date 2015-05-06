@@ -8,23 +8,22 @@ El carclero tembló mientras llegó a Pablo y a Sílas y preguntó, “¿Qué de
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/silas|Silas]]**
-  * **[[:es-419:obs:notes:key-terms/save|saved]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/believe|Believe]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/save|saved]]**
-  * **[[:es-419:obs:notes:key-terms/preach|preached]]**
-  * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
+  * **[[:es-419:obs:notes:key-terms:save|saved]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:believe|Believe]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:save|saved]]**
+  * **[[:es-419:obs:notes:key-terms:preach|preached]]**
+  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
 ===== Translation Notes: =====
 
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
-
-
+  * **to be saved**  - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake
+  * **para ser salvo - Esto tambien puede ser traducido como, "con el fin de ser salvado de mis pecados" o, "asi que Dios me salvara de mis pecados." La pregunta se refiere a la salvacion por el Dios que causo el terremoto**
+  * **Believe in Jesus, the Master**  - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
+  * **Cree en Jesus, tu Senor - Esto esta dirigido  tanto al carcelero y su familia, entonces todos creyeron y fueron bautizados. Algunos idiomas pueden usar una forma para indicar que Pablo esta hablando al grupo.**
+  * **you and your family will be saved**  - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
+  * **tu y tu familia seran salvados - Esto tambien puede ser traducido como, "Dios te salvara a ti y a tu familia del castigo eterno por tus pecados."Asegurate que este claro**  que la salvacion** aqui se refiere es espiritual, no fisica.**
 **[[:es-419:obs:notes:frames:47-10|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-12|>>]]**
