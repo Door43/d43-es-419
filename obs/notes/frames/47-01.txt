@@ -8,21 +8,19 @@ Mientras Saulo viajaba por todo el Imperio Romano, él empezó a usar usar su no
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/rome|Roman Empire]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/silas|Silas]]**
-  * **[[:es-419:obs:notes:key-terms/philippi|Philippi]]**
-  * **[[:es-419:obs:notes:key-terms/good-news|good news]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/love|loved]]**
-  * **[[:es-419:obs:notes:key-terms/worship|worshiped]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:rome|Roman Empire]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
+  * **[[:es-419:obs:notes:key-terms:philippi|Philippi]]**
+  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:love|loved]]**
+  * **[[:es-419:obs:notes:key-terms:worship|worshiped]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **proclaim** - That is, "teach" or, "preach."
-  * **merchant** - This could also be translated as, "seller" or, "business owner."
-
-
+  * **proclaim**  - That is, "teach" or, "preach."
+  * **proclamar - Esto es, "ensenar" o, "predicar."**
+  * **merchant**  - This could also be translated as, "seller" or, "business owner."
+  * **comerciante**  - Esto tambien puede ser traducido como, "**vendedor" o, "dueno de negocios."**
 **[[:es-419:obs:notes:frames:46-10|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-02|>>]]**
