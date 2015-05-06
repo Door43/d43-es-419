@@ -8,14 +8,12 @@ El carcelero se despertó, y cuando vio que las puertas de la carcel estuvieron 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/rome|Roman authorities]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:rome|Roman authorities]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
 ===== Translation Notes: =====
 
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **The jailer**  - That is, "the official in charge of the jail."
+  * **El carcelero - Esto es, "el oficial encargado de la carcel."**
+  * **We**  - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
+  * **Nosotros - Algunos idiomas tienen una forma especial de la palabra "nosotros" que no incluye la persona que esta haciendo hablado. Aqui la "nosotros" no incluye al carcelero, solo Pablo y el resto de los prisioneros.**
 **[[:es-419:obs:notes:frames:47-09|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-11|>>]]**
