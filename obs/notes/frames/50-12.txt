@@ -8,16 +8,13 @@ Entonces, los Cristianos que todavía están vivos subirán al cielo y juntarse 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/christian|Christians]]**
-  * **[[:es-419:obs:notes:key-terms/life|alive]]**
-  * **[[:es-419:obs:notes:key-terms/raise|rose]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
+  * **[[:es-419:obs:notes:key-terms:life|alive]]**
+  * **[[:es-419:obs:notes:key-terms:raise|rose]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **still alive** - That is, "still alive when Jesus returns."
-
-
+  * **still alive**  - That is, "still alive when Jesus returns."
+  * **todavía vivo - Eso es, "todavía vivo quando Jesús regrese."**
 **[[:es-419:obs:notes:frames:50-11|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-13|>>]]**
