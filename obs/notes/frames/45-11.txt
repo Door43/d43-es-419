@@ -1,4 +1,4 @@
-===== Here Is Water [45-11] =====
+===== Here Is Water [45-11] /Aquí hay Agua =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
@@ -13,9 +13,7 @@ Mientras Felipe y el Etíope viajaban, ellos llegaron a un agua. El Etíope dijo
 ===== Translation Notes: =====
 
   * **some water**  - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **un poco de agua - Usa un termino que significa un cuerpo de agua como un lago, o, corriente.**
-  *
+  * **un poco de agua -**  Usa un termino que significa un cuerpo de agua como un lago, o, corriente.
   * **May I be baptized?**  - This could also be translated as, "Is there any reason that I cannot be baptized?"
-  * Puedo** ser bautizado? - Esto tambien puede ser traducido como, "Hay alguna razon que yo no pueda ser bautizado?"**
-
+  * **Puedo**** ser bautizado? - ** Esto tambien puede ser traducido como, "Hay alguna razon que yo no pueda ser bautizado?"
 **[[:es-419:obs:notes:frames:45-10|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-12|>>]]**
