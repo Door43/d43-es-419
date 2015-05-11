@@ -1,4 +1,4 @@
-===== The Jailer Was Baptized [47-12] =====
+===== The Jailer Was Baptized [47-12] / El Carcelero Fue Bautizado =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?nolink&}}
 
@@ -8,17 +8,13 @@ El carcelero y su familia creyeron en Jesús y fueron bautizados. Entyonces, el 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/believe|believed]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:es-419:obs:notes:key-terms/paul|Paul]]**
-  * **[[:es-419:obs:notes:key-terms/silas|Silas]]**
-  * **[[:es-419:obs:notes:key-terms/joy|rejoiced]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:believe|believed]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+  * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
+  * **[[:es-419:obs:notes:key-terms:joy|rejoiced]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:es-419:obs:notes:frames:47-11|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-13|>>]]**
