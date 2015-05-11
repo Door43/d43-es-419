@@ -8,18 +8,16 @@ Satanás habló através del serpiente en el huerto para engañar a Eva. Entonce
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
-  * **[[:es-419:obs:notes:key-terms/eve|Eve]]**
-  * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sinned]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/death|dies]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
+  * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:death|dies]]**
 ===== Translation Notes: =====
 
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-
-
+  * **the garden**  - This refers to the garden created by God where he placed the first man and woman.
+  * **el jardin - Esto se refiere al jardin creado por Dios ** do**nde**** el puso el primer hombre y mujer.**
+  * **deceive Eve**  - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
+  * **engano a Eva - Esto es, "mentir a Eva." Santanas mintio dirigiendo a Eva a dudar lo que Dios habia dicho. Al hacer esto, el la engano a desobedecer a Dios.**
 **[[:es-419:obs:notes:frames:48-01|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-03|>>]]**
