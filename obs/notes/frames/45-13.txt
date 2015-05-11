@@ -1,4 +1,4 @@
-===== The Ethiopian Went Home [45-13] =====
+===== The Ethiopian Went Home [45-13] / El Etiope Se Fue a Casa =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
@@ -12,8 +12,7 @@ El Etíope siguió viajando hacia su hogar, contento que conocía a Jesús.
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * **Una historia de la Biblia - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.**
-  * //Una historia de la Biblia de: ////He////chos//// 6:8-8:5; 8:26-40//
-  *
-
+  * **Una historia de la Biblia - ** Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
+  * //**Una historia de la Biblia**
+  - ////He////chos//// 6:8-8:5; 8:26-40//
 **[[:es-419:obs:notes:frames:45-12|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:46-01|>>]]**
