@@ -1,4 +1,4 @@
-===== Saul Saw Jesus [46-02] =====
+===== Saul Saw Jesus [46-02] / Saul Vio a Jesus =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-02.jpg?nolink&}}
 
@@ -14,5 +14,5 @@ Mientras Saulo estaba en el camino a Damasco, una luz brillante resplandeció de
 ===== Translation Notes: =====
 
   * **on his way**  - That is, "on his journey."
-  * **en su camino - Esto es, "en su viaje."**
+  * **en su camino - ** Esto es, "en su viaje."
 **[[:es-419:obs:notes:frames:46-01|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-03|>>]]**
