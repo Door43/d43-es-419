@@ -8,20 +8,20 @@ Cuando Dios creyó el mundo, todo era perfecto. No había el pecado. Adán y Eva
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
-  * **[[:es-419:obs:notes:key-terms/eve|Eve]]**
-  * **[[:es-419:obs:notes:key-terms/love|loved]]**
-  * **[[:es-419:obs:notes:key-terms/death|death]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
+  * **[[:es-419:obs:notes:key-terms:love|loved]]**
+  * **[[:es-419:obs:notes:key-terms:death|death]]**
 ===== Translation Notes: =====
 
-  * **God created the world** - That is, "God made the world out of nothing."
-  * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
-  * **There was no sin** - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
-  * **There was no sickness or death** - That is, "No one got sick and no one died" or, "They did not get sick or die."
-
-
+  * **God created the world**  - That is, "God made the world out of nothing."
+  * **Dios creo el mundo - Esto es, "Dios hizo el mundo de la nada."**
+  * **perfect**  - That is, "exactly as it should be" to accomplish all that God intended for it.
+  * **perfecto - Esto es, "exactamente como como debe ser" lograr todo ** lo que **Dios queria para el.**
+  * **There was no sin**  - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
+  * **No habia pecado - Para algunos idiomas no es posible expresar "pecado" como una cosa, mas bien es una accion. En estos casos esto se puede traducir como, "nadie nunca peco" o, "Nada malo paso." **
+  * **There was no sickness or death**  - That is, "No one got sick and no one died" or, "They did not get sick or die."
+  * **No habia enfermedad o muerte**  - Esto es**, "Nadie se enfermo y nadie murio" o, "Ellos no se enfermaron o murieron."**
 **[[:es-419:obs:notes:frames:47-14|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-02|>>]]**
