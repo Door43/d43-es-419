@@ -8,21 +8,19 @@ Dios dijo a Abrahám, “Todos los grupos de personas de la tierra serán bendec
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/abraham|Abraham]]**
-  * **[[:es-419:obs:notes:key-terms/people-group|people groups]]**
-  * **[[:es-419:obs:notes:key-terms/bless|blessed]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/descendant|descendant]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believes]]**
-  * **[[:es-419:obs:notes:key-terms/save|saved]]**
-  * **[[:es-419:obs:notes:key-terms/spirit|spiritual]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:abraham|Abraham]]**
+  * **[[:es-419:obs:notes:key-terms:people-group|people groups]]**
+  * **[[:es-419:obs:notes:key-terms:bless|blessed]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendant]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believes]]**
+  * **[[:es-419:obs:notes:key-terms:save|saved]]**
+  * **[[:es-419:obs:notes:key-terms:spirit|spiritual]]**
 ===== Translation Notes: =====
 
-  * **all the people groups of the earth** - This could also be translated as, "people from all different parts of the world."
-  * **a spiritual descendant of Abraham** - That is, "spiritually related to Abraham, and one of God's people."
-
-
+  * **all the people groups of the earth**  - This could also be translated as, "people from all different parts of the world."
+  * **todos los grupos de gente en la tierra - Esto puede ser tambien traducido como, "gente de todas partes del mundo."**
+  * **a spiritual descendant of Abraham**  - That is, "spiritually related to Abraham, and one of God's people."
+  * **un descendiente espiritual de Abraham - Esto es, "espiritualmente relacionado con Abraham, y uno de la gente de Dios."**
 **[[:es-419:obs:notes:frames:48-06|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-08|>>]]**
