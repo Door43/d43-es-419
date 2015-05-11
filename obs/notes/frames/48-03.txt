@@ -8,15 +8,12 @@ Porque Adán y Eva pecaron, algo aun más terrible sucedió. Ellos llegaron a se
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
-  * **[[:es-419:obs:notes:key-terms/eve|Eve]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sinned]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
 ===== Translation Notes: =====
 
-  * **even more terrible** - That is, "much worse" or, "worse yet."
-
-
+  * **even more terrible**  - That is, "much worse" or, "worse yet."
+  * **aun mas terrible - Esto es, "mas peor" o, "per****o**** aun."**
 **[[:es-419:obs:notes:frames:48-02|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-04|>>]]**
