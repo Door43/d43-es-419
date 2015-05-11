@@ -1,4 +1,4 @@
-===== The Earthquake [47-09] =====
+===== The Earthquake [47-09] / El Terremoto =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?nolink&}}
 
@@ -11,9 +11,7 @@ Suddenly, there was a violent earthquake! All the prison doors **flew open**, an
 ===== Translation Notes: =====
 
   * **flew open**  - That is, "became unlocked and suddenly opened wide."
-  * **volo abierta - Esto es, "se convirtio en desbloqueado y de repente abierta."**
+  * **volo abierta **- Esto es, "quedo sin seguro y repentinamente abrio ampio."
   * **fell off**  - That is, "suddenly came off" or, "suddenly came apart so that the prisoners were released."
-  * **cayo - Esto es, "de repente se desprendio o, "de repente vino aparte asi que los prisioneros fueron liberados."**
-  *
-
+  * **cayo - Esto es, "de repente se desprendio o, "de repente se deshizo de modo que los prisioneros fueron liberados."**
 **[[:es-419:obs:notes:frames:47-08|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-10|>>]]**
