@@ -8,19 +8,18 @@ Por centanares de años, los sacerdotes han ofrecido sacrificios a Dios por la g
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/priest|priests]]**
-  * **[[:es-419:obs:notes:key-terms/sacrifice|sacrifices]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/priest-high|Great High Priest]]**
-  * **[[:es-419:obs:notes:key-terms/punish|punishment]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:priest|priests]]**
+  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:priest-high|Great High Priest]]**
+  * **[[:es-419:obs:notes:key-terms:punish|punishment]]**
 ===== Translation Notes: =====
 
-  * **he offered himself** - This could also be translated as, "Jesus allowed himself to be killed."
-  * **took the punishment** - That is, "received the punishment in his own body."
-
+  * **he offered himself**  - This could also be translated as, "Jesus allowed himself to be killed."
+  * **el se ofrecio a si mismo - Esto tambien puede ser traducido como, "Jesus permitio que a el lo mataran."**
+  * **took the punishment**  - That is, "received the punishment in his own body."
+  * tomo **el castigo - Esto es, "recibio el castigo en su propio cuerpo."**
 
 **[[:es-419:obs:notes:frames:48-05|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-07|>>]]**
