@@ -1,13 +1,12 @@
 ===== Joseph Interpreted the Dream [08-07] =====
 
-<font 20px/inherit;;inherit;;inherit>** José interpreto el Sueño [08-07] **</font>
+<font 20px/inherit;;inherit;;inherit>** José interpreto el Sueño [08-07]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
 **God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God**** is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
 
-Dios había dado a José la habilidad de interpretar los sueños, así, el Faraón había traído a José a él de la cárcel. José interpretó los sueños para él y le dijo, “Dios va a enviar siete años de cosechas abundantes, seguidas por siete años de hambre.”
-
+**Dios** había dado a **José**la habilidad de interpretar los **sueños**, así, el **Faraón** había traído a** José** a él de la cárcel. **José** interpretó los **sueños ** para él y le dijo, “**Dios** va a enviar siete años de cosechas abundantes, seguidas por siete años de hambre.”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]]**
@@ -17,11 +16,11 @@ Dios había dado a José la habilidad de interpretar los sueños, así, el Fara�
 ==== Translation Notes: ====
 
   * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  * **interpretar  sueños**- "interpretar" es decir el significado de algo. Y José podía decirle a la gente el significado de sus sueños.
+  * **interpretar sueños**- "interpretar" es decir el significado de algo. Y José podía decirle a la gente el significado de sus sueños.
   * **had Joseph brought to him**  - Another way to say this would be, "ordered his servants to bring Joseph to him."
   * **trajo a Jose a donde el **- Otra manera de decir esto seria, "ordeno a sus criados que trajera a José donde el."
   * **God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  * **Dios**** va a mandar - ** Dios causara que los cultivos crezcan bien por siete años, y después de eso El causara que produzcan poca comida para que la gente y animales no tengan suficiente para comer.
+  * **Dios**** va a mandar - **  Dios causara que los cultivos crezcan bien por siete años, y después de eso El causara que produzcan poca comida para que la gente y animales no tengan suficiente para comer.
   * **famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
   * **hambruna -**  Los jardines y campos producirán tan poca comida que las personas y animales no tendrán suficiente para comer.
 **[[:es-419:obs:notes:frames:08-06|<<]] | [[:es-419:obs:notes:08|Up]] | [[:es-419:obs:notes:frames:08-08|>>]]**
