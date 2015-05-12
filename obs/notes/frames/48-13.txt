@@ -8,18 +8,15 @@ Dios prometió al rey David que uno de sus decendientes reinaría como rey sobre
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/promise|promised]]**
-  * **[[:es-419:obs:notes:key-terms/david|King David]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son of God]]**
-  * **[[:es-419:obs:notes:key-terms/messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms/descendant|descendants]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:promise|promised]]**
+  * **[[:es-419:obs:notes:key-terms:david|King David]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
+  * //(No hay notas para este marco.)//
 **[[:es-419:obs:notes:frames:48-12|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-14|>>]]**
