@@ -8,18 +8,19 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/david|David]]**
-  * **[[:es-419:obs:notes:key-terms/king|king]]**
-  * **[[:es-419:obs:notes:key-terms/israel|Israel]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms/justice|justice]]**
-  * **[[:es-419:obs:notes:key-terms/peace|peace]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:david|David]]**
+  * **[[:es-419:obs:notes:key-terms:king|king]]**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
+  * **[[:es-419:obs:notes:key-terms:justice|justice]]**
+  * **[[:es-419:obs:notes:key-terms:peace|peace]]**
 ===== Translation Notes: =====
 
   * **the king of the entire universe**  - That is, "the king over everyone and everything everywhere."
+  * **el rey de todo el ** uni**verso****
+ - Esto es, "el rey sobre todo el mundo y todo en todas partes."**
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **Una historia de la Biblia - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.**
   * //Una hisotira de la Biblia de: Genesis 1-3, 6, 14, 22; Exodo 12, 20; 2 Samuel 7; Hebreos 3:1-6, 4:14-5:10, 7:1-8:13, 9:11-10:18; Apocalipsis 21//
 **[[:es-419:obs:notes:frames:48-13|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:49-01|>>]]**
