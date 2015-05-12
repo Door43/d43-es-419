@@ -1,13 +1,12 @@
 ===== The Name of God [09-14] =====
 
-<font 20px/inherit;;inherit;;inherit>** El Nombre de Dios [09-14] **</font>
+<font 20px/inherit;;inherit;;inherit>** El Nombre de Dios [09-14]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
 **Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and **Jacob**.' This is **my name** forever.”
 
-Moisés le preguntó, “¿Qué tal si la gente quiere saber quién me envió, qué les diría?” Dios le respondió, “SOY, QUIEN SOY. Díles, 'YO SOY me ha enviado a Uds.' También, díles, 'YO SOY Jehová, el Dios de sus antepasados Abraham, Isaac, y Jacob.' Este es mi nombre para siempre.”
-
+**Moisés** le preguntó, “¿Qué tal si la gente quiere saber quién me envió, qué les diría?” Dios le respondió, “SOY, QUIEN SOY. Díles, 'YO SOY me ha enviado a Uds.' También, díles, 'YO SOY **Jehová**, el **Dios** de sus antepasados **Abraham**,** Isaac**, y **Jacob**.' Este es mi nombre para siempre.”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
@@ -23,7 +22,7 @@ Moisés le preguntó, “¿Qué tal si la gente quiere saber quién me envió, q
   * **I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
   * **SOY QUIEN SOY**  - Esta descripción muestra que Dios puede solamente ser definido por si mismo, no por ninguna otra cosa que conocemos, y que no puede ser comparado con ninguna persona.
   * **I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
-  * **Soy yo**  - Este nombre enfatiza que Dios es el único quien  siempre ha vivido y siempre vivirá.
+  * **Soy yo**  - Este nombre enfatiza que Dios es el único quien siempre ha vivido y siempre vivirá.
   * **my name**  - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
   * **mi nombre**  - El nombre que Dios hablo a Moisés y que toda Israel usa para El es ¨Yahweh¨, el cual esta relacionado a ¨Yo soy¨ y parece significar, ¨El ES¨.
 **[[:es-419:obs:notes:frames:09-13|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-15|>>]]**
