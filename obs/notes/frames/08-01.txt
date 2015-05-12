@@ -1,13 +1,12 @@
 ===== Joseph, the Favorite Son [08-01] =====
 
-<font 20px/inherit;;inherit;;inherit>** José, el Hijo Favorito [08-01] **</font>
+<font 20px/inherit;;inherit;;inherit>** José, el Hijo Favorito [08-01]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-01.jpg?nolink&}}
 
 Many years later, when **Jacob** was an old man, he **sent** his **favorite son**, **Joseph**, to **check on** his **brothers** who were **taking care of the herds**.
 
-Muchos años después, cuando Jacob era un hombre viejo, él envió a su hijo favorito, José, para comprobar a sus hermanos quienes estaban cuidando los rebaños.
-
+Muchos años después, cuando Jacob era un hombre viejo, él envió a su hijo favorito, **José**, para comprobar a sus hermanos quienes estaban cuidando los rebaños.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]]**
@@ -15,13 +14,13 @@ Muchos años después, cuando Jacob era un hombre viejo, él envió a su hijo fa
 ==== Translation Notes: ====
 
   * **sent**  – This word means that Jacob told Joseph to go and Joseph went
-  * **mando - ** Esta palabra quiere decir que Jacob le dijo a José que fuera y José fue.****
+  * **mando - **  Esta palabra quiere decir que Jacob le dijo a José que fuera y José fue.
   * **favorite son**  - This could be translated as, "the son he loved more than any of his other children."
-  * **hijo favorito - ** Esto puede ser traducido como, "el hijo que el amaba mas que a sus otros hijos."
+  * **hijo favorito - **  Esto puede ser traducido como, "el hijo que el amaba mas que a sus otros hijos."
   * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
-  * **ir a ver - ** Esto quiere decir que Jose tiene que ir a ver si todo esta bien con sus hermanos. Algunos idiomas quizás dirían algo como, "para ver si sus hermanos estaban bien."
+  * **ir a ver - **  Esto quiere decir que Jose tiene que ir a ver si todo esta bien con sus hermanos. Algunos idiomas quizás dirían algo como, "para ver si sus hermanos estaban bien."
   * **brothers**  - These were Joseph's older brothers.
-  * **hermanos- ** Estos eran los hermanos mayores de José.
+  * **hermanos- **  Estos eran los hermanos mayores de José.
   * **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, "who were far away taking care of."
-  * **cuidando de las manadas - ** Como estaban tan lejos que se demoraban un día en llegar, podría ser necesario decir, " que estaban lejos cuidando de."
+  * **cuidando de las manadas - **  Como estaban tan lejos que se demoraban un día en llegar, podría ser necesario decir, " que estaban lejos cuidando de."
 **[[:es-419:obs:notes:frames:07-10|<<]] | [[:es-419:obs:notes:08|Up]] | [[:es-419:obs:notes:frames:08-02|>>]]**
