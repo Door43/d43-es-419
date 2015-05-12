@@ -1,16 +1,15 @@
-===== The Famine [08-10] =====
+===== The Famine [08-10] / La hambruna =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
 **The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
 
-El hambre era muy severa no sólo en Egipto, pero también,en Canaan dónde Jacob y su familia vivían.
-
+El hambre era muy severa no sólo en **Egipto**, pero también,en** Canaan ** dónde **Jacob** y su familia vivían.
 ===== Important Terms: =====
 
-  * **[[archive:ktobs:egypt|Egypt]]**
-  * **[[archive:ktobs:canaan|Canaan]]**
-  * **[[archive:ktobs:jacob|Jacob]]**
+  * **[[:archive:ktobs:egypt|Egypt]]**
+  * **[[:archive:ktobs:canaan|Canaan]]**
+  * **[[:archive:ktobs:jacob|Jacob]]**
 ==== Translation Notes: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
