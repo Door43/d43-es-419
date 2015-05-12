@@ -1,11 +1,10 @@
-===== Finding Rebekah [06-02] / Encontrando a Rebeca =====
+===== Finding Rebekah [06-02] / Encontrando a Rebeca *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
 After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
 
-Después de un largo viaje a la tierra donde vivían los parientes de Abraham, Dios guió al siervo a Rebeca. Ella era la nieta del hermano de Abraham.
-
+Después de un largo viaje a la tierra donde vivían los parientes de **Abraham**, **Dios ** guió al **siervo ** a **Rebeca**. Ella era la nieta del hermano de Abraham.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham's]]**
@@ -15,5 +14,5 @@ Después de un largo viaje a la tierra donde vivían los parientes de Abraham, D
 ===== Translation Notes: =====
 
   * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
-  * **la nieta del hermano de ****Abraham**-**Específicamente****, ella era la hija del hijo del hermano de Abraham. Su abuelo era el hermano de Abraham.**
+  * **la nieta del hermano de ****Abraham**-Específicamente, ella era la hija del hijo del hermano de Abraham. Su abuelo era el hermano de Abraham.
 **[[:es-419:obs:notes:frames:06-01|<<]] | [[:es-419:obs:notes:06|Up]] | [[:es-419:obs:notes:frames:06-03|>>]]**
