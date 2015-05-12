@@ -1,13 +1,12 @@
 ===== Moses Killed an Egyptian [09-09] =====
 
-<font 20px/inherit;;inherit;;inherit>** Moisés mata un Egipcio [09-09] **</font>
+<font 20px/inherit;;inherit;;inherit>** Moisés mata un Egipcio [09-09]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
 When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
 
-Cuando Moisés pensó que nadie lo vería, él mató al Egipcio y enterró su cuerpo. Pero alguien vio lo que Moisés había hecho.
-
+Cuando** Moisés ** pensó que nadie lo vería, él mató al **Egipcio ** y enterró su cuerpo. Pero alguien vio lo que** Moisés ** había hecho.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
