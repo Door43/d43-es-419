@@ -1,4 +1,4 @@
-===== God Hates Sin [49-08] =====
+===== God Hates Sin [49-08] /Dios Odia el Pecado =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-08.jpg?nolink&}}
 
@@ -8,18 +8,15 @@ Jesús también, nos dijo que Dios odia el pecado. Cuando Adán y Eva pecaron, e
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
-  * **[[:es-419:obs:notes:key-terms/eve|Eve]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sinned]]**
-  * **[[:es-419:obs:notes:key-terms/descendant|descendants]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
 ===== Translation Notes: =====
 
-  * **is separated from God** - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
-
-
+  * **is separated from God**  - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
+  * **es separado de Dios **- Esto tambien puede ser traducido como, "no puede vivir con Dios" o, " no puede tener una relacion con Dios"
 **[[:es-419:obs:notes:frames:49-07|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-09|>>]]**
