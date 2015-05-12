@@ -8,17 +8,14 @@ Dios hizo un pacto con los Isarealitas, quienes eran su gente escogida. Pero Dio
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/covenant|covenant]]**
-  * **[[:es-419:obs:notes:key-terms/israel|Israelites]]**
-  * **[[:es-419:obs:notes:key-terms/covenant-new|New Covenant]]**
-  * **[[:es-419:obs:notes:key-terms/people-group|people group]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believing]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant]]**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:es-419:obs:notes:key-terms:covenant-new|New Covenant]]**
+  * **[[:es-419:obs:notes:key-terms:people-group|people group]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believing]]**
 ===== Translation Notes: =====
 
-  * **the Israelites, who were his chosen people** - That is, "the Israelites, the people he had chosen" or, "his chosen people, the Israelites."
-
-
+  * **the Israelites, who were his chosen people**  - That is, "the Israelites, the people he had chosen" or, "his chosen people, the Israelites."
+  * **los Israelitas, quienes eran su gente escogida -Esto es, "los Israelitas, la gente que el escogio" o, "su gente escogida, los Israelitas."**
 **[[:es-419:obs:notes:frames:48-10|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-12|>>]]**
