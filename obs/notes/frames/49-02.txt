@@ -8,19 +8,18 @@ Jesús hizo muchos milagros para probar que es Dios. El caminó encima del agua 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/miracle|miracles]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/heal|healed]]**
-  * **[[:es-419:obs:notes:key-terms/demon|demons]]**
-  * **[[:es-419:obs:notes:key-terms/raise|raised]]**
-  * **[[:es-419:obs:notes:key-terms/death|dead]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:miracle|miracles]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+  * **[[:es-419:obs:notes:key-terms:demon|demons]]**
+  * **[[:es-419:obs:notes:key-terms:raise|raised]]**
+  * **[[:es-419:obs:notes:key-terms:death|dead]]**
 ===== Translation Notes: =====
 
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
+  * **drove out demons**  - That is, "made demons come out of people."
+  * **echo afuera demonios - Esto es, "hizo a los demonios salir para afuera de la gente."**
+  * **raised the dead to life**  - This could also be translated as, "caused dead people to become alive again."
+  * levanto de **la muerte a la vida - Esto tambien puede ser traducido como, "causo gente muerta estar vivos  ."**
 
 **[[:es-419:obs:notes:frames:49-01|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-03|>>]]**
