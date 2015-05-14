@@ -8,20 +8,17 @@ Porque Adán y Eva desobedecieron a Dios y trajeron el pecado a este mundo, Dios
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/adam|Adam]]**
-  * **[[:es-419:obs:notes:key-terms/eve|Eve]]**
-  * **[[:es-419:obs:notes:key-terms/disobey|disobeyed]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms/curse|cursed]]**
-  * **[[:es-419:obs:notes:key-terms/heaven|heaven]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
+  * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+  * **[[:es-419:obs:notes:key-terms:curse|cursed]]**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
 ===== Translation Notes: =====
 
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
-
+  * **brought sin into**  - This could be translated as, "caused sin to enter."
+  * **trajo pecado a - Esto puede ser traducido como, "casuo pecado que entrara." **
+  * **a new heaven**  - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
+  * **a new earth**  - This current earth on which we live will be replaced by a new and improved one.
 **[[:es-419:obs:notes:frames:50-15|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-17|>>]]**
