@@ -8,18 +8,17 @@ Jesús y su gente vivrán en la nueva tierra, y él reinará para siempre sobre 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/suffer|suffering]]**
-  * **[[:es-419:obs:notes:key-terms/evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms/death|death]]**
-  * **[[:es-419:obs:notes:key-terms/kingdom-of-god|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms/peace|peace]]**
-  * **[[:es-419:obs:notes:key-terms/justice|justice]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:suffer|suffering]]**
+  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
+  * **[[:es-419:obs:notes:key-terms:death|death]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
+  * **[[:es-419:obs:notes:key-terms:peace|peace]]**
+  * **[[:es-419:obs:notes:key-terms:justice|justice]]**
 ===== Translation Notes: =====
 
   * **wipe away every tear**  - This could also be translated as, "bring an end to all of our grief" or, "make trouble end" or, "tenderly take away any sadness people have."
+  * **limpiar cada lagrima - Esto tambien puede ser traducido como, "traer un final a toda nuestra pena" o, "hacer problema terminar" o, "tiernamente quitar cualquier tristesa que la gente tiene."**
   * **there will be no more suffering, sadness, crying, evil, pain, or death**  - This could also be translated as, "people will no longer suffer, be sad, cry, do evil things, feel pain, or die."
   * **rule his kingdom with peace and justice**  - This could also be translated as, "rule over his people fairly, in a way that brings them peace."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
