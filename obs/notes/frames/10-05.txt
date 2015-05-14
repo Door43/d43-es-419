@@ -1,6 +1,6 @@
 ===== The Gnats and the Flies [10-05] / Los Mosquitos y las Moscas [10-05] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-05.jpg?nolink&}}m
 
 So **God sent a plague of gnats**. Then he sent a plague of **flies**. **Pharaoh** called **Moses** and **Aaron** and told them that if they stopped the plague, the **Israelites** could leave Egypt. When Moses prayed, God removed all the flies from **Egypt**. But Pharaoh **hardened his heart** and would not let the people go free.
 
@@ -16,6 +16,7 @@ Así que **Dios ** envió una plaga de** mosquitos**. Luego envió una plaga de*
 ==== Translation Notes: ====
 
   * **God sent a plague**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
+  * **Dios mando una plaga - Esto puede ser traducido como, "Dios causo ahí que una plaga pasara" o, "Dios causo una plaga (de mosquitos) que vinieran sobre la tierra de Egipto."**
   * **gnats**  - These were tiny, biting insects flying in large swarms, annoying and landing on all the people and animals of Egypt.
   * **flies**  - These were much bigger flying insects that were both annoying and destructive. There were so many of these flies that they covered everything, even filling the Egyptians' houses.
   * **hardened his heart**  - See note in **[[:es-419:obs:notes:frames:10-04|[10-04]]]**.
