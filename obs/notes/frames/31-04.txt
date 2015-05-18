@@ -1,4 +1,4 @@
-===== The Disciples Were Afraid / Los Discipulos tenian miedo [31-04] =====
+===== The Disciples Were Afraid / Los Discípulos tenían miedo [31-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&}}
 
@@ -8,16 +8,14 @@ Los discípulos estuvieron muy asustados cuando vieron a Jesús, porque pensaron
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
   * **a ghost**  - That is, "a spirit." They thought Jesus was a spirit, since normally a human being cannot walk on water.
-  * **un fantasma **- Eso es, " un espiritu." ellos pensaron que Jesus era un spiritu, porque normalmente un humano no puede caminar en agua
+  * **un fantasma **- Eso es, " un espíritu." ellos pensaron que Jesús era un espíritu, porque normalmente un humano no puede caminar en agua
   * **Do not be afraid**  - For some languages it may be more natural to say here, "Stop being afraid."
   * **No tengan miedo **- en algunas lenguas es mas natural decir, "Paren no tengan miedo"
   * **it is I!**  - For some, it might be more natural to translate this as, "It is me, Jesus."
-  * **soy yo!**  - para algunos puede ser mas natural tranducir esto como, "Soy yo Jesus"
+  * **soy yo!**  - para algunos puede ser mas natural traducir esto como, "Soy yo Jesús"
 **[[:es-419:obs:notes:frames:31-03|<<]] | [[:es-419:obs:notes:31|Up]] | [[:es-419:obs:notes:frames:31-05|>>]]**
