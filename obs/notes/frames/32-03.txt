@@ -1,5 +1,7 @@
 ===== Breaking the Chains [32-03] =====
 
+<font 20px/inherit;;inherit;;inherit>** Rompiendo las cadenas [32-03] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
 This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
@@ -10,8 +12,8 @@ El hombre estaba tan fuerte que nadie podía controlarle. La gente aun había su
 
 ===== Translation Notes: =====
 
-  * **fastened his arms and legs** - That is, "restrained" or, "bound."
-  * **kept breaking them** - Some languages may need to say, "kept breaking the chains."
-
-
+  * **fastened his arms and legs**  - That is, "restrained" or, "bound."
+  * **atados sus brazos y piernas **- Eso es, "restringuido" o, "apricionado"
+  * **kept breaking them**  - Some languages may need to say, "kept breaking the chains."
+  * **mantuvo rompiéndolas **- Algunos idiomas puede necesitar decir, "mantuvo rompiendo las cadenas".
 **[[:es-419:obs:notes:frames:32-02|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-04|>>]]**
