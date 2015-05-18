@@ -1,21 +1,21 @@
 ===== A Man with Evil Spirits [32-02] =====
 
+<font 20px/inherit;;inherit;;inherit>** Un Hombre con Espíritu Malo [32-02] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
 When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
 
-Cundo ellos llegaron al otro lado del lago, un hombre endemoniado vino corriendo a Jesús.
+Cuando ellos llegaron al otro lado del lago, un hombre endemoniado vino corriendo a Jesús.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/demon-possessed|demon-possessed]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:demon-possessed|demon-possessed]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
   * **a demon-possessed man**  - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
-  * **un hombre poseido por un demonio **- "eso es un hombre que tenia demonios adentro" o "el  hombre era controlado por spiritu maligno"
+  * **un hombre poseido por un demonio **- "eso es un hombre que tenia demonios adentro" o "el hombre era controlado por espíritu maligno"
   * **came running up to**  - That is, "ran to" or, "ran and stopped in front of."
-  * **entro corriendo **- eso es, "corrio a" o "corrio y paro en frente de "
+  * **entro corriendo **- eso es, "corrió a" o "corrió y paro en frente de "
 **[[:es-419:obs:notes:frames:32-01|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-03|>>]]**
