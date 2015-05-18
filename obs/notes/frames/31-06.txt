@@ -1,4 +1,4 @@
-===== Peter Walked on the Water / Pedro Camino Sobre El Agua [31-06] =====
+===== Peter Walked on the Water / Pedro Camina Sobre El Agua [31-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&}}
 
@@ -8,10 +8,8 @@ Así, Pedro bajó del bote y empezó a caminar a Jesús encima del agua. Pero de
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/peter|Peter]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
   * **turned his eyes away from**  - This expression means, "looked away from." It could also be translated as, "stopped looking at."
