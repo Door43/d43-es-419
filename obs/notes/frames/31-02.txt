@@ -1,22 +1,22 @@
 ===== The Storm [31-02] =====
 
+<font 20px/inherit;;inherit;;inherit>** La Tormenta [31-02] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
 **Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
 
-Mientras tanto, los discípulos estaban remando su bote, pero hasta muy tarde en la noche sólo habían llegado hasta la mitad del lago. Estaban remando con gran dificultad porque el viento estaba soplando duro contra ellos.
+Mientras tanto, los discípulos remaban su bote, pero hasta muy tarde en la noche sólo habían llegado hasta la mitad del lago. Ellos remaban con gran dificultad porque el viento estaba soplando duro contra ellos.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/pray|pray]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:pray|pray]]**
 ===== Translation Notes: =====
 
   * **Meanwhile**  - That is, "while Jesus was praying on the mountainside."
-  * **Mientras tanto **- Esto es, cuando Jesus estaba pidiendole a Dios. al lado de la montana "
+  * **Mientras tanto **- Esto es, cuando Jesús estaba pidiendo a Dios. al lado de la montana "
   * **rowing their boat**  - The boat had a sail, but it would not have worked when the wind was against them.
   * **remando su bote **- El bote tenia una vela, pero no puede servir cuando el viento va en contra de ellos
   * **great difficulty**  - That is, "much difficulty" or, "a lot of difficulty."
