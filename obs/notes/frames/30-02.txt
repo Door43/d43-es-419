@@ -1,4 +1,4 @@
-===== The Crowd Followed Jesus /La multitud Sigio a Jesus[30-02] =====
+===== The Crowd Followed Jesus /La multitud Siguió a Jesús [30-02] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&}}
 
@@ -8,10 +8,8 @@ Pero había muchas personas que vieron a Jesús y los discípulos salir en el ba
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **arrived**  - That is, "got to the other side of the lake" or, "got there."
