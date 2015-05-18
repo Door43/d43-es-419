@@ -1,19 +1,19 @@
 ===== Five Loaves and Two Fish [30-05] =====
 
+<font 20px/inherit;;inherit;;inherit>** Cinco Panes y dos Peces [30-05] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
+But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How**** can we do that**? We only have five loaves of bread and two small fish.”
 
 Pero Jesús dijo a los discípulos: “¡Dénles Uds. de comer!” Ellos respondieron, “¿Cómo podemos hacer eso? Sólo tenemos cinco panes y dos peces.”
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **How can we do that?**  - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
-  * **Como podemos hacer esto?**  - esto puede ser traducido como, "No podemos hacer esto!"  o, "hacer esto es imposible!." Los dicipulos no estaban preguntando una pregunta real. Por supuesto, ellos poderosamente pensaban que no era posible
+  * **Como podemos hacer esto?**  - esto puede ser traducido como, "No podemos hacer esto!" o, "hacer esto es imposible!." Los dicipulos no estaban preguntando una pregunta real. Por supuesto, ellos poderosamente pensaban que no era posible
 **[[:es-419:obs:notes:frames:30-04|<<]] | [[:es-419:obs:notes:30|Up]] | [[:es-419:obs:notes:frames:30-06|>>]]**
