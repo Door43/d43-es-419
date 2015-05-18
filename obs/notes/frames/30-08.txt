@@ -1,5 +1,7 @@
 ===== Everyone Ate [30-08] =====
 
+<font 20px/inherit;;inherit;;inherit>** Todos Comieron [30-08] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
 Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
@@ -8,17 +10,15 @@ Entonces, Jesús partió el pan y el pescado en trozos. Él dio los pedazos a su
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **broke the bread and the fish**  - That is, "tore the bread and the fish."
-  * partio el pan y el pescado - eso es, "romper el pan y el pescado".
+  * partió el pan y el pescado - eso es, "romper el pan y el pescado".
   * **it never ran out**  - Another way to say this would be, "there was always more left."
   * nunca se termino - otra manera de decir eso es, "quedaba siempre mas."
   * **were satisfied**  - That is, "were no longer hungry" or, "were not hungry any more."
-  * estaban satisfechos - Esto es "ya no tenian hambre" o, "no mas hambre".
+  * estaban satisfechos - Esto es "ya no tenían hambre" o, "no mas hambre".
 
 **[[:es-419:obs:notes:frames:30-07|<<]] | [[:es-419:obs:notes:30|Up]] | [[:es-419:obs:notes:frames:30-09|>>]]**
