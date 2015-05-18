@@ -1,5 +1,7 @@
 ===== The Woman Was Healed [32-14] =====
 
+<font 20px/inherit;;inherit;;inherit>** La Mujer fue Sanada [32-14] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-14.jpg?nolink&}}
 
 She had heard that **Jesus** had **healed** many sick people and thought, “**I'm sure that if I can just touch Jesus’ clothes, then I will be healed, too**!” So she came up behind Jesus and touched his clothes. As soon as she touched them, the bleeding stopped!
@@ -8,13 +10,9 @@ Ella escuchó que Jesús había sanado a muchos enfermos y pensaba, “Estoy seg
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/heal|healed]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:heal|healed]]**
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)// 
-
-
+  * //(There are no notes for this frame.)//
 **[[:es-419:obs:notes:frames:32-13|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-15|>>]]**
