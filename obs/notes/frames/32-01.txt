@@ -1,21 +1,21 @@
 ===== The Country of the Gerasenes [32-01] =====
 
+<font 20px/inherit;;inherit;;inherit>** El País de Genesaret [32-01] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
 **One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
 
-Un día, Jesús y sus discípulos cruzaron el lago en un bote a la región donde la gente Gadareno vivía.
+Un día, Jesús y sus discípulos cruzaron el lago en un bote a la región donde vivían la gente de Genesaret.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Un dia **- Esta frase introduce un evento que paso en el pasado, pero no se refiere a un tiempo exacto. Muchas lenguas tienen una forma parecida de decir un cuento de verdad.
+  * **Un día **- Esta frase introduce un evento que paso en el pasado, pero no se refiere a un tiempo exacto. Muchas lenguas tienen una forma parecida de decir un cuento de verdad.
   * **the Gerasene people**  - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-  * **los Gadarenos **- Los Gadarenos viven en una region cerca de la orilla del Este en el mar de Galilea. Estos son decendientes de los Judios, pero solo sabemos pocos detalles acerca de ellos.
+  * **los Gadarenos **- Los Gadarenos viven en una región cerca de la orilla del Este en el mar de Galilea. Estos son descendientes de los Judíos, pero solo sabemos pocos detalles acerca de ellos.
 **[[:es-419:obs:notes:frames:31-08|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-02|>>]]**
