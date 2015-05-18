@@ -1,18 +1,18 @@
 ===== Jesus Prayed Alone [31-01] =====
 
+<font 20px/inherit;;inherit;;inherit>** Jesús oro a solas [31-01] **</font>
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&}}
 
 Then **Jesus** told the **disciples** to get into the boat and sail to the other side of the lake while **he dismissed the crowd**. After Jesus had sent the crowd away, he went up on a **mountainside** to **pray**. Jesus was there all alone, and he prayed until late at night.
 
-Entonces, Jesús dijo a los discípulos que subieran al bote y que velaran al otro lado del lago mientras él despidió a la muchedumbre. Después de despedir a la gente Jesús, él subió a un monte para orar. Jesús estaba allí a solas, y él oraba hasta muy tarde en la noche.
+Entonces, Jesús dijo a los discípulos que subieran al bote y que velaran al otro lado del lago mientras él despidió a la muchedumbre. Después de Jesús despedir a la gente , él subió a un monte para orar. Jesús estaba allí a solas, y él oraba hasta muy tarde en la noche.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms/pray|pray]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+  * **[[:es-419:obs:notes:key-terms:pray|pray]]**
 ===== Translation Notes: =====
 
   * **he dismissed the crowd**  - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
