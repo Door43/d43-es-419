@@ -1,13 +1,12 @@
 ===== My Name Is Legion [32-06] =====
 
-<font 20px/inherit;;inherit;;inherit>** Mi Nombre es Legión [32-06] **</font>
+<font 20px/inherit;;inherit;;inherit>** Mi Nombre es Legión [32-06]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
 The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
 
-El hombre con el demonio gritó con una voz alta, “¿Que quiere conimgo , Jesús, Hijo del Dios altísimo? ¡Por favor, no me torture!” Entonces, Jesús pidió al demonio, “¿Cómo se llama?” El respondió, “Me llamo Legión, porque somos muchos.” (Una “legión” fue un grupo de varios millares de soldados en el ejército Romano.)
-
+El** hombre con el demonio ** gritó con una voz alta, “¿Que quiere conimgo ,** Jesús**, **Hijo ** del **Dios altísimo**? ¡Por favor, no me torture!” Entonces, Jesús pidió al demonio, “¿Cómo se llama?” El respondió, “Me llamo Legión, porque somos muchos.” (Una “legión” fue un grupo de varios millares de soldados en el ejército Romano.)
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:demon-possessed|man with the demon]]**
@@ -17,8 +16,13 @@ El hombre con el demonio gritó con una voz alta, “¿Que quiere conimgo , Jes�
 ===== Translation Notes: =====
 
   * **cried out**  - That is, "shouted" or, "exclaimed."
-  * **What do you want with me**  - This expression means, "What are you going to do to me?"
+  * **grito**  - Esto es, "gritado" o, "exclamado"
+  * **What do you want with me**  - This expression means, "What are you going to do to me?
+  * **Que quiere usted conmigo **-  Esta expresion quiere decir, "Que va a hacer  usted conmigo?
   * **the Most High God**  - That is, "the Supreme God" or, "the Most Sovereign God" or, "the Most Powerful God." The meaning of "high" here refers to God's greatness. It does not refer to altitude or being tall.
+  * **el Dios mas alto**  - Estro es , " el Dios Supermo" o, el Dios Mas Soberano" o, el Dios Mas Poderoso" El significado de "alto" aqie se refiere a la grandeza de Dios. Esto no0 se refiere a altura  o a ser alto.
   * **Legion**  - This was the name of the group of demons, but it also describes that the evil spirits were very numerous. Use the name if the note that follows will make the meaning clear in your language. If not, you may need to translate the word as something like, "Army" or, "Crowd" or, "Thousands."
-  * **we are many**  - we are many - That is, "there are many of us" or, "we are many demons."
+  * **Legión **- Este fue el nombre de un grupo de demonios pero esto tambien describe que los espiritus malos eran muy numeroso. Use el nombre si la notasiguiente le hace un claro significado en su idioma. Si no Usted podria necesitar traducir esta palabra algo asi como, "Ejército" o, "Multitud" o, "Miles."
+  * **we are many**  - That is, "there are many of us" or, "we are many demons."
+  * **somos muchos **- Esto es, "hay muchos de nosoitros" o, "somos muchos demonios."
 **[[:es-419:obs:notes:frames:32-05|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-07|>>]]**
