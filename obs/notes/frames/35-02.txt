@@ -1,4 +1,4 @@
-===== The Religious Leaders Grumbled [35-02]  / Los Lideres Religiosos se Quejaron =====
+===== The Religious Leaders Grumbled [35-02] / Los Lideres Religiosos se Quejaron =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&}}
 
@@ -14,7 +14,7 @@ Algunos líderes religiosos que estuvieron allí también, vieron a Jesús trata
 ===== Translation Notes: =====
 
   * **story**  - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-  * **historia - Jesus usaba esta historia para ensenar la verdad sobre el reino de Dios. Esto no esta claro si los eventos actualmente pasaron o no. Si tu idioma **  tiene **un termino que incluye ambos ficticio y historia, debe usarlo aqui.**
+  * **historia**  - Jesus usaba esta historia para ensenar la verdad sobre el reino de Dios. Esto no esta claro si los eventos actualmente pasaron o no. Si tu idioma tiene un termino que incluye ambos ficticio y historia, debe usarlo aq**ui.**
 **j**
 
 **[[:es-419:obs:notes:frames:35-01|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:35-03|>>]]**
