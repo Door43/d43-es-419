@@ -1,11 +1,10 @@
-===== The Son Repented [35-06] =====
+===== The Son Repented [35-06]  / El Hijo Arrepentido =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
 “Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
 
-Por fin, el hijo menor dijo a sí mismo, “¿Qué estoy haciendo? Todos los siervos de mi padre tienen bastante para comer, y aun estoy aquí muriendo de hambre. Volveré a mi padre y le pidré que sea uno de sus siervos.'”
-
+Por fin, el hijo menor dijo a sí mismo, “¿Qué estoy haciendo? Todos los **siervos ** de mi padre tienen bastante para comer, y aun estoy aquí muriendo de hambre. Volveré a mi padre y le pidré que sea uno de sus **siervos**.'”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:servant|servants]]**
@@ -14,5 +13,5 @@ Por fin, el hijo menor dijo a sí mismo, “¿Qué estoy haciendo? Todos los sie
   * (Jesus continues the story.)
   * **(Jesus continua su historia.)**
   * **What am I doing?**  - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
-  * **Que estoy haciendo? Esto es, " Porque yo estoy viviendo asi?" o, "Yo no debo estar viviendo asi!"o, "No hace sentido para mi vivir asi." El hijo no esta en realidad haciendo esta pregunta****, asi que en algunos idiomas debemos traducir esto como una declaracion.**
+  * **Que estoy haciendo?**  Esto es, " Porque yo estoy viviendo asi?" o, "Yo no debo estar viviendo asi!"o, "No hace sentido para mi vivir asi." El hijo no esta en realidad haciendo esta pregunta, asi que en algunos idiomas debemos traducir esto como una declaracion.
 **[[:es-419:obs:notes:frames:35-05|<<]] | [[:es-419:obs:notes:35|Up]] | [[:es-419:obs:notes:frames:35-07|>>]]**
