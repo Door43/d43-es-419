@@ -1,13 +1,12 @@
 ===== Who Touched Me? [32-15] =====
 
-<font 20px/inherit;;inherit;;inherit>** Quien me toco? [32-15] **</font>
+<font 20px/inherit;;inherit;;inherit>** Quien Me Toco? [32-15]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
 Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
 
-Inmediatamente, Jesús se dio cuenta que poder había salido de él. Así, voltió y pidió, “¿Quién me tocó?” Los discípulos le respondieron, “Hay mucha gente cerca de Ud. y presionándole. Por qué pidió, '¿Quién me tocó?'”
-
+Inmediatamente, **Jesús ** se dio cuenta que **poder ** había salido de él. Así, voltió y pidió, “¿Quién me tocó?” Los discípulos le respondieron, “Hay mucha gente cerca de Ud. y presionándole. Por qué pidió, '¿Quién me tocó?'”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
@@ -16,5 +15,7 @@ Inmediatamente, Jesús se dio cuenta que poder había salido de él. Así, volti
 ===== Translation Notes: =====
 
   * **power had gone out from him**  - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
+  * poder habia salido de el - Esto puede ser traducido como, "su poder habia sanado a alguien" "poder de sanidad habia fluido de el para entra en alguien mas"  Jesús no perdio ningun poder por este motivo. "
   * **Why did you ask, 'Who touched me?'**  - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
+  * **Por qué usted preguntó, "Quien me tocó? - ** "En algunos idiomas esto pude usarse mejor si aqui usa una pregunta indirecta tal como, " Por qué no pregunto quien me estaba tocando? o, " Por qué esta dudando quien lo toco?"
 **[[:es-419:obs:notes:frames:32-14|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-16|>>]]**
