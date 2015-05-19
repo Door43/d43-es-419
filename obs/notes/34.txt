@@ -1,48 +1,42 @@
-====== 34. Jesus Teaches Other Stories ======
-
+====== 34. Jesus Teaches Other Stories  /Jesús Enseña Otras Historias ======
 
 ===== Overview: =====
 
-
-Jesus told several stories to explain the Kingdom of God. It grows like a mustard seed, and spreads like yeast in bread dough. It is worth more than a hidden treasure or a perfect pearl. However, it must be received with humility. Those who pray and ask God for mercy will be forgiven. But God will not forgive people who are proud. 
-
+Jesus told several stories to explain the Kingdom of God. It grows like a mustard seed, and spreads like yeast in bread dough. It is worth more than a hidden treasure or a perfect pearl. However, it must be received with humility. Those who pray and ask God for mercy will be forgiven. But God will not forgive people who are proud.
 
 ====== Translate the Story ======
 
-
 Click on the links below to translate each frame of the story.
 
+[[:es-419:obs:notes:frames:34-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&200}}]]\\
+The Mustard Seed [34-01]
 
-[[:es-419:obs:notes:frames:34-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?200|Frame 34-01}}]]\\ 
-The Mustard Seed [34-01]\\ 
+[[:es-419:obs:notes:frames:34-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&200}}]]\\
+The Large Tree [34-02]
 
-[[:es-419:obs:notes:frames:34-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?200|Frame 34-02}}]]\\ 
-The Large Tree [34-02]\\ 
+[[:es-419:obs:notes:frames:34-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&200}}]]\\
+The Yeast [34-03]
 
-[[:es-419:obs:notes:frames:34-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?200|Frame 34-03}}]]\\ 
-The Yeast [34-03]\\ 
+[[:es-419:obs:notes:frames:34-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&200}}]]\\
+The Treasure in the Field [34-04]
 
-[[:es-419:obs:notes:frames:34-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?200|Frame 34-04}}]]\\ 
-The Treasure in the Field [34-04]\\ 
+[[:es-419:obs:notes:frames:34-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&200}}]]\\
+The Perfect Pearl [34-05]
 
-[[:es-419:obs:notes:frames:34-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?200|Frame 34-05}}]]\\ 
-The Perfect Pearl [34-05]\\ 
+[[:es-419:obs:notes:frames:34-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&200}}]]\\
+Two Men at the Temple [34-06]
 
-[[:es-419:obs:notes:frames:34-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?200|Frame 34-06}}]]\\ 
-Two Men at the Temple [34-06]\\ 
+[[:es-419:obs:notes:frames:34-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&200}}]]\\
+The Religious Leader's Prayer [34-07]
 
-[[:es-419:obs:notes:frames:34-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?200|Frame 34-07}}]]\\ 
-The Religious Leader's Prayer [34-07]\\ 
+[[:es-419:obs:notes:frames:34-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&200}}]]\\
+I Am Good [34-08]
 
-[[:es-419:obs:notes:frames:34-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?200|Frame 34-08}}]]\\ 
-I Am Good [34-08]\\ 
+[[:es-419:obs:notes:frames:34-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?nolink&200}}]]\\
+The Tax Collector's Prayer [34-09]
 
-[[:es-419:obs:notes:frames:34-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-09.jpg?200|Frame 34-09}}]]\\ 
-The Tax Collector's Prayer [34-09]\\ 
-
-[[:es-419:obs:notes:frames:34-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?200|Frame 34-10}}]]\\ 
-The Proud Will Be Humbled [34-10]\\ 
-
+[[:es-419:obs:notes:frames:34-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&200}}]]\\
+The Proud Will Be Humbled [34-10]
 
 //A Bible story from: Matthew 13:31-33, 44-46; Mark 4:30-32; Luke 13:18-21; 18:9-14//
 
