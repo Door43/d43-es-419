@@ -1,11 +1,10 @@
-===== The Mustard Seed [34-01] =====
+===== The Mustard Seed [34-01]  / La Semilla de Mostaza =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-01.jpg?nolink&}}
 
 **Jesus** told many other **stories** about the **kingdom of God**. For example, he said, “The kingdom of God is like a **mustard seed** that someone planted in his field. You know that the mustard seed is **the smallest seed of all**.”
 
-Jesús contó muchas otras historias acerca del reino de Dios. Por ejemplo, él dijo, “El reino de Dios es como una semilla de mostaza que alguien sembró en su campo. Uds. saben que la semila de mostaza es la semilla más pequeña de todas.”
-
+**Jesús ** contó muchas otras historias acerca del** reino de Dios**. Por ejemplo, él dijo, “El reino de Dios es como una semilla de mostaza que alguien sembró en su campo. Uds. saben que la semila de mostaza es la semilla más pequeña de todas.”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
@@ -13,9 +12,9 @@ Jesús contó muchas otras historias acerca del reino de Dios. Por ejemplo, él 
 ===== Translation Notes: =====
 
   * **stories**  - Jesus used these stories to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-  * **historias - Jesus uso estas historias para ensenar la verdades del reino****de Dios. No esta claro si estos eventos actualmente pasaron o no. Si en tu idioma tienen el termino que incluye ambos ficticio y historias reales, debes usarlo aqui.**
+  * **historias **- Jesus uso estas historias para ensenar la verdades del reinode Dios. No esta claro si estos eventos actualmente pasaron o no. Si en tu idioma tienen el termino que incluye ambos ficticio y historias reales, debes usarlo aqui.
   * **mustard seed**  - This probably refers to the seed of the black mustard plant, which has tiny seeds that rapidly grow into very large plants. If there is a word for this plant in your language, you should use it. If not, you may need to substitute the name of another plant which has the same characteristics.
-  * **semilla de mostaza - Esto probablemente se refiere a la semilla de ** la planta **negra de mostaza, la cual tiene semillas diminutas que crecen rapidamente en plantas bien grandes. Si hay una palabra para esta planta en tu idioma, debes usarla. Si no, vas a tener que substituir el nombre**  de otra **planta que tenga las mismas caracteristicas.**
+  * **semilla de mostaza **- Esto probablemente se refiere a la semilla de la planta negra de mostaza, la cual tiene semillas diminutas que crecen rapidamente en plantas bien grandes. Si hay una palabra para esta planta en tu idioma, debes usarla. Si no, vas a tener que substituir el nombre de otra planta que tenga las mismas caracteristicas.
   * **the smallest seed of all**  - That is, "the smallest of all the seeds that people plant."
-  * **la semilla mas pequena de todas - Esto es, "la mas pequena de todas las semillas que la gente siembra."**
+  * **la semilla mas pequena de todas **- Esto es, "la mas pequena de todas las semillas que la gente siembra."
 **[[:es-419:obs:notes:frames:33-09|<<]] | [[:es-419:obs:notes:34|Up]] | [[:es-419:obs:notes:frames:34-02|>>]]**
