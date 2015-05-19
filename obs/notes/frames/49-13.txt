@@ -1,4 +1,4 @@
-===== God Loves You [49-13] =====
+===== God Loves You [49-13] Dios te ama [49-13] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-13.jpg?nolink&}}
 
@@ -8,18 +8,14 @@ Not translated.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/save|save]]**
-  * **[[:es-419:obs:notes:key-terms/believe|believes]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/receive|receives]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms/love|loves]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:save|save]]**
+  * **[[:es-419:obs:notes:key-terms:believe|believes]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:receive|receives]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
+  * **[[:es-419:obs:notes:key-terms:love|loves]]**
 ===== Translation Notes: =====
 
-  * **he can have a close relationship with you** - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
-
-
+  * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
 **[[:es-419:obs:notes:frames:49-12|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-14|>>]]**
