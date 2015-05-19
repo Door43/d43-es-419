@@ -1,26 +1,29 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[es-419:home|Door43 (es-419)]]
-  * [[en:license|License]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:es-419:home|Door43 (es-419)]]
+  * [[:en:license|License]]
 
 **Resources**
 
-  * [[es-419:obs|Open Bible Stories (es-419)]]
+  * [[:es-419:obs|Open Bible Stories (es-419)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-es-419|d43-es-419 repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-es-419/archive/master.zip|d43-es-419.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-es-419|d43-es-419 repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-es-419/archive/master.zip|d43-es-419.zip]]
 
 **Recent Changes**
+
 {{changes>ns = es-419}}
 
 **Latest Status**
-{{page>en:uwadmin:es-419:obs:status}}
 
+{{page>en:uwadmin:es-419:obs:status}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/es-419|Ethnologue data]]
+
