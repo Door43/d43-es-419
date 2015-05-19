@@ -5,25 +5,24 @@
 ~~NOCACHE~~ **Door43**
 
    * [[:es-419:home|Door43 (es-419)]]
-  * [[:en:license|License]]
+  * [[:en:license|Licencia]]
 
 **Resources**
 
-  * [[:es-419:obs|Open Bible Stories (es-419)]]
+  * [[:es-419:obs|Historias Bíblicas Libres (es-419)]]
 
-**Downloads**
+**Descargas**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-es-419|d43-es-419 repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-es-419/archive/master.zip|d43-es-419.zip]]
+Todo el contenido para este espacio esta disponible en [[https://github.com/Door43/d43-es-419|d43-es-419 repository]]. Para descargar en archivo zip, pulsar [[https://github.com/Door43/d43-es-419/archive/master.zip|d43-es-419.zip]]
 
-**Recent Changes**
+**Cambios Recientes**
 
 {{changes>ns = es-419}}
 
-**Latest Status**
+**Último estado**
 
 {{page>en:uwadmin:es-419:obs:status}}
 
-**Language Information**
+**Información del Lenguaje**
 
 [[http://www.ethnologue.com/language/es-419|Ethnologue data]]
-
