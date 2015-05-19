@@ -1,11 +1,10 @@
-===== The Seed on the Rocks [33-03] =====
+===== The Seed on the Rocks [33-03] / Las Semillas sobre las Rocas =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?nolink&}}
 
 “Other seeds fell on **rocky ground**, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died.”
 
-“Otras semillas se cayeron en tierra rocosa, dónde había muy poca tierra. Las semillas en la tierra rocosa se brotaron rapidamente, pero sus raices no pudieron ir profundamente en la tierra. Cuando salió el sol y se calentó, las plantas se secaron y murieron.”
-
+“Otras semillas se cayeron en **tierra rocosa**, dónde había muy poca tierra. Las semillas en la tierra rocosa se brotaron rapidamente, pero sus raices no pudieron ir profundamente en la tierra. Cuando salió el sol y se calentó, las plantas se secaron y murieron.”
 ===== Important Terms: =====
 
 ===== Translation Notes: =====
