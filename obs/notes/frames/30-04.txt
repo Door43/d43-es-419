@@ -1,6 +1,6 @@
 ===== The People Were Hungry [30-04] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Gente estaba Hambrienta [30-04] **</font>
+<font 20px/inherit;;inherit;;inherit>** La Gente estaba Hambrienta [30-04]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
