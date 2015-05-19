@@ -1,13 +1,12 @@
 ===== The Country of the Gerasenes [32-01] =====
 
-<font 20px/inherit;;inherit;;inherit>** El País de Genesaret [32-01] **</font>
+<font 20px/inherit;;inherit;;inherit>** El País de Genesaret [32-01]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
 **One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
 
-Un día, Jesús y sus discípulos cruzaron el lago en un bote a la región donde vivían la gente de Genesaret.
-
+Un día, **Jesús ** y sus **discípulos ** cruzaron el lago en un bote a la región donde vivían la gente de Genesaret.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
