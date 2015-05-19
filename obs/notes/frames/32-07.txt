@@ -1,13 +1,12 @@
 ===== The Herd of Pigs [32-07] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Manada de Cerdo [32-07] **</font>
+<font 20px/inherit;;inherit;;inherit>** La Manada de Cerdo [32-07]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink&}}
 
 The **demons begged Jesus**, “Please **do not send us** out of this region!” There was a herd of pigs feeding on a nearby hill. So, the demons begged Jesus, “**Please**** send us** into the pigs **instead**!” Jesus said, “**Go**!”
 
-Los demonios rogaron a Jesús, “¡Por favor, no nos envíe fuera de esta región!” Había una manada de cerdos comiendo en una ​colina cercana. Así, los demonios rogaron a Jesús, “Por favor, envíenos en los cerdos!”
-
+Los **demonios rogaron ** a **Jesús**, “¡Por favor, no nos envíe fuera de esta región!” Había una manada de cerdos comiendo en una ​colina cercana. Así, los demonios rogaron a Jesús, “Por favor, envíenos en los cerdos!”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:demon|demons]]**
@@ -16,7 +15,7 @@ Los demonios rogaron a Jesús, “¡Por favor, no nos envíe fuera de esta regi�
 ===== Translation Notes: =====
 
   * **do not send us**  - That is, "do not make us go."
-  * no nos envies - E**sto**** es, "no nos hagas ir."**
+  * **no nos envies**  - **Esto es, "no nos hagas ir."**
   * **Please send us**  - That is, "Please let us go."
   * Por favor **envienos**  - Esto es** Por favor dejanos ir."**
   * **instead**  - That is, "instead of making us go away."
