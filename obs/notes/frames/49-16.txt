@@ -1,4 +1,4 @@
-===== Sins Are Forgiven [49-16] =====
+===== Sins Are Forgiven [49-16] Pecados son Perdonados [49-16] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
@@ -8,16 +8,12 @@ Si Ud. es un Cristiano, Dios le ha perdonado sus pecados por lo que Jesús hizo.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/christian|Christian]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/forgive|forgiven]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:christian|Christian]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgiven]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 ===== Translation Notes: =====
 
-  * **considers you to be** - That is, "thinks of you as" or, "regards you as" or, "calls you."
-
-
+  * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
 **[[:es-419:obs:notes:frames:49-15|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-17|>>]]**
