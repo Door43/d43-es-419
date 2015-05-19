@@ -1,13 +1,12 @@
 ===== Healed by Faith [32-16] =====
 
-<font 20px/inherit;;inherit;;inherit>** Sanado por Fe [32-16] **</font>
+<font 20px/inherit;;inherit;;inherit>** Sanado por Fe [32-16]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your**** faith has healed you**. Go in **peace**.”
 
-La mujer se puso de rodillas ante Jesús, temblando y muy temerosa. Entonces, ella le dijo lo que había hecho, y que estaba sanada. Jesús le dijo, “Tu fe te ha sanada. Ve en paz.”
-
+La mujer se puso de rodillas ante **Jesús**, temblando y muy temerosa. Entonces, ella le dijo lo que había hecho, y que estaba sanada. Jesús le dijo, “Tu **fe ** te ha **sanada**. Ve en **paz**.”
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
@@ -17,9 +16,13 @@ La mujer se puso de rodillas ante Jesús, temblando y muy temerosa. Entonces, el
 ===== Translation Notes: =====
 
   * **fell on her knees**  - That is, "quickly knelt down."
+  * cayó de rodillas - esto es, " rapidamente se arrodillo."
   * **before Jesus**  - That is, "in front of Jesus."
+  * **delante de Jesús **- Esto es, "al frente de Jesús."
   * **shaking and very afraid**  - That is, "shaking with fear" or, "trembling because she was afraid."
+  * **temblando y muy temerosa **- Esto es, "temblando con miedo" o, "temblando porque ella tenia miedo."
   * **Your faith has healed you.**  - This could also be translated as, "You have been healed because of your faith."
+  * Tu fe te ha sanado - Esto tambien puede ser traducido como, "Usted ha sido curada debido a su fe."
   * **Go in peace.**  - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //​Una historia de: Mateo 8:28-34; 9:20-22; Marcos 5:1-20; 5:24b-34; Lucas 8:26-39; 8:42b-48//
