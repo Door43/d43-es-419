@@ -1,13 +1,12 @@
 ===== The Man Was Healed [32-09] =====
 
-<font 20px/inherit;;inherit;;inherit>** El Hombre fue Sanado [32-09] **</font>
+<font 20px/inherit;;inherit;;inherit>** El Hombre fue Sanado [32-09]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
 When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
 
-Cuando la gente que cuidaron los cerdos vio lo que pasó, ellos corrieron al pueblo y dijeron ​lo que Jesús hizo a toda la gente que encontraron. La gente del pueblo vino y vio al hombre que antes tenía los demonios. Estaba sentado con calma, vestido de ropa, y actuando como una persona normal.
-
+Cuando la gente que cuidaron los cerdos vio lo que pasó, ellos corrieron al pueblo y dijeron ​lo que **Jesús ** hizo a toda la gente que encontraron. La gente del pueblo vino y vio al hombre que antes tenía los **demonios**. Estaba sentado con calma, vestido de ropa, y actuando como una persona normal.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
@@ -15,5 +14,7 @@ Cuando la gente que cuidaron los cerdos vio lo que pasó, ellos corrieron al pue
 ===== Translation Notes: =====
 
   * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
+  * **que paso **- Esto es, "como Jesus saco los demonios de el hombre y los puso dentro de los cerdos."
   * **who used to have the demons**  - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+  * **quien solía tener demonios **- Esto es, "en quien los demonios habiasn  vivvido" o, "quien habia sido controlado por los espiritus malos."
 **[[:es-419:obs:notes:frames:32-08|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-10|>>]]**
