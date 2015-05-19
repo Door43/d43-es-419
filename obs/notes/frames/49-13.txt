@@ -18,6 +18,6 @@ Not translated.
 ===== Translation Notes: =====
 
   * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
-  * el quiere tener contigo una relacion personal - Esto puede ser traducido como, "para que puedas ser su Hijo" o para que tu seas su amigo" o "para que tu le pertenescas a el"
+  * **el quiere tener contigo una relacion personal **- Esto puede ser traducido como, "para que puedas ser su Hijo" o para que tu seas su amigo" o "para que tu le pertenescas a el"
   *
   * **[[:es-419:obs:notes:frames:49-12|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-14|>>]]**
