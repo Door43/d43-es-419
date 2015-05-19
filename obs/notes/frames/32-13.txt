@@ -1,13 +1,12 @@
 ===== The Sick Woman [32-13] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Mujer Enferma [32-13] **</font>
+<font 20px/inherit;;inherit;;inherit>** La Mujer Enferma [32-13]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
 **Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
 
-Jesus volvió al otro lado del lago. Después de llegar, una muchedumbre grande le seguía y le presionaba. En el grupo estuvo una mujer que había sufrida de un problema de sangrado por doce años. Había gastado todo su dinero con doctores para que le sanaran, pero ella se empereró.
-
+**Jesus ** volvió al otro lado del lago. Después de llegar, una muchedumbre grande le seguía y le presionaba. En el grupo estuvo una mujer que había sufrida de un problema de sangrado por doce años. Había gastado todo su dinero con doctores para que le **sanaran**, pero ella se empereró.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
@@ -15,5 +14,8 @@ Jesus volvió al otro lado del lago. Después de llegar, una muchedumbre grande 
 ===== Translation Notes: =====
 
   * **pressed in on him**  - That is, "pushed tightly against him" or, "crowded in tightly around him."
+  * **presionado sobre el **- Esto es, "empujar apretadamente contra el" o, "fuertementen amontonado al rededor de el."
   * **she only got worse**  - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
+  * ella sólo empeoró - Esto es, su condicion solo empeoró" o, "su salud empeoró en vez de mejorar" o, en cambio ella se enfermo mas."
+
 **[[:es-419:obs:notes:frames:32-12|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:32-14|>>]]**
