@@ -1,4 +1,4 @@
-===== Grow as a Christian [49-18] =====
+===== Grow as a Christian [49-18]Crece como Cristiano [49-18] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink&}}
 
@@ -8,13 +8,11 @@ Dios le dice que ore, estudie su palabra, adórele con otros Cristianos, y diga 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-  * **[[:es-419:obs:notes:key-terms/pray|pray]]**
-  * **[[:es-419:obs:notes:key-terms/word-of-god|his word]]**
-  * **[[:es-419:obs:notes:key-terms/worship|worship]]**
-  * **[[:es-419:obs:notes:key-terms/christian|Christians]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:pray|pray]]**
+  * **[[:es-419:obs:notes:key-terms:word-of-god|his word]]**
+  * **[[:es-419:obs:notes:key-terms:worship|worship]]**
+  * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
 ===== Translation Notes: =====
 
   * **to have a deeper relationship with him**  - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
