@@ -2,36 +2,35 @@
 
 ¡Bienvenidos a Door43!, una plataforma abierta colaborativa para crear, traducir y distribuir recursos para discipular en cualquier lenguaje con licencia de uso libre.
 
-<font inherit/inherit;;inherit;;inherit>Recursos</font>
+Recursos
 
-<font inherit/inherit;;inherit;;inherit>Estos son los</font>    recursos que<font inherit/inherit;;inherit;;inherit>hay</font>    disponibles<font inherit/inherit;;inherit;;inherit>en</font>    este momento para traducir<font inherit/inherit;;inherit;;inherit>y</font>    usar
-
-  * **[[http://door43.org/es/obs|Historias Bíblicas Libres]]** <font inherit/inherit;;inherit;;inherit>-</font>    Una <font inherit/inherit;;inherit;;inherit>mini</font>    Biblia ilustrada <font inherit/inherit;;inherit;;inherit>en</font>    cualquier idioma<font inherit/inherit;;inherit;;inherit>, en</font>    formatos <font inherit/inherit;;inherit;;inherit>de</font>    texto<font inherit/inherit;;inherit;;inherit>, audio y</font>    vídeo<font inherit/inherit;;inherit;;inherit>,</font>    libre <font inherit/inherit;;inherit;;inherit>de</font>    derechos <font inherit/inherit;;inherit;;inherit>de</font>    autoría<font inherit/inherit;;inherit;;inherit>.</font>
-  * [[:en:obs:notes|Notas de Traducción]]<font inherit/inherit;;inherit;;inherit>- Notas de</font>    <font inherit/inherit;;inherit;;inherit>t</font>    raducción <font inherit/inherit;;inherit;;inherit>y</font>    exegéticas para las Historias Bíblicas<font inherit/inherit;;inherit;;inherit>,</font>    <font inherit/inherit;;inherit;;inherit>l</font>    ibres <font inherit/inherit;;inherit;;inherit>de</font>    autoría<font inherit/inherit;;inherit;;inherit>.</font>
-  * [[:en:ta:intro:handbook|Manual de la Academia de Traduccion ]] - Una guía de traducción y revisión.
-  * [[:en:lexicon|Léxico Bíblico Libre]]- Un léxico Bíblico, destinado para integrar, Las Historias Bíblicas con las traducciones Bíblicas.
-  * [[:en:library|Biblioteca Cristiana Libre-]] Un catalogo, de recursos bíblicos, sin derechos de autor.
-  * [[:en:ta|Academia de Traducción]]- Un curso modular <font inherit/inherit;;inherit;;inherit>de</font>    entrenamiento para traductores<font inherit/inherit;;inherit;;inherit>y</font>    para facilitar las traducciones, basado en medios informativos, y donde la persona estudia a su paso.
+Estos son los recursos que disponibles en este momento para traducer y usar
+  * [[:es-419:obs|Historias Bíblicas Libres]] - Una mini Biblia ilustrada en cualquier idioma, en formatos de texto, audio y vídeo, libre de derechos de autoría.
+  * [[:es-419:obs:notes|Notas de Traducción]] - Notas de traducción y exegéticas para las Historias Bíblicas, libres de autoría.
+  * [[:es-419:ta:intro:handbook|Manual de la Academia de Traduccion ]] - Una guía de traducción y revisión.
+  * [[:es-419:lexicon|Léxico Bíblico Libre]]- Un léxico Bíblico, destinado para integrar, Las Historias Bíblicas con las traducciones Bíblicas.
+  * [[:es-419:library|Biblioteca Cristiana Libre-]] Un catalogo, de recursos bíblicos, sin derechos de autor.
+  * [[:es-419:ta|Academia de Traducción]]- Un curso modular de entrenamiento para traductoresy para facilitar las traducciones, basado en medios informativos, y donde la persona estudia a su paso.
 
 ==== Acerca de Door43 ====
 
-**[[http://door43.org/en/get-started|Cómo empezar]]**– Empezar a traducir
+**[[es-419:get-started|Cómo empezar]]**– Empezar a traducir
 
-**[[http://door43.org/en/statement-of-faith|Declaración de Fe]]**– Declaración de Fe, con la que están de acuerdo, los que colaboran con Door43.
+**[[es-419:statement-of-faith|Declaración de Fe]]**– Declaración de Fe, con la que están de acuerdo, los que colaboran con Door43.
 
-**[[http://door43.org/en/translation-guidelines|Directrices de traducción]]**- Principios y procedimientos que deben seguir todos los que colaboran.
+**[[es-419:translation-guidelines|Directrices de traducción]]**- Principios y procedimientos que deben seguir todos los que colaboran.
 
-**[[http://door43.org/en/legal/license|Derechos de Autoría y Llicencias]]**– Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]].
+**[[es-419:legal/license|Derechos de Autoría y Llicencias]]**– Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]].
 
-**[[http://door43.org/en/syntax|Diseñar el contenido]]**– Cómo hacer que el contenido tenga el aspecto que debe tener.
+**[[es-419:syntax|Diseñar el contenido]]**– Cómo hacer que el contenido tenga el aspecto que debe tener.
 
-**[[http://door43.org/en/tips-tricks|Consejos & ]]** **[[http://door43.org/en/tips-tricks|Trucos]]**– Atajo y formas de aumentar la eficiencia.
+**[[es-419:tips-tricks|Consejos & ]]** **[[http://door43.org/en/tips-tricks|Trucos]]**– Atajo y formas de aumentar la eficiencia.
 
-**[[http://door43.org/en/technical|Detalles Técnicos]]**– La tecnología que hay tras Door43.
+**[[es-419:technical|Detalles Técnicos]]**– La tecnología que hay tras Door43.
 
 ==== Extendiendo Door43 ====
 
-Door43; es un desarrollo activo, según ampliamos la utilidad del contenido, desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
+Door43; es un desarrollo activo, según ampliamos la utilidad del contenido, desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[es-419:dev|Desarrollo de Door43]]**.
 
 ----
 
