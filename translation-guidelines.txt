@@ -1,58 +1,26 @@
-====== Guías para la Traducción  ======
+====== Guías para la Traducción ======
 
-//La siguiente declaración de principios y procedimientos usadas en traducción esta suscrita a todas las organizaciones miembros y a los contribuidores del proyecto  [[http://unfoldingword.org/|unfoldingWord]] .  Todas las actividades de traducción se deben llevar a cabo de acuerdo a estas directrices comunes.   //
-  -
+//La siguiente declaración de principios y procedimientos usadas en traducción esta suscrita a todas las organizaciones miembros y a los contribuidores del proyecto [[http://unfoldingword.org/|unfoldingWord]] . Todas las actividades de traducción se deben llevar a cabo de acuerdo a estas directrices comunes.//
+  - **Exactitud**  — Traducir con exactitud, sin menoscabo, cambiando o añadiendo al significado del texto original. El contenido traducido debe comunicar fielmente y de la manera mas precisa posible el significado del texto original y como ha sido entendido por la audiencia original. Ver [[https://door43.org/en/ta/translate/accurate|¿Cómo puedo crear traducciiones exactas? v1]] para más información.​
+  - **Claridad**  — Use cualquier forma de estructura lingüistica necesaria para alcanzar el mayor nivel de comprensión. Esto incluye el rearreglo de la forma de un texto y usar la mayor o menor cantidad de términos necesarios para comunicar el significado original de la manera mas exacta posible. Ver [[https://door43.org/en/ta/translate/clear|¿Cómo puedo crear traducciones claras? ]][[https://door43.org/en/ta/translate/clear|V1]]para más información.​
+  - **Fiel**  — Use términos claves que sean fieles al vocabulario de las lenguas bíblicas originales. Use términos equivalentes en el lenguaje común a las palabras bíblicas que describan la relación entre Dios Padre y Dios el Hijo. Estos deben clarificarse, de ser necesario, en notas al calce u otros recursos suplementarios. Ver [[https://door43.org/en/ta/translate/faithful|Creando Traducciones Fieles]] para más información.
+  - **Autoritaria**  — Use los textos bíblicos en los lenguajes originales como la autoridad máxima para la traducción del contenido bíblico. n El contenido bíblico seguro en otros idiomas puede ser usado para clarificar y como fuente de texto intermedia. Ver [[https://door43.org/en/ta/translate/authoritative|Creando Traducciones Autoritarias ]] para más información.
+  - **Pura**  — Evite cualquier parcialidad de tema político, denominacional, ideológico, social, cultural, o teológico en su traducción. Ver [[https://door43.org/en/ta/translate/pure|Creando Traducciones Puras ]] para más información.
+  - **Expresiva**  — Comunique los sentimientos y actitudes del texto original. the feelings and attitudes of the original text. Lo más que pueda, mantenga las formas literarias del texto original, incluyendo la narrativa, poesía, exhortación y profecía, presentándolas con las formas correspondientes en su idioma. Ver [[https://door43.org/en/ta/translate/expressive|Creando Traducciones Expresivas ]] para más información.
+  - **Histórica**  — Comunique eventos y datos históricos de la manera más exacta posible, proveyendo información adicional de ser necesaria de manera que comunique con exactitud el mensaje deseado a personas que no comparten el mismo contexto y cultura de los recipientes originales del contenido original. Ver la (7 min. duración) lección on**//Traduciendo// ********// las Escrituras - Cultura//** para la [[http://youtu.be/9nLRLAgOIpw|computadora]] y para la [[http://youtu.be/girNfacETDE|tablet]]. Ver [[https://door43.org/en/ta/translate/historical|Creando Traducciones Históricas]] para más información.
+  - **Natural**  — Use formas del lenguaje que sean efectivas y que reflejen su lenguaje como es utilizado en los contextos correspondientes. Ver [[https://door43.org/en/ta/translate/natural|¿Cómo puedo Crear Traducciones Naturales ? V1]] para más información.
+  - **Colaborativa**  — Cuando sea posible, trabaje junto a otros creyentes que hablen su mismo idioma para traducir, revisar y distribuir el contenido traducido, asegurandose que sea de la más alta calidad y disponible a la mayor cantidad de personas. Ver [[https://door43.org/en/ta/translate/collaborative|Creando Traducciones Colaborativas ]] para más información.
+  - **En marcha**  — Motive la revisión periodica para comprobar cuando una revisión o una nueva traducción es necesaria. Ver [[https://door43.org/en/ta/translate/ongoing|Creando Traducciones En Marcha ]] para más información.
+====== Administrando e Identificando la Calidad de la Traducción ======
 
-**Exactitud** — Traducir con exactitud, sin menoscabo, cambiando o añadiendo al significado del texto original.  El contenido traducido debe comunicar fielmente y de la manera mas precisa posible el significado del texto original y como ha sido entendido por la audiencia original.  Ver [[https://door43.org/en/ta/translate/accurate|¿Cómo puedo crear traducciiones exactas? v1]] para más información.
-  -
+La calidad de la traducción generalmente se refiere a la fidelidad de la traducción al significado del original, y el grado en que la traduccio se entienda y sea efectiva para los hablantes del idioma receptor. La estrategia que sugerimos envuelve revisión de las formas y la calidad de la comunicación de la traducción con la comunidad del lenguaje, y la revisión de la fidelidad de la traducción con la Iglesia en esa comunidad.
 
-**Claridad** — Use cualquier forma de estructura lingüistica necesaria para alcanzar el mayor nivel de comprensión.  Esto incluye el rearreglo de la forma de un texto y usar la mayor o menor cantidad de términos necesarios para comunicar el significado original de la manera mas exacta posible.  Ver [[https://door43.org/en/ta/translate/clear|¿Cómo puedo crear traducciones claras? ]][[https://door43.org/en/ta/translate/clear|V1]]para más información.
-  -
+Los pasos específicos pueden variar significativamente, dependiendo del lenguaje y el contexto del proyecto de traducción. Generalmente, consideramos una buena traducción cuando es:
 
-**Fiel** — Use términos claves que sean fieles al vocabulario de las lenguas bíblicas originales.  Use términos equivalentes en el lenguaje común a las palabras bíblicas que describan la relación entre Dios Padre y Dios el Hijo.  Estos deben clarificarse, de ser necesario, en notas al calce u otros recursos suplementarios.  Ver  [[https://door43.org/en/ta/translate/faithful|Creando Traducciones Fieles]] para más información.
-  -
+  - **Exacta**  - Fiel al significado del original, determinado por la Iglesia en ese grupo y en alineación con la Iglesia global e histórica y consecuentemente:
+  - **Afirmada por la Iglesia**  - Aprobada y usada por la Iglesia. En adicción, una buena traducción será revisada por los hablantes del idioma en una comunidad y debe encontrarse:
+  * **Clara**  - Que esté lista para el más alto nivel de comprensión de los oyentes
+  * **Exacta**  - Fiel al significado original de la fuente del texto.
+  * **Natural**  - Usa formas del lenguaje que es comúnmente hablado.
 
-**Autoritaria** — Use los textos bíblicos en los lenguajes originales como la autoridad máxima para la traducción del contenido bíblico. n El contenido bíblico seguro en otros idiomas puede ser usado para clarificar y como fuente de texto intermedia.  Ver [[https://door43.org/en/ta/translate/authoritative|Creando Traducciones Autoritarias ]] para más información.
-  -
-
-**Pura** — Evite cualquier parcialidad de tema político, denominacional, ideológico, social, cultural, o teológico en su traducción.  Ver [[https://door43.org/en/ta/translate/pure|Creando Traducciones Puras ]] para más información.
-  -
-
-**Expresiva** — Comunique los sentimientos y actitudes del texto original.   the feelings and attitudes of the original text. Lo más que pueda, mantenga las formas literarias del texto original, incluyendo la narrativa, poesía, exhortación y profecía, presentándolas con las formas correspondientes en su idioma.  Ver [[https://door43.org/en/ta/translate/expressive|Creando Traducciones Expresivas ]] para más información.
-  -
-
-**Histórica** — Comunique eventos y datos históricos de la manera más exacta posible, proveyendo información adicional de ser necesaria de manera que comunique con exactitud el mensaje deseado a personas que no comparten el mismo contexto y cultura de los recipientes originales del contenido original.  Ver la (7 min. duración) lección on**//Traduciendo// ****// las Escrituras  - Cultura//** para la [[http://youtu.be/9nLRLAgOIpw|computadora]] y para la  [[http://youtu.be/girNfacETDE|tablet]]. Ver [[https://door43.org/en/ta/translate/historical|Creando Traducciones Históricas]] para más información.
-  -
-
-**Natural** — Use formas del lenguaje que sean efectivas y que reflejen su lenguaje como es utilizado en los contextos correspondientes.  Ver  [[https://door43.org/en/ta/translate/natural|¿Cómo puedo Crear Traducciones Naturales ? V1]] para más información.
-  -
-
-**Colaborativa** — Cuando sea posible, trabaje junto a otros creyentes que hablen su mismo idioma para traducir, revisar y distribuir el contenido traducido, asegurandose que sea de la más alta calidad y disponible a la mayor cantidad de personas.  Ver [[https://door43.org/en/ta/translate/collaborative|Creando Traducciones Colaborativas ]] para más información.
-  -
-
-**En marcha** — Motive la revisión periodica para comprobar cuando una revisión o una nueva traducción es necesaria.  Ver [[https://door43.org/en/ta/translate/ongoing|Creando Traducciones En Marcha ]] para más información.
-
-====== Administrando e Identificando la Calidad de la Traducción  ======
-
-La calidad de la traducción generalmente se refiere a la fidelidad de la traducción al significado del original, y el grado en que la traduccio se entienda y sea efectiva para los hablantes del idioma receptor.  La estrategia que sugerimos envuelve revisión de las formas y la calidad de la comunicación de la traducción con la comunidad del lenguaje, y la revisión de la fidelidad de la traducción con la Iglesia en esa comunidad.
-
-Los pasos específicos pueden variar significativamente, dependiendo del lenguaje y el contexto del proyecto de traducción.  Generalmente, consideramos una buena traducción cuando es:
-
-  -
-
-**Exacta**  - Fiel al significado del original, determinado por la Iglesia en ese grupo y en alineación con la Iglesia global e histórica y consecuentemente:
-  -
-
-**Afirmada por la Iglesia** - Aprobada y usada por la Iglesia.
-En adicción, una buena traducción será revisada por los hablantes del idioma en una comunidad y debe encontrarse:
-
-  -
-
-**Clara** - Que esté lista para el más alto nivel de comprensión de los oyentes.
-  -
-
-**Exacta** - Fiel al significado original de la fuente del texto.
-  -
-
-**Natural** - Usa formas del lenguaje que es comúnmente hablado.
 //ver también: [[https://door43.org/en/statement-of-faith|Declaración de Fe]] y [[https://door43.org/en/bible/notes/checking/level1/home|Información de Revisión]]//
