@@ -10,4 +10,4 @@ Los traductores pueden utilizar estas preguntas durante los procesos de revisió
 
 La traducción puede ser aprobada en el nivel 2 cuando las preguntas son contestadas correctamente.
 
-<nspages es-419:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Comprehension Questions for the Open Bible Stories:">
+<nspages es-419:obs:notes:questions -sortId -simpleList -title -exclude:home -textPages="Preguntas Comprensivas para las Historias Bíblicas Libres:">
