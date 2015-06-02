@@ -4,7 +4,7 @@
 
 Recursos
 
-Estos son los recursos que estan disponibles en este momento para traducir y usar
+Estos son los recursos que estan disponibles en este momento para traducir y usar.
 
   * [[:es-419:obs|Historias Bíblicas Libres]] - Una mini Biblia ilustrada en cualquier idioma, en formatos de texto, audio y vídeo, libre de derechos de autoría.
   * [[:es-419:obs:notes|Notas de Traducción]] - Notas de traducción y exegéticas para las Historias Bíblicas, libres de autoría.
