@@ -1,4 +1,4 @@
-====== Guías para la Traducción ======
+====== Directrices para la Traducción ======
 
 //La siguiente declaración de principios y procedimientos usadas en traducción esta suscrita a todas las organizaciones miembros y a los contribuidores del proyecto [[http://unfoldingword.org/|unfoldingWord]] . Todas las actividades de traducción se deben llevar a cabo de acuerdo a estas directrices comunes.//
   - **Exactitud**  — Traducir con exactitud, sin menoscabo, cambiando o añadiendo al significado del texto original. El contenido traducido debe comunicar fielmente y de la manera mas precisa posible el significado del texto original y como ha sido entendido por la audiencia original. Ver [[https://door43.org/en/ta/translate/accurate|¿Cómo puedo crear traducciones exactas? v1]] para más información.​
