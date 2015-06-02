@@ -4,7 +4,7 @@ Los traductores pueden utilizar estas preguntas durante los procesos de revisió
 
   - Traducir la historia.
   - Leer la historia a alguien que hable su idioma y que no colaboró con la traducción.
-  - Preguntelé sobre las historias usando las preguntas de estas páginas.
+  - Pregunte sobre las historias usando las preguntas de estas páginas.
   - ¿Respondió la pregunta correctamente? Entonces la traducción es precisa, natural y clara.
   - ¿No respondieron correctamente alguna de las preguntas? Entonces corrija la traducción.
 
