@@ -1,35 +1,33 @@
-====== Story #12: The Exodus ======
+====== Historia #12: El Éxodo ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-  - **What did the Egyptians give the Israelites as they left Egypt?**
-    *//Whatever they asked for, even gold and silver and other valuable things. [12-01]//
-  - **Who else left Egypt with the Israelites?**
-    *//Some people from other nations who believed in God. [12-01]//
-  - **How did God lead the Israelites?**
-    *//With a pillar of cloud during the day and a pillar of fire at night. [12-02]//
-  - **Why did God cause Pharaoh to be stubborn and chase the Israelites?**
-    *//To show that he is is the One True God who is more powerful than Pharaoh and his gods. [12-03]//
-  - **How did the Israelites react when they were trapped between the sea and Pharaoh's army?**
-    *//They said, "Why did we leave Egypt? We are going to die!" [12-04]//
-  - **What did Moses say to the Israelites to calm their fear?**
-    *//"Stop being afraid! God will fight for you today and save you." [12-05]//
-  - **What did God tell Moses to do in order to make a path of escape for the Israelites?**
-    *//God told him to raise his hand over the sea so that the waters would divide. [12-07]//
-  - **How did God prevent the Egyptians from seeing the Israelites as they started to escape?**
-    *//He placed the pillar of cloud between them. [12-06]//
-  - **How were the Israelites able to cross the sea?**
-    *//They walked through it on dry ground. [12-08]//
-  - **What happened to the Egyptians as they chased the Israelites through the sea?**
-    *//He caused the Egyptians to panic and their chariots to get stuck. [12-10]//
-  - **How did God destroy the Egyptian army?**
-    *//The water covered the Egyptian army so that they drowned. [12-11]//
-  - **How did the Israelites react when they saw that the Egyptians were dead?**
-    *//They trusted in God and believed that Moses was a prophet of God. [12-12]//
-  - **Why did the Israelites sing and praise God?**
-    *//Because he had saved them from the Egyptians. [12-13]//
-  - **What did God tell the Israelites to do in order to remember his victory over the Egyptians?**
-    *//He commanded them to celebrate the Passover every year. [12-14]//
-
-
-**[[es-419/obs/notes/questions/11|<< ]] | [[es-419/obs/notes/questions/13| >>]]**
+  - **¿Qué le dieron los egipcios a los israelitas cuando ellos se fueron de Egipto?  **
+      * //Todo lo que ellos pidieron, incluso oro y plata y otras cosas de valor.   [12-01]//
+  - **¿Quién mas dejo a Egipto con los israelitas?  **
+      * //Otras personas de otras naciones que creían en Dios.   [12-01]//
+  - **¿Cómo Dios condujo a los israelitas?  **
+      * //Con una columna de nube durante el día y una columna de fuego durante la noche.  [12-02]//
+  - **¿Porqué Dios causo que faraón se hiciera terco y persiguiera a los israelitas?  **
+      * //Para demostrar que Él es el unico Dios Verdadero, que es mas poderoso que faraón y sus dioses.  [12-03]//
+  - **¿Cómo los israelitas reaccionaron cuando fueron atrapados entre el mar y el ejército de faraón?  **
+      * //Ellos dijeron, " ¿Porqué dejamos Egipto? ¡Vamos a morir!" [12-04]//
+  - **¿Qué le dijo Moisés a los israelitas para que se calmara su miedo?  **
+      * //"¡No tengan miedo! Dios peleará  por ustedes hoy y los salvará." [12-05]//
+  - **¿Qué le dijo Dios a Moisés que hiciera para hacer un camino de escape para los israelitas?  **
+      * //Dios le dijo que levantara su mano sobre el mar y que las aguas se dividirían.   [12-07]//
+  - **¿Cómo Dios previno que los egipcios vieran a los israelitas cuando comenzaron a escapar?  **
+      * //El puso la columna de nube entre ellos.   [12-06]//
+  - **¿Cómo los israelitas pudieron cruzar el mar?  **
+      * //Ellos caminaron a través de el en seco.  [12-08]//
+  - **¿Qué paso con los egipcios cuando ellos persiguieron a los israelitas a través del mar?   **
+      * //El causó pánico en los egipcios y sus carruajes comenzaron a atascarse.   [12-10]//
+  - **¿Cómo destruyó Dios el ejército de Egipto?   **
+      * //El agua cubrió el ejército egipcio por lo que se ahogaron.   [12-11]//
+  - **¿Cómo reaccionaron los israelitas cuando vieron a los egipcios muertos?  **
+      * //Ellos confiaron en Dios y  creyeron que Moisés era un profeta de Dios.  [12-12]//
+  - **¿Porqué los israelitas cantaron y alabaron a Dios?  **
+      * //Porque Él los salvo de los egipcios.   [12-13]//
+  - **¿Qué les dijo Dios a los israelitas para que hicieran para recordar su victoria sobre los egipcios?**
+      * //Él les ordenó que celebraran la Pascua todos los años.  [12-14]//
+**[[:es-419:obs:notes:questions:11|<< ]] | [[:es-419:obs:notes:questions:13| >>]]**
