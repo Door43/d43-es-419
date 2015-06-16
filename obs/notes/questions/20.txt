@@ -1,32 +1,29 @@
-====== Story #20: The Exile and Return ======
+====== Historia #20: El Exilio y el Regreso  ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-
-  - **What was the warning that the prophets spoke to the people?**
-    *//They told them to repent and worship God. [20-01]//
-  - **How did the people respond to the message from the prophets?**
-    *//The people refused to obey. [20-01]//
-  - **What enemy destroyed the kingdom of Israel?**
-    *//The Assyrian Empire. [20-02]//
-  - **Who were the Samaritans?**
-    *//The descendants of the Israelites who married the foreigners brought to the land by the Assyrians. [20-04]//
-  - **Did the people of the kingdom of Judah obey God when they saw how he had punished the kingdom of Israel?**
-    *//No, they continued worshiping idols. [20-05]//
-  - **Who did the king of Judah agree to serve?**
-    *//King Nebuchadnezzar of Babylon. [20-06]//
-  - **When the king of Judah rebelled, what did Nebuchadnezzar’s soldiers do to him?**
-    *//They killed the king’s sons in front of him, made him blind, and took him away to die in prison in Babylon. [20-08]//
-  - **What do we call the period of time when God’s people were forced to leave the Promised Land?**
-    *//The Exile. [20-09]//
-  - **What did God promise to the people during the Exile?**
-    *//God promised that after seventy years, they would return to the Promised Land. [20-10]//
-  - **Who was the king who defeated the Babylonians?**
-    *//King Cyrus of the Persian Empire. [20-11]//
-  - **What order did King Cyrus give concerning the Jews?**
-    *//Any Jew who wanted to return to Judah could go there. [20-12]//
-  - **What did the Jews do when they returned to Jerusalem?**
-    *//They rebuilt the Temple and the wall around the city. [20-13]//
-
-
-**[[es-419/obs/notes/questions/19|<<  ]] | [[es-419/obs/notes/questions/21| >>]]**
+  - **¿Cuál era la advertencia que los profetas le decían a la gente? **
+      * //Ellos le decían a la gente que se arrepintieran y adoraran a Dios. [20-01]//
+  - **¿Cómo las gente respondían al mensaje de los profetas?  **
+      * //La gente rehusaba obedecer. [20-01]//
+  - **¿Qué enemigo destruyó el reino de Israel? **
+      * //El Imperio Asirio. [20-02]//
+  - **¿Quiénes eran los samaritanos?**
+      * //Los descendientes de los israelitas que se casaron con los extranjeros que trajeron de la tierra de los asirios. [20-04]//
+  - **¿La gente del reino de Judá obedeció a Dios cuando vieron que Èl había castigado a los del reino de Israel?  **
+      * //No, ellos continuaron adorando a ídolos. [20-05]//
+  - **¿A quien el rey de Judá acordó servir?  **
+      * //Al rey Nabucodonosor de Babilonia. [20-06]//
+  - **Cuándo el rey de Judá se rebeló, ¿qué le hicieron los soldados del rey Nabucodonosor?  **
+      * //Ellos mataron los hijos del rey frente a él, lo hicieron ciego y lo encarcelaron hasta morir en Babilonia. [20-08]//
+  - **¿Cómo le llamamos al periodo de tiempo en que la gente de Dios fue forzada a dejar la Tierra Prometida?  **
+      * //El Exilio. [20-09]//
+  - **¿Qué le prometió Dios a su gente durante el exilio?  **
+      * //Dios le prometió que después de setenta años, ellos regresarían a la Tierra Prometida. [20-10]//
+  - **¿Cuál fue el rey que venció a los Babilonios?  **
+      * //El Rey Ciro del Imperio Persa. [20-11]//
+  - **¿Qué orden dio el rey Ciro concerniente a los judíos?  **
+      * //Cualquier judío que quisiera regresar a Judá podría irse. [20-12]//
+  - **¿Qué hicieron los judíos cuando ellos regresaron a Jerusalén?  **
+      * //Ellos reconstruyeron el Templo y el muro alrededor de la ciudad. [20-13]//
+**[[:es-419:obs:notes:questions:21|[[:es-419:obs:notes:questions:19|<< ]]| [[:es-419:obs:notes:questions:21|>>]]**]]**
