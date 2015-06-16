@@ -1,30 +1,25 @@
-====== Story #10: The Ten Plagues: Les dix plaies ======
+====== Historia #10: Las Diez Plagas ======
 
-===== Comprehension Questions and Answers; Les questions de comprehensions et Reponses =====
+===== Preguntas Comprensivas y Respuestas =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-  - Quel a ete le message de Dieu que Moise et Aaron avaient donne a Pharaon
-      * //"Let my people go!" [10-01]//
-      * //Laissez mon peuple partir//
-  - **What did Pharaoh do when he heard this command?**
-  - qu'est ce que Pharaon avait fait quand il a entendu cet ordre
-      * //He forced the Israelites to work even harder. [10-01]////Il avait force a travaille tres dur//
-  - **What did God do when Pharaoh refused to let the Israelites go?: Qu'est que Dieu fait quand Pharaon a refuse de laisser les Israelites partir **
-      * //He sent ten terrible plagues on Egypt. [10-02]:Il a envoye les dix terribles plaies en Egypte//
-  - **What did God show Pharaoh through these plagues?: Qu'est ce que Dieu a montre a Pharaon par ces plaies**
-      * //That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]:Qu'il est plus puissant que Pharaon dieux et tous les Dieux d'Egypte//
-  - **What did God do to the water in the Nile River?: Qu'est ce que Dieu a fait aux eaux de la riviere Nil**
-      * //God turned water in the Nile River into blood. [10-03] Dieu a change les eaux de la riviere Nil en sang //
-  - **Who was affected by the plague of the painful skin sores?:Qui a etait affecte par les douloureuses plaies sur leur peau **
-      * //The sores appeared on the Egyptians, but not on the Israelites. [10-07].//
-      * //Les douloureuses plaies apparaissent sur les egyptiens.mais pas sur les Israelites//
-  - **Did the plague of darkness affect everyone equally?**
-  - Les plaises de norceur affecte t-elle chacun de meme maniere
-      * //No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
-  - **How did Pharaoh respond to each of the first nine plagues?**
-      * //He refused to let the people go free. [10-12]//
-  - **What did God do after Pharaoh did not respond to the first nine plagues?**
-      * //God planned to send one last plague. [10-12]//
-  - **What would this last plague do that the first nine had not done?**
-      * //It would change Pharaoh's mind. [10-12]//
-**[[:es-419:obs:notes:questions:09|<< ]] | [[:es-419:obs:notes:questions:11| >>]]**
+  - **¿Cuál fue el mensaje que Dios le dió a Moisés y a Aarón para que le diera a faraón?  **
+      * //"¡Deja a mi pueblo salir!" [10-01]//
+  - **¿Qué hizo faraón cuando escucho esta orden?**
+      * //El obligó a los israelitas a trabajar mas duro. [10-01]//
+  - **¿Qué hizo Dios cuando el faraón se rehusó a dejar ir a los israelitas?  **
+      * //El envió diez plagas terribles a Egipto.. [10-02]//
+  - **¿Qué le mostró Dios a faraón a través de estas plagas?  **
+      * //Que Él era más poderoso que faraón y que todos los dioses egipcios. [10-02]//
+  - **¿Qué le hizo Dios al agua del Rio Nilo?  **
+      * //Dios convirtió el agua del Rio Nilo en sangre [10-03]//
+  - **¿Quién fue afectado por la plaga de las llagas dolorosas en la piel?  **
+      * //Las llagas aparecieron en los egipcios, pero no en los israelitas. [10-07]//
+  - **¿Afecto a todo el mundo por igual la plaga de la oscuridad?**
+      * //No.  Estaba oscuro donde vivían los egipcios, pero había luz donde vivían los israelitas. [10-11]//
+  - **¿Cómo el faraón respondió a cada una de las primeras nueve plagas?  **
+      * //El rehusaba dejar libre a la gente. [10-12]//
+  - **¿Qué hizo Dios después al faraón no responder a las primeras nueve plagas?  **
+      * //Dios planeó enviar una ultima plaga. [10-12]//
+  - **¿Qué hizo esta última plaga que no hicieon las primeras nueve?  **
+      * //Esta cambio la mente del faraón. [10-12]//
+**[[:es-419:obs:notes:questions:11|[[:es:obs:notes:questions:09|<< ]]| [[:es:obs:notes:questions:11|>>]]**]]**
