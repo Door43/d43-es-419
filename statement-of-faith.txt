@@ -1,6 +1,6 @@
 ===== Declaración de Fe =====
 
-//La siguiente declaración de fe esta suscrita a todos las organizaciones miembros y a los contribuidores del proyecto __unfoldingWord__ . Es un acuerdo con el ////__Convenio de Lausanne Covenio.__ //
+//La siguiente declaración de fe esta suscrita a todos las organizaciones miembros y a los contribuidores del proyecto __unfoldingWord__ . Es un acuerdo con el ////__Convenio de Lausanne.__ //
 
 Nosotros creemos que las creencias del cristiano pueden y deben dividirse en **creencias esenciales** y **creencias periféricas.**
 ==== Creencias esenciales ====
@@ -25,6 +25,6 @@ Creencias esenciales son las que definen un seguidor de Jesucristo y nunca puede
 
 Las creencias periféricas son todo aquello que se encuentra en la Palabra de Dios pero en lo cual sinceros seguidores de Cristo no están de acuerdo (por ejemplo, el bautismo, la Santa Cena, el Rapto, etc. ) Elegimos acordar estar en desacuerdo sobre estos temas de manera cordial y unirnos mas hacia la meta común de hacer discípulos a cada grupo de personas. (Mateo 28:18-20)
 
-//see also: // //[[:en:translation-guidelines|Translation Guidelines]]//
+//see also: //  //[[:en:translation-guidelines|Translation Guidelines]]//
 
 ~~DISCUSSION:off~~
