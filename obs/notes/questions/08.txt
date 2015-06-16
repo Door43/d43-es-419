@@ -1,52 +1,35 @@
-====== Story #8: God Saves Joseph and His Family:Dieu sauve Joseph et sa famille ======
+====== Historia #8: Dios salva a José y a su familia ======
 
-===== Comprehension Questions and Answers Questions de comprehenson et Reponses =====
+===== Preguntas Comprensivas y Respuestas =====
 
-  - **Why did Joseph's brothers hate him?**
-  - **Pourquoi les freres de Joseph l'ont hai**
-      * //Because Joseph was Jacob's favorite son, and because Joseph had dreamed he would be their ruler. [08-02]//
-      * **Par ce que Joseph etait le fils favori de Jacob, et par ce que Joseph  avait reve qu'il devait etre leur chef d'Etat**
-  - **What evil thing did Joseph's brothers do to him?**
-  - **Quelle est la mauvaise chose que les freres de Joseph lui ont faite**
-      * //They kidnapped him and sold him to some slave traders. [08-02]//
-      * ** Ils l'ont kipnappe et l'ont vendu aux traficants d'esclaves**
-  - **How did Joseph's brothers explain his disappearance to ****Jacob**
-  - **Comment les freres de Joseph ont explique leur desappointement par rapport  a Jacob**
-      * //They put goat's blood on Joseph's robe so that Jacob would think a wild animal had killed him. [08-03]//
-      * **//Ils mettaient  le sang  de mouton sur la robe de Joseph, ainsi, Jacob penserait qu;un animal sauvage qui l'avait tue// **
-  - **Did God abandon Joseph in Egypt?**
-  - **Est ce que Dieu avait-il  abandonne  Joseph en Egypte**
-      * //No. In everything Joseph did, God blessed him. [08-04]//
-      * **Non dans tout ce que Joseph avait fait, Dieu l'avait beni**
-  - **Why was Joseph sent to prison in Egypt?**
-      * //Joseph refused to sleep with his master's wife, so she falsely accused him. [08-05]//
-  - **What ability had God given Joseph?**
-  -
-
-**Quelle capacite DIEU avait-il  donnee****a Joseph**
-  - //The ability to interpret dreams. [08-07] La capacite d'interpreter les reves//
-  - **What was the meaning of Pharaoh's dream? Quel a ete la signification du reve de Pharaon**
-      * //God was going to send seven years of plentiful harvests, followed by seven years of famine. [08-07]//
-      * **Dieu etait entrain d'envoyer  sept ans de pleine secheresse qui seraient suivis de sept ans de famine**
-  - **How did Pharaoh reward Joseph after Joseph interpreted his dream?**
-  - **Comment Joseph a ete recompense par Pharaon  apres l'interpretation de son reve**
-      * //He made Joseph the second most powerful man in Egypt. [08-08]//
-      * //Il faiait de Joseph  le second homme le plus puissant d'Egypte//
-  - **How did Joseph prepare for the famine?:**
-  - **Comment Joseph se preparait-il pour la famine**
-  - //Joseph told the Egyptians to store up large amounts of food during the seven good years, and then he sold the food to the people during the seven years of famine. [08-09] //
-  - **//Joseph avait dit aux egyptiens de stocker de la nourriture durant les sept annees de  famine aisni il achete de la nourriture au peuple durant  les sept annees de famines// **
-  - **Why did Joseph's brothers come to Egypt?** C** Pourquoi les freres de Joseph etaient -ils  venus en Egypte**
-      * //They came to buy food, because the famine was severe in Canaan also. [08-11]Ils etaitent venus acheter de la nourriture, parce que avait ete sere en Canaam aussi//
-  - **Before Joseph told his brothers who he was, why did he test them? Avant Joseph disait a ses freres, qui il etait, et pourquoi, il les avait testes**
-      * //He tested them to see if they had changed. [08-12]//
-      * //Il les avait  testes pour savoir s'ils avaient  change//
-  - **How did God cause good to come from Joseph's brothers selling him as a slave?**
-      * //Joseph became a powerful ruler in Egypt, and God used him to provide food for his family and many other people during the famine. [08-12]//
-  - **What did Jacob do after he found out that Joseph was alive?**
-      * //He moved his whole family to Egypt. [08-14]//
-  - **After Jacob died, who received the promises that God gave to Abraham?**
-      * //The twelve sons of Jacob. [08-15]//
-  - **What did the descendants of the twelve sons of Jacob become?**
-      * //The twelve tribes of Israel. [08-15]//
-**[[:es-419:obs:notes:questions:07|<< ]] | [[:es-419:obs:notes:questions:09| >>]]**
+  - **¿Por qué los hermanos de José lo odiaban? **
+      * //Porque José era el hijo favorito de Jacob y porque José había soñado que él los gobernaría. [08-02]//
+  - **¿Qué maldad hicieron los hermanos de José a éste?  **
+      * //Ellos lo secuestraron y lo vendieron a unos mercaderes de esclavos. [08-02]//
+  - **¿Cómo los hermanos de José explicaron su desaparición a Jacob?**
+      * //Ellos pusieron sangre de cabra sobre la túnica de José para que Jacob pensara que algún animal salvaje lo había matado. [08-03]//
+  - **¿Abandonó dios a José en Egipto?  **
+      * //No. En todo lo que José hacia, Dios le bendecía. [08-04]//
+  - **¿Por qué fue José enviado a prisión en Egipto?  **
+      * //José se rehusó a acostarse con la esposa de su señor y fue falsamente acusado por ella. [08-05]//
+  - **¿Qué habilidad le dio Dios a José?  **
+      * //La habilidad de interpretar sueños. [08-07]//
+  - **¿Cuál era el significado del sueño del faraón?  **
+      * //Dios iba a enviar siete años de cosechas abundantes, seguido de siete años de hambrunas. [08-07]//
+  - **¿Cómo faraón recompenso a José luego de que José le interpretara los sueños?  **
+      * //El hizo de José el segundo hombre mas poderoso en Egipto [08-08]//
+  - **¿Cómo José se preparo para la hambruna?  **
+      * //José le dijo a los Egipcios que almacenaran grandes cantidades de alimento durante los siete años buenos, y les dijo que el les vendería la comida durante los siete años de hambruna. [08-09]//
+  - **¿Por qué los hermanos de José vinieron a Egipto?  **
+      * //Ellos vinieron a comprar comida, porque la hambruna era muy severa también en Canaán. [08-11]//
+  - **Antes de que José les dijera a sus hermanos quien era él, ¿qué prueba les hizo? **
+      * //El los probó para ver si habían cambiado. [08-12]//
+  - **¿Cómo Dios provocó que un bien surgiera de la venta que hicieron los hermanos de José al venderlo como esclavo?**
+      * //José se convirtió en un poderoso gobernante en Egipto, y Dios lo uso para proveer alimento a su familia y a muchas otras personas durante la hambruna. [08-12]//
+  - **¿Qué hizo Jacob luego de encontrar que su hijo José estaba vivo?  **
+      * //El mudó a toda su familia a Egipto. [08-14]//
+  - **Luego de que murió Jacob, ¿quién recibió las promesas que Dios le dio a Abraham?  **
+      * //Los doce hijos de Jacob. [08-15]//
+  - **¿En que se convirtieron los descendientes de los doce hijos de Jacob?  **
+      * //En las doce tribus de Israel. [08-15]//
+**[[:es-419:obs:notes:questions:09|[[https://door43.org/en/obs/notes/questions/07|<< ]]| [[https://door43.org/en/obs/notes/questions/09|>>]]**]]**
