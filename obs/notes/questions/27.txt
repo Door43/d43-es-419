@@ -1,33 +1,31 @@
-====== Story #27: The Story of the Good Samaritan ======
+====== Historia #27: La Historia del Buen Samaritano  ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuetas  =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
-
-
-**[[es-419/obs/notes/questions/26|<< ]] | [[es-419/obs/notes/questions/28| >>]]**
+  - **¿Qué preguntas el experto en la ley judía le hizo a Jesús?  **
+      * //“Maestro, ¿que debo hacer para heredar la vida eterna?” [27-01]//
+  - **¿Qué pregunta le hizo Jesús en respuesta a la pregunta del experto? **
+      * //Elle pregunto, “¿qué dice la Palabra de Dios?” [27-01]//
+  - **¿A quien dice la Palabra de Dios que debemos amar? **
+      * //Al Señor nuestro Dios y a nuestro prójimo. [27-02]//
+  - **¿Por qué el experto en la ley judía pregunto quien era su prójimo?  **
+      * //Porque el quería probar que el era justo [27-03]//
+  - **En la historia de Jesús, ¿qué paso al hombre judío mientras estaba viajando?  **
+      * //El fue atacado por los ladrones, quienes tomaron todo lo que él tenia, lo golpearon hasta dejarlo casi muerto. [27-05]//
+  - **¿Quién fue la primera persona que vio al hombre herido? **
+      * //Un sacerdote judío. [27-06]//
+  - **¿Qué hizo el sacerdote cuando vio el hombre herido?  **
+      * //El lo ignoro y paso por el otro lado del camino. [27-06]//
+  - **¿Quién fue la segunda persona que vio al hombre herido?  **
+      * //Un levita. [27-07]//
+  - **¿Qué hizo el levita cuando vio al hombre herido?  **
+      * //El lo ignoro y paso por el otro lado del camino. [27-07]//
+  - **¿Quién fue la tercera persona que vio al hombre herido?  **
+      * //Un samaritano. [27-08]//
+  - **¿Cómo era la relación entre los judíos y los samaritanos?  **
+      * //Ellos se odiaban unos a los otros. [27-08]//
+  - **¿Cómo el samaritano ayudo al hombre herido?  **
+      * //El vendó sus heridas, lo llevo a un mesón y tuvo cuidado de el. [27-09], [27-10]//
+  - **¿Cuál de los tres hombres actuó como un verdadero prójimo con el hombre herido?  **
+      * //El samaritano que tuvo misericordia de el. [27-11]//
+**[[:es-419:obs:notes:questions:26|<< ]] | [[:es-419:obs:notes:questions:28| >>]]**
