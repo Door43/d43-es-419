@@ -1,33 +1,31 @@
-====== Story #32: Jesus Heals a Demon-Possessed Man and a Sick Woman ======
+====== Historia #32: Jesús Sana a un Endemoniado y a una Mujer Enferma   ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Repuestas  =====
 
-  - **What happened when Jesus arrived where the Gerasene people lived?**
-    *//A demon-possessed man came running up to Jesus. [32-02]//
-  - **What did the demon cause the man to do?**
-    *//The demon made him break chains, live among the tombs, scream all day and night, not wear clothes, and cut himself with stones. [32-03], [32-04]//
-  - **What was the demon’s name?**
-    *//His name was Legion. [32-06]//
-  - **What did the name "Legion" mean?**
-    *//It meant that there were many demons in the man. [32-06]//
-  - **Where did the demons beg Jesus to send them when they left the man?**
-    *//They asked to go into a herd of about 2,000 pigs. [32-07], [32-08]//
-  - **What happened to the pigs when the demons entered them?**
-    *//They ran down a steep bank into the lake and drowned. [32-08]//
-  - **How did the man behave after the demons left him?**
-    *//He sat calmly, wore clothes, and acted like a normal person. [32-09]//
-  - **How did the people react to the healed man and the dead pigs?**
-    *//They were afraid and asked Jesus to leave them. [32-10]//
-  - **What did Jesus tell the healed man to do instead of going with Jesus?**
-    *//Jesus told him to go home and tell his friends and family about everything God had done for him. [32-11]//
-  - **Why did the woman with the bleeding problem come to Jesus?**
-    *//She thought that if she touched Jesus’ clothes, she would be healed. [32-14]//
-  - **What happened as soon as the woman touched Jesus' clothes?**
-    *//Her bleeding stopped. [32-14]//
-  - **How did Jesus know someone had touched him?**
-    *//He realized that power had gone out from him. [32-15]//
-  - **What did Jesus say to the woman when she fell down before him?**
-    *//“Your faith has healed you. Go in peace.” [32-16]//
-
-
-**[[es-419/obs/notes/questions/31|<< ]] | [[es-419/obs/notes/questions/33| >>]]**
+  - **¿Qué sucedió cuando Jesús llego donde vivían la gente de Gadara?  **
+      * //Un hombre endemoniado vino corriendo a Jesús. [32-02]//
+  - **¿Qué era lo que el demonio causaba que el hombre hiciera?  **
+      * //El demonio hacia que el hombre rompiera cadenas, viviera entre las tumbas, gritara de día y de noche, no se pusiera ropa y se cortara así mismo con piedras. [32-03], [32-04]//
+  - **¿Cuál era el nombre del demonio?  **
+      * //Su nombre era Legión. [32-06]//
+  - **¿Qué significaba el nombre de “Legión”?**
+      * //Significaba que eran varios los demonios en aquel hombre [32-06]//
+  - **¿A dónde rogaron los demonios que Jesús les enviara cuando ellos salieran de aquel hombre?  **
+      * //Ellos le pidieron que los dejara ir a una manada de cerdos, como 2,000 cerdos. [32-07], [32-08]//
+  - **¿Qué sucedió con los cerdos cuando los demonios entraron en ellos?  **
+      * //Ellos corrieron hacia un despeñadero hacia el lago y se ahogaron. [32-08]//
+  - **¿Cómo se comportaba el hombre después de que los demonios le dejaron?  **
+      * //EL se sentó calmadamente, se puso ropa y actuaba como una persona normal. [32-09]//
+  - **¿Cómo la gente reacciono ante el hombre sanado y los cerdos muertos?  **
+      * //Ellos tuvieron miedo y le pidieron a Jesús que los dejara. [32-10]//
+  - **¿Qué le dijo Jesús al hombre sanado hiciera en lugar de seguir detrás de Jesús?  **
+      * //Jesús le dijo que se fuera a su casa y que le dijera a sus amigos y familias todo lo que Dios había hecho con el. [32-11]//
+  - **¿Por qué la mujer con problemas de sangrado vino a Jesús?  **
+      * //Ella pensó que si tan solo tocaba la ropa de Jesús, ella iba a ser sanada. [32-14]//
+  - **¿Qué sucedió tan pronto la mujer toco la ropa de Jesús?  **
+      * //SU sangrado se detuvo. [32-14]//
+  - **¿Cómo Jesús supo que alguien lo había tocado?  **
+      * //El se dio cuenta de que poder había salido de El. [32-15]//
+  - **¿Qué le dijo Jesús a la mujer cuando ella se inclino delante de el?  **
+      * //“Tu fe te ha sanado.  Ve en Paz.” [32-16]//
+**[[:es-419:obs:notes:questions:31|<< ]] | [[:es-419:obs:notes:questions:33| >>]]**
