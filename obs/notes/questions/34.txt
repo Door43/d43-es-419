@@ -1,32 +1,29 @@
-====== Story #34: Jesus Teaches Other Stories ======
+====== Historia #34: Jesús Enseña Otras Historias ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas  =====
 
-
-  - **How does a mustard seed compare to other seeds?**
-    *//It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-    *//It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-    *//It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-    *//He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-    *//He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-    *//People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-    *//He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-    *//He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-    *//He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-    *//The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-    *//He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-    *//He will lift them up. [34-10]//
-
-
-**[[es-419/obs/notes/questions/33|<< ]] | [[es-419/obs/notes/questions/35| >>]]**
+  - **¿Cómo se compara la semilla de mostaza con otras semillas? **
+      * //Como la semilla mas pequeña de todas. [34-01]//
+  - **¿Qué sucede cuando una semilla de mostaza crece?  **
+      * //Se convierte en la planta mas grande de todas en el jardín. [34-02]//
+  - **¿Qué sucede con la levadura cuando se mezcla la masa de pan?  **
+      * //Se mezcla con toda la harina. [34-03]//
+  - **¿Qué fue lo que hizo el hombre luego que encontró un tesoro que estaba oculto en el campo?  **
+      * //El vendió todo lo que tenia y uso el dinero para comprarlo. [34-04]//
+  - **¿Qué fue lo que hizo el comerciante de perlas cuando encontró la perla perfecta?  **
+      * //El vendió todo lo que tenía y uso el dinero para comparla. [34-05]//
+  - **¿A quien Jesus estaba diciendo la historia de los dos hombres que oraban en el Templo?  **
+      * //A las personas que confiaban en sus posesiones y despreciaban a otras personas. [34-06]//
+  - **¿Por qué el líder religioso daba gracias a Dios?  **
+      * //El daba gracias a Dios porque no era un pecador como el otro hombre. [34-07]//
+  - **¿Por qué el líder religioso creía que el era justo?  **
+      * //El ayunaba dos veces por semana y daba el diez porciento de su dinero y bienes. [34-08]//
+  - **¿Qué era lo que el recogedor de impuestos le pedia a Dios?  **
+      * //El le pedia a Dios misericordia porque el era un pecador. [34-09]//
+  - **¿A cual hombre Dios declaró justo?  **
+      * //Al cobrador de impuestos. [34-10]//
+  - **¿Qué hace Dios con todo aquellos que son orgullosos?  **
+      * //El los humilla. [34-01]//
+  - **¿Qué hace Dios con todo aquel que se humilla?  **
+      * //El los exalta. [34-10]//
+**[[:es-419:obs:notes:questions:33|<< ]] | [[:es-419:obs:notes:questions:35| >>]]**
