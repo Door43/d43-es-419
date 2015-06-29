@@ -1,34 +1,31 @@
-====== Story #37: Jesus Raises Lazarus from the Dead ======
+====== Historia #37: Jesús Resucita a Lázaro ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-
-  - **What did Jesus say would be the end result of Lazarus’ sickness?**
-    *//It would be for the glory of God. [37-01]//
-  - **What did Jesus do after he heard about Lazarus’ sickness?**
-    *//He waited where he was for two more days. [37-01]//
-  - **Why were the disciples concerned when Jesus decided to go to Judea?**
-    *//Because the people there wanted to kill him. [37-02]//
-  - **What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?**
-    *//They thought he was just asleep and would get better. [37-03]//
-  - **What did Jesus plainly tell the disciples about Lazarus?**
-    *//Jesus said that Lazarus had died. [37-03]//
-  - **Why was Jesus glad that he was not there when Lazarus died?**
-    *//Because something would happen that would make the disciples believe in Jesus. [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-    *//Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-    *//Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-    *//The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-    *//He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-    *//He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-    *//He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-    *//They became jealous and planned to kill Jesus and Lazarus. [37-11]//
-
-
-**[[es-419/obs/notes/questions/36|<< ]] | [[es-419/obs/notes/questions/38| >>]]**
+  - **¿Qué dijo Jesús que seria el resultado final de la enfermedad de Lázaro?  **
+      * //Que seria para la gloria de Dios. [37-01]//
+  - **¿Qué fue lo que Jesús hizo después de escuchar sobre la enfermedad de Lázaro?  **
+      * //El espero donde él estaba por dos días mas. [37-01]//
+  - **¿Por qué los discípulos estaban preocupados por la decisión de Jesús de ir a Judea?  **
+      * //Porque la gente de allí lo querían matar. [37-02]//
+  - **¿Qué fue lo que los discípulos pensaron que Jesús quiso decir cuando dijo que Lázaro se había quedado dormido**
+      * //Ellos pensaron que solo se había quedado dormido y que se pondría mejor. [37-03]//
+  - **¿Qué fue lo que Jesús claramente les dijo a sus discípulos sobre Lázaro? **
+      * //Jesús les dijo que Lázaro se había muerto. [37-03]//
+  - **¿Por qué Jesús estaba contento de no haber estado cuando Lázaro murió?**
+      * //Porque algo iba a suceder que haría que los discípulos creyeran en Jesús. [37-03]//
+  - **¿Creía Marta que Jesús podía sanar a Lázaro?  **
+      * //Si. [37-04]//
+  - **¿Qué le pasará a los creyentes porque Jesús es la Resurrección y la Vida?  **
+      * //Cualquiera que crea en Él vivirá, a pesar de que muera, y cualquiera que crea en Él no morirá jamás. [37-05]//
+  - **¿Quién Marta creía que era Jesús?  **
+      * //El Mesías, el Hijo de Dios. [37-05]//
+  - **¿Por cuánto tiempo Lázaro estuvo muerto?  **
+      * //El estuvo muerto por cuatro días. [37-04], [37-07]//
+  - **¿Por qué Jesús dio gracias al Padre en voz alta? **
+      * //El hizo esto para que la gente creyera que el Padre le había enviado. 37-09]//
+  - **¿Qué fue lo que Jesús le ordeno a Lázaro que hiciera?  **
+      * //¡El le ordenó a Lázaro que viniera fuera de la! [37-09]//
+  - **¿Cómo los lideres religiosos de los judíos reaccionaron cuando ellos vieron el milagro?   **
+      * //Ellos se volvieron celosos y planearon matar a Jesús y a Lázaro. [37-11]//
+**[[:es-419:obs:notes:questions:36|<< ]] | [[:es-419:obs:notes:questions:38| >>]]**
