@@ -1,40 +1,37 @@
-====== Story #39: Jesus Is Put on Trial ======
+====== Historia #39: Jesús es Llevado a Juicio  ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-
-  - **What time of the day was it when the Jewish leaders began to question Jesus?**
-    *//It was the middle of the night. [39-01]//
-  - **Why could the Jewish leaders not prove Jesus was guilty of anything?**
-    *//The statements of the false witnesses did not agree with each other. [39-02]//
-  - **What question did the high priest finally ask Jesus?**
-    *//“Tell us, are you the Messiah, the Son of the living God?” [39-03]//
-  - **What answer did Jesus give to the high priest?**
-    *//“I am, and you will see me seated with God and coming from heaven.” [39-04]//
-  - **What was the crime that the high priest said that Jesus had committed?**
-    *//Jesus said he was the Son of God. [39-04]//
-  - **Where was Peter during Jesus' trial?**
-    *//Peter was waiting outside the house of the high priest. [39-06]//
-  - **Why did the people think that Peter had been with Jesus?**
-    *//Peter and Jesus were both from Galilee. [39-06]//
-  - **What did Peter say when the people asked if he knew Jesus ?**
-    *//Peter denied three times that he knew Jesus. [39-07]//
-  - **What happened immediately after Peter denied Jesus the third time?**
-    *//A rooster crowed, and Jesus turned and looked at Peter. [39-07]//
-  - **What did Judas do when he saw that the Jewish leaders had condemned Jesus?**
-    *//Judas became full of sorrow and went away and killed himself. [39-08]//
-  - **Why did the Jewish leaders take Jesus to the Roman governor Pilate?**
-    *//They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
-  - **What was the first question that Pilate asked Jesus?**
-    *//“Are you the king of the Jews?” [39-09]//
-  - **What did Jesus say was the reason he came to earth?**
-    *//To tell the truth about God. [39-10]//
-  - **How many times did Pilate say to the crowd that Jesus was not guilty?**
-    *//Three times. [39-11]//
-  - **Why then did Pilate allow Jesus to be crucified?**
-    *//Pilate became afraid that the crowd would begin to riot. [39-12]//
-  - **How did the Roman soldiers treat Jesus?**
-    *//They whipped Jesus, put a royal robe and a crown of thorns on him, and mocked him. [39-12]//
-
-
-**[[es-419/obs/notes/questions/38|<< ]] | [[es-419/obs/notes/questions/40| >>]]**
+  - **¿Qué hora del día era cuando los lideres judíos comenzaron a interrogar a Jesús?  **
+      * //Era la media noche.. [39-01]//
+  - **¿Por qué los lideres judíos no pudieron probar que Jesús era culpable de algo?  **
+      * //Porque las declaraciones de los falsos testigos no coincidían entre ellos [39-02]//
+  - **¿Cuál fue la pregunta que finalmente hizo el sumo sacerdote a Jesús?  **
+      * //“¿Dinos, eres tu el Mesías, el Hijo del Dios viviente?” [39-03]//
+  - **¿Cuál fue la respuesta que Jesús le dio al sumo sacerdote?  **
+      * //“Yo soy, y me veras sentado con Dios y viniendo del cielo.” [39-04]//
+  - **¿Cuál fue el crimen que el sumo sacerdote decía que Jesús había cometido?  **
+      * //Que Jesús decía ser el Hijo de Dios. [39-04]//
+  - **¿Dónde estaba Pedro durante el juicio de Jesús?   **
+      * //Pedro estaba esperando afuera de la casa del sumo sacerdote. [39-06]//
+  - **¿Por qué la gente pensaba que Pedro estaba también con Jesús?  **
+      * //Porque Pedro y Jesús ambos eran de Galilea. [39-06]//
+  - **¿Qué fue lo que hizo Pedro cuando la gente le pregunto si el conocía a Jesús?  **
+      * //Pedro negó tres veces que conocía a Jesús. [39-07]//
+  - **¿Qué paso inmediatamente después que Pedro negó a Jesús por tercera vez?  **
+      * //Un gallo canto y Jesús se volteo y miro a Pedro. [39-07]//
+  - **¿Qué fue lo que hizo Judas cuando vio que los lideres judíos habían condenado a Jesús?  **
+      * //Judas se lleno de dolor y se fue y se suicido. [39-08]//
+  - **¿Por qué los lideres judíos llevaron a Jesús al gobernador romano Pilato?  **
+      * //Ellos tenían la esperanza de que Pilato condenara a Jesús y lo sentenciaran a la muerte. [39-09]//
+  - **¿Cuál fue la primera pregunta que le hizo Pilato a Jesús?  **
+      * //“¿Eres tu el Rey de los Judíos?” [39-09]//
+  - **¿Cuál fue la razón que dijo Jesús para lo cual Él vino a esta tierra?  **
+      * //Para decir la verdad acerca de Dios. [39-10]//
+  - **¿Cuántas veces le dijo a Pilato que Jesús no era culpable?  **
+      * //Tres veces. [39-11]//
+  - **¿Por qué entonces Pilato permitió que Jesús fuera crucificado?  **
+      * //Pilato tuvo miedo de que la multitud comenzara un disturbio. [39-12]//
+  - **¿Cómo los soldados romanos trataron a Jesús? **
+      * //Ellos azotaron a Jesús, le pusieron una túnica real y una corona de espinas y se burlaban de él. [39-12]//
+**[[:es-419:obs:notes:questions:38|<< ]] | [[:es-419:obs:notes:questions:40| >>]]**
