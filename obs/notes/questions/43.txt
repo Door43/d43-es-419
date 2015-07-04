@@ -1,36 +1,33 @@
-====== Story #43: The Church Begins ======
+====== Historia #43: Comienza la Iglesia  ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas  =====
 
-
-  - **What were the disciples doing while they waited in Jerusalem?**
-    *//They gathered together constantly to pray. [43-01]//
-  - **When did the Jews celebrate Pentecost?**
-    *//They celebrated every year, 50 days after the Passover. [43-02]//
-  - **What happened to the believers during the Pentecost after Jesus rose from the dead?**
-    *//There was a sound like a strong wind, something like flames of fire appeared over their heads, and they were filled with the Holy Spirit and began to speak in other languages. [43-02]//
-  - **Why were the people in the crowd astonished?**
-    *//They heard the disciples speaking in the native languages of the people in the crowd. [43-04]//
-  - **What did some of the people think was the reason the disciples were talking this way?**
-    *//They accused the disciples of being drunk. [43-05]//
-  - **What did Peter say was causing them to speak these languages?**
-    *//Peter said God was pouring out his Spirit. [43-05]//
-  - **Who did Peter say was responsible for crucifying Jesus?**
-    *//The people in the crowd. [43-06], [43-09]//
-  - **How did Peter say Jesus became alive again?**
-    *//God raised him from the dead. [43-07]//
-  - **What caused the disciples to be able to speak in other languages?**
-    *//The Holy Spirit caused them to be able to speak in other languages. [43-08]//
-  - **What were the two things that Peter said God caused Jesus to become?**
-    *//Lord and Messiah. [43-09]//
-  - **How did the people respond to Peter's message?**
-    *//They were deeply moved and asked, “Brothers, what should we do?” [43-10]//
-  - **What did Peter tell the people to do?**
-    *//He told them to repent and be baptized in the name of Jesus Christ so that God will forgive their sins. [43-11]//
-  - **How many people believed and were baptized that day?**
-    *//About 3000. [43-12]//
-  - **What did the disciples spend their time doing?**
-    *//Listening to the teaching of the apostles, spending time together, eating together, praying with each other, praising God together, and sharing everything. [43-13]//
-
-
-**[[es-419/obs/notes/questions/42|<< ]] | [[es-419/obs/notes/questions/44| >>]]**
+  - **¿Qué estaban los discípulos haciendo mientras esperaban en Jerusalen?  **
+      * //Se reunian constantemente para orar. [43-01]//
+  - **¿Cuándo los judíos celebraban Pentecostés? **
+      * //Ellos celebraban todos los años, 50 días luego de la Pascua. [43-02]//
+  - **¿Qué paso con los creyentes durante Pentecostes después que Jesus se levantó de los muertos?  **
+      * //Hubo un gran sonido como un viento fuerte, algo como llamas de fuego aparecieron sobre sus cabezas y ellos fueron llenos del Espiritu Santo y comenzaron ha hablar en otras lenguas. [43-02]//
+  - **¿Por qué la gente en la multitud se quedaron asombrados?  **
+      * //Ellos escucharon a los discípulos hablar en las lenguas nativas de la gente en la multitud. [43-04]//
+  - **¿Cuál fue la razón que algunas personas pensaron por la cual los discípulos estaban hablando de esa manera?  **
+      * //Ellos acusaron a los discípulos de estar borrachos. [43-05]//
+  - **¿Qué fue lo que Pedro les dijo que era la causa por la cual hablaban en esas lenguas?**
+      * //Pedro les dijo que Dios les había derramado el Espiritu Santo. [43-05]//
+  - **¿Quién dijo Pedro era responsable por la crucificion de Jesus?  **
+      * //La gente en la multitud. [43-06], [43-09]//
+  - **¿Cómo dijo Pedro que Jesus volvió a la vida?  **
+      * //Dios lo levanto de los muertos. [43-07]//
+  - **¿Qué ocasionó que los discípulos fueran capaces de hablar en otras lenguas?  **
+      * //El Espiritu Santo ocasionó que ellos fueran capaces de hablar en otras lenguas. [43-08]//
+  - **¿Cuáles fueron las dos cosas que dijo Pedro en que Dios convirtió a Jesus? **
+      * //Señor y Mesías. [43-09]//
+  - **¿Cómo la gente respondio al mensaje de Pedro?**
+      * //Ellos fueron profundamente movidos, y preguntaron, “Hermanos, ¿que debemos hacer?” [43-10]//
+  - **¿Qué fue lo que Pedro le dijo a la gente que hicieran? **
+      * //El les dijo que se arrepintieran y se bautizaran en el nombre de Jesucristo para que Dios les perdonara sus pecados. [43-11]//
+  - **¿Cuántas personas creyeron y fueron bautizadas ese dia?  **
+      * //Como 3000. [43-12]//
+  - **¿Que hacían los discípulos para invertir su tiempo? **
+      * //Escuchar las enseñanzas de los apóstoles, pasando tiempo juntos, comiendo juntos, orando los unos con los otros, alabando a Dios juntos y todo lo compartían. [43-13]//
+**[[:es-419:obs:notes:questions:42|<< ]] | [[:es-419:obs:notes:questions:44| >>]]**
