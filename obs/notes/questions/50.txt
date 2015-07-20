@@ -1,36 +1,33 @@
-====== Story #50: Jesus Returns ======
+====== Historia #50: Jesús Regresa ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-
-  - **During the last 2000 years, what has happened to the number of people who believe in Jesus?**
-    *//The number has been increasing. [50-01]//
-  - **How does God want us to live as we wait for Jesus to return?**
-    *//He wants us to live in a way that is holy and that honors him. [50-02]//
-  - **What did Jesus say would happen before the end of the world comes?**
-    *//His disciples would preach the good news of the kingdom of God to people everywhere in the world. [50-02]//
-  - **How will the world that hated Jesus treat his disciples?**
-    *//The world will cause his disciples to suffer also. [50-04]//
-  - **What is God’s promise to those who remain faithful to the end?**
-    *//He promises to save them. [50-04]//
-  - **In Jesus’ story about the end of the world, how did the weeds come to be among the wheat?**
-    *//An enemy planted them. [50-05], [50-06]//
-  - **Why didn't the servants pull out the weeds?**
-    *//They did not want to accidentally pull out the wheat. [50-07]//
-  - **What does the good seed represent?**
-    *//The good seed represents the people of God's kingdom. [50-08]//
-  - **What does the harvest represent?**
-    *//The harvest represents the end of the world, when God’s angels will gather up the people who belong to the devil. [50-09], [50-10]//
-  - **What will happen to the people who belong to the devil at the end of the world?**
-    *//They will be thrown into a raging fire, where they will suffer terribly. [50-10]//
-  - **In what form will Jesus return to the earth?**
-    *//He will return the way that he left, with a physical body and on the clouds of the sky. [50-11]//
-  - **What will happen to all Christians when Jesus returns?**
-    *//Those who are alive will rise to meet him, and those who are dead will also rise to meet him in the sky. [50-12]//
-  - **What will Jesus do to Satan when he returns?**
-    *//Jesus will throw Satan into hell where he will burn forever. [50-15]//
-  - **What will life be like in the new heaven and new earth?**
-    *//Jesus will reign forever with peace and justice, and there will be no more suffering. [50-17]//
-
-
-**[[es-419/obs/notes/questions/49|<< ]]**
+  - **Durante los últimos 2000 años, ¿qué ha pasado con el número de personas que creen en Jesús?  **
+      * //El número ha crecido. [50-01]//
+  - **¿Cómo Dios quiere que nosotros vivamos mientras esperamos el regreso de Jesús?  **
+      * //El quiere que vivamos de una manera santa y que le honremos a Él. [50-02]//
+  - **¿Qué fue lo que Jesús dijo que sucedería antes de que el fin del mundo llegara?  **
+      * //Sus discípulos predicarían las Buenas Nuevas del Reino de Dios a toda persona en todo lugar en el mundo. [50-02]//
+  - **¿Cómo el mundo que odiaba a Jesús trata a sus discípulos?  **
+      * //El mundo causaría sufrimiento también a sus discípulos. [50-04]//
+  - **¿Cuál es la promesa de Dios para aquellos que permanezcan fieles hasta el final?  **
+      * //El prometio que los salvaría. [50-04]//
+  - **En la historia de Jesús sobre el fin del mundo, ¿cómo la cizaña vino a crecer en medio del trigo?  **
+      * //El enemigo la sembró en medio de el. [50-05], [50-06]//
+  - **¿Por qué los siervos no arrancaron la cizaña?  **
+      * //Porque ellos no querían accidentalmente arrancar el trigo. [50-07]//
+  - **¿Qué es lo que representa la buena semilla?  **
+      * //La buena semilla representa las personas del Reino de Dios. [50-08]//
+  - **¿Qué es lo que la cosecha representa?  **
+      * //La cosecha representa el fin del mundo, cuando los angeles de Dios reunirán a las personas que pertenecen al diablo. [50-09], [50-10]//
+  - **¿Qué pasará con las personas que pertenecen al diablo en el fin del mundo?  **
+      * //Ellos serán arrojados en un voraz fuego, donde sufrirán terriblemente. [50-10]//
+  - **¿En que forma regresará Jesús a la tierra?  **
+      * //Él regresará de la misma forma en que se fue, con un cuerpo físico sobre las nubes del cielo. [50-11]//
+  - **¿Qué pasará con los todos los cristianos cuando Jesús regrese?  **
+      * //Aquellos que estén vivos se levantarán para encontrarse con Él, y aquellos que estén muertos también se levantarán para encontrarse con Él en el cielo. [50-12]//
+  - **¿Qué hará Jesús con Satanás cuando regrese?  **
+      * //Jesús arrojará a Satanás al infierno donde él se quemará por siempre. [50-15]//
+  - **¿Cómo será la vida en el nuevo cielo y la tierra nueva?  **
+      * //Jesús reinará por siempre con paz y justicia y no habrá más sufrimiento. [50-17]//
+**[[:es-419:obs:notes:questions:49|<< ]]**
