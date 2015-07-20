@@ -1,34 +1,31 @@
-====== Story #47: Paul and Silas in Philippi ======
+====== Historia #47: Pablo y Silas en Filipo ======
 
-===== Comprehension Questions and Answers =====
+===== Preguntas Comprensivas y Respuestas =====
 
-
-  - **What was the Roman name that Saul began to use?**
-    *//Paul. [47-01]//
-  - **Where did Paul go in Philippi to proclaim the good news about Jesus?**
-    *//They went to a place by the river outside the city where people gathered to pray. [47-01]//
-  - **What made it possible for Lydia to believe in Jesus?**
-    *//God made it possible for Lydia to understand the message about Jesus. [47-02]//
-  - **What did Paul and Silas do to Lydia after she believed?**
-    *//They baptized Lydia and her family. [47-02]//
-  - **What did the demon-possessed slave girl keep yelling when she saw Paul and Silas?**
-    *//“These men are servants of the Most High God. They are telling you the way to be saved!” [47-04]//
-  - **How did Paul respond to the demon's testimony?**
-    *//Paul became annoyed and commanded the demon to leave the slave girl. [47-04], [47-05]//
-  - **Why were the owners of the slave girl angry that the demon was gone?**
-    *//They realized that people would no longer pay money for her to tell people the future. [47-06]//
-  - **What were Paul and Silas doing in the middle of the night in jail?**
-    *//They were singing songs of praise to God. [47-08]//
-  - **What happened while Paul and Silas were singing?**
-    *//There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off. [47-09]//
-  - **Why was the jailer terrified?**
-    *//He thought all the prisoners had escaped, and that the Roman authorities would kill him. [47-10]//
-  - **What question did the jailer ask Paul?**
-    *//“What must I do to be saved?” [47-11]//
-  - **What did Paul say the jailer had to do in order to be saved?**
-    *//He had to believe in Jesus, the Master. [47-11]//
-  - **What happened to some of the letters Paul and other Christian leaders wrote to the believers in the churches?**
-    *//Some of these letters became books of the Bible. [47-14]//
-
-
-**[[es-419/obs/notes/questions/46|<< ]] | [[es-419/obs/notes/questions/48| >>]]**
+  - **¿Cuál fue el nombre romano que Saúl comenzó a utilizar?  **
+      * //Pablo. [47-01]//
+  - **¿A dónde Pablo fue en Filipo para proclamar las buenas nuevas de Jesús?**
+      * //Ellos fueron a un lugar cerca del rio en las afueras de la ciudad donde las personas acostumbraban a orar. [47-01]//
+  - **¿Qué fue lo que hizo posible que Lidia creyera en Jesús?  **
+      * //Dios fue quien hizo posible que Lidia entendiera el mensaje sobre Jesús. [47-02]//
+  - **¿Qué fue lo que hicieron Pablo y Silas con Lidia después que ella creyó?  **
+      * //Ellos bautizaron a Lidia y a su familia. [47-02]//
+  - **¿Qué fue lo que la niña esclava poseída por un demonio gritaba cuando veía a Pablo y a Silas?  **
+      * //“¡Estos hombres son siervos del Dios Altisimo.  Ellos están diciéndoles el camino por el cual se van a salvar!” [47-04]//
+  - **¿Cómo respondio Pablo ante el testimonio del demonio?  **
+      * //Pablo se molestó y ordenó al demonio a dejar la niña esclava. [47-04], [47-05]//
+  - **¿Por qué estaban los dueños de la niña esclava molestos porque el demonio se había ido?  **
+      * //Ellos se dieron cuenta de que la gente ya no pagaban para que ella le dijera a la gente el futuro. [47-06]//
+  - **¿Qué era lo que estaban haciendo Pablo y Silas en el medio de la noche en la cárcel?  **
+      * //Ellos estaban cantando canciones alabando a Dios. [47-08]//
+  - **¿Qué paso mientras Pablo y Silas estaban cantando?**
+      * //Hubo un terremoto violento, las puertas de la prisión se abrieron y las cadenas de los prisioneros se cayeron. [47-09]//
+  - **¿Por qué el carcelero estaba aterrorizado? **
+      * //El pensó que todos los prisioneros se habían escapado, y que las autoridades romanas lo matarían. [47-10]//
+  - **¿Qué pregunta le hizo el carcelero a Pablo?  **
+      * //“¿Qué debo hacer para ser salvo?” [47-11]//
+  - **¿Qué fue lo que le dijo Pablo al carcelero que tenia que hacer para ser salvo?  **
+      * //El tenía que creer en Jesús, el Maestro. [47-11]//
+  - **¿Qué paso con algunas de las cartas que Pablo y los lideres cristianos escribieron a los creyentes de las iglesias?**
+  * //Algunas de estas cartas se convirtieron en libros de la Biblia. [47-14]//
+**[[:es-419:obs:notes:questions:46|<< ]] | [[:es-419:obs:notes:questions:48| >>]]**
