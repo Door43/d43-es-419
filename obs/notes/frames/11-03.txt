@@ -1,6 +1,6 @@
 ===== Blood on the Door [11-03] / Sangre en la Puerta [11-03] =====
 
-/{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?nolink&}}
 
 **God** told the **Israelites** to put some of the **lamb's blood** around the door of their house, and to roast the meat and eat it quickly, along with bread that was **made without yeast**. He also told them to be ready to leave **Egypt when they ate**.
 
