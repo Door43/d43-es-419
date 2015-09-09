@@ -4,7 +4,7 @@
 
 On **the second day** of creation, **God spoke** and **created** the **sky** above the earth. He made the sky by separating the water above from the water below.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el segundo día de la creación, Dios habló y creó el cielo arriba de la tierra. El hizo el cielo al separar el agua arriba del agua abajo</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>En el segundo día de la creación, Dios habló y creó el cielo arriba de la tierra. El hizo el cielo separando el agua de arriba del agua de abajo.</font>
 
 ===== Important Terms: =====
 
