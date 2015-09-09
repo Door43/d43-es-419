@@ -4,12 +4,12 @@
 
 Then **God said**, “**Let the earth produce all kinds** of trees and plants.” And that is what happened. God saw that what he had **created was good**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces Dios dijo, “Deje que la tierra produzca​ toda clase de arboles y plantas.” Y esto fue lo que sucedió. Dios vio que lo que había creado fue bueno.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Entonces Dios dijo, "Dejad que la tierra produzca​ toda clase de árboles y plantas." Y esto fue lo que sucedió. Dios vió que lo que había creado era bueno.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
 ==== Translation Notes: ====
 
   * **God said**  - God created all vegetation by speaking a command.
