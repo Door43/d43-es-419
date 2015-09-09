@@ -4,12 +4,12 @@
 
 On **the fourth day** of creation, **God spoke** and made the sun, the moon, and the stars. **God** made them to give **light** to the earth and to mark **day and night**, **seasons and years**. God saw that what he had **created** was **good**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el cuarto día de la creación, Dios habló y hizo el sol, la luna, y las estrellas. Dios los hizo para dar luz a la tierra y para marcar el día y la noche, las estaciones y los años. Dios vio que lo que había creado fue bueno.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>En el cuarto día de la creación, Dios habló y hizo el sol, la luna, y las estrellas. Dios los hizo para dar luz a la tierra y para marcar el día y la noche, las estaciones y los años. Dios vió que lo que había creado era bueno.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
 ==== Translation Notes: ====
 
   * **the fourth day**  - The next in the orderly series of days in which God created.
