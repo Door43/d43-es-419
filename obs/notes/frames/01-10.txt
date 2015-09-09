@@ -4,18 +4,17 @@
 
 So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
 
-<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.</font>
+<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.</font>
 
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:life|life]] (vida)**
   * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
-
 ==== Translation Notes: ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
-  * **agarró un poco de tierra - Dios hizo al hombre del polvo, o de la tierra seca del piso. Esta palabra puede ser diferente de la palabra general que se usa para tierra.**
+  * **tomó algo de polvo - Dios hizo al hombre del polvo, o de la tierra seca del piso. Esta palabra puede ser diferente de la palabra general que se usa para tierra.**
   * **formed it**  - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
   * **lo formó - Esta palabra expresa que Dios personalmente diseñó al hombre, comparando esto como cuando una persona crea algo con sus manos. Asegúrese que se use una palabra que no sea "crear". Note que esto es muy diferente de como El creó todo lo demás a través de una simple orden verbal.**
   * **a man**  - Only the man was created at this time; the woman was created later by a different method.
