@@ -1,14 +1,14 @@
-===== God Made Man in His Image [01-09]  *B =====
+===== God Made Man in His Image [01-09] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?nolink&}}
 
 Then **God** said, “**Let us** make human beings **in our image** to be **like us**. They will have **authority** over the earth and all the animals.”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Entonces, Dios dijo, “Hagamos a los seres humanos en nuestra imagen para que sean como nosotros. Ellos tendrán autoridad sobre la tierra y todos los animales.”</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Entonces, Dios dijo, "Hagamos al ser humano a nuestra imagen para que sean como nosotros. Ellos tendrán autoridad sobre la tierra y todos los animales."</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
 ==== Translation Notes: ====
 
   * **Let us**  - This indicates God's deliberate, willful decision to create man in a particular way for a particular purpose. You could translate this as, "We will make."
