@@ -4,14 +4,14 @@
 
 The woman answered, “**God** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of good and evil**. God told us, ‘If you eat that fruit or even touch it, **you will die**.’”
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>La mujer le contestó, “Dios nos dijo que podríamos comer de cualquier arbol menos del arbol del conocimiento del bien y mal. Dios nos dijo, 'Que si comemos esta fruta o la tocamos, moriremos.'”</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>La mujer le contestó, "Dios nos dijo que podríamos comer la fruta de cualquier árbol menos del árbol del conocimiento del bien y del mal. Dios nos dijo, "Que si comes esa fruta o aún si la tocas, morirás."</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms:death|die]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
+  * **[[:es-419:obs:notes:key-terms:evil|evil]] (malo)**
+  * **[[:es-419:obs:notes:key-terms:death|die]] (morir)**
 ==== Translation Notes: ====
 
   * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
