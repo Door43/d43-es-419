@@ -4,13 +4,13 @@
 
 **God** said to the snake, “**You are cursed**! You will slide on your belly and eat dirt. You and the woman will **hate each other**, and your children and her children will hate each other, too. The **woman’s descendant** will **crush your head**, and you will **wound his heel."**
 
-Dios dijo a la serpiente, “¡Está maldita! Usted se deslizará sobre su vientre y comerá el polvo. Ud. y la mujer van a odiarse, y sus hijos y los hijos de ella se odiarán también. El decendiente de la mujer aplastará su cabeza, y Ud. herirá su calcañar.”
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Dios dijo a la serpiente, "¡Estás maldita! Te arrastrarás sobre tu vientre y comerás polvo. Tú y la mujer se odiarán, y tus hijos y los hijos de ella se odiarán también. El descendiente de la mujer aplastará tu cabeza, y tu le herirás su calcañar."</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:curse|cursed]]**
-  * **[[:es-419:obs:notes:key-terms:descendant|descendant]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:curse|cursed]] (maldito)**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendant]] (descendiente)**
 ===== Translation Notes: =====
 
   * **you are cursed**  - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
