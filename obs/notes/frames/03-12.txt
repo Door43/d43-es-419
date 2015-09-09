@@ -1,13 +1,14 @@
-===== Dry Land /  Tierra Seca  [03-12]     *B =====
+===== Dry Land / Tierra Seca [03-12] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
 **Noah** **waited another week** and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
 
-**Noe espero otra semana y mando una paloma afuera por la tercera vez. Esta ves encontro un sitio para descansar y no regreso para atras.**
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>** Noé esperó otra semana  ** y envió la paloma por tercera vez. Esta vez, encontró un lugar para descansar y no volvió. ¡El agua se estaba secando!</font>
+
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:noah|Noah]]**
+  * **[[:es-419:obs:notes:key-terms:noah|Noah]] (Noé)**
 ===== Translation Note: =====
 
 <font inherit/inherit;;inherit;;inherit>Notas</font>    Traducidas<font inherit/inherit;;inherit;;inherit>:</font>
