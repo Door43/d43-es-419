@@ -2,10 +2,10 @@
 
 //Con el fin de ayudar a los traductores de las [[:es-419:obs|Historias Bíblicas Libres]] ha realizar el mejor trabajo de traducción posible, aquí se encuentran disponible notas exegéticas y recursos para cada marco (imagen + texto) de cada historia. Estas son las historias que contienen notas completas: //
   - [[:es-419:obs:notes:01|La Creación]]
-  - [[:es-419:obs:notes:02|2. Sin Enters the World]]
-  - [[:es-419:obs:notes:03|3. The Flood **La Inundacion**]]
-  - [[:es-419:obs:notes:04|4. God's Covenant with Abraham]]
-  - [[:es-419:obs:notes:05|5. The Son of Promise]]
+  - [[:es-419:obs:notes:02|El Pecado entra en el Mundo]]
+  - [[:es-419:obs:notes:03|El Diluvio]]
+  - [[:es-419:obs:notes:04|El Pacto de Dios con Abraham]]
+  - [[:es-419:obs:notes:05|El Hijo de la Promesa]]
   - [[:es-419:obs:notes:06|6. God Provides for Isaac / Dios Proeeve para Isaac]]
   - [[:es-419:obs:notes:07|7. God Blesses Jacob]]
   - [[:es-419:obs:notes:08|8. God Saves Joseph and His Family]]
