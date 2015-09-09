@@ -1,16 +1,16 @@
-===== God Created the Birds and Fish [01-07]  *B =====
+===== God Created the Birds and Fish [01-07] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?nolink&}}
 
 On **the fifth day**, **God spoke** and **made everything that swims** in the water and **all the birds**. God saw that **it was good**, and he **blessed them**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>En el quinto día, Dios habló e hizo todo que nada en el agua y todas las aves. Dios vio que fue bueno, y El los bendijo.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>En el quinto día, Dios habló e hizo todo lo que nada en el agua y todas las aves. Dios vió que era bueno, y El los bendijo.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
-  * **[[:es-419:obs:notes:key-terms:bless|blessed]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
+  * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendecido)**
 ==== Translation Notes: ====
 
   * **the fifth day**  - God continues his orderly progression of creation that he started during the previous four days.
