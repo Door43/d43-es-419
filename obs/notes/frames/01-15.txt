@@ -1,16 +1,16 @@
-===== Fill the Earth [01-15]  *B =====
+===== Fill the Earth [01-15] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&}}
 
 **God made** man and woman **in his own image**. He **blessed** them and told them, “Have many children and grandchildren and fill the earth!” And God saw that everything he had made was **very good**, and he was very pleased with all of it. This all happened on the sixth day of **creation**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Dios hizo al hombre y a la mujer en su propia imagen. El los bendijo y los dijo, “¡Qué tengan muchos niños y nietos y llenen la tierra!” Y Dios vio que todo lo que había hecho fue muy bueno, y estaba contento con todo ello. Todo esto sucedió en el sexto día de la creación.</font>
+Dios hizo al hombre y a la mujer a su propia imagen. El los bendijo y les dijo, "¡Tengan muchos hijos y nietos y llenen la tierra!" Y Dios vió que todo lo que había hecho era muy bueno, y estaba muy satisfecho con todo ello. Todo esto sucedió en el sexto día de la creación.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
+  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
