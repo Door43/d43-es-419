@@ -1,10 +1,11 @@
-===== Noah Found Grace / Noe Encontro Gracia  [03-02]     *B =====
+===== Noah Found Grace / Noe Encontro Gracia [03-02] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&}}
 
 But **Noah found favor** with **God**. He was a **righteous** man, living among wicked people. God told Noah about the flood He was **planning to send**. He told Noah to build a huge boat.
 
-**Pero Noe encontro el favor con Dios. El era un hombre justo, viviendo entre gente malvada.** **Dios le dijo a Noe sobre la inundacion El estaba planificando mandar. El le dijo a Noe de construir un barco enorme.**
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Pero  ** Noé agradó ** a  ** Dios ** . El era un hombre  ** justo ** , viviendo entre gente malvada. Dios le dijo a Noé a cerca del diluvio que Él  ** iba a enviar ** . El mandó a Noé a contruir una barca inmensa.</font>
+
 ===== Important Terms:** Terminos Importantes"** =====
 
   * **[[:es-419:obs:notes:key-terms:noah|Noah]] **
