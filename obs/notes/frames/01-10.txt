@@ -9,8 +9,9 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:life|life]] **
-  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:life|life]] (vida)**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
+
 ==== Translation Notes: ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
