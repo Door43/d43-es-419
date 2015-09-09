@@ -1,14 +1,14 @@
-===== Adam Met Eve [01-14]  *B =====
+===== Adam Met Eve [01-14] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?nolink&}}
 
 When **Adam** saw her, he said, “**At last**! This one is **like me**! Let her be called '**Woman**,' for she was **made from Man**.” This is why **a man leaves** his father and mother and **becomes one** with his wife.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Cuando Adán la vio, él dijo, “¡Por fin! ¡Esta es como yo! Qué sea llamada “Mujer,” porque fue hecha del Hombre.” Por esta razón un hombre deja a su padre y a su madre y llega a ser uno con su mujer.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Cuando Adán la vio, él dijo, "¡Por fin! ¡Ésta es como yo! Qué sea llamada "varona," porque fue hecha del varón." Por esta razón un hombre deja a su padre y a su madre y llega a ser uno con su mujer.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
 ==== Translation Notes: ====
 
   * **At last!**  - Adam's exclamation indicates that he had been waiting for something like the woman.
