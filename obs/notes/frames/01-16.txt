@@ -1,16 +1,16 @@
-===== God Rested [01-16]  *B =====
+===== God Rested [01-16] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-16.jpg?nolink&}}
 
 When **the seventh day** came, **God** had **finished his work**. So **God rested** from all he had been doing. He **blessed the seventh day** and **made it holy**, because on this day he rested from his work. This is how God created **the universe** and everything in it.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Cuando el día séptimo llegó, Dios había terminado su trabajo. Entonces Dios descansó de todo lo que había hecho. El bendijo el día séptimo y lo hizo santo, porque en este día El descansó de Su trabajo. Esto es como Dios creó el universo y todo lo que estaba en él.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Cuando el séptimo día llegó, Dios había terminado su trabajo. Entonces Dios descansó de todo lo que había estado haciendo. El bendijo el séptimo día y lo hizo santo, porque en este día El descansó de su trabajo. Así fue como Dios creó el universo y todo lo que esta en él.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:bless|blessed]]**
-  * **[[:es-419:obs:notes:key-terms:holy|holy]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendecido)**
+  * **[[:es-419:obs:notes:key-terms:holy|holy]] (santo)**
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
