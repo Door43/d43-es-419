@@ -1,6 +1,6 @@
-====== Notas de Revisión & Traducción  ======
+====== Notas de Revisión & Traducción ======
 
-//Con el fin de ayudar a los traductores de las [[:es-419:obs|Historias Bíblicas Libres]] ha realizar el mejor trabajo de traducción posible, aquí se encuentran disponible notas exegéticas y recursos para cada marco (imagen + texto) de cada historia. Estas son las historias que contienen notas completas:  //
+//Con el fin de ayudar a los traductores de las [[:es-419:obs|Historias Bíblicas Libres]] ha realizar el mejor trabajo de traducción posible, aquí se encuentran disponible notas exegéticas y recursos para cada marco (imagen + texto) de cada historia. Estas son las historias que contienen notas completas: //
   - [[:es-419:obs:notes:01|1. The Creation]]
   - [[:es-419:obs:notes:02|2. Sin Enters the World]]
   - [[:es-419:obs:notes:03|3. The Flood **La Inundacion**]]
