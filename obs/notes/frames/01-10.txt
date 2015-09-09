@@ -1,15 +1,15 @@
-===== God Made Adam [01-10]  *B =====
+===== God Made Adam [01-10] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?nolink&}}
 
 So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
 
-<font 14px line-height: 19.6000003814697px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.6000003814697px;;;inherit>Así, Dios tomó alguna tierra, la formó como un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios hizo un huerto dónde Adán pudo vivir, y lo puso allá para cuidarlo.</font>
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.</font>
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:life|life]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:life|life]] **
   * **[[:es-419:obs:notes:key-terms:adam|Adam]]**
 ==== Translation Notes: ====
 
