@@ -4,9 +4,10 @@
 
 This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
 
-   * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:holy-spirit|God's Spirit]]**
+<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>Así fue cómo ** sucedió el principio ** de todo. Dios  ** creó  ** el  ** universo ** y todo lo que estaba en el en seis días. Después que Dios creó la tierra y estaba  ** oscura ** y  ** vacía ** , y  ** no había nada formado ** en ella. Pero el  ** Espíritu de Dios  ** estaba allí sobre el agua.</font>
 
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:holy-spirit|God's Spirit]]**
 ==== Translation Notes: ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
@@ -20,8 +21,9 @@ This is how **the beginning** of everything happened. God **created** the **univ
   * **empty**  - God had not yet created anything except for the bare earth covered by water.
   * **vacío - Aparte de**** la tierra desnuda, solo cubierta de agua, ****Dios no había creado nada todavía.**
   * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
-  * **nada había sido formado - No habían características distintivas**  <font 14px line-height: 19.6000003814697px"><font inherit/inherit;;inherit;;inherit>
-–</font>  **solamente ****había ****agua cubriendo todo.**
+  * **nada había sido formado - No habían características distintivas** <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit><font inherit"></font>
+
+– **solamente ****había ****agua cubriendo todo.**
   * **God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
   * **El espíritu de Dios - <font inherit/inherit;;inherit;;inherit>El</font>    espíritu <font inherit/inherit;;inherit;;inherit>de</font>    Dios a veces llamado el Espíritu Santo, estaba presente en el principio, moviéndose libremente sobre la tierra para crear todo lo que el planificaba hacer.**
 
