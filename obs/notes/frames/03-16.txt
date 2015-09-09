@@ -11,7 +11,7 @@
   * **[[:es-419:obs:notes:key-terms:promise|promise]]**
 ===== Translation Notes: =====
 
-===== <font inherit/inherit;;inherit;;inherit>Notas Traducidas:</font>     =====
+===== Notas Traducidas: =====
 
   * **rainbow**  - This is the multicolored arc of light that often appears in the sky after a rainstorm.
   * **arco iris - Esto es el arco de muchos colores de luz que a menudo aparece en el cielo después de una tormenta de lluvia.**
