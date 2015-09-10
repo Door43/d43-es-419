@@ -1,18 +1,16 @@
-===== The Big Boat / El Barco Grande [03-03] *B =====
+===== The Big Boat / La Gran Barca [03-03] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
 **God** told **Noah** to make **the boat** about 140 meters long, 23 meters wide, and 13.5 meters high. Noah was to build it with wood and to make three levels, many rooms, a roof, and a window. The boat would keep Noah, his family, and every kind of land animal safe during the flood.
 
-<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>** Dios ** mandó a  ** Noé  ** que construyera  ** una barca ** aproximadamente 140 metros de largo, 23 metros de ancho, y 13.5 metros de alto. Noé debiá construirla de madera, de tres niveles, muchas habitaciones, un techo y una ventana. En la barca, Noé, su familia, y toda clase de animal, estarián seguros durante el diluvio.</font>
+<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>** Dios  ** mandó a  ** Noé  ** que construyera  ** una barca  ** aproximadamente 140 metros de largo, 23 metros de ancho, y 13.5 metros de alto. Noé debiá construirla de madera, de tres niveles, muchas habitaciones, un techo y una ventana. En la barca, Noé, su familia, y toda clase de animal, estarián seguros durante el diluvio.</font>
 
-===== Important Terms: =====
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:noah|Noah]] (Noé)**
-===== Translation Notes: =====
-
-===== Notas Traducidas: =====
+===== Translation Notes: Notas de Traducción =====
 
   * **the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
   * **el barco -El barco era suficientemente grande para cargar ocho personas, dos de cada clase de animal, y sus provisiones por casi un año.**
