@@ -1,17 +1,15 @@
-===== Dry Land / Tierra Seca [03-12] *B =====
+===== Dry Land / La Tierra Seca [03-12] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&}}
 
 **Noah** **waited another week** and sent out the dove a third time. This time, it found a place to rest and did not come back. The water was drying up!
 
-<font 17.5px line-height: 22.2727px;/inherit;;inherit;;inherit>** Noé esperó otra semana  ** y envió la paloma por tercera vez. Esta vez, encontró un lugar para descansar y no volvió. ¡El agua se estaba secando!</font>
+<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>** Noé esperó otra semana  ** y envió la paloma por tercera vez. Esta vez, encontró un lugar para descansar y no volvió. ¡El agua se estaba secando!</font>
 
-===== Important Terms: =====
+===== Important Terms: Términos Importantes: =====
 
   * **[[:es-419:obs:notes:key-terms:noah|Noah]] (Noé)**
-===== Translation Note: =====
-
-<font inherit/inherit;;inherit;;inherit>Notas</font>    Traducidas<font inherit/inherit;;inherit;;inherit>:</font>
+===== Translation Note:   Notas de Traducción: =====
 
   * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
   * **esperó una semana más - Usted puede decir, "esperó siete días más." La palabra "esperó" enseña que Noé estaba permitiendo mas tiempo para que las aguas del diluvio bajaran, antes de enviar la paloma otra vez.**
