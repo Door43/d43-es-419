@@ -4,7 +4,7 @@
 
 So **God took some dirt**, **formed it** into **a man**, and **breathed life** into him. This man's name was **Adam**. God planted a **garden** where Adam could live, and put him there to **care for it**.
 
-<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.</font>
+<font inherit/inherit;;inherit;;inherit>Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.</font>
 
 ===== Important Terms: =====
 
@@ -28,5 +28,5 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
   * **garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
   * **jardín - Un area de tierra plantada con árboles y plantas para un propósito- generalmente para producir alimento o para embellecer.**
   * **care for it**  - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
-  * **cuidarlo - Mantener el jardín ocupándose de desyerbarlo, regarlo de agua, cosecharlo, plantarlo, etc.**
+  * **cuidarlo - Mantener el jardín ocupándose de desyerbar, regando con agua, cosecharlo, plantarlo, etc.**
 **[[:es-419:obs:notes:frames:01-09|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-11|>>]]**
