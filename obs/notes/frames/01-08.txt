@@ -1,4 +1,4 @@
-===== Dios creó los animales [01-08] *B =====
+===== God Created the Animals / Dios creó los animales [01-08] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&}}
 
@@ -10,24 +10,22 @@ En el sexto día de la creación, Dios dijo, "¡Que sea hecha toda clase de anim
 
   * **[[:es:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es:obs:notes:key-terms:good|good]] (bueno)**
-
 ==== Translation Notes: ====
 
   * **the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
-  * **el sexto día** - El próximo evento en una progresión continua y ordenada de dias y actos creativos.
+  * **el sexto día**  - El próximo evento en una progresión continua y ordenada de dias y actos creativos.
   * **God said**  - God's spoken word is the means by which the animals were created.
-  * **Dios díjo** - La palabra verbal de Dios es el medio por el cual los animales fueron creados.
+  * **Dios díjo**  - La palabra verbal de Dios es el medio por el cual los animales fueron creados.
   * **all kinds**  - This indicates a great variety, but also order.
-  * **todo tipo** - Esto indica una gran variedad pero también orden.
+  * **todo tipo**  - Esto indica una gran variedad pero también orden.
   * **land animals**  - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
-  * **animales de la tierra** - Todo tipo de animal que vive en la tierra, a diferencia de las aves o los animales que viven en los mares.
+  * **animales de la tierra**  - Todo tipo de animal que vive en la tierra, a diferencia de las aves o los animales que viven en los mares.
   * **farm animals**  - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
-  * **animales de campo** - La clase de animales de tierra que comunmente viven pacíficamente con la gente- así como animales domésticos.
-  * ** crawled on the ground  ** - This probably includes reptiles, and possibly the insects.
-  * ** se arrastraban por el piso** - Esto probablemente incluye reptiles y posiblemente insectos.  
-  * ** wild  ** - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
-  * ** salvaje** - Los tipos de animales que normalmente no conviven en paz con humanos porque generalmente les tienen miedo o porque son peligrosos para los humanos.  
-  * ** it was good ** - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-  * ** era bueno** - Esta frase se repite a través del proceso de la creación para mostrar que cada etapa cumplía exactamente con el sabio plan y propósito de Dios.  
+  * **animales de campo**  - La clase de animales de tierra que comunmente viven pacíficamente con la gente- así como animales domésticos.
+  * **crawled on the ground **  - This probably includes reptiles, and possibly the insects.
+  * **se arrastraban por el piso**  - Esto probablemente incluye reptiles y posiblemente insectos.
+  * **wild **  - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
+  * **salvaje**  - Los tipos de animales que normalmente no conviven en paz con humanos porque generalmente les tienen miedo o porque son peligrosos para los humanos.
+  * **it was good **  - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
+  * **era bueno**  - Esta frase se repite a través del proceso de la creación para mostrar que cada etapa cumplía exactamente con el sabio plan y propósito de Dios.
 **[[:es-419:obs:notes:frames:01-07|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-09|>>]]**
-
