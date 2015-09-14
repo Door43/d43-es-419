@@ -4,12 +4,11 @@
 
 Then **God** said, “**Let us** make human beings **in our image** to be **like us**. They will have **authority** over the earth and all the animals.”
 
-<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>Entonces, Dios dijo, "Hagamos al ser humano a nuestra imagen para que sean como nosotros. Ellos tendrán autoridad sobre la tierra y todos los animales."</font>
+<font inherit/inherit;;inherit;;inherit>Entonces, Dios dijo, "Hagamos al ser humano a nuestra imagen para que sean como nosotros. Ellos tendrán autoridad sobre la tierra y todos los animales."</font>
 
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-
 ==== Translation Notes: ====
 
   * **Let us**  - This indicates God's deliberate, willful decision to create man in a particular way for a particular purpose. You could translate this as, "We will make."
@@ -19,7 +18,7 @@ Then **God** said, “**Let us** make human beings **in our image** to be **like
   * **in our image**  - An image is a physical representation of someone or something. Humans were made in such a way that we display or represent some of the qualities or traits of God.
   * **a nuestra imagen - Una imagen es una representación física de alguien o algo. Los humanos fueron hechos de tal forma que nosotros demostramos o representamos algunas de las cualidades o atributos de Dios**.
   * **like us**  - Humans share some of God's characteristics, but not all of his qualities. This phrase should be translated with words that show man is similar to God, but not equal with him or the same as he is.
-  * **como nosotros - Los humanos comparten algunas características de Dios, pero no todas sus cualidades. Esta frase debería ser traducida con palabras que enseñan que el hombre es similar a Dios, pero no está a su altura o igual a El.**
+  * **como nosotros - Los humanos comparten algunas características de Dios, pero no todas sus cualidades. Esta frase debería ser traducida con palabras que enseñan que el hombre es similar a El, pero no  como**** El o igual a El.**
   * **authority**  - God gave people the right and power to manage, guide, and control how the earth and the animals will be used.
   * **autoridad - Dios le dió a su pueblo el derecho y el poder para manejar, guiar y controlar cómo la tierra y los animales serán usados.**
 **[[:es-419:obs:notes:frames:01-08|<<]] | [[:es-419:obs:notes:01|Up]] | [[:es-419:obs:notes:frames:01-10|>>]]**
