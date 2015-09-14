@@ -1,4 +1,4 @@
-===== Llenen la tierra [01-15] *B =====
+===== Fill the Earth / Llenen la tierra [01-15] *B =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?nolink&}}
 
@@ -11,7 +11,6 @@ Dios hizo al hombre y a la mujer a su propia imagen. El los bendijo y les dijo, 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendecido)**
   * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
-
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
