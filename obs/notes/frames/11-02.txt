@@ -1,4 +1,4 @@
-===== The Sacrifice [11-02] / El Sacrificio [11-02] =====
+===== The Sacrifice [11-02] / El Sacrificio [11-02] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink&}}
 
@@ -7,15 +7,15 @@
 **Dios** proveyó un camino para **salvar** al **hijo** primogénito de todo aquel que **creía en él**. Cada familia tuvo que elegir un **cordero** perfecto y matarlo.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:save|save]]**
-  * **[[:es-419:obs:notes:key-terms:son|son]]**
-  * **[[:es-419:obs:notes:key-terms:believe|believed]]**
-  * **[[:es-419:obs:notes:key-terms:lamb|lamb]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] [Dios]**
+  * **[[:es-419:obs:notes:key-terms:save|save]] [salvo]**
+  * **[[:es-419:obs:notes:key-terms:son|son]] [hijo]**
+  * **[[:es-419:obs:notes:key-terms:believe|believed]] [creyo]**
+  * **[[:es-419:obs:notes:key-terms:lamb|lamb]] [cordero]**
 ==== Translation Notes: ====
 
   * **God provided**  – God is the only one who could provide the way to save the Israelites' sons from death.
-  * **Dios proveyó - Dios es el único que pudo proveer el modo de salvar los Israelitas' hijos de la muerte. **
+  * **Dios proveyó - ** Dios es el único que pudo proveer el modo de salvar los hijos de los Israelitas de la muerte.****
   * **perfect lamb**  - That is, "a young sheep or goat that had no blemishes or defects."
-  * **perfecto cordero - Eso es, "un chivo joven o cabra que no tenía manchas o defectos." **
+  * **perfecto cordero -**  Eso es, " un chivo joven o cabra que no tenía manchas o defectos."
 **[[:es-419:obs:notes:frames:11-01|<<]] | [[:es-419:obs:notes:11|Up]] | [[:es-419:obs:notes:frames:11-03|>>]]**
