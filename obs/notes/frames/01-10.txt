@@ -7,10 +7,10 @@ So **God took some dirt**, **formed it** into **a man**, and **breathed life** i
 Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El nombre de este hombre fue Adán. Dios plantó un huerto en dónde Adán podía vivir, y lo puso allí a Adán para que cuidara el huerto.
 
 ===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:life|life]] (vida)**
-  * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
+ 
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:life|life (vida)]]  **
+  * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
 ==== Translation Notes: ====
 
   * **took some dirt**  - God made man from the dust, or dry dirt from the ground. This word should probably be different from the general word used for earth.
