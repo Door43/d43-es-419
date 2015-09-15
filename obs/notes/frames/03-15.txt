@@ -8,11 +8,11 @@
 
 ===== Important Terms:  Términos Importantes: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:promise|promise]] (prometió)**
-  * **[[:es-419:obs:notes:key-terms:curse|curse]] (maldecir)**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]] (malvado)**
-  * **[[:es-419:obs:notes:key-terms:sin|sinful]] (pecaminoso)**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:promise|promise (prometió)]]  **
+  * **[[:es-419:obs:notes:key-terms:curse|curse (maldecir)]]  **
+  * **[[:es-419:obs:notes:key-terms:evil|evil (malvado)]]  **
+  * **[[:es-419:obs:notes:key-terms:sin|sinful (pecaminoso)]]  **
 
 
 ===== Notas de Traducción: =====
