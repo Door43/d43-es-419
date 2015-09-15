@@ -8,10 +8,10 @@ La mujer le contestó, "Dios nos dijo que podríamos comer la fruta de cualquier
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]] (malo)**
-  * **[[:es-419:obs:notes:key-terms:death|die]] (morir)**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:good|good (bueno)]]  **
+  * **[[:es-419:obs:notes:key-terms:evil|evil (malo)]]  **
+  * **[[:es-419:obs:notes:key-terms:death|die (morir)]]  **
 ==== Translation Notes: ====
 
   * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
