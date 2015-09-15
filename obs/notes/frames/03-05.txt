@@ -10,8 +10,8 @@
 
 ===== Términos Importantes: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:noah|Noah]] (Noé)**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:noah|Noah (Noé)]]  **
 ===== Notas de Traducción: =====
 
 //(There are no notes for this frame.) (No existen notas en este marco.)//
