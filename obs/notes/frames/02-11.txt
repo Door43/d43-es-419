@@ -8,12 +8,12 @@ Dios dijo al hombre, "Tú escuchaste a tu esposa y me desobedeciste. Ahora la ti
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]] (desobedeció)**
-  * **[[:es-419:obs:notes:key-terms:curse|cursed]] (maldito)**
-  * **[[:es-419:obs:notes:key-terms:death|die]] (morir)**
-  * **[[:es-419:obs:notes:key-terms:eve|Eve]] (Eva)**
-  * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios) ]]  **
+  * **[[:es-419:obs:notes:key-terms:disobey|disobeyed (desobedeció)]]  **
+  * **[[:es-419:obs:notes:key-terms:curse|cursed (maldito)]]  **
+  * **[[:es-419:obs:notes:key-terms:death|die (morir)]]  **
+  * **[[:es-419:obs:notes:key-terms:eve|Eve (Eva)]]  **
+  * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
 ==== Translation Notes: ====
 
   * **ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
