@@ -8,9 +8,9 @@ Adán y su esposa estaban muy contentos viviendo en el hermoso jardín que Dios 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:adam|Adam]] (Adán)**
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:sin|sin]] (pecado)**
+  * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:sin|sin (pecado)]]  **
 ==== Translation Notes: ====
 
   * **garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[:es-419:obs:notes:frames:01-11|[01-11]]]**. See how you translated it there.
