@@ -23,7 +23,7 @@ Isaac Married Rebekah [06-03] **Isaac se casó con Rebeca**
 Rebekah Was Childless [06-04] **Rebeca era estéril**
 
 [[:es-419:obs:notes:frames:06-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-05.jpg?nolink&200}}]]\\
-Rebekah Is Pregnant [06-05] **Rebeca está embarazada**
+Rebekah Became Pregnant [06-05] **Rebeca quedó embarazada**
 
 [[:es-419:obs:notes:frames:06-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&200}}]]\\
 Two Nations [06-06] **Dos Naciones**
