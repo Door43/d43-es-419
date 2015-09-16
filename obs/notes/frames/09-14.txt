@@ -17,7 +17,7 @@
 ==== Translation Notes: ====
 
   * **the people**  - See "my people" in **[[:es-419:obs:notes:frames:09-13|[09-13]]]**.
-  * **el pueblo**  - Ver ¨mi pueblo¨ en **[09-13].**
+  * **el pueblo**  - Ver ¨mi pueblo¨ en **[[:es-419:obs:notes:frames:09-13|[09-13]]]**.
   * **I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
   * **SOY QUIEN SOY**  - Esta descripción muestra que Dios puede solamente ser definido por si mismo, no por ninguna otra cosa que conocemos, y que no puede ser comparado con ninguna persona.
   * **I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
