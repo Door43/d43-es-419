@@ -11,7 +11,7 @@
 ==== Translation Notes: ====
 
   * **store up large amounts of food**  - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
-  * **almacenar cantidades grandes de comida - Ellos tomaron comida de cosecha abundante a las cuidades y la almacenaron. La comida le pertenecia a Faraon**.
+  * **almacenar cantidades grandes de comida** - Ellos tomaron comida de cosecha abundante a las cuidades y la almacenaron. La comida le pertenecia a Faraon
   * **famine**  - See how you translated this in **[[:es-419:obs:notes:frames:08-07|[08-07]]]**.
-  * **hambruna - escacez de alimentos **
+  * **hambruna** - escacez de alimentos **[[:es-419:obs:notes:frames:08-07|[08-07]]]**.
 **[[:es-419:obs:notes:frames:08-08|<<]] | [[:es-419:obs:notes:08|Up]] | [[:es-419:obs:notes:frames:08-10|>>]]**
