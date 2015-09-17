@@ -8,6 +8,9 @@ Así fue cómo  ** sucedió el principio  ** de todo. Dios  ** creó  ** el  ** 
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
   * **[[:es-419:obs:notes:key-terms:holy-spirit|God's Spirit (Espíritu de Dios)]] **
+
+[[es-419:obe:kt:god]]
+[[es-419:obe:kt:holyspirit]]
 ==== Translation Notes: ====
 
   * **the beginning**  - That is, "the beginning of all things," before anything existed except God.
