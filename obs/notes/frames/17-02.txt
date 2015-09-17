@@ -22,5 +22,5 @@
 ==== Translation Notes: ====
 
   * **watching**  - That is, "caring for" or, "protecting" or, "taking care of."
-  * **mirando - Eso es, "preocuparse por" o, "protegiendo" o, "cuidando por."**
+  * **mirando **- Eso es, "preocuparse por" o, "protegiendo" o, "cuidando por."
 **[[:es-419:obs:notes:frames:17-01|<<]] | [[:es-419:obs:notes:17|Up]] | [[:es-419:obs:notes:frames:17-03|>>]]**
