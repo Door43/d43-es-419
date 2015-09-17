@@ -4,11 +4,11 @@
 
 So **God changed their language** into **many different languages** and **spread the people** out all over the world. The city they had begun to build was called **Babel**, which means, “**confused**.”
 
-<font 17.5px line-height: 22.2727px/inherit;;inherit;;inherit>Entonces,  ** Dios cambió su idioma  ** a  ** muchos idiomas diferentes  ** y  ** esparció a la gente  ** sobre todo el mundo. La ciudad que ellos había comenzado a construir fue llamada  ** Babel  ** , que quiere decir, "  ** confundido."  **</font>
+<font inherit/inherit;;inherit;;inherit>Entonces,  ** Dios cambió su idioma  ** a  ** muchos idiomas diferentes  ** y  ** esparció a la gente  ** sobre todo el mundo. La ciudad que ellos había comenzado a construir fue llamada  ** Babel  ** , que quiere decir, "  ** confundido."  **</font>
 
 ===== Important Terms: Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
 ===== Translation Notes: Notas de Traducción =====
 
   * **changed their language**  – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
@@ -16,7 +16,7 @@ So **God changed their language** into **many different languages** and **spread
   * **many different languages**  – Instead of one large group of people speaking one language, there were now many smaller people groups each speaking its own separate language.
   * **muchos diferentes idiomas - **  En vez de un grupo grande de personas hablando un idioma, habían muchos grupos pequeños, cada uno hablando su propio idioma individual.
   * **spread the people**  - When God changed their languages, He caused these groups of people to scatter out on the earth and each group moved to its own area.
-  * **regó la gente****- **  Cuando Dios cambió sus idiomas, El causó que estos grupos de personas se despersaran por la tierra y cada grupo se mudó a su propia area.
+  * **regó la gente****- **  Cuando Dios cambió sus idiomas, El causó que estos grupos de personas se dispersaran por la tierra y cada grupo se mudó a su propia area.
   * **Babel**  - We don't know the exact location of this city, other than it was somewhere in the ancient Middle East.
   * **Babel - **  Nosotros no sabemos el citio exacto de esta ciudad, otro de que fue alguna parte del antiguo medio oriente.
   * **confused**  - This refers to how the people were confused or, "mixed-up," when they could no longer understand each other after God changed their language.
