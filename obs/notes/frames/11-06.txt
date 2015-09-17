@@ -1,4 +1,4 @@
-===== Death of the Firstborn [11-06] / Muerte del Primogenito [11-06] =====
+===== Death of the Firstborn [11-06] / Muerte del Primogenito [11-06] F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?nolink&}}
 
@@ -7,13 +7,13 @@ But the **Egyptians did not believe God or obey his commands**. So God **did not
 Pero **los Egipcios no creian ni obedencian los mandamientos de Dios****.** Asi que **Dios** ** no paso sobre sus casas****. Dios ** mato cada uno d**e los ** hijos primogenitos de los **egipcios**.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:egypt|Egyptians [Egipcios]]]  **
-  * **[[:es-419:obs:notes:key-terms:believe|believe [creer]]]  **
-  * **[[:es-419:obs:notes:key-terms:god|God [Dios]]]   **
+  * **[[:es-419:obs:notes:key-terms:egypt|Egyptians [Egipcios]]] **
+  * **[[:es-419:obs:notes:key-terms:believe|believe [creer]]]**
+  * **[[:es-419:obs:notes:key-terms:god|God [Dios]]]**
 ==== Translation Notes: ====
 
   * **did not believe God or obey his commands**  – In some languages it may be more natural or clear to say, "did not believe God and so they did not obey his commands ."
-  * **no le creyó a Dios u obedecer sus mandatos** - En algunos idiomas puede ser más natural o claro para decir, "no le creyó a Dios no obedeció sus mandatos." 
+  * **no le creyó a Dios u obedecer sus mandatos**  - En algunos idiomas puede ser más natural o claro para decir, "no le creyó a Dios y entonces no obedeció sus mandatos."
   * **did not pass over**  - He did not pass by their houses. Rather he stopped at each house and killed their eldest son.
-  * **no pasó sobre** - El no pasó por sus casas. Mas bien el paró en cada casa y mató sus hijos mayores. 
+  * **no pasó sobre**  - El no pasó por sus casas. Mas bien el paró en cada casa y mató sus hijos mayores.
 **[[:es-419:obs:notes:frames:11-05|<<]] | [[:es-419:obs:notes:11|Up]] | [[:es-419:obs:notes:frames:11-07|>>]]**
