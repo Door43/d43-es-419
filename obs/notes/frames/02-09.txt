@@ -1,4 +1,4 @@
-===== God Cursed the Snake/Dios Maldijo la Serpiente [02-09] *B =====
+===== God Cursed the Snake/Dios Maldijo la Serpiente [02-09] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?nolink&}}
 
@@ -8,19 +8,19 @@ Dios dijo a la serpiente, "¡Estás maldita! Te arrastrarás sobre tu vientre y 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
-  * **[[:es-419:obs:notes:key-terms:curse|cursed (maldito)]]  **
-  * **[[:es-419:obs:notes:key-terms:descendant|descendant (descendiente)]]  **
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
+  * **[[:es-419:obs:notes:key-terms:curse|cursed (maldito)]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendant (descendiente)]]**
 ===== Translation Notes: =====
 
   * **you are cursed**  - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **estás maldecida - **Esto también puede ser traducido como "Yo te maldigo", o "Un gran daño vendrá sobre ti". No use una palabra que implica magia.
+  * **estás maldecida - ** Esto también puede ser traducido como "Yo te maldigo", o "Un gran daño vendrá sobre ti". No use una palabra que implica magia.
   * **hate each other**  - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **odiarse el uno al otro - **La mujer odiará a la serpiente y la serpiente odiará a la mujer. Los descendientes de la mujer también odiarán a los descendientes de la serpiente, y los descendientes de la serpiente los odiarán a ellos.
+  * **odiarse el uno al otro - ** La mujer odiará a la serpiente y la serpiente odiará a la mujer. Los descendientes de la mujer también odiarán a los descendientes de la serpiente, y los descendientes de la serpiente los odiarán a ellos.
   * **woman's descendant**  - Refers to one of her descendants in particular.
-  * **descendiente de la mujer** - Se refiere a unos de sus descendientes en particular.
+  * **descendiente de la mujer**  - Se refiere a unos de sus descendientes en particular.
   * **crush your head**  - The descendant of the woman will destroy the descendant of the snake.
-  * **aplastará tu cabeza** - El descendiente de la mujer aplastará al descendiente de la serpiente.
+  * **aplastará tu cabeza**  - El descendiente de la mujer aplastará al descendiente de la serpiente.
   * **wound his heel**  - The descendant of the snake will wound the descendant of the woman.
-  * **herir su calcañar** - El descendiente de la serpiente herirá el calcañar del descendiente de la mujer.
+  * **herir su calcañar**  - El descendiente de la serpiente herirá el calcañar del descendiente de la mujer.
 **[[:es-419:obs:notes:frames:02-08|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-10|>>]]**
