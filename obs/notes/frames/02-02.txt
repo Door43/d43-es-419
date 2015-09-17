@@ -1,4 +1,4 @@
-===== The Snake/La Serpiente [02-02] *B =====
+===== The Snake/La Serpiente [02-02] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
@@ -8,13 +8,13 @@ Pero había una serpiente astuta en el jardín. El le preguntó a la mujer, "¿E
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
 ==== Translation Notes: ====
 
   * **crafty**  - Clever and sly, with the intent to deceive.
   * **astuta**- Ingeniosa y lista, con intento de engañar.
   * **snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **serpiente** - Un animal largo sin piernas que se mueve de lado a lado en su barriga. Aunque después en la historia es revelado que la serpiente es Satanás, esto no se debe decir en este cuadro.
+  * **serpiente**  - Un animal largo sin piernas que se mueve de lado a lado en su barriga. Aunque después en la historia es revelado que la serpiente es Satanás, esto no se debe decir en este cuadro.
   * **Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
   * **Es que Dios realmente te dijo **- La serpiente le preguntó a la mujer si en realidad Dios le dijo que no comiera de los árboles del jardín. Pero el solamente estaba pretendiendo no saber lo que Dios dijo porque quería crear duda en la mente de la mujer. El quería que ella dudara la bondad de Dios.
   * **fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
