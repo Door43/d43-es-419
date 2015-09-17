@@ -1,4 +1,4 @@
-===== Where Are You?/Dónde Estás? [02-07] *B =====
+===== Where Are You?/Dónde Estás? [02-07] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?nolink&}}
 
@@ -8,12 +8,12 @@ Entonces el hombre y su esposa escucharon el sonido de Dios caminando por el jar
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
-  * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
+  * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]**
 ==== Translation Notes: ====
 
   * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
-  * **Dios caminaba - **Parece que Dios venía al huerto regularmente para caminar y hablar con el hombre y la mujer. No sabemos como esto aconteció. Si es posible, es mejor usar la misma palabra que se usaría para hablar de una persona que está caminando.
+  * **Dios caminaba - ** Parece que Dios venía al huerto regularmente para caminar y hablar con el hombre y la mujer. No sabemos como esto aconteció. Si es posible, es mejor usar la misma palabra que se usaría para hablar de una persona que está caminando.
   * **Where are you?**  - God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding.
-  * **Donde estás? - **Dios ya sabía la respuesta a esta pregunta. El propósito de la pregunta fue para forzar al hombre y la mujer para explicar lo que estaban escondiendo.
+  * **Donde estás? - ** Dios ya sabía la respuesta a esta pregunta. El propósito de la pregunta fue para forzar al hombre y la mujer para explicar lo que estaban escondiendo.
 **[[:es-419:obs:notes:frames:02-06|<<]] | [[:es-419:obs:notes:02|Up]] | [[:es-419:obs:notes:frames:02-08|>>]]**
