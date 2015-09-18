@@ -1,4 +1,4 @@
-===== Birth of Isaac/Nacimiento de Isaac [05-05] *B =====
+===== Birth of Isaac/Nacimiento de Isaac [05-05] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-05.jpg?nolink&}}
 
@@ -6,16 +6,16 @@ That day **Abraham circumcised all the males in his household**. About a year la
 
 Aquel día Abraham circuncidó a todos los machos en su casa. Aproximádamente un año después, cuando Abraham tenía 100 años de edad y Sarah tenía 90 años, Sarah dio a luz al hijo de Abraham. Le llamaron Isaac como Dios les había dicho.
 
-===== Important Terms:  Términos Importantes: =====
+===== Important Terms: Términos Importantes: =====
 
-  * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]  **
-  * **[[:es-419:obs:notes:key-terms:circumcise|circumcised (circunsidado)]] **
-  * **[[:es-419:obs:notes:key-terms:sarah|Sarah (Sara)]] **
-  * **[[:es-419:obs:notes:key-terms:son|son (hijo)]] **
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac(Isaac)]] **
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
+  * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]] **
+  * **[[:es-419:obs:notes:key-terms:circumcise|circumcised (circunsidado)]]**
+  * **[[:es-419:obs:notes:key-terms:sarah|Sarah (Sara)]]**
+  * **[[:es-419:obs:notes:key-terms:son|son (hijo)]]**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac(Isaac)]]**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
 ===== Translation Notes: Notas de Traducción: =====
 
   * **all the males in his household**  - This means all of the men and boys that Abraham was responsible for, including his male servants, young and old.
-  * **todos los varones de su casa** - Esto se refiere a todos los hombres y niños sobre los que Abraham era responsable, incluyendo sus sirvientes varones, jóvenes y viejos.
+  * **todos los varones de su casa**  - Esto se refiere a todos los hombres y niños sobre los que Abraham era responsable, incluyendo sus sirvientes varones, jóvenes y viejos.
 **[[:es-419:obs:notes:frames:05-04|<<]] | [[:es-419:obs:notes:05|Up]] | [[:es-419:obs:notes:frames:05-06|>>]]**
