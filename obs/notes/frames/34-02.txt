@@ -11,7 +11,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **(Jesus continua la historia.)**
+  * (Jesus continua la historia.)
   * **mustard seed**  - See how you translated this term in **[[:es-419:obs:notes:frames:34-01|[34-01]]]**.
   * **semilla de mostaza**  - Vea como tu traducistes este termino// en [34-01]//
   * **grows**  - You may want to add, "into a mature plant."
