@@ -13,7 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **(Jesus continua explicando la historia.)**
+  * (Jesus continua explicando la historia.)
   * **rocky ground**  - See how you translated this term in **[[:es-419:obs:notes:frames:33-03|[33-03]]]**.
   * **suelo rocoso **- Vea como tu traducistes este termino en [33-03]
   * **is a person**  - See how you translated this comparison in **[[:es-419:obs:notes:frames:33-06|[33-06]]]**.
