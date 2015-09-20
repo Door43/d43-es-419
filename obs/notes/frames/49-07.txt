@@ -15,5 +15,5 @@
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
-  * //**(No hay notas para este marco.)** //
+  * //(No hay notas para este marco.) //
 **[[:es-419:obs:notes:frames:49-06|<<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-08|>>]]**
