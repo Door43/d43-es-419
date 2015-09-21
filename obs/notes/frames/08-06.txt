@@ -1,4 +1,4 @@
-===== Pharaoh's Dream [08-06]  El sueño de Faraón [08-06]=====
+===== Pharaoh's Dream [08-06] El sueño de Faraón [08-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
@@ -7,12 +7,11 @@ After two years, **Joseph** was still in prison, even though he was **innocent**
 Después de dos años, **José** todavía estaba en la cárcel, aunque era **inocente**. Una noche, el** Faraón**, lo cual es como los **Egipcios ** llamaban a sus **reyes**, tuvo dos **sueños** que le perturbaron mucho. Ninguno de sus consejeros podrían decirle el significado de los** sueños**.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:joseph|Joseph]]**
-  * **[[:es-419:obs:notes:key-terms:innocent|innocent]]**
-  * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]]**
-  * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]]**
-  * **[[:es-419:obs:notes:key-terms:king|kings]]**
-  * **[[:es-419:obs:notes:key-terms:dream|dreams]]**
+  * **Joseph (José)**
+  * **[[:es-419:obs:notes:key-terms:innocent|innocent]] (inocente)**
+  * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
+  * **[[:es-419:obs:notes:key-terms:king|kings]] (reyes)**
+  * **[[:es-419:obs:notes:key-terms:dream|dreams]] (sueños)**
 ==== Translation Notes: ====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
