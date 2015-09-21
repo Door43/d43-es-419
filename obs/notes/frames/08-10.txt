@@ -7,10 +7,8 @@
 El hambre era muy severa no sólo en **Egipto**, pero también,en** Canaan ** dónde **Jacobo** y su familia vivían.
 ===== Important Terms: =====
 
-  * **[[:archive:ktobs:egypt|Egypt]]**
-  * **[[:archive:ktobs:canaan|Canaan]]**
-  * **[[:archive:ktobs:jacob|Jacob]]**
-==== Translation Notes: ====
+  * **[[:archive:ktobs:egypt|Egypt]]** (Egipto)  * **[[:archive:ktobs:canaan|Canaan]]**
+  * **[[:archive:ktobs:jacob|Jacob]]** (Jacobo)==== Translation Notes: ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
   * **Egipcio, pero tambien Canaan** - Para algunas lenguajes podria ser mas claro o mas natural decir, " el pais de Egipcio, pero tambien la tierra de Canaán."
