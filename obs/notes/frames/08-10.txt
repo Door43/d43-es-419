@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-10.jpg?nolink&}}
 
-**The famine was severe** not only in **Egypt**, but also in **Canaán** where **Jacob** and his family lived.
+**The famine was severe** not only in **Egypt**, but also in **Canaan** where **Jacob** and his family lived.
 
-El hambre era muy severa no sólo en **Egipto**, pero también,en** Canaan ** dónde **Jacobo** y su familia vivían.
+El hambre era muy severa no sólo en **Egipto**, pero también,en** Canaán ** dónde **Jacobo** y su familia vivían.
 ===== Important Terms: =====
 
   * **[[:archive:ktobs:egypt|Egypt]]** (Egipto)
