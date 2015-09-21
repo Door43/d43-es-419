@@ -1,24 +1,22 @@
 ===== The Brothers Were Reunited [07-10] Los hermanos se reunieron [07 -10] =====
 
-
-
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
 But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**.
 
-Pero **Esaú** ya había** perdonado ** a **Jacob**, y estaban contentos por verse otra vez. Entonces, **Jacob** **vivía en paz en Canaán**. Entonces, **Isaac** se murió, y **Jacob** y** Esaú **lo enterraron. Las **promesas ** del **pacto** que **Dios ** había prometido a **Abraham**, ahora fueron pasadas a **Jacob**.
+Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por verse otra vez. Entonces, **Jacobo** **vivía en paz en Canaán**. Entonces, **Isaac** se murió, y **Jacobo** y** Esaú**lo enterraron. Las **promesas ** del **pacto** que **Dios ** había prometido a **Abraham**, ahora fueron pasadas a **Jacobo**.
 ===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
-  * **[[:es-419:obs:notes:key-terms:forgive|forgiven (perdonado)]] **
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacob)]] **
-  * **[[:es-419:obs:notes:key-terms:peace|peacefully (pacíficamente)]] **
-  * **[[:es-419:obs:notes:key-terms:canaan|Canaan (Canaá)]] **
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]] **
-  * **[[:es-419:obs:notes:key-terms:covenant|covenant (pacto)]] **
-  * **[[:es-419:obs:notes:key-terms:promise|promises (promesa)]] **
-  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
-  * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]] **
+  * **[[:es-419:obs:notes:key-terms:forgive|forgiven (perdonado)]]**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacob)]]**
+  * **[[:es-419:obs:notes:key-terms:peace|peacefully (pacíficamente)]]**
+  * **[[:es-419:obs:notes:key-terms:canaan|Canaan (Canaá)]]**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant (pacto)]]**
+  * **[[:es-419:obs:notes:key-terms:promise|promises (promesa)]]**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
+  * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
