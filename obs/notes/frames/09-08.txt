@@ -1,19 +1,18 @@
-===== An Egyptian Beat a Slave [09-08] Un Egipto golpea un esclavo [09-08] =====
-  
+===== An Egyptian Beat a Slave [09-08] Un Egipcio golpea un esclavo [09-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
 One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
 
 Un día, cuando** Moisés ** había crecido, él vio a un **Egipcio ** golpeando a un **esclavo Israelita**. **Moisés** intentó **salvar** a su prójimo **Israelita**.
-===== Important Terms: =====
+===== Important Terms:    Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:moses|Moses]]**
-  * **[[:es-419:obs:notes:key-terms:egypt|Egyptian]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:es-419:obs:notes:key-terms:servant|slave]]**
-  * **[[:es-419:obs:notes:key-terms:save|save]]**
-==== Translation Notes: ====
+  * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
+  * **[[:es-419:obs:notes:key-terms:egypt|Egyptian]] (egipcio)**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelite]] (israelita)**
+  * **[[:es-419:obs:notes:key-terms:servant|slave]] (esclavo)**
+  * **[[:es-419:obs:notes:key-terms:save|save]] (salvado)**
+==== Translation Notes:   Notas de traducción ====
 
   * **grown up**  - Another way to say this would be, "grown into a man."
   * **convertido **- Otra forma de decir esto seria, "convertirse en un hombre".
