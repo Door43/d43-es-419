@@ -10,6 +10,9 @@ Entonces, Dios hizo que Adán cayera en un sueño profundo. Entonces Dios tomó 
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
   * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
+   
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/adam|Adam (Adán)]]**
 ==== Translation Notes: ====
 
   * **a deep sleep**  - This was a deeper sleep than normal.
