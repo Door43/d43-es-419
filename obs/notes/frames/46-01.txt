@@ -15,6 +15,14 @@ Saulo era un hombre joven que guardaba las túnicas de los hombres que mataron a
   * **[[:es-419:obs:notes:key-terms:believer|believers]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
+
+  * **[[:fr:obe:other/paul|Saul]]**
+  * **[[:fr:obe:kt/believe]]**
+  * **[[:fr:obe:kt/Jesus]]**
+  * **[[:fr:obe:other/persecute|persecuted]]**
+  * **[[:fr:obe:kt/believer|believers]]**
+  * **[[:fr:obe:other/Jerusalem]]**
+  * **[[:fr:obe:kt/highpriest]]**
 ===== Translation Notes: =====
 
   * **guarded the robes of the men who killed Stephen**  - See **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
