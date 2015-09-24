@@ -14,6 +14,13 @@ En el medio del huerto, Dios plantó dos árboles — el árbol de la vida y el 
   * **[[:es-419:obs:notes:key-terms:evil|evil (mal)]]  **
   * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
   * **[[:es-419:obs:notes:key-terms:death|die (morir)]]  **
+  
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/life|life (vida)]]**
+  * **[[:es-419:obe:kt/good|good (bueno)]]** 
+  * **[[:es-419:obe:kt/evil|evil (mal)]]**
+  * **[[:es-419:obe:other/adam|Adam (Adán)]]**
+  * **[[:es-419:obe:kt/death|die (morir)]]**  
 ==== Translation Notes: ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
