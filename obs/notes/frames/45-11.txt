@@ -11,8 +11,8 @@ Mientras Felipe y el Etíope viajaban, ellos llegaron a un agua. El Etíope dijo
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
   * **[[:es-419:obs:notes:key-terms:chariot|chariot]]**
 
-  * **[[:fr:obe:kt/baptize|baptized]]**
-  * **[[:fr:obe:other/chariot]]**
+  * **[[:es-419:obe:kt/baptize|baptized]]**
+  * **[[:es-419:obe:other/chariot]]**
 ===== Translation Notes: =====
 
   * **some water**  - Use a term that means a larger body of water such as a pond, lake, or stream.
