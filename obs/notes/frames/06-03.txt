@@ -7,9 +7,13 @@
 **Rebeca ** aceptó dejar a su familia y regresar con el **siervo ** de la casa de Isaac. **Isaac ** se casó con ella tan pronto como llegó.
 ===== Important Terms: Términos importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah]] (Rebeca)**
-  * **[[:es-419:obs:notes:key-terms:servant|servant]] (siervo)**
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac's]] (De Isaac)**
+  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
+  * **[[:es-419:obs:notes:key-terms:servant|servant (siervo)]]**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac's (De Isaac)]]**
+   
+  * **[[:es-419:obe:other/rebekah|Rebekah (Rebeca)]]**
+  * **[[:es-419:obe:other/servant|servant (siervo)]]**
+  * **[[:es-419:obe:other/Isaac|Isaac's (De Isaac)]]**
 ===== Translation Notes: =====
 
   * **Rebekah agreed**  - Even though Rebekah's parents were arranging her marriage, they did not force her to go marry Isaac.
