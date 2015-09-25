@@ -17,6 +17,17 @@ Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por ve
   * **[[:es-419:obs:notes:key-terms:promise|promises (promesa)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
+ 
+  * **[[:es-419:obe:other/esau|Esau (Esaú)]]**
+  * **[[:es-419:obe:kt/forgive|forgiven (perdonado)]]**
+  * **[[:es-419:obe:other/jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obe:other/peace|peacefully (en paz)]]**
+  * **[[:es-419:obe:other/canaan|Canaan (Canaán)]]**
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:kt/covenant|cavenant (pacto)]]**
+  * **[[:es-419:obe:kt/promise|promises (promesa)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
@@ -26,7 +37,7 @@ Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por ve
   * **covenant promises**  - These were the promises that God made in his covenant with Abraham.
   * **promesas del pacto **- Estas fueron las promesas que Dios hizo en su pacto con Abraham.
   * **passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[:es-419:obs:notes:frames:06-04|[06-04]]]**.
-  * **pasó de Isaac a Jacobo **- Las promesas pasaron de Abraham a su hijo Isaac, y ahora a Jacobo el hijo de Isaac. Esaú no recibió las promesas. Ver también <font 14px/inherit;;rgb(0, 128, 0);;inherit>** [06-04]  **</font>    .
+  * **pasó de Isaac a Jacobo **- Las promesas pasaron de Abraham a su hijo Isaac, y ahora a Jacobo el hijo de Isaac. Esaú no recibió las promesas. Ver también ** [06-04]  **    .
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //Una Historia de la Biblia //- Estas referencias pueden ser ligeramente diferente en algunas traducciones de la Biblia.
   * //Una historia de la Biblia: Génesis 25:27-33:20.//
