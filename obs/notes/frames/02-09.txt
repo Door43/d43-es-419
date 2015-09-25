@@ -11,6 +11,10 @@ Dios dijo a la serpiente, "¡Estás maldita! Te arrastrarás sobre tu vientre y 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
   * **[[:es-419:obs:notes:key-terms:curse|cursed (maldito)]]**
   * **[[:es-419:obs:notes:key-terms:descendant|descendant (descendiente)]]**
+  
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/curse|cursed (maldito)]]**
+  * **[[:es-419:obe:other/descendant|descendant (descendiente)]]**
 ===== Translation Notes: =====
 
   * **you are cursed**  - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
