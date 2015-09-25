@@ -7,12 +7,19 @@ Then **God** made a **covenant** with **Abram**. A covenant is an agreement betw
 Entonces**, Dios** hizo un **pacto ** con Abram. Un pacto es un acuerdo entre dos partes. Dios le dijo, “Yo te daré a un hijo de su propio cuerpo. Te doy la tierra de **Canaan** a tus** decendientes**.” Pero** Abram ** todavía no tenía un** hijo**.
 ===== Important Terms: Términos Importantes: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:covenant|covenant]] (pacto)**
-  * **[[:es-419:obs:notes:key-terms:abraham|Abram]] (Abram)**
-  * **[[:es-419:obs:notes:key-terms:son|son]] (hijo)**
-  * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaan)**
-  * **[[:es-419:obs:notes:key-terms:descendant|descendants]] (descendientes)**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant(pacto)]]**
+  * **[[:es-419:obs:notes:key-terms:abraham|Abram (Abram)]]**
+  * **[[:es-419:obs:notes:key-terms:son|son (hijo)]]**
+  * **[[:es-419:obs:notes:key-terms:canaan|Canaan(Canaan)]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants (descendientes)]]**
+   
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/covenant|covenant (pacto)]]**
+  * **[[:es-419:obe:other/abraham|Abram (Abram)]]**
+  * **[[:es-419:obe:kt/son|son(hijo)]]**
+  * **[[:es-419:obe:other/canaan|Cannan (Canaan)]]**
+  * **[[:es-419:obe:other/descendant|descendanats (descendientes)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
