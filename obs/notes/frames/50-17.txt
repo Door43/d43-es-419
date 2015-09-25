@@ -8,13 +8,13 @@ Jesús y su gente vivrán en la nueva tierra, y él reinará para siempre sobre 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms:suffer|suffering]]**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms:death|death]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms:peace|peace]]**
-  * **[[:es-419:obs:notes:key-terms:justice|justice]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus (Jesus)]]**
+  * **[[:es-419:obs:notes:key-terms:suffer|suffering (sufrir)]]**
+  * **[[:es-419:obs:notes:key-terms:evil|evil (el mal)]]**
+  * **[[:es-419:obs:notes:key-terms:death|death (muerte)]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom (Reino de Dios)]]**
+  * **[[:es-419:obs:notes:key-terms:peace|peace (paz)]]**
+  * **[[:es-419:obs:notes:key-terms:justice|justice (justicia)]]**
 
   * **[[:es-419:obe:kt/Jesus]]**
   * **[[:es-419:obe:kt/suffer]]**
