@@ -8,10 +8,16 @@
 ===== Important Terms:Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]] **
-  * **[[:es-419:obs:notes:key-terms:bless|blessing (bendición)]]**
+  * **[[:es-419:obs:notes:key-terms:bless|blessing (benediction)]]**
   * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
+  
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:kt/bless|blessing (benediction)]]**
+  * **[[:es-419:obe:other/esau|Esau (Esau)]]**
+  * **[[:es-419:obe:other/Rebekah|Rebekah (Rebeca)]]**
+  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
 ===== Translation Notes: Notas de traducción =====
 
   * **give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
