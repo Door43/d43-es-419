@@ -12,6 +12,12 @@ Un día, **Abram** conoció a **Melquisedec,** el **sacerdote** del **Dios Más 
   * **[[:es-419:obs:notes:key-terms:god|God Most High (Dios Más Alto)]]**
   * **[[:es-419:obs:notes:key-terms:bless|blessed (bendijo) ]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven (cielo)]]**
+   
+  * **[[:es-419:obe:other/abraham|Abram (Abram)]]**
+  * **[[:es-419:obe:kt/priest|priest (sacerdote)]]**
+  * **[[:es-419:obe:kt/god|God Most High (Dios Más Alto)]]**
+  * **[[:es-419:obe:kt/bless|blessed (bendijo)]]**
+  * **[[:es-419:obe:kt/heaven|heaven (cielo)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
