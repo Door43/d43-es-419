@@ -13,6 +13,12 @@ Mientras Abraham e Isaac caminaron al lugar del sacrificio, Isaac preguntó, “
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice (sacrificio)]]**
   * **[[:es-419:obs:notes:key-terms:lamb|lamb (cordero)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
+  
+  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:other/sacrifice|sacrifice  (sacrificio)]]**
+  * **[[:es-419:obe:kt/lamb|lamb (cordero)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
