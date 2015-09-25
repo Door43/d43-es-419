@@ -8,13 +8,21 @@ Después de mucho tiempo, Abraham murió, y todas las promesas que Dios había h
 
 ===== Important Terms: Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:abraham|Abraham]] (Abraham)**
-  * **[[:es-419:obs:notes:key-terms:promise|promises]] (promesas)**
-  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:covenant|covenant]] (pacto)**
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] (Isaac)**
-  * **[[:es-419:obs:notes:key-terms:descendant|descendants]] (descendientes)**
-  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah]] (Rebeca)**
+  * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
+  * **[[:es-419:obs:notes:key-terms:promise|promises (promesas)]]**
+  * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant (pacto)]]**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants (descendientes)]]**
+  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
+ 
+  * **[[:es-419:obe:other/Abraham|Abraham (Abraham)]]**
+  * **[[:es-419:obe:kt/promise|promises  (promesas)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/covenant|covenant (pacto)]]**
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:other/descendant|descendants (descendientes)]]**
+  * **[[:es-419:obe:other/rebekah|Rebekah (Rebeca)]]**
 ===== Translation Notes: =====
 
   * **the promises … were passed on**  - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
