@@ -15,6 +15,15 @@ Muchos años pasaron, pero **Abram** y **Saraí**todavía no tenían a un **//hi
   * **[[:es-419:obs:notes:key-terms:descendant|descendants (descendientes)]]**
   * **[[:es-419:obs:notes:key-terms:believe|believed (creyó)]]**
   * **[[:es-419:obs:notes:key-terms:righteous|righteous (justo)]]**
+ 
+  * **[[:es-419:obe:other/Abraham|Abram (Abram)]]**
+  * **[[:es-419:obe:other/sarah|Sarai (Sara)]]**
+  * **[[:es-419:obe:kt/son|son (hijo)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/promise|promised (prometido)]]**
+  * **[[:es-419:obe:other/descendant|descendants (descendientes)]]**
+  * **[[:es-419:obe:kt/believe|believed (creyó)]]**
+  * **[[:es-419:obe:kt/righteous|righteous (justo)]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
