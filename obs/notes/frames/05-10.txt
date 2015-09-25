@@ -15,6 +15,15 @@ Entonces, Dios le dijo a Abraham, “Porque estabas dispuesto de darme todo, aun
   * **[[:es-419:obs:notes:key-terms:bless|bless (bendición)]]**
   * **[[:es-419:obs:notes:key-terms:descendant|descendants (descendiente)]]**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed (obedeció)]]**
+  
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
+  * **[[:es-419:obe:kt/son|son (hijo)]]**
+  * **[[:es-419:obe:kt/promise|promise(promesa)]]**
+  * **[[:es-419:obe:kt/bless|bless (bendición)]]**
+  * **[[:es-419:obe:other/descendant|descendants (descendiente)]]**
+  * **[[:es-419:obe:other/obey|obeyed (obedeció)]]**
+
 ===== Translation Notes: Notas de Traducción =====
 
   * **your only son**  - See explanation in **[[:es-419:obs:notes:frames:05-08|[05-08]]]**.
