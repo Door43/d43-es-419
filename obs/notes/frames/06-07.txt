@@ -7,10 +7,15 @@ When **Rebekah's babies were born**, **the older son** came out **red** and **ha
 Cuando nacieron los bebés de **Rebeca**, el hijo mayor salió rojo y peludo, y lo llamaron Esaú. Entonces el hijo menor salió aguantándose del calcañar de Esaú, y lo llamaron **Jacobo**.
 ===== Important Terms: Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah's]] (Rebeca)**
-  * **[[:es-419:obs:notes:key-terms:son|son]] (hijo)**
-  * **[[:es-419:obs:notes:key-terms:esau|Esau]] (Esaú)**
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
+  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah's (Rebeca)]]**
+  * **[[:es-419:obs:notes:key-terms:son|son (hijo)]]**
+  * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
+   
+  * **[[:es-419:obe:other/rebekah|Rebekah's (Rebeca)]]**
+  * **[[:es-419:obe:kt/son|son (hijo)]]**
+  * **[[:es-419:obe:other/esau|Esau (Esaú)]]**
+  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
 ===== Translation Notes: =====
 
   * **Rebekah's babies were born**  - Some languages have a more indirect way of saying this such as, "when Rebekah saw and took them" or, "when Rebekah brought them to light."
