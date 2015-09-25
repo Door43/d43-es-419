@@ -15,6 +15,15 @@ Jesús y su gente vivrán en la nueva tierra, y él reinará para siempre sobre 
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
   * **[[:es-419:obs:notes:key-terms:peace|peace]]**
   * **[[:es-419:obs:notes:key-terms:justice|justice]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/suffer]]**
+  * **[[:es-419:obe:kt/evil]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:kt/kingdomofgod]]**
+  * **[[:es-419:obe:other/peace]]**
+  * **[[:es-419:obe:kt/justice]]**
+
 ===== Translation Notes: =====
 
   * **wipe away every tear**  - This could also be translated as, "bring an end to all of our grief" or, "make trouble end" or, "tenderly take away any sadness people have."
