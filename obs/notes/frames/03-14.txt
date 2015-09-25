@@ -12,6 +12,12 @@ Después que ** Noé ** bajó de la barca, él edificó un ** altar ** y ** sacr
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrificed (sacrificó)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:bless|blessed (bendijo)]]**
+  
+  * **[[:es-419:obe:other/noah|Noah (Noé)]] **
+  * **[[:es-419:obe:other/altar|altar (altar)]]**
+  * **[[:es-419:obe:other/sacrifice|sacrificed (sacrificó)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:kt/bless|blessed (bendijo)]]**
 ===== Notas de Traducción: =====
 
   * **animal that could be used for a sacrifice**  - Another way to say this would be, "that people could use to sacrifice to him."
