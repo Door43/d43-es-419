@@ -10,6 +10,10 @@ Después de veinte años de estar lejos de su hogar en **Canaán, Jacobo** regre
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan (Canaán)]] **
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
   * **[[:es-419:obs:notes:key-terms:servant|servants (siervos)]]**
+  
+  * **[[:es-419:obe:other/canaan|Canaan (Canaán)]] **
+  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obe:other/servant|servants (siervos)]]**
 ===== Translation Notes: Notas de traduciión =====
 
   * **after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
