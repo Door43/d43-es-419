@@ -12,6 +12,12 @@ De cerca Abraham vió un carnero que estaba atrapado en un arbusto. Dios provey�
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice (sacrificio)]]**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+  
+  * **[[:es-419:obe:other/abraham|Abraham(Abraham)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/sacrifice|sacrifice (sacrificio)]]**
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+
 ===== Translation Notes: Notas de Traducción =====
 
   * **a ram**  - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
