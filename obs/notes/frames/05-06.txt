@@ -15,6 +15,15 @@ Cuando Isaac era un hombre joven, Dios probó la fe de Abraham diciendo, “Toma
   * **[[:es-419:obs:notes:key-terms:son|son (hijo)]]**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice (sacrificio)]]**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed (obedeció)]]**
+   
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/Abraham|Abraham's (Abraham)]]**
+  * **[[:es-419:obe:kt/faith|faith (fe)]]**
+  * **[[:es-419:obe:kt/son|son(hijo)]]**
+  * **[[:es-419:obe:other/sacrifice|sacrifice (sacrificio)]]**
+  * **[[:es-419:obe:other/obey|obeyed (obedeció)]]**
+  
 ===== Translation Notes: Notas de Traducción =====
 
   * **God tested Abraham's faith**  - God wanted Abraham to show that he was completely submitted to God, that he would obey whatever God told him to do.
