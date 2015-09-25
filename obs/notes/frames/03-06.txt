@@ -12,6 +12,10 @@
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
   * **[[:es-419:obs:notes:key-terms:noah|Noah (Noé)]]**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices (sacrificios)]]**
+   
+  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/noah|Noah (Noé)]]**
+  * **[[:es-419:obe:other/sacrifice|sacrifices (sacrificios)]]**
 ===== Translation Notes: =====
 
 ===== Notas de Traducción: =====
