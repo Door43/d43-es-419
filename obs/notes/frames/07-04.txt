@@ -11,6 +11,11 @@
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac(Isaac)]]**
   * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
   * **[[:es-419:obs:notes:key-terms:bless|bless(bendición)]]**
+ 
+  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obe:other/Isaac|Isaac (Isaac)]]**
+  * **[[:es-419:obe:other/esau|Esau (Esaú)]]**
+  * **[[:es-419:obe:kt/bless|bless bendición)]]**
 ===== Translation Notes: Notas de traducción =====
 
   * **Jacobo came to Isaac**  - In some languages it might be more natural to say, "Jacobo went to Isaac."
