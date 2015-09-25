@@ -7,10 +7,15 @@ As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**
 A medida que los niños crecieron, **Jacobo** le gustaba quedarse en la casa, pero **Esaú** le gustaba cazar. **Rebeca** amaba a Jacobo, pero **Isaac** amaba a **Esaú**.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
-  * **[[:es-419:obs:notes:key-terms:esau|Esau]] (Esaú)**
-  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah]] (Rebeca)**
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] (Isaac)**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
+  * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
+   
+  * **[[:es-419:obe:other/jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obe:other/esau||Esau (Esaú)]]**
+  * **[[:es-419:obe:other/rebekah|Rebekah (Rebeca)]]**
+  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
 ===== Translation Notes: =====
 
   * **loved to stay at home … loved to hunt**  - Some languages will use a word for "love" here that is different from the one used for, "Rebekah loved Jacob." For example, this could be translated as, "liked to stay at home … liked to hunt" or, "preferred to stay at home … preferred to hunt."
