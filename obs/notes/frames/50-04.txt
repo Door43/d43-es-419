@@ -15,6 +15,14 @@ Jesús también, dijo, “Un siervo no es mayor que su señor. Justo como las au
   * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
   * **[[:es-419:obs:notes:key-terms:faithful|faithful]]**
   * **[[:es-419:obs:notes:key-terms:save|save]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:kt/lord]]**
+  * **[[:es-419:obe:kt/suffer]]**
+  * **[[:es-419:obe:kt/satan]]**
+  * **[[:es-419:obe:kt/faithful]]**
+  * **[[:es-419:obe:kt/save]]**
 ===== Translation Notes: =====
 
   * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
