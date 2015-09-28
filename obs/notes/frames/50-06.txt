@@ -11,6 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:servant|servants]]**
   * **[[:es-419:obs:notes:key-terms:lord|Master]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
+
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:kt/lord]]**
+  * **[[:es-419:obe:kt/good]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
