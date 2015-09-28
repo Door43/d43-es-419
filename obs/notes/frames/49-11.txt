@@ -15,6 +15,14 @@ Jesús nunca pecó , pero él escogió ser castigado y matado como el sacrificio
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:other/punish]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:other/sacrifice]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/forgive]]**
 ===== Translation Notes: =====
 
   * **take away**  - That is, "remove the penalty of" or, "remove the punishment for." The sacrifice of Jesus causes God to look at our sin as if it never existed.
