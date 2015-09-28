@@ -12,6 +12,11 @@
   * **[[:es-419:obs:notes:key-terms:satan|devil]]**
   * **[[:es-419:obs:notes:key-terms:god|God's]]**
   * **[[:es-419:obs:notes:key-terms:angel|angels]]**
+
+  * **[[:es-419:obe:kt/evil]]**
+  * **[[:es-419:obe:kt/satan]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/angel]]**
 ===== Translation Notes: =====
 
   * **who belong to the evil one**  - That is, "who obey the evil one" or, "who are ruled by the evil one."
