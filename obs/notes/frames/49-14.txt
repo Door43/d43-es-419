@@ -18,6 +18,17 @@ Jesús nos invita que creamos en él y que seamos bautizados. ¿Cree Ud. que Jes
   * **[[:es-419:obs:notes:key-terms:punish|punish]]**
   * **[[:es-419:obs:notes:key-terms:death|died]]**
   * **[[:es-419:obs:notes:key-terms:cross|cross]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/believe]]**
+  * **[[:es-419:obe:kt/baptize]]**
+  * **[[:es-419:obe:kt/christ]]**
+  * **[[:es-419:obe:kt/sonofgod]]**
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/punish]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:kt/cross]]**
 ===== Translation Notes: =====
 
   * **believe in him**  - This can also be translated as, "trust in him" or, "trust in him to save you" or, "entrust your whole life to him."
