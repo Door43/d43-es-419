@@ -13,6 +13,12 @@ Si Ud. es un Cristiano, Dios le ha perdonado sus pecados por lo que Jesús hizo.
   * **[[:es-419:obs:notes:key-terms:forgive|forgiven]]**
   * **[[:es-419:obs:notes:key-terms:sin|sins]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:kt/christian]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/forgive]]**
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:kt/Jesus]]**
 ===== Translation Notes: =====
 
   * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
