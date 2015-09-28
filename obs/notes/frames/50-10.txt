@@ -14,6 +14,13 @@
   * **[[:es-419:obs:notes:key-terms:righteous|righteous]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
   * **[[:es-419:obs:notes:key-terms:god-father|God their Father]]**
+
+  * **[[:es-419:obe:kt/angel]]**
+  * **[[:es-419:obe:kt/satan]]**
+  * **[[:es-419:obe:kt/suffer]]**
+  * **[[:es-419:obe:kt/righteous]]**
+  * **[[:es-419:obe:kt/kingdomofgod]]**
+  * **[[:es-419:obe:kt/godthefather]]**
 ===== Translation Notes: =====
 
   * **who belong to the devil**  - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
