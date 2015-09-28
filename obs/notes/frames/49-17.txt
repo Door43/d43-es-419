@@ -18,6 +18,17 @@ Si es un amigo de Dios y un siervo de Jesús el Señor, va a querer obedecer lo 
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
   * **[[:es-419:obs:notes:key-terms:faithful|faithful]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
+
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/lord]]**
+  * **[[:es-419:obe:other/obey]]**
+  * **[[:es-419:obe:kt/christian]]**
+  * **[[:es-419:obe:kt/tempt]]**
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:kt/faithful]]**
+  * **[[:es-419:obe:kt/forgive]]**
 ===== Translation Notes: =====
 
   * **be tempted to sin**  - That is, ""be tempted to sin even though you know sin is wrong."
