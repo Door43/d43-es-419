@@ -15,6 +15,14 @@ If you **believe** in **Jesus** and what he has done for you, you are a **Christ
   * **[[:es-419:obs:notes:key-terms:satan|Satan's]]**
   * **[[:es-419:obs:notes:key-terms:kingdom|kingdom]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|God's kingdom]]**
+
+  * **[[:es-419:obe:kt/believe]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/christian]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/satan]]**
+  * **[[:es-419:obe:other/kingdom]]**
+  * **[[:es-419:obe:kt/kingdomofgod]]**
 ===== Translation Notes: =====
 
   * **Satan's kingdom of darkness**  - "Darkness" is used here to refer to sin and everything that is evil. This could be translated as, "Satan's evil rule over people, which is like darkness."
