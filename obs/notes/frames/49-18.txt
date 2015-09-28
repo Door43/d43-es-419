@@ -13,6 +13,12 @@ Dios le dice que ore, estudie su palabra, adórele con otros Cristianos, y diga 
   * **[[:es-419:obs:notes:key-terms:word-of-god|his word]]**
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
   * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
+
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/pray]]**
+  * **[[:es-419:obe:kt/wordofgod]]**
+  * **[[:es-419:obe:kt/worship]]**
+  * **[[:es-419:obe:kt/christian]]**
 ===== Translation Notes: =====
 
   * **to have a deeper relationship with him**  - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
