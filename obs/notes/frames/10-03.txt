@@ -1,4 +1,4 @@
-===== The Water Became Blood [10-03] / El Agua se convirtió en Sangre [10-03] =====
+===== The Water Became Blood [10-03] / El Agua se convirtió en Sangre [10-03]  *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
@@ -14,5 +14,5 @@
 ==== Translation Notes: ====
 
   * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-  * **convirtió el Río Nilo en sangre:**  En algunos idiomas se podría decir: "convirtió las agua del Río Nilo en sangre". En vez de haber agua en el río, había sangre; así que todos los peces murieron y la gente no tenía agua para beber.
+  * **convirtió el Río Nilo en sangre:**  En algunos idiomas se podría decir: "convirtió el agua del Río Nilo en sangre". En vez de haber agua en el río, había sangre; así que todos los peces murieron y la gente no tenía agua para beber.
 **[[:es-419:obs:notes:frames:10-02|<<]] | [[:es-419:obs:notes:10|Up]] | [[:es-419:obs:notes:frames:10-04|>>]]**
