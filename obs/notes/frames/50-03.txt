@@ -14,6 +14,13 @@ Muchos grupos de personas todavía no han escuchado acerca de Jesús. Antes de v
   * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:other/peoplegroup]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/heaven]]**
+  * **[[:es-419:obe:kt/christian]]**
+  * **[[:es-419:obe:kt/goodnews]]**
+  * **[[:es-419:obe:kt/disciple]]**
 ===== Translation Notes: =====
 
   * **make disciples**  - This has the meaning, "help people to become my disciples."
