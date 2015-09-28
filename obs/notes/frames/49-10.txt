@@ -16,6 +16,15 @@ Por su pecado, Ud. está culpable y merece morir. Dios debería estar enojado co
   * **[[:es-419:obs:notes:key-terms:cross|cross]]**
   * **[[:es-419:obs:notes:key-terms:receive|received]]**
   * **[[:es-419:obs:notes:key-terms:punish|punishment]]**
+
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:kt/guilt]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/cross]]**
+  * **[[:es-419:obe:kt/receive]]**
+  * **[[:es-419:obe:other/punish]]**
 ===== Translation Notes: =====
 
   * **Because of your sin**  - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
