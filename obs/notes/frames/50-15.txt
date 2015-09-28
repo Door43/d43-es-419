@@ -14,6 +14,14 @@ Cuando Jesús vuelve, él destuirá a Satanás completamente y su reino. El tira
   * **[[:es-419:obs:notes:key-terms:hell|hell]]**
   * **[[:es-419:obs:notes:key-terms:obey|obey]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/satan]]**
+  * **[[:es-419:obe:other/kingdom]]**
+  * **[[:es-419:obe:kt/hell]]**
+  * **[[:es-419:obe:other/obey]]**
+  * **[[:es-419:obe:kt/god]]**
+
 ===== Translation Notes: =====
 
   * **his kingdom**  - This could also be translated as, "Satan's evil rule over people" or, "all the evil things he does and the evil people he controls."
