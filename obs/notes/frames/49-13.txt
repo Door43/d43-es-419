@@ -15,6 +15,14 @@ Not translated.
   * **[[:es-419:obs:notes:key-terms:receive|receives]]**
   * **[[:es-419:obs:notes:key-terms:lord|Master]]**
   * **[[:es-419:obs:notes:key-terms:love|loves]]**
+
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/save]]**
+  * **[[:es-419:obe:kt/believe]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/receive]]**
+  * **[[:es-419:obe:kt/lord]]**
+  * **[[:es-419:obe:kt/love]]**
 ===== Translation Notes: =====
 
   * **he can have a close relationship with you**  - This can also be translated as, "so that you can be his child" or, "so that you can be his friend" or, "so you can belong to him."
