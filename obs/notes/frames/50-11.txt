@@ -12,6 +12,11 @@ Jesús también, dijo que él regresará a la tierra antes que se acaba el mundo
   * **[[:es-419:obs:notes:key-terms:christian|Christian]]**
   * **[[:es-419:obs:notes:key-terms:death|died]]**
   * **[[:es-419:obs:notes:key-terms:raise|rise]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/christian]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:kt/raise]]**
 ===== Translation Notes: =====
 
   * **he left**  - This could also be translated as, "he left the earth" or, "he left to go back to heaven."
