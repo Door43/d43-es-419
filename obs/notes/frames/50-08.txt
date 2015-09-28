@@ -13,6 +13,12 @@ Los discípulos no entendieron el sentir de la historia, así, ellos preguntaron
   * **[[:es-419:obs:notes:key-terms:good|good]]**
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|God's kingdom]]**
+
+  * **[[:es-419:obe:kt/disciple]]**
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/good]]**
+  * **[[:es-419:obe:kt/christ]]**
+  * **[[:es-419:obe:kt/kingdomofgod]]**
 ===== Translation Notes: =====
 
   * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
