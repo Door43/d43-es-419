@@ -15,6 +15,14 @@ Porque Adán y Eva desobedecieron a Dios y trajeron el pecado a este mundo, Dios
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
   * **[[:es-419:obs:notes:key-terms:curse|cursed]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+
+  * **[[:es-419:obe:other/adam]]**
+  * **[[:es-419:obe:other/eve]]**
+  * **[[:es-419:obe:other/disobey]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/sin]]**
+  * **[[:es-419:obe:kt/curse]]**
+  * **[[:es-419:obe:kt/heaven]]**
 ===== Translation Notes: =====
 
   * **brought sin into**  - This could be translated as, "caused sin to enter."
