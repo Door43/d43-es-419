@@ -15,6 +15,14 @@ Mientras esperamos el regreso de Jesús, Dios quiere que vivamos en una manera q
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:preach|preach]]**
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+
+  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/holy]]**
+  * **[[:es-419:obe:kt/kingdomofgod]]**
+  * **[[:es-419:obe:kt/disciple]]**
+  * **[[:es-419:obe:other/preach]]**
+  * **[[:es-419:obe:kt/goodnews]]**
 ===== Translation Notes: =====
 
   * **the end will come**  - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
