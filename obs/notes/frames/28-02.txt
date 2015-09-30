@@ -11,6 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:adultery|adultery]]**
   * **[[:es-419:obs:notes:key-terms:love|love]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:adultery|adultery]]**
+  * **[[:es-419:obe:kt:love|love]]**
 ===== Translation Notes: =====
 
   * **Which ones do I need to obey?**  - That is, "Which laws will be enough for me to receive eternal life?
