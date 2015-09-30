@@ -11,6 +11,10 @@ Entonces, Jesús se fue por toda la región de Galilea, y grandes multitudes vin
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
   * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:galilee|Galilee]]**
+  * **[[:es-419:obe:other:heal|healed]]**
 ===== Translation Notes: =====
 
   * **went throughout the region of Galilee**  - That is, "all around in Galilee" or, "from place to place in Galilee."
