@@ -10,6 +10,9 @@ Entonces, Jesús pidió al experto de la ley, “¿Qué piensa?” “¿Cuál de
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:mercy|merciful]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:mercy|merciful]]**
 ===== Translation Notes: =====
 
   * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
