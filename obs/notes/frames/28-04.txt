@@ -10,6 +10,9 @@ Jesús le respondió: “Si quieres ser perfecto, anda, vende entonces, todo lo 
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
 ===== Translation Notes: =====
 
   * **you**  - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
