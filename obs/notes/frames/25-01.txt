@@ -8,15 +8,15 @@ Inmediatamente después de que Jesús fue bautizado, el Espíritu Santo lo llev�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/baptize|baptized]]**
-  * **[[:es-419:obs:notes:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:es-419:obs:notes:key-terms/fast|fasted]]**
-  * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
-  * **[[:es-419:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:es-419:obs:notes:key-terms/sin|sin]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
+  * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+  * **[[:es-419:obs:notes:key-terms:fast|fasted]]**
+  * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
+  * **[[:es-419:obs:notes:key-terms:tempt|tempted]]**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
 
-  * **[[:es-419:obe:kt/Jesus]]**
 ===== Translation Notes: =====
 
   * **the Holy Spirit led him**  - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
