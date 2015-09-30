@@ -12,6 +12,11 @@ Jesús respondió al experto de la ley por contar una historia. “Había un hom
   * **[[:es-419:obs:notes:key-terms:jew|Jewish]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:jericho|Jericho]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:jew|Jewish]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:other:jericho|Jericho]]**
 ===== Translation Notes: =====
 
   * **(The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)**
