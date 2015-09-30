@@ -14,6 +14,13 @@ Jesús decía: “Dios me ha dado su Espíritu para que yo pueda dar buenas nuev
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
   * **[[:es-419:obs:notes:key-terms:isaiah|Isaiah]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:nazareth|Nazareth]]**
+  * **[[:es-419:obe:kt:sabbath|Sabbath]]**
+  * **[[:es-419:obe:kt:worship|worship]]**
+  * **[[:es-419:obe:kt:prophet|prophet]]**
+  * **[[:es-419:obe:other:isaiah|Isaiah]]**
 ===== Translation Notes: =====
 
   * **place of worship**  - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
