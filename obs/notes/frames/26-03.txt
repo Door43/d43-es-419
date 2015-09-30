@@ -12,6 +12,11 @@ Entonces, Jesús se sentó. Todo el mundo lo observaba de cerca. Sabían que el 
   * **[[:es-419:obs:notes:key-terms:holy-spirit|Spirit]]**
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
   * **[[:es-419:obs:notes:key-terms:lord|Lord's]]**
+
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:holyspirit|Spirit]]**
+  * **[[:es-419:obe:kt:goodnews|good news]]**
+  * **[[:es-419:obe:kt:lord|Lord's]]**
 ===== Translation Notes: =====
 
   * **proclaim good news to the poor**  - That is, "to tell poor and needy people the good message that God will help them."
