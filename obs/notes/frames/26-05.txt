@@ -14,6 +14,13 @@ Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había muc
   * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:true|true]]**
+  * **[[:es-419:obe:kt:prophet|prophet]]**
+  * **[[:es-419:obe:other:elijah|Elijah]]**
+  * **[[:es-419:obe:other:israel|Israel]]**
+  * **[[:es-419:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **no prophet is accepted in his hometown**  - This phrase means, "people do not recognize the authority of a prophet that has grown up among them."
