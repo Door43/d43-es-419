@@ -11,6 +11,10 @@ Jesús miró a los discípulos y les dijo: “Con la gente esto es imposible, m�
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+  * **[[:es-419:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
   * **With people this is impossible**  - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
