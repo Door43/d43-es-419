@@ -10,6 +10,9 @@
 
   * **[[:es-419:obs:notes:key-terms:samaria|Samaritan]]**
   * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
+
+  * **[[:es-419:obe:other:samaria|Samaritan]]**
+  * **[[:es-419:obe:other:jew|Jews]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
