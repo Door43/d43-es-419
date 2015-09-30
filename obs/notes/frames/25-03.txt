@@ -12,7 +12,9 @@ Jesús le respondió: “Está escrito en la palabra de Dios,” La gente no só
   * **[[:es-419:obs:notes:key-terms/word-of-god|God's word]]**
   * **[[:es-419:obs:notes:key-terms/god|God]]**
 
-
+  * **[[:es-419:obe:kt/jesus|Jesus]]**
+  * **[[:es-419:obe:kt/wordofgod|God's word]]**
+  * **[[:es-419:obe:kt/god|]]**
 ===== Translation Notes: =====
 
   * **bread**  - Make sure that you use the same word to translate "bread" here as you did in **[[:es-419:obs:notes:frames:25-02|[25-02]]]**.
