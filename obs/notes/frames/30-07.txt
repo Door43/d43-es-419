@@ -1,6 +1,6 @@
 ===== Jesus Blessed the Food [30-07] =====
 
-<font 20px/inherit;;inherit;;inherit>** Jesús Bendijo los Alimentos [30-07] **</font>
+** Jesús Bendijo los Alimentos [30-07] **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&}}
 
@@ -13,6 +13,12 @@ Entonces, Jesús tomó los cinco panes y los dos peces, alzó la mirada al cielo
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
+  * **[[:es-419:obe:kt:god|God]]**
+
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
