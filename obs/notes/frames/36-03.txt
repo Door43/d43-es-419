@@ -14,6 +14,14 @@ Entonces, Moises y el profeta Elías aparecieron. Estos hombres habían vivido e
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:death|death]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
+
+  * **[[:es-419:obe:other:moses|Moses]]**
+  * **[[:es-419:obe:kt:prophet|prophet]]**
+  * **[[:es-419:obe:other:elijah|Elijah]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:death|death]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+ 
 ===== Translation Notes: =====
 
   * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
