@@ -10,6 +10,11 @@
   * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
   * **[[:es-419:obs:notes:key-terms:joy|joy]]**
   * **[[:es-419:obs:notes:key-terms:persecute|persecution]]**
+
+  * **[[:es-419:obe:kt:wordofgod|God's word]]**
+  * **[[:es-419:obe:kt:joy|joy]]**
+  * **[[:es-419:obe:other:persecute|persecution]]**
+  
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
