@@ -1,6 +1,6 @@
 ===== Jesus Walked on the Water [31-03] =====
 
-<font 20px/inherit;;inherit;;inherit>** Jesús Caminó sobre el Agua [31-03]  **</font>
+** Jesús Caminó sobre el Agua [31-03]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
@@ -12,6 +12,11 @@ Entonces, **Jesús ** terminó de **orar ** y fue a los **discípulos**. ¡El ca
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:pray|pray]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+  * **[[:es-419:obe:other:pray|pray]]**
+
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
