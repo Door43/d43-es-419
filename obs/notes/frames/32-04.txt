@@ -1,6 +1,6 @@
 ===== Living among the Tombs [32-04] =====
 
-<font 20px/inherit;;inherit;;inherit>** Viviendo entre las Tumbas [32-04]  **</font>
+** Viviendo entre las Tumbas [32-04]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
@@ -10,6 +10,10 @@ El hombre vivía en los **sepulcros ** en el área. Este hombre gritaba todo el 
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:tomb|tombs]]**
+
+
+  * **[[:es-419:obe:other:tomb|tombs]]**
+
 ===== Translation Notes: =====
 
   * **among the tombs**  - That is "near the tombs" or, "around the tombs."
