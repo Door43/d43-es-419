@@ -14,6 +14,14 @@ Cuando Jesús llegó al pueblo de Lázaro, Lázaro ya tenía cuatro días de est
   * **[[:es-419:obs:notes:key-terms:lord|Master]]**
   * **[[:es-419:obs:notes:key-terms:believe|believe]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:lazarus|Lazarus]]***
+  * **[[:es-419:obe:kt:death|dead]]**
+  * **[[:es-419:obe:kt:lord|Master]]**
+  * **[[:es-419:obe:kt:believe|believe]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  
 ===== Translation Notes: =====
 
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
