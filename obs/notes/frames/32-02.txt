@@ -1,6 +1,6 @@
 ===== A Man with Evil Spirits [32-02] =====
 
-<font 20px/inherit;;inherit;;inherit>** Un Hombre con Espíritu Malo [32-02]  **</font>
+** Un Hombre con Espíritu Malo [32-02]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
@@ -11,6 +11,11 @@ Cuando ellos llegaron al otro lado del lago, un hombre **endemoniado ** vino cor
 
   * **[[:es-419:obs:notes:key-terms:demon-possessed|demon-possessed]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:kt:demonpossessed|demon-possessed]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+
+
 ===== Translation Notes: =====
 
   * **a demon-possessed man**  - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
