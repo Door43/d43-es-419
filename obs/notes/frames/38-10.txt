@@ -12,6 +12,12 @@ Entonces, Pedro dijo a Jesús, “¡Aun si debo morir, nunca le niegue a Ud.!”
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:death|die]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:other:peter|Peter]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:death|die]]**
+  * **[[:es-419:obe:other:disciple|disciples]]**
+
 ===== Translation Notes: =====
 
   * **deny you**  - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
