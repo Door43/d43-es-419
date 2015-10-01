@@ -1,6 +1,6 @@
 ===== Jesus Left [32-10] =====
 
-<font 20px/inherit;;inherit;;inherit>** Jesús se marchó [32-10]  **</font>
+** Jesús se marchó [32-10]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?nolink&}}
 
@@ -11,6 +11,10 @@ La gente tenía miedo y **pidió**a **Jesús ** que se fuera. Así, Jesús subi�
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:beg|begged]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:beg|begged]]**
+
 ===== Translation Notes: =====
 
   * **people**  - Some languages may prefer to say, "people from that region" or, "the Gerasene people."
