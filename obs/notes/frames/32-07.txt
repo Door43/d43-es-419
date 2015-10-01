@@ -1,6 +1,6 @@
 ===== The Herd of Pigs [32-07] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Manada de Cerdo [32-07]  **</font>
+** La Manada de Cerdo [32-07]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink&}}
 
@@ -12,6 +12,11 @@ Los **demonios rogaron ** a **Jesús**, “¡Por favor, no nos envíe fuera de e
   * **[[:es-419:obs:notes:key-terms:demon|demons]]**
   * **[[:es-419:obs:notes:key-terms:beg|begged]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:kt:demon|demons]]**
+  * **[[:es-419:obe:other:beg|begged]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+
 ===== Translation Notes: =====
 
   * **do not send us**  - That is, "do not make us go."
