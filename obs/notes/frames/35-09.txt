@@ -11,6 +11,12 @@
   * **[[:es-419:obs:notes:key-terms:son|son]]**
   * **[[:es-419:obs:notes:key-terms:death|dead]]**
   * **[[:es-419:obs:notes:key-terms:life|alive]]**
+
+  * **[[:es-419:obe:other:servant|servants]]**
+  * **[[:es-419:obe:kt:son|son]]**
+  * **[[:es-419:obe:kt:death|dead]]**
+  * **[[:es-419:obe:kt:life|alive]]**
+
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
