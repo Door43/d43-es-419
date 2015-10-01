@@ -1,6 +1,6 @@
 ===== Five Loaves and Two Fish [30-05] =====
 
-<font 20px/inherit;;inherit;;inherit>** Cinco Panes y dos Peces [30-05]  **</font>
+** Cinco Panes y dos Peces [30-05]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
@@ -12,6 +12,9 @@ Pero Jesús dijo a los discípulos: “¡ Dénles Ustedes. de comer!” Ellos re
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **How can we do that?**  - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
