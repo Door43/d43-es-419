@@ -11,6 +11,12 @@ Esta historia confundió a los **discípulos**. Así, **Jesús ** les explicó. 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:word-of-god|word of God]]**
   * **[[:es-419:obs:notes:key-terms:satan|devil]]**
+ 
+  * **[[:es-419:obe:kt:disciple|discipes]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God]]**
+  * **[[:es-419:obe:kt:satan|devil]]**
+
 ===== Translation Notes: =====
 
   * **This story confused the disciples.**  - That is, "The disciples did not understand this story."
