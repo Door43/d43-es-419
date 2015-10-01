@@ -18,7 +18,7 @@
   * **[[:es-419:obe:other:taxcollector|tax collector]]**
   * **[[:es-419:obe:other:jewishleaders|religious leader]]**
   * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:other:heal|heaed]]**
+  * **[[:es-419:obe:other:heal|healed]]**
   * **[[:es-419:obe:other:pray|prayed]]**
   * **[[:es-419:obe:kt:god|God]]**
   * **[[:es-419:obe:kt:mercy|merciful]]**
