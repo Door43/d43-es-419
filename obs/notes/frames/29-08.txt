@@ -13,6 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:forgive|forgave]]**
   * **[[:es-419:obs:notes:key-terms:beg|begged]]**
   * **[[:es-419:obs:notes:key-terms:evil|wicked]]**
+
+  * **[[:es-419:obe:other|king]]**
+  * **[[:es-419:obe:other|servant]]**
+  * **[[:es-419:obe:kt:forgive|forgave]]**
+  * **[[:es-419:obe:kt:beg|begged]]**
+  * **[[:es-419:obe:kt:evil|wicked]]
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
