@@ -10,6 +10,11 @@ Un día, **Jesús ** estaba enseñado a muchos **cobradores de impuestos ** y ot
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:tax-collector|tax collectors]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinners]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:taxcollector|tax collector]]**
+  * **[[:es-419:obe:kt:sin|sinners]]**
+
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
