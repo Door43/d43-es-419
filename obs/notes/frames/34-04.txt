@@ -9,6 +9,10 @@
 
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
   * **[[:es-419:obs:notes:key-terms:joy|joy]]**
+
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God]]**
+  * **[[:es-419:obe:kt:joy|joy]]**
+
 ===== Translation Notes: =====
 
   * (Jesus told another story.)
