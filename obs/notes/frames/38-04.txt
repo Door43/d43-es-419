@@ -13,6 +13,13 @@ En Jerusalén, Jesús celebró la Pascua con sus discípulos. Durante la cena de
   * **[[:es-419:obs:notes:key-terms:passover|Passover]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrificed]]**
+
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:passover|Passover]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+  * **[[:es-419:obe:other:sacrifice|sacrificed]]**
+
 ===== Translation Notes: =====
 
   * **celebrated**  - That is, "was celebrating."
