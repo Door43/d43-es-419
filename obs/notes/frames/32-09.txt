@@ -1,6 +1,6 @@
 ===== The Man Was Healed [32-09] =====
 
-<font 20px/inherit;;inherit;;inherit>** El Hombre fue Sanado [32-09]  **</font>
+** El Hombre fue Sanado [32-09]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
@@ -11,6 +11,10 @@ Cuando la gente que cuidaron los cerdos vio lo que pasó, ellos corrieron al pue
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:demon|demons]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:demon|demons]]**
+  
 ===== Translation Notes: =====
 
   * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
