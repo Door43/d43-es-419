@@ -1,6 +1,6 @@
 ===== Go Home [32-11] =====
 
-<font 20px/inherit;;inherit;;inherit>** Ir a Casa [32-11]  **</font>
+** Ir a Casa [32-11]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-11.jpg?nolink&}}
 
@@ -12,6 +12,10 @@ Pero **Jesús ** le dijo, “No, quiero que vaya a su casa y diga a sus amigos y
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:mercy|mercy]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:mercy|mercy]]**
 ===== Translation Notes: =====
 
   * **how he has had mercy on you**  - This can be translated as, "how he has shown mercy to you" or, "that he has been merciful to you."
