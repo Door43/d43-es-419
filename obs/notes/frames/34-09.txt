@@ -14,6 +14,15 @@
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:mercy|merciful]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinner]]**
+
+  * **[[:es-419:obe:other:taxcollector|tax collector]]**
+  * **[[:es-419:obe:other:jewishleaders|religious leader]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
+  * **[[:es-419:obe:other:heal|heaed]]**
+  * **[[:es-419:obe:other:pray|prayed]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:mercy|merciful]]**
+  * **[[:es-419:obe:kt:sin|sinner]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
