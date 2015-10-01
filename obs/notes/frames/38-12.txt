@@ -17,6 +17,17 @@ Jesús oró tres veces, “Padre mío, si es posible, por favor, deje que no ten
   * **[[:es-419:obs:notes:key-terms:blood|blood]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:angel|angel]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:pray|prayed]]**
+  * **[[:es-419:obe:kt:godthefather|My father]]**
+  * **[[:es-419:obe:kt:suffer|suffering]]**
+  * **[[:es-419:obe:kt:sin|sins]]**
+  * **[[:es-419:obe:kt:forgive|forgiven]]**
+  * **[[:es-419:obe:kt:blood|blood]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:angel|angel]]**
+ 
 ===== Translation Notes: =====
 
   * **drink this cup of suffering**  - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
