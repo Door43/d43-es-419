@@ -1,6 +1,6 @@
 ===== Healed by Faith [32-16] =====
 
-<font 20px/inherit;;inherit;;inherit>** Sanado por Fe [32-16]  **</font>
+** Sanado por Fe [32-16]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
@@ -13,6 +13,14 @@ La mujer se puso de rodillas ante **Jesús**, temblando y muy temerosa. Entonces
   * **[[:es-419:obs:notes:key-terms:faith|faith]]**
   * **[[:es-419:obs:notes:key-terms:heal|healed]]**
   * **[[:es-419:obs:notes:key-terms:peace|peace]]**
+
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:faith|faith]]**
+  * **[[:es-419:obe:other:heal|healed]]**
+  * **[[:es-419:obe:other:peace|peace]]**
+  * **[[:es-419:obe:other:heal|heaed]]**
+
 ===== Translation Notes: =====
 
   * **fell on her knees**  - That is, "quickly knelt down."
