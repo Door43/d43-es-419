@@ -10,6 +10,11 @@
   * **[[:es-419:obs:notes:key-terms:good|good]]**
   * **[[:es-419:obs:notes:key-terms:word-of-god|word of God]]**
   * **[[:es-419:obs:notes:key-terms:believe|believes]]**
+
+  * **[[:es-419:obe:kt:good|good]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God]]**
+  * **[[:es-419:obe:kt:believe|believes]]**
+
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
