@@ -1,6 +1,6 @@
 ===== The Storm [31-02] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Tormenta [31-02]  **</font>
+** La Tormenta [31-02]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
@@ -10,7 +10,9 @@
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+
 ===== Translation Notes: =====
 
   * **Meanwhile**  - That is, "while Jesus was praying on the mountainside."
