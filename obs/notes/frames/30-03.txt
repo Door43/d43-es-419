@@ -12,6 +12,12 @@ La multitud tenía más de 5.000 hombres en ella, sin contar las mujeres y los n
   * **[[:es-419:obs:notes:key-terms:sheep|sheep]]**
   * **[[:es-419:obs:notes:key-terms:shepherd|shepherd]]**
   * **[[:es-419:obs:notes:key-terms:heal|healed]]**
+
+  * **[[:es-419:obe:kt:jesus:|Jesus]]**
+  * **[[:es-419:obe:other:sheep|sheep]]**
+  * **[[:es-419:obe:other:shepherd|shepherd]]**
+  * **[[:es-419:obe:other:heal|healed]]**
+
 ===== Translation Notes: =====
 
   * **not counting the women and children**  - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
