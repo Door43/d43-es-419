@@ -1,6 +1,6 @@
 ===== Who Touched Me? [32-15] =====
 
-<font 20px/inherit;;inherit;;inherit>** Quien Me Toco? [32-15]  **</font>
+** Quien Me Toco? [32-15]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
@@ -12,6 +12,11 @@ Inmediatamente, **Jesús ** se dio cuenta que **poder ** había salido de él. A
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:power|power]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:power|power]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **power had gone out from him**  - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
