@@ -8,6 +8,9 @@
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:fast|fast]]**
+
+  * **[[:es-419:obe:other:fast|fast]]**
+
 ===== Translation Notes: =====
 
   * (Jesus continues to tell of the religious leader's prayer.)
