@@ -1,6 +1,6 @@
 ===== Everyone Ate [30-08] =====
 
-<font 20px/inherit;;inherit;;inherit>** Todos Comieron [30-08] **</font>
+** Todos Comieron [30-08] **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
@@ -12,6 +12,10 @@ Entonces, Jesús partió el pan y el pescado en trozos. Él dio los pedazos a su
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * **broke the bread and the fish**  - That is, "tore the bread and the fish."
