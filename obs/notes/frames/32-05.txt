@@ -1,6 +1,6 @@
 ===== Jesus Commanded the Demons [32-05] =====
 
-<font 20px/inherit;;inherit;;inherit>** Jesús Ordenó a los  **</font>    ** <font 20px/inherit;;inherit;;inherit>Demonios [32-05]</font>    **
+** Jesús Ordenó a los  **    ** Demonios [32-05]    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-05.jpg?nolink&}}
 
@@ -11,6 +11,9 @@ Cuando el hombre llegó a **Jesús**, se cayó de rodillas ante él. Jesús dijo
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:demon|demon]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:demon|demon]]** 
 ===== Translation Notes: =====
 
   * **fell on his knees**  - That is, "quickly knelt down on the ground."
