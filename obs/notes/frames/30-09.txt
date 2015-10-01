@@ -1,6 +1,6 @@
 ===== More than Enough [30-09] =====
 
-<font 20px/inherit;;inherit;;inherit>** Mas que suficiente [30-09] **</font>
+** Mas que suficiente [30-09] **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
@@ -11,6 +11,8 @@ After that, the **disciples** collected the food that had not been eaten and it 
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:kt:disciple|disciples]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
