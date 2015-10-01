@@ -1,6 +1,6 @@
 ===== My Name Is Legion [32-06] =====
 
-<font 20px/inherit;;inherit;;inherit>** Mi Nombre es Legión [32-06]  **</font>
+** Mi Nombre es Legión [32-06]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
@@ -13,6 +13,9 @@ El** hombre con el demonio ** gritó con una voz alta, “¿Que quiere conimgo ,
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son]]**
   * **[[:es-419:obs:notes:key-terms:god|Most High God]]**
+
+
+  * **[[:es-419:obe:kt:demonpossessed|man with the demon]]**
 ===== Translation Notes: =====
 
   * **cried out**  - That is, "shouted" or, "exclaimed."
