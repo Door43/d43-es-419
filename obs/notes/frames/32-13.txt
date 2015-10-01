@@ -1,6 +1,6 @@
 ===== The Sick Woman [32-13] =====
 
-<font 20px/inherit;;inherit;;inherit>** La Mujer Enferma [32-13]  **</font>
+** La Mujer Enferma [32-13]  **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
@@ -11,6 +11,10 @@
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:heal|heal]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:heal|healed]]**
+
 ===== Translation Notes: =====
 
   * **pressed in on him**  - That is, "pushed tightly against him" or, "crowded in tightly around him."
