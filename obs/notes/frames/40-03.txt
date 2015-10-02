@@ -11,6 +11,11 @@ Los soldados apostaron por la ropa de Jesús. Cuando lo hicieron, cumplieron la 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus']]**
   * **[[:es-419:obs:notes:key-terms:fulfill|fulfilled]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophecy]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus']]**
+  * **[[:es-419:obe:kt:fulfill|fulfilled]]**
+  * **[[:es-419:obe:kt:prophecy|prophecy]]**
+ 
 ===== Translation Notes: =====
 
   * **gambled for Jesus' clothing**  - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
