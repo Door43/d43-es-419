@@ -14,6 +14,14 @@ Entonces, José y Nicodemo, dos líderes de los Judios que creían que Jesús er
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+
+  * **[[:es-419:obe:other:jewishleader|Jewish leaders]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:christ|Messiah]]**
+  * **[[:es-419:obe:other:pilate|Pilate]]**
+  * **[[:es-419:obe:other:tomb|tomb]]**
+ 
 ===== Translation Notes: =====
 
   * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
