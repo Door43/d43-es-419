@@ -10,6 +10,10 @@ Aunque **Jacobo** era un hombre viejo, él se mudó a **Egipto** con toda su fam
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendijo)**
+
+  * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]] **
+  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]] **
+  * **[[:es-419:obe:kt:bless|blessed  (bendijo)]] **
 ==== Translation Notes: Notas de Traducción ====
 
   * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
