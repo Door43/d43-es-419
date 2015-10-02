@@ -12,6 +12,12 @@ De repente, hubo un gran terremoto. Un ángel que brillaba como un relámpago ap
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
   * **[[:es-419:obs:notes:key-terms:death|dead]]**
+
+  * **[[:es-419:obe:kt:angel|angel]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
+  * **[[:es-419:obe:other:tomb|tomb]]**
+  * **[[:es-419:obe:kt:dead|dead]]**
+
 ===== Translation Notes: =====
 
   * **great earthquake**  - This could also be translated as, "violent earthquake" or, "forceful shaking of the ground." Some languages may prefer to reword this as, "the ground began to shake violently."
