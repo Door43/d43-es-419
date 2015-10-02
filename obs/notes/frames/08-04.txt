@@ -13,6 +13,13 @@ Los traficantes de **esclavos** llevaron a **José** a **Egipto**. **Egipto ** e
   * **[[:es-419:obs:notes:key-terms:nile-river|Nile River]] (Río Nilo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendijo)**
+
+  * **[[:es-419:obe:other:servant|slave (esclavo)]] **
+  * **[[:es-419:obe:other:josephnt|Joseph (José)]]  **
+  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]]  **
+  * **[[:es-419:obe:other:nileriver|Nile River (Río Nilo)]]  **
+  * **[[:es-419:obe:kt:god|God (Dios)]]  **
+  * **[[:es-419:obe:kt:bless|blessed (bendijo)]]  **
 ==== Translation Notes:  Notas de traducción ====
 
   * **government official**  - This was a person who was part of the Egyptian government. Another way to say this would be, "a leader in Egypt's government."
