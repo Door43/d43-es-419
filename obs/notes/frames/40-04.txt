@@ -15,6 +15,16 @@ Jesús fue crucificado entre dos ladrones. Uno de ellos se burló de Jesús, per
   * **[[:es-419:obs:notes:key-terms:guilt|guilty]]**
   * **[[:es-419:obs:notes:key-terms:innocent|innocent]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:crucify|crucified]]**
+  * **[[:es-419:obe:kt:mock|mocked]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:guilt|guilty]]**
+  * **[[:es-419:obe:kt:innocent|innocent]]**
+  * **[[:es-419:obe:kt:kingofgod|kingdom]]**
+ 
+ 
 ===== Translation Notes: =====
 
   * **two robbers**  - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
