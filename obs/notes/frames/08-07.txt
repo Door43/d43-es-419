@@ -13,7 +13,7 @@
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
 
   * **[[:es-419:obe:kt:god|God (Dios)]]  **
-  * **[[:es-419:obe:other:josephnt|Joseph (José)]]  **
+  * **[[:es-419:obe:other:josephot|Joseph (José)]]  **
   * **[[:es-419:obe:other:dream|dreams (sueños)]]  **
   * **[[:es-419:obe:other:pharaoh|Pharaoh (Faraón)]]  **
 
