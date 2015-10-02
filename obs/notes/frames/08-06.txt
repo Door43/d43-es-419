@@ -7,11 +7,17 @@ After two years, **Joseph** was still in prison, even though he was **innocent**
 Después de dos años, **José** todavía estaba en la cárcel, aunque era **inocente**. Una noche, el** Faraón**, lo cual es como los **Egipcios ** llamaban a sus **reyes**, tuvo dos **sueños** que lo perturbaron mucho. Ninguno de sus consejeros podían decirle el significado de los** sueños**.
 ===== Important Terms:  Términos Importantes =====
 
-  * **Joseph (José)**
+  * **[[:es-419:obs:notes:key-terms:joseph|Joseph]] (José)**
   * **[[:es-419:obs:notes:key-terms:innocent|innocent]] (inocente)**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:king|kings]] (reyes)**
   * **[[:es-419:obs:notes:key-terms:dream|dreams]] (sueños)**
+
+  * **[[:es-419:obe:other:Josephnt|Joseph (José)]]**
+  * **[[:es-419:obe:kt:innocent|innocent (inocente)]] **
+  * **[[:es-419:obe:other:pharaoh|Pharaoh (Faraón)]]  **
+  * **[[:es-419:obe:other:king|kings (reyes)]]  **
+  * **[[:es-419:obe:other:dream|dreams (sueños)]]  **
 ==== Translation Notes:  Notas de traducción ====
 
   * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
