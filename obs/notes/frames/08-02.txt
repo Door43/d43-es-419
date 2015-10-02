@@ -10,6 +10,12 @@ Los hermanos de **José** lo odiaban porque su padre lo amaba más y porque **Jo
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph's]] (de José) **
   * **[[:es-419:obs:notes:key-terms:dream|dreamed]] (soño)**
   * **[[:es-419:obs:notes:key-terms:servant|slave]] (esclavo)**
+
+  * **[[:es-419:obe:other:josephnt|Joseph's (de José)]]  **
+  * **[[:es-419:obe:other:dream|dreamed (soño) ]] **
+  * **[[:es-419:obe:other:servant|slave (esclavo)]]  **
+
+
 ==== Translation Notes: Notas de Traducción ====
 
   * **came to his brothers**  – Another way this could be translated is, "reached the place where his brothers were."
