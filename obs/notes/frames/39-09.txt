@@ -13,6 +13,13 @@ Temprano la próxima mañana, los líderes de los Judios llevaron a Jesús a Pil
   * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
   * **[[:es-419:obs:notes:key-terms:rome|Roman]]**
   * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]]**
+
+  * **[[:es-419:obe:other:jewishleaders|religious leaders]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:pilate|Pilate]]**
+  * **[[:es-419:obe:other:rome|Roman]]**
+  * **[[:es-419:obe:kt:kingofthejews|King of the Jews]]**
+  
 ===== Translation Notes: =====
 
   * **Roman governor**  - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
