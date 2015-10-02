@@ -11,6 +11,13 @@
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph]] (José)**
   * **[[:es-419:obs:notes:key-terms:dream|dreams]] (sueños)**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
+
+  * **[[:es-419:obe:kt:god|God (Dios)]]  **
+  * **[[:es-419:obe:other:josephnt|Joseph (José)]]  **
+  * **[[:es-419:obe:other:dream|dreams (sueños)]]  **
+  * **[[:es-419:obe:other:pharaoh|Pharaoh (Faraón)]]  **
+
+
 ==== Translation Notes:  Notas de traducción ====
 
   * **interpret dreams**  - To "interpret" is to tell what something means. So Joseph was able to tell people what their dreams meant.
