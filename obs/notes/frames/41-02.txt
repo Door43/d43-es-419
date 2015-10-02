@@ -10,6 +10,9 @@ Pilato dijo, “Tomen algunos soldados y hagan la tumba tan segura como sea posi
 
   * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
+
+  * **[[:es-419:obe:other:pilate|Pilate]]**
+  * **[[:es-419:obe:other:tomb|tomb]]**
 ===== Translation Notes: =====
 
   * **they placed**  - That is, "the religious leaders and the soldiers placed."
