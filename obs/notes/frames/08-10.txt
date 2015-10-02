@@ -10,6 +10,12 @@ El hambre era severo no sólo en **Egipto**, pero también,en** Canaán ** dónd
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
   * **[[:es-419:obs:notes:key-terms:canaan|Cannan]] (Canaán)**
+
+  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]]  **
+  * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]] **
+  * **[[:es-419:obe:other:canaan|Cannan (Canaán)]] **
+
+
 ==== Translation Notes: Notas de Traducción ====
 
   * **Egypt, but also Canaan**  – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
