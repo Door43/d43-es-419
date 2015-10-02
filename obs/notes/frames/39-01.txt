@@ -11,6 +11,13 @@ Era la media noche. Los soldados llevaron a Jesús a la casa del sumo sacerdote 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:highpriest|high priest]]**
+  * **[[:es-419:obe:other:father|Father]]**
+  * **[[:es-419:obe:other:peter|Peter]]**
+ 
+
 ===== Translation Notes: =====
 
   * **the middle of the night**  - This expression means, "halfway through the night" or, "very late at night.
