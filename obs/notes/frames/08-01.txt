@@ -11,7 +11,7 @@ Muchos años después, cuando **Jacobo ** era un hombre viejo, él envió a su h
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph (José)]] **
 
   * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]]**
-  * **[[:es-419:obe:other:josephnt|Joseph (José)]] **
+  * **[[:es-419:obe:other:josephot|Joseph (José)]] **
 ==== Translation Notes:  Notas de Traducción ====
 
   * **sent**  – This word means that Jacob told Joseph to go and Joseph went
