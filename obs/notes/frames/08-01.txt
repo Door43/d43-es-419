@@ -7,8 +7,11 @@ Many years later, when **Jacob** was an old man, he **sent** his **favorite son*
 Muchos años después, cuando **Jacobo ** era un hombre viejo, él envió a su hijo favorito, **José**, para ir a ver a sus hermanos quienes estaban cuidando los rebaños.
 ===== Important Terms:  Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
-  * **[[:es-419:obs:notes:key-terms:joseph|Joseph]] (José)**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]] **
+  * **[[:es-419:obs:notes:key-terms:joseph|Joseph (José)]] **
+
+  * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]]**
+  * **[[:es-419:obe:other:josephnt|Joseph (José)]] **
 ==== Translation Notes:  Notas de Traducción ====
 
   * **sent**  – This word means that Jacob told Joseph to go and Joseph went
