@@ -13,6 +13,15 @@ Después de probar a sus hermanos para ver si ellos habían cambiado, **José** 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:good|good]] (bueno)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
+
+  * **[[:es-419:obe:other:josephnt|Joseph (José)]] **
+  * **[[:es-419:obe:kt:evil|evil (mal)]]  **
+  * **[[:es-419:obe:other:servant|slave (esclavo)]]  **
+  * **[[:es-419:obe:kt:god|God (Dios)]] **
+  * **[[:es-419:obe:kt:good|good (bueno)]] **
+  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]] **
+
+
 ==== Translation Notes: Notas de Traducción ====
 
   * **testing his brothers**  - Joseph placed his older brothers in a difficult situation to see if they would protect their youngest brother, or treat him as badly as they had treated Joseph. When they protected their youngest brother, Joseph knew they had changed.
