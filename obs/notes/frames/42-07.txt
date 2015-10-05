@@ -18,7 +18,7 @@ Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra 
 
   * **[[:es-419:obe:kt:jesus|Jesus]]**
   * **[[:es-419:obe:kt:wordofgod|God's word]]**
-  * **[[:es-419:obe:kt:fulill|fulfilled]]**
+  * **[[:es-419:obe:kt/fulfill|fulfilled]]**
   * **[[:es-419:obe:kt:christ|Messiah]]**
   * **[[:es-419:obe:kt:suffer|suffer]]**
   * **[[:es-419:obe:kt:death|die]]**
