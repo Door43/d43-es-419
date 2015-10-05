@@ -16,6 +16,16 @@ Un día, cuando Esteban estaba enseñando acerca de Jesús, algunos Judios que n
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
   * **[[:es-419:obs:notes:key-terms:witness|witnesses]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:other:jew|Jews]]**
+  * **[[:es-419:obe:kt:jewsishleaders|religious leaders]]**
+  * **[[:es-419:obe:kt:evil|evil]]**
+  * **[[:es-419:obe:other:moses|Moses]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:highpriest|high priest]]**
+  * **[[:es-419:obe:kt:witness|witnesses]]**
+  
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
