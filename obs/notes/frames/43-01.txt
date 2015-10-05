@@ -14,6 +14,14 @@ Después de volver al cielo Jesús, los discípulos quedaban en Jesursalen como 
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:believer|believers]]**
   * **[[:es-419:obs:notes:key-terms:pray|pray]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:kt:believer|believers]]**
+  * **[[:es-419:obe:other:pray|pray]]**
+  
 ===== Translation Notes: =====
 
   * **returned to heaven**  - That is, "went back to heaven."
