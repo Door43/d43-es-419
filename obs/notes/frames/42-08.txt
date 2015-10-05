@@ -17,6 +17,16 @@
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:people-group|people groups]]**
   * **[[:es-419:obs:notes:key-terms:witness|witnesses]]**
+
+  * **[[:es-419:obe:kt:wordofgod|scriptures]]**
+  * **[[:es-419:obe:kt:repent|repent]]**
+  * **[[:es-419:obe:kt/receive|receive]]**
+  * **[[:es-419:obe:kt:forgive|forgiveness]]**
+  * **[[:es-419:obe:kt:sin|sins]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:other:peoplegroup|people groups]]**
+  * **[[:es-419:obe:kt/witness|witnesses]]**
+
 ===== Translation Notes: =====
 
   * **proclaim**  - That is, "announce" or, "preach."
