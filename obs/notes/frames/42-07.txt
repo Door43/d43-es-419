@@ -15,6 +15,14 @@ Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra 
   * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
   * **[[:es-419:obs:notes:key-terms:death|die]]**
   * **[[:es-419:obs:notes:key-terms:raise|rise]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:wordofgod|God's word]]**
+  * **[[:es-419:obe:kt:fulill|fulfilled]]**
+  * **[[:es-419:obe:kt:christ|Messiah]]**
+  * **[[:es-419:obe:kt:suffer|suffer]]**
+  * **[[:es-419:obe:kt:death|die]]**
+  * **[[:es-419:obe:kt:raise|rise]]**
 ===== Translation Notes: =====
 
   * **must be fulfilled**  - This can be translated as, "must happen."
