@@ -12,6 +12,12 @@ Los líderes estaban asombrados que Pedro y Juan hablaron tan valientemente porq
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
   * **[[:es-419:obs:notes:key-terms:john|John]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:other:jewishleaders|leaders]]**
+  * **[[:es-419:obe:other:peter|Peter]]**
+  * **[[:es-419:obe:other:johntheapostle|John]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+ 
 ===== Translation Notes: =====
 
   * **were shocked**  - That is, "were very surprised" or, "were amazed."
