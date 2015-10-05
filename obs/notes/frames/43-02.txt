@@ -12,6 +12,15 @@ Cada Año, 50 días después de la** Pascua**, los** Judios ** celebraron un dí
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
+
+  * **[[:es-419:obe:kt:passover|Passover]]**
+  * **[[:es-419:obe:other:jew|Jews]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:heaven|heaven]]**
+
+ 
+ 
 ===== Translation Notes: =====
 
   * **Pentecost**  - "Pentecost" means "fiftieth (day)." You could use the word "Pentecost" in your translation and let the text explain the meaning. Or you could use a term that means, "50th day."
