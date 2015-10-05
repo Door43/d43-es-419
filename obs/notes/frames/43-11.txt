@@ -10,11 +10,23 @@
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
   * **[[:es-419:obs:notes:key-terms:repent|repent]]**
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]][[:es-419:obs:notes:key-terms:messiah|Christ]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:messiah|Christ]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
   * **[[:es-419:obs:notes:key-terms:sin|sins]]**
   * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
+
+  * **[[:es-419:obe:other:peter|Peter]]**
+  * **[[:es-419:obe:kt:repent|repent]]**
+  * **[[:es-419:obe:kt:baptize|baptized]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:christ|Christ]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:forgive|forgive]]**
+  * **[[:es-419:obe:kt:sin|sins]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
+
 ===== Translation Notes: =====
 
   * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
