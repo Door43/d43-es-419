@@ -13,6 +13,13 @@
   * **[[:es-419:obs:notes:key-terms:power|power]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:crucify|crucified]]**
+
+  * **[[:es-419:obe:other:israel|Israel]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:miracle|signs and wonders]]**
+  * **[[:es-419:obe:kt:power|power]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:crucify|crucified]]**
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
