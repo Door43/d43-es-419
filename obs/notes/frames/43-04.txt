@@ -10,6 +10,11 @@ Cuando la gente en **Jerusalen ** oyó el ruido, la** muchedumbre ** llegó para
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:believer|believers]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:kt:believer|believers]]**
+  * **[[:es-419:obe:kt:god|God]]**
+ 
 ===== Translation Notes: =====
 
   * **a crowd**  - This could be translated as, "a crowd of people" or, "a large group of people."
