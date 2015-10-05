@@ -19,7 +19,7 @@ Un día, cuando Esteban estaba enseñando acerca de Jesús, algunos Judios que n
 
   * **[[:es-419:obe:kt:jesus|Jesus]]**
   * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:kt:jewsishleaders|religious leaders]]**
+  * **[[:es-419:obe:other:jewishleaders|religious leaders]]**
   * **[[:es-419:obe:kt:evil|evil]]**
   * **[[:es-419:obe:other:moses|Moses]]**
   * **[[:es-419:obe:kt:god|God]]**
