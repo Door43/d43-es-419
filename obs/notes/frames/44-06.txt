@@ -12,6 +12,15 @@ Los líderes del Templo estaban enojados con lo que Pedro y Juan estaban diciend
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
   * **[[:es-419:obs:notes:key-terms:john|John]]**
   * **[[:es-419:obs:notes:key-terms:believe|believed]]**
+
+  * **[[:es-419:obe:kt:temple|Temple]]**
+  * **[[:es-419:obe:other:peter|Peter]]**
+  * **[[:es-419:obe:other:johntheapostle|John]]**
+  * **[[:es-419:obe:kt:believe|believed]]**
+  * **[[:es-419:obe:kt:baptize|baptized]]**
+  * **[[:es-419:obe:kt:church|church]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+ 
 ===== Translation Notes: =====
 
   * **Peter's message**  - That is, "the message that Peter had preached to them."
