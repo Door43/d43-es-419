@@ -16,6 +16,18 @@
   * **[[:es-419:obs:notes:key-terms:messiah|Holy One]]**
   * **[[:es-419:obs:notes:key-terms:witness|witnesses]]**
   * **[[:es-419:obs:notes:key-terms:life|life]]**
+
+ 
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:raise|raised]]**
+  * **[[:es-419:obe:kt:death|dead]]**
+  * **[[:es-419:obe:kt:fulfill|fulfills]]**
+  * **[[:es-419:obe:kt:prophet|prophecy]]**
+  * **[[:es-419:obe:kt:holyone|Holy One]]**
+  * **[[:es-419:obe:kt:witness|witnesses]]**
+  * **[[:es-419:obe:kt:life|life]]**
+
 ===== Translation Notes: =====
 
   * (Peter continues preaching to the crowd.)
