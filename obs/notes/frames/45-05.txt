@@ -14,6 +14,14 @@ Mientras Esteban estuvo muriéndose, él gritó, “Jesús, recibe mi espíritu.
   * **[[:es-419:obs:notes:key-terms:lord|Master]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
   * **[[:es-419:obs:notes:key-terms:death|died]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:receive|receive]]**
+  * **[[:es-419:obe:kt:spirit|spirit]]**
+  * **[[:es-419:obe:kt:lord|Master]]**
+  * **[[:es-419:obe:kt:sin|sin]]**
+  * **[[:es-419:obe:kt:death|died]]**
+  
 ===== Translation Notes: =====
 
   * **As Stephen was dying**  - That is, "Just before Stephen died."
