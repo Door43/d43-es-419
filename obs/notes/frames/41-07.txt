@@ -10,6 +10,10 @@ Las mujeres estuvieron llenas de miedo y de gran gozo. Ellas corrieron para dar 
 
   * **[[:es-419:obs:notes:key-terms:joy|joy]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
+
+  * **[[:es-419:obe:kt:joy|joy]]**
+  * **[[:es-419:obe:kt:disciple|disciples]]**
+
 ===== Translation Notes: =====
 
   * **full of fear and great joy**  - That is, "experiencing emotions of fear and also great joy."
