@@ -20,6 +20,23 @@
   * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
   * **[[:es-419:obs:notes:key-terms:repent|repent]]**
   * **[[:es-419:obs:notes:key-terms:sin|sins]]**
+
+  * **[[:es-419:obe:other:rome|Roman]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:life|life]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:raise|raised]]**
+  * **[[:es-419:obe:kt:death|dead]]**
+  * **[[:es-419:obe:kt:fulfill|fulfill]]**
+  * **[[:es-419:obe:kt:prophet|prophecies]]**
+  * **[[:es-419:obe:kt:christ|Messiah]]**
+  * **[[:es-419:obe:kt:suffer|suffer]]**
+  * **[[:es-419:obe:kt:repent|repent]]**
+  * **[[:es-419:obe:kt:sin|sins]]**
+ 
+ 
+ 
+ 
 ===== Translation Notes: =====
 
   * (Peter continues to preach to the crowd.)
