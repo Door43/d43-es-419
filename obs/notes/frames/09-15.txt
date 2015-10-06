@@ -11,6 +11,15 @@
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:aaron|Aarón]]**
+
+
 ==== Translation Notes: ====
 
   * **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
