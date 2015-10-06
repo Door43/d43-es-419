@@ -14,6 +14,14 @@ Cuando Dios creó el mundo, todo era perfecto. No había el pecado. Adán y Eva 
   * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
   * **[[:es-419:obs:notes:key-terms:love|loved]]**
   * **[[:es-419:obs:notes:key-terms:death|death]]**
+
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:sin|sin]]**
+  * **[[:es-419:obe:other:adam|Adam]]**
+  * **[[:es-419:obe:other:eve|Eve]]**
+  * **[[:es-419:obe:kt:love|loved]]**
+  * **[[:es-419:obe:kt:death|death]]**
+ 
 ===== Translation Notes: =====
 
   * **God created the world**  - That is, "God made the world out of nothing."
