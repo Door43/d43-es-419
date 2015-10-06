@@ -12,6 +12,12 @@ Después de muchos días, los Judios hicieron un plan para matar a Saulo. Ellos 
   * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
   * **[[:es-419:obs:notes:key-terms:preach|preach]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+ 
+  * **[[:es-419:obe:other:jew|Jews]]**
+  * **[[:es-419:obe:other:paul|Saul]]**
+  * **[[:es-419:obe:other:preach|preach]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+ 
 ===== Translation Notes: =====
 
   * **the city gates**  - The gates were the only normal way into or out of the walled cities.
