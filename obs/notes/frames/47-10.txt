@@ -10,6 +10,10 @@ El carcelero se despertó, y cuando vio que las puertas de la carcel estuvieron 
 
   * **[[:es-419:obs:notes:key-terms:rome|Roman authorities]]**
   * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
+
+  * **[[:es-419:obe:other:rome|Roman authorities]]**
+  * **[[:es-419:obe:other:saul|Paul]]**
+
 ===== Translation Notes: =====
 
   * **The jailer**  - That is, "the official in charge of the jail."
