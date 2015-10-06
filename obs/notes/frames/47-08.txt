@@ -12,6 +12,12 @@ Ellos pusieron a Pablo y a Sílas en la parte más segura de la prisión e inclu
   * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
   * **[[:es-419:obs:notes:key-terms:praise|praise]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:other:saul|Paul]]**
+  * **[[:es-419:obe:other:silas|Silas]]**
+  * **[[:es-419:obe:other:praise|praise]]**
+  * **[[:es-419:obe:kt:good|God]]**
+ 
 ===== Translation Notes: =====
 
   * **in the middle of the night**  - This could be translated as, "very late at night" or, "very early in the morning." This was when it was completely dark outside, when people would normally be asleep.
