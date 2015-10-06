@@ -11,6 +11,15 @@ Luego, **Dios** causó que todos los animales de granja que pertenecían a los *
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]] (Egipcios)**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh's]] (de Faraón)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
+
+=====Términos Importantes=====
+
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:egypt|Egipcios]]**
+  * **[[:es-419:obe:other:pharaoh|de Faraón]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+
 ==== Translation Notes: ====
 
   * **farm animals**  - This refers to large animals that the Egyptians used to help them in their work, such as horses, donkeys, camels, cattle, sheep, and goats.
