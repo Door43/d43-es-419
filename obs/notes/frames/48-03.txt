@@ -11,6 +11,12 @@ Porque **Adán ** y **Eva pecaron**, algo aun más terrible sucedió. Ellos lleg
   * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
+
+  * **[[:es-419:obe:other:adam|Adam]]**
+  * **[[:es-419:obe:other:eve|Eve]]**
+  * **[[:es-419:obe:kt:sin|sinned]]**
+  * **[[:es-419:obe:kt:god|God]]**
+ 
 ===== Translation Notes: =====
 
   * **even more terrible**  - That is, "much worse" or, "worse yet."
