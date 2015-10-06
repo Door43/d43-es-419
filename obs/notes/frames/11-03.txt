@@ -12,6 +12,15 @@
   * **[[:es-419:obs:notes:key-terms:lamb|lamb's [cordero]]]  **
   * **[[:es-419:obs:notes:key-terms:blood|blood [sangre]]]  **
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt [Egipto]]]  **
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]  **
+  * **[[:es-419:obe:other:israel|Israelitas]]  **
+  * **[[:es-419:obe:kt:lamb|cordero]]  **
+  * **[[:es-419:obe:kt:blood|sangre]]  **
+  * **[[:es-419:obe:other:egypt|Egipto]]  **
+
 ==== Translation Notes: ====
 
   * **made without yeast**  – Yeast is something that is mixed into bread dough that makes the dough expand and it also makes the bread rise as it bakes. This could be translated as, "made without something that would make it rise." Making the bread with yeast would have taken much longer, so cooking the bread without yeast was a way to be prepared to leave Egypt quickly.
