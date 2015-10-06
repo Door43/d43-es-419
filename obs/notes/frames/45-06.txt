@@ -14,6 +14,15 @@ Un hombre joven se llamaba Saul estaba de acuerdo con la gente que mató a Esteb
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:believer|believers]]**
   * **[[:es-419:obs:notes:key-terms:preach|preached]]**
+
+
+  * **[[:es-419:obe:other:paul|Saul]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:kt:persecute|persecuting]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:believer|believers]]**
+  * **[[:es-419:obe:other:preach|preached]]**
+  
 ===== Translation Notes: =====
 
   * **guarded their robes**  - This could be translated as, "watched over their coats." He was probably making sure they didn't get stolen or damaged
