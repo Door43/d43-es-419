@@ -15,6 +15,16 @@
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
   * **[[:es-419:obs:notes:key-terms:god|God's]]**
   * **[[:es-419:obs:notes:key-terms:punish|punishment]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:passover|Passover]]**
+  * **[[:es-419:obe:kt:lamb|lamb]]**
+  * **[[:es-419:obe:kt:believe|believes]]**
+  * **[[:es-419:obe:kt:blood|blood]]**
+  * **[[:es-419:obe:kt:sin|sin]]**
+  * **[[:es-419:obe:kt:god|God's]]**
+  * **[[:es-419:obe:other:punish|punishment]]**
+ 
 ===== Translation Notes: =====
 
   * **our Passover Lamb**  - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
