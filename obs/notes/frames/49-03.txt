@@ -10,6 +10,11 @@
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
   * **[[:es-419:obs:notes:key-terms:love|love]]**
+  
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
+  * **[[:es-419:obe:kt:love|love]]**
+  
 ===== Translation Notes: =====
 
   * **a great teacher**  - That is, "a very important teacher" or, "an excellent teacher."
