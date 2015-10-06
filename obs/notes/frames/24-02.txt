@@ -12,6 +12,12 @@ Mucha gente vino al desierto para escuchar a John. Él predicó a ellos, diciend
   * **[[:es-419:obs:notes:key-terms:preach|preached]]**
   * **[[:es-419:obs:notes:key-terms:repent|Repent]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
+
+  * **[[:es-419:obe:other:johnthebaptist|John]]**
+  * **[[:es-419:obe:other:preach|preached]]**
+  * **[[:es-419:obe:kt:repent|Repent]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God]]**
+  
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this word in **[[:es-419:obs:notes:frames:24-01|[24-01]]]**.
