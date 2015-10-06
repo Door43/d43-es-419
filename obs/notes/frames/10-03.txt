@@ -11,6 +11,16 @@
   * **[[:es-419:obs:notes:key-terms:nile-river|Nile River]] (Río Nilo)**
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
+
+=====Términos Importantes=====
+
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:nileriver|Río Nilo]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+
+
 ==== Translation Notes: ====
 
   * **turned the Nile River into blood**  - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
