@@ -11,6 +11,12 @@
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
   * **[[:es-419:obs:notes:key-terms:save|saved]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God]]**
+  * **[[:es-419:obe:kt:save|saved]]**
+  * **[[:es-419:obe:kt:sin|sin]]**
+  
 ===== Translation Notes: =====
 
   * **to be saved from your sin**  - That is, "to be saved from being punished for your sin" or, "that God would save you from your sin" or, "to receive salvation from your sin."
