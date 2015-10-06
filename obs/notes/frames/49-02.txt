@@ -14,6 +14,15 @@
   * **[[:es-419:obs:notes:key-terms:demon|demons]]**
   * **[[:es-419:obs:notes:key-terms:raise|raised]]**
   * **[[:es-419:obs:notes:key-terms:death|dead]]**
+  
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:miracle|miracles]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:other:heal|healed]]**
+  * **[[:es-419:obe:kt:demon|demons]]**
+  * **[[:es-419:obe:kt:raise|raised]]**
+  * **[[:es-419:obe:kt:death|dead]]**
+  
 ===== Translation Notes: =====
 
   * **drove out demons**  - That is, "made demons come out of people."
