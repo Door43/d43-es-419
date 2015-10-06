@@ -13,6 +13,16 @@ Así que **Dios ** envió una plaga de** mosquitos**. Luego envió una plaga de*
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:aaron|Aarón]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:other:egypt|Egipto]]**
+
 ==== Translation Notes: ====
 
   * **God sent a plague**  – This could be translated as, "God caused there to be a plague" or, "God caused a plague (of gnats) to come over the land of Egypt."
