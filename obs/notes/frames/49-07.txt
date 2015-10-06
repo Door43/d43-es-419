@@ -12,6 +12,13 @@
   * **[[:es-419:obs:notes:key-terms:love|loves]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinners]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:love|loves]]**
+  * **[[:es-419:obe:kt:sin|sinners]]**
+  * **[[:es-419:obe:kt:forgive|forgive]]**
+ 
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
