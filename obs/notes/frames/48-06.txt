@@ -19,7 +19,7 @@ Por centanares de años, los sacerdotes han ofrecido sacrificios a Dios por la g
   * **[[:es-419:obe:kt:priest|priests]]**
   * **[[:es-419:obe:other:sacrifice|sacrifices]]**
   * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:other:sins|sins]]**
+  * **[[:es-419:obe:kt:sin|sins]]**
   * **[[:es-419:obe:kt:jesus|Jesus]]**
   * **[[:es-419:obe:kt:highpriest|Great High Priest]]**
   * **[[:es-419:obe:other:punish|punishment]]**
