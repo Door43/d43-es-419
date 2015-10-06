@@ -13,6 +13,16 @@
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israel (Israel)]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites (Israelitas)]]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:aaron|Aarón]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:israel|Israel]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+
 ==== Translation Notes: ====
 
   * **to Pharaoh**  – It may be clearer to say, "to Pharaoh's palace to talk to him."
