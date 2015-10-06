@@ -14,6 +14,14 @@ Cuando Dios envió la última plaga sobre Egipto, El dijo a cada familia Isarael
   * **[[:es-419:obs:notes:key-terms:lamb|lamb]]**
   * **[[:es-419:obs:notes:key-terms:blood|blood]]**
   * **[[:es-419:obs:notes:key-terms:passover|Passover]]**
+
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:other:egypt|Egypt]]**
+  * **[[:es-419:obe:other:israel|Israelite]]**
+  * **[[:es-419:obe:kt:lamb|lamb]]**
+  * **[[:es-419:obe:kt:blood|blood]]**
+  * **[[:es-419:obe:kt:passover|Passover]]**
+ 
 ===== Translation Notes: =====
 
   * **sent the last plague on Egypt**  - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
