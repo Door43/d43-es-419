@@ -12,6 +12,13 @@ Así, Ananías fue donde Saulo, puso sus manos sobre él, y dijo, “Jesús, qui
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
+
+  * **[[:es-419:obe:other:paul|Saul]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
+  * **[[:es-419:obe:kt:disciple|disciple]]**
+  * **[[:es-419:obe:kt:baptize|baptized]]**
+ 
 ===== Translation Notes: =====
 
   * **here**  - That is, "to Damascus."
