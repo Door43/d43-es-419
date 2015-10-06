@@ -13,6 +13,17 @@
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]] (Abraham)**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] (Isaac)**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
+
+=====Términos Importantes=====
+
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:yahweh|Jehová]]**
+  * **[[:es-419:obe:other:abraham|Abraham]]**
+  * **[[:es-419:obe:other:isaac|Isaac]]**
+  * **[[:es-419:obe:other:jacob|Jacobo]]**
+
 ==== Translation Notes: ====
 
   * **the people**  - See "my people" in **[[:es-419:obs:notes:frames:09-13|[09-13]]]**.
