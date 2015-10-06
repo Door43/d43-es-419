@@ -11,6 +11,14 @@
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:god-false|gods]] (dioses)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:kt:falsegod|dioses]]**
+
 ==== Translation Notes: ====
 
   * **the people**  - This refers to the people of Israel, also called, "the Israelites."
