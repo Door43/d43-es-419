@@ -12,43 +12,10 @@ Juan, hijo de Zacarías y Elizabeth, creció y se convirtió en un profeta. Viv�
   * **[[:es-419:obs:notes:key-terms:zechariah-nt|Zechariah]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
 
- * **[[:es-419:obe:other:johnthebaptist|John]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:other:zechariah]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:sonofgod|Son]]**
-  * **[[:es-419:obe:kt:worship|worshipped]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
-  
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
-  
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
-  
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:kt:holyspirit|Spir of God]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:sonofgod|Son]]**
-  * **[[:es-419:obe:kt:worship|worshipped]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
-  
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
-  
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
+  * **[[:es-419:obe:other:johnthebaptist|John]]**
+  * **[[:es-419:obe:other:zechariahnt|Zechariah]]**
+  * **[[:es-419:obe:kt:prophet:prophet]]**
+ 
   
 ===== Translation Notes: =====
 
