@@ -10,6 +10,13 @@
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:shepherd|shepherd]] (pastor)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:shepherd|pastor]]**
+  * **[[:es-419:obe:other:egypt|Egipto]]**
+
 ==== Translation Notes: ====
 
   * **wilderness**  - See how you translated this in **[[:es-419:obs:notes:frames:09-10|[09-10]]]**.
