@@ -13,6 +13,17 @@
   * **[[:es-419:obs:notes:key-terms:beg|begged]] (rogó)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:beg|rogó]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+
+
 ==== Translation Notes: ====
 
   * **God sent frogs all over Egypt**  - This could be translated as, "God caused many frogs to appear throughout Egypt."
