@@ -18,7 +18,7 @@
 
   * **[[:es-419:obe:kt:jesus|Jesus]]**
   * **[[:es-419:obe:kt:passover|Passover]]**
-  * **[[:es-419:obe:kt:lamb|lamb]]**
+  * **[[:es-419:obe:kt:lamb|Lamb]]**
   * **[[:es-419:obe:kt:believe|believes]]**
   * **[[:es-419:obe:kt:blood|blood]]**
   * **[[:es-419:obe:kt:sin|sin]]**
