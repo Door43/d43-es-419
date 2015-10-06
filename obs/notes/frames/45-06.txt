@@ -18,7 +18,7 @@ Un hombre joven se llamaba Saul estaba de acuerdo con la gente que mató a Esteb
 
   * **[[:es-419:obe:other:paul|Saul]]**
   * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:persecute|persecuting]]**
+  * **[[:es-419:obe:other:persecute|persecuting]]**
   * **[[:es-419:obe:kt:jesus|Jesus]]**
   * **[[:es-419:obe:kt:believer|believers]]**
   * **[[:es-419:obe:other:preach|preached]]**
