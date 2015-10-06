@@ -11,6 +11,16 @@ Un día mientras **Moisés** estaba cuidando de sus **ovejas**, vió un arbusto 
   * **[[:es-419:obs:notes:key-terms:sheep|sheep]] (oveja)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:holy|holy]] (santa)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:sheep|oveja]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:holy|santa]]**
+
+
+
 ==== Translation Notes: ====
 
   * **taking care of his sheep**  - This means he was doing the work of a shepherd to guide the sheep to grass and water, and to protect them. It could be translated as, "tending the sheep."
