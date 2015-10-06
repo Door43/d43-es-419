@@ -16,6 +16,17 @@
   * **[[:es-419:obs:notes:key-terms:raise|raise]]**
   * **[[:es-419:obs:notes:key-terms:life|life]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:promise|promised]]**
+  * **[[:es-419:obe:other:eve|Eve's]]**
+  * **[[:es-419:obe:other:descendant|descendants]]**
+  * **[[:es-419:obe:kt:satan|Satan's]]**
+  * **[[:es-419:obe:kt:christ|Messiah]]**
+  * **[[:es-419:obe:kt:raise|raise]]**
+  * **[[:es-419:obe:kt:life|life]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+ 
 ===== Translation Notes: =====
 
   * **crush Satan's head**  - This could also be translated as, "step on Satan's head and smash it down flat" or, "shatter Satan's head by stepping on it." This is an image of a person stepping on the head of a snake. The head is completely crushed, and the snake is dead and therefore harmless.
