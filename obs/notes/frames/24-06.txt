@@ -14,6 +14,14 @@ Al día siguiente, Jesús vino para ser bautizado por Juan. Cuando Juan lo vio, 
   * **[[:es-419:obs:notes:key-terms:lamb|Lamb]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:baptize|baptized]]**
+  * **[[:es-419:obe:other:johnthebaptist|John]]**
+  * **[[:es-419:obe:kt:lamb|Lamb]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:sin|sin]]**
+ 
 ===== Translation Notes: =====
 
   * **There is**  - For some languages this would be, "Here is" or, "That man is."
