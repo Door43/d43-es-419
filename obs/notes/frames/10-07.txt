@@ -12,6 +12,16 @@ Entonces, **Dios ** le dijo a **Moisés ** que tirara cenizas en el aire delante
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]] (Egipcios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:egypt|Egipcios]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+
+
 ==== Translation Notes: ====
 
   * **God hardened Pharaoh's heart**  - God caused Pharaoh to continue to be stubborn. See also note in **[[:es-419:obs:notes:frames:10-04|[10-04]]]**.
