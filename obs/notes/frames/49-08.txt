@@ -15,6 +15,15 @@ Jesús también, nos dijo que Dios odia el pecado. Cuando Adán y Eva pecaron, e
   * **[[:es-419:obs:notes:key-terms:eve|Eve]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:sin|sinner]]**
+  * **[[:es-419:obe:other:adam|Adam]]**
+  * **[[:es-419:obe:other:eve|Eve]]**
+  * **[[:es-419:obe:kt:sin|sinned]]**
+  * **[[:es-419:obe:other:descendant|descendants]]**
+ 
 ===== Translation Notes: =====
 
   * **is separated from God**  - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
