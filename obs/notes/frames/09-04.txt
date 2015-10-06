@@ -16,8 +16,12 @@
   * **[[:es-419:obe:other:pharaoh|Faraón]]**
   * **[[:es-419:obe:other:israel|Israelitas]]**
   * **[[:es-419:obe:other:nileriver|Río Nilo]]**
-==== Translation Notes: Notas de traducción ====
+===== Translation Notes: =====
 
   * **saw**  – Another way to say this would be, "realized" or, "knew."
+ 
+=====Notas de traducción ====
+
   * **vió**  - Otra forma de decir esto sería, "realizado" o, "sabía".
+
 **[[:es-419:obs:notes:frames:09-03|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-05|>>]]**
