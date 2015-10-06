@@ -14,6 +14,13 @@ El próximo día los líderes de la ciudad soltaron a Pablo y a Sílas de la car
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:church|Church]]**
+
+  * **[[:es-419:obe:other:saul|Paul]]**
+  * **[[:es-419:obe:other:silas|Silas]]**
+  * **[[:es-419:obe:other:philippi|Philippi]]**
+  * **[[:es-419:obe:kt:goodnews|good news]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+ 
 ===== Translation Notes: =====
 
   * **the leaders of the city**  - This refers to, "the officials of the city" or, "the authorities of the city."
