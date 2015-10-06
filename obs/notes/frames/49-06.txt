@@ -13,6 +13,14 @@
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
   * **[[:es-419:obs:notes:key-terms:word-of-god|God's word]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|his kingdom]]**
+
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:receive|receive]]**
+  * **[[:es-419:obe:kt:save|saved]]**
+  * **[[:es-419:obe:kt:goodnews|good news]]**
+  * **[[:es-419:obe:kt:wordofgod|God's word]]**
+  * **[[:es-419:obe:other:kingdomofgod|his kingdom]]**
+  
 ===== Translation Notes: =====
 
   * **others will not**  - That is, "other people will not receive him and therefore will not be saved."
