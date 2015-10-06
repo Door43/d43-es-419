@@ -18,6 +18,16 @@ El carclero tembló mientras llegó a Pablo y a Sílas y preguntó, “¿Qué de
   * **[[:es-419:obs:notes:key-terms:save|saved]]**
   * **[[:es-419:obs:notes:key-terms:preach|preached]]**
   * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
+
+  * **[[:es-419:obe:other:saul|Paul]]**
+  * **[[:es-419:obe:other:silas|Silas]]**
+  * **[[:es-419:obe:kt:save|saved]]**
+  * **[[:es-419:obe:kt:believe|Believed]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+  * **[[:es-419:obe:kt:lord|Master]]**
+  * **[[:es-419:obe:other:preach|preached]]**
+  * **[[:es-419:obe:kt:goodnews|good news]]**
+ 
 ===== Translation Notes: =====
 
   * **to be saved**  - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake
