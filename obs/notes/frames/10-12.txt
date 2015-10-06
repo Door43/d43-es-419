@@ -10,6 +10,13 @@ Incluso después de estas nueve plagas, el** Faraón todavía ** se negó a deja
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+
 ==== Translation Notes: ====
 
   * **these nine plagues**  - This means, "these nine disasters that God had caused."
