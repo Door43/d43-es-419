@@ -14,6 +14,15 @@
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+
+  * **[[:es-419:obe:kt:god|God]]**
+  * **[[:es-419:obe:kt:promise|promised]]**
+  * **[[:es-419:obe:other:david|King David]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
+  * **[[:es-419:obe:kt:christ|Messiah]]**
+  * **[[:es-419:obe:other:descendant|descendants]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]]**
+
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
