@@ -15,6 +15,15 @@ Pablo y Silas muy a menudo se reunían con la gente al lugar de oración. Cada d
   * **[[:es-419:obs:notes:key-terms:demon-possessed|possessed by a demon]]**
   * **[[:es-419:obs:notes:key-terms:demon|demon]]**
   * **[[:es-419:obs:notes:key-terms:lord|masters]]**
+
+  * **[[:es-419:obe:other:paul|Saul]]**
+  * **[[:es-419:obe:other:silas|Silas]]**
+  * **[[:es-419:obe:other:pray|prayer]]**
+  * **[[:es-419:obe:other:servant|slave girl]]**
+  * **[[:es-419:obe:kt:demonpossessed|possessed by a demon]]**
+  * **[[:es-419:obe:kt:demon|demon]]**
+  * **[[:es-419:obe:kt:lord|master]]**
+
 ===== Translation Notes: =====
 
   * **her masters**  - In this case, this could also be translated as, "her owners."
