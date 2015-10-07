@@ -11,6 +11,8 @@
   * **[[:es-419:obs:notes:key-terms:servant|servant]]**
   * **[[:es-419:obs:notes:key-terms:king|king]]**
 
+=====Términos Importantes=====
+
   * **[[:es-419:obe:other:servant|servant]]**
   * **[[:es-419:obe:other:king|king]]**
 ===== Translation Notes: =====
