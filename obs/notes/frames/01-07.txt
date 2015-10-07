@@ -11,10 +11,11 @@ En el quinto día, Dios habló e hizo todo lo que nada en el agua y todas las av
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]   **
   * **[[:es-419:obs:notes:key-terms:good|good (bueno) ]]   **
   * **[[:es-419:obs:notes:key-terms:bless|blessed (bendecido)]]  **
-   
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/good|good (bueno)]]**
-  * **[[:es-419:obe:kt/bless|blessed (bendecido)]]**
+
+=====Términos Importantes=====   
+  * **[[:es-419:obe:kt/god|Dios]]**
+  * **[[:es-419:obe:kt/good|bueno]]**
+  * **[[:es-419:obe:kt/bless|bendecido]]**
 ==== Translation Notes: ====
 
   * **the fifth day**  - God continues his orderly progression of creation that he started during the previous four days.
