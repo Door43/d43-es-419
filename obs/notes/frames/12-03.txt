@@ -12,6 +12,16 @@ Después de un tiempo corto, el **Faraón** y su gente cambiaron sus mentes y qu
   * **[[:es-419:obs:notes:key-terms:servant|slaves]] [esclavos]**
   * **[[:es-419:obs:notes:key-terms:god|God]] [Dios]**
   * **[[:es-419:obs:notes:key-terms:god-false|gods]] [dioses]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:pharaoh|Faraón]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:other:servant|esclavos]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:falsegod|dioses]]**
+
+
 ==== Translation Notes: ====
 
   * **After a short time**  – Probably at least two days had gone by. For that to be clear, it may be translated as, "After a few days" or, "A few days after the Israelites left Egypt."
