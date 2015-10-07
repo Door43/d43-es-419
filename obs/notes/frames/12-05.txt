@@ -12,6 +12,15 @@
   * **[[:es-419:obs:notes:key-terms:god|God]] [Dios]**
   * **[[:es-419:obs:notes:key-terms:save|save]] [salva]**
   * **[[:es-419:obs:notes:key-terms:red-sea|Red Sea]] [Mar Rojo]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:save|salva]]**
+  * **[[:es-419:obe:other:redsea|Mar Rojo]]**
+
 ==== Translation Notes: ====
 
   * **God will fight for you today and save you**  - Another way to say this would be, "Today God will defeat the Egyptians for you and keep them from harming you."
