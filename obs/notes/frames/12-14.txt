@@ -13,6 +13,17 @@
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians]] (Egipcios)**
   * **[[:es-419:obs:notes:key-terms:servant|slaves]] (esclavos)**
   * **[[:es-419:obs:notes:key-terms:lamb|lamb]] (cordero)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:kt:passover|Pascua]]**
+  * **[[:es-419:obe:other:egypt|Egipcios]]**
+  * **[[:es-419:obe:other:servant|esclavos]]**
+  * **[[:es-419:obe:kt:lamb|cordero]]**
+
+
 ==== Translation Notes: ====
 
   * **the Passover**  - This could be translated as, "the Passover activities" or, "the Passover celebration" or, "the Passover meal."
