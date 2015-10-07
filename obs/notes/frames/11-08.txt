@@ -12,6 +12,16 @@ Esa misma noche, el **faraón** llamó a **Moisés** y a **Aarón**, y dijo: “
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron [Aaron]]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites [Israelitas]]]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt[Egipto]]]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:pharaoh|Faraon]] **
+  * **[[:es-419:obe:other:moses|Moises]]**
+  * **[[:es-419:obe:other:aaron|Aaron]]**
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:other:egypt|Egipto]]**
+
+
 ==== Translation Notes: ====
 
   * **called for**  – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
