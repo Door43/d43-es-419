@@ -10,7 +10,9 @@ En el segundo día de la creación, Dios habló y creó el cielo por encima de l
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
    
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+ =====Términos Importantes=====
+   
+  * **[[:es-419:obe:kt/god|Dios]]**
 ==== Translation Notes: ====
 
   * **the second day**  - God's work of creation was orderly, purposeful and sequential. The things he created each day built upon and depended on the acts of the previous days.
