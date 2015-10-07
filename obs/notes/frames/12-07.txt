@@ -9,6 +9,12 @@
 
   * **[[:es-419:obs:notes:key-terms:god|God]] [Dios]**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] [Moisés]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+
 ==== Translation Notes: ====
 
   * **raise his hand over the sea**  - This could be translated as, "held out his hand over the sea". This was a gesture to show that God was doing this miracle through Moses.
