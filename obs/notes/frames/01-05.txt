@@ -10,9 +10,10 @@ Entonces Dios dijo, "Dejad que la tierra produzca​ toda clase de árboles y pl
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
   * **[[:es-419:obs:notes:key-terms:good|good (bueno)]]**
-   
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:good|good (bueno)]]**
+
+=====Términos Importantes=====   
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:good|bueno]]**
 ==== Translation Notes: ====
 
   * **God said**  - God created all vegetation by speaking a command.
