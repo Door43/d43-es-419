@@ -13,11 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] (Tierra Prometida)**
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]] (descendientes)**
   * **[[:es-419:obs:notes:key-terms:people-group|people groups]] (grupo de gentes)**
-  * **[[:es-419:obs:notes:key-terms:canaan|Canaanites]] (Cananitas)**
+  * **[[:es-419:obs:notes:key-terms:canaan|Canaanites]] (Cananeos)**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adoración)**
   * **[[:es-419:obs:notes:key-terms:obey|obey]] (obedecer)**
   * **[[:es-419:obs:notes:key-terms:god-false|false gods]] (dioses falsos)**
   * **[[:es-419:obs:notes:key-terms:evil|evil]] (malvado)**
+
 ==== Translation Notes:  Notas de traducción ====
 
 //(There are no notes for this frame.)  (No hay notas para este marco)//
