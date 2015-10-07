@@ -1,4 +1,4 @@
-===== The Bad Report / El Reporte Mal [14-05] =====
+===== The Bad Report / El Reporte Malo [14-05] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-05.jpg?nolink&}}
 
@@ -6,14 +6,14 @@ The twelve men traveled through **Canaan** for forty days and then **they came b
 
 Los doce hombres viajaron por cuarenta días y entonces, volvieron. Dijeron a la gente, “¡La tierra es muy fértil y los cultivos son abundantes!” Pero diez de los espías dijeron, “¡Las ciudades son muy fuertes y las personas son gigantes! “¡Si les atacamos, ciertamente nos vencerán y nos matarán!”
 
-===== Important Terms: =====
+===== Important Terms: Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:canaan|Canaan]]**
-==== Translation Notes: ====
+  * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
+==== Translation Notes:  Notas de traducción ====
 
   * **they came back**  - They returned to where the rest of the Israelites were waiting, just outside the border of Canaan.
   * **ellos regresaron**- Ellos regresaron a donde el resto de los israelitas estaban esperando, justo afuera del borde de Canaan.
-  * **The cities are very strong** - The cities had strong walls around them, so it would be very difficult for the Israelites to attack them.
+  * **The cities are very strong**  - The cities had strong walls around them, so it would be very difficult for the Israelites to attack them.
   * **Las ciudades son muy fuertes **- Las ciudades tenían paredes muy fuertes alrededor, tal que sería muy dificil para que los israelitas los atacaran.
   * **the people are giants**  – This could be translated as, "the people are like giants compared to us!" or, "the people are much taller and stronger than we are!"
   * **la gente es gigante **- Esto puede ser traducido como, "las personas son como gigantes comparado con nosotros!" o, "la gente es mucho más alta y mas fuerte que nosotros!".
