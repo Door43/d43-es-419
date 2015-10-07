@@ -11,6 +11,15 @@ Después que todos los Israelitas llegaron con seguridad al otro lado del mar,**
   * **[[:es-419:obs:notes:key-terms:god|God]] [Dios]**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] [Moisés]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptian]] [Egipcio]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:egypt|Egipcio]]**
+
+
 ==== Translation Notes: ====
 
   * **made it safely to the other side**  – This could be translated as, "walked safely to the other side" or, "arrived safely on the other side" or, "walked to the other side and were safe from the Egyptians and the sea."
