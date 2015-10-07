@@ -13,6 +13,17 @@ Cuando los **Israelitas ** vieron que los **Egipcios** estaban muertos, ellos co
   * **[[:es-419:obs:notes:key-terms:believe|believed]] (creyeron)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]] (profeta)**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:other:egypt|Egipcios]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:believe|creyeron]]**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:kt:prophet|profeta]]**
+
+
 ==== Translation Notes: ====
 
   * **trusted in God**  - In other words, the people now trusted that God was powerful and could protect them.
