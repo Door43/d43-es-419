@@ -11,7 +11,9 @@
   * **[[:es-419:obs:notes:key-terms:servant|servant]]**
   * **[[:es-419:obs:notes:key-terms:king|king]]**
   * **[[:es-419:obs:notes:key-terms:servant|slaves]]**
-:
+
+=====Términos Importantes=====
+
   * **[[:es-419:obe:other:servant|servant]]**
   * **[[:es-419:obe:other:king|king]]**
   * **[[:es-419:obe:other:servant|servant]]**
