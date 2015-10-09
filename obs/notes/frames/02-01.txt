@@ -12,9 +12,11 @@ Adán y su esposa estaban muy contentos viviendo en el hermoso jardín que Dios 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin (pecado)]]**
   
-  * **[[:es-419:obe:other/adam|Adan (Adán)]] **
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/sin|sin (pecado)]]**
+=====Términos Importantes=====
+ 
+  * **[[:es-419:obe:other/adam|Adán]] **
+  * **[[:es-419:obe:kt/god|Dios]]**
+  * **[[:es-419:obe:kt/sin|pecado]]**
 
 ==== Translation Notes: ====
 
