@@ -12,9 +12,11 @@ Cuando el séptimo día llegó, Dios había terminado su trabajo. Entonces Dios 
   * **[[:es-419:obs:notes:key-terms:bless|blessed (bendecido)]]  **
   * **[[:es-419:obs:notes:key-terms:holy|holy (santo)]]  **
    
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/bless|blessed (bendecido)]]**
-  * **[[:es-419:obe:kt/holy|holy (santo)]]**
+=====Términos Importantes=====
+ 
+  * **[[:es-419:obe:kt/god|Dios]]**
+  * **[[:es-419:obe:kt/bless|bendecido]]**
+  * **[[:es-419:obe:kt/holy|santo]]**
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
