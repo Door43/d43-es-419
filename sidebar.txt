@@ -18,10 +18,6 @@ Todo el contenido para este espacio esta disponible en [[https://github.com/Door
 
 {{changes>ns = es-419}}
 
-**Último estado**
-
-{{page>en:uwadmin:es-419:obs:status}}
-
 **Información del Lenguaje**
 
 [[http://www.ethnologue.com/language/es-419|Ethnologue data]]
