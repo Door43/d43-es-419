@@ -10,7 +10,10 @@ Pero había una serpiente astuta en el jardín. El le preguntó a la mujer, "¿E
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
    
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  
+  =====Términos Importantes=====
+ 
+  * **[[:es-419:obe:kt/god|Dios]]**
 ==== Translation Notes: ====
 
   * **crafty**  - Clever and sly, with the intent to deceive.
