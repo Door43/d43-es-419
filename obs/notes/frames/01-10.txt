@@ -12,9 +12,11 @@ Así, Dios tomó algo de polvo, lo formó en un hombre, y sopló vida en él. El
   * **[[:es-419:obs:notes:key-terms:life|life (vida)]]  **
   * **[[:es-419:obs:notes:key-terms:adam|Adam (Adán)]]  **
   
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/life|life (vida)]]**
-  * **[[:es-419:obe:other/adam|Adam (Adán)]]**
+  
+  =====Términos Importantes=====
+  * **[[:es-419:obe:kt/god|Dios]]**
+  * **[[:es-419:obe:kt/life|vida]]**
+  * **[[:es-419:obe:other/adam|Adán]]**
  
 ==== Translation Notes: ====
 
