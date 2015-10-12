@@ -8,9 +8,10 @@ Entonces, los profetas de Baal oraraban a Baal, “¡Escúchenos, Baal!” Duran
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
-  * **[[:es-419:obs:notes:key-terms:pray|prayed]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:baal|Baal]] Baal**
+  * **[[:es-419:obs:notes:key-terms:pray|prayed]] oraron, oró**
+
 ==== Translation Notes: ====
 
   * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
