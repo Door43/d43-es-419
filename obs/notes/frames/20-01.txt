@@ -8,16 +8,17 @@ La Nacion de Israel y la Nacion de Judá, ambos pecaron contra Dios. Ellos rompi
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:es-419:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:repent|repent]]**
-  * **[[:es-419:obs:notes:key-terms:worship|worship]]**
-  * **[[:es-419:obs:notes:key-terms:obey|obey]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]] reino de Israel**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]] reino de Judá**
+  * **[[:es-419:obs:notes:key-terms:sin|sinned]] pecó/pecaron**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant]] pacto**
+  * **[[:es-419:obs:notes:key-terms:sinai|Sinai]] Sinaí**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:repent|repent]] arrepentirse/arrepentimiento**
+  * **[[:es-419:obs:notes:key-terms:worship|worship]] adoración**
+  * **[[:es-419:obs:notes:key-terms:obey|obey]] obedecer**
+
 ==== Translation Notes: ====
 
   * **broke the covenant**  - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
