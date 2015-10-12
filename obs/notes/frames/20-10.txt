@@ -8,12 +8,13 @@ A pesar de que Dios castigó a su pueblo de sus pecados, llevándolos al exilio,
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:punish|punished]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms:promise|promises]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:punish|punished]] castigó**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]] pecado**
+  * **[[:es-419:obs:notes:key-terms:promise|promises]] promesas**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] Tierra Prometida**
+
 ==== Translation Notes: ====
 
   * **exile**  - See how you translated this term in **[[:es-419:obs:notes:frames:20-09|[20-09]]]**.
