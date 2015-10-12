@@ -8,12 +8,13 @@ Entonces, Elías dijo a los profetas de Baal, “Maten un toro y preparenlo como
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
-  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:priest|priests]]**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:baal|Baal]] Baal**
+  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]] sacrificio**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:priest|priests]] sacerdotes **
+
 ==== Translation Notes: ====
 
   * **who answers with fire**  - That is, "who supernaturally sends fire to burn up the sacrifice."
