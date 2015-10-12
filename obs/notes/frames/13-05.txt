@@ -1,4 +1,4 @@
-===== The Commandments/Los Mandamientos [13-05] b =====
+===== The Commandments/Los Mandamientos [13-05] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&}}
 
@@ -25,5 +25,5 @@
   * **seventh day**  - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
   * **séptimo día **- Para traducir esto, es mejor usar el número ("séptimo") en vez de dar el nombre específico de un día de la semana.
   * **to remember me**  - This could be translated as, "to keep me in mind" or, "to honor me."
-  * ** me recuerden**  - Esto puede ser traducido como, "guardarme en la mente"o "honrarme".
+  * **me recuerden**  - Esto puede ser traducido como, "guardarme en la mente"o "honrarme".
 **[[:es-419:obs:notes:frames:13-04|<<]] | [[:es-419:obs:notes:13|Up]] | [[:es-419:obs:notes:frames:13-06|>>]]**
