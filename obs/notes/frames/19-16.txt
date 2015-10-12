@@ -8,17 +8,18 @@ Dios envió muchos otros profetas. Todos ellos dijeron a la gente a dejar de ado
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:worship|worshiping]]**
-  * **[[:es-419:obs:notes:key-terms:idol|idols]]**
-  * **[[:es-419:obs:notes:key-terms:justice|justice]]**
-  * **[[:es-419:obs:notes:key-terms:mercy|mercy]]**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms:obey|obeying]]**
-  * **[[:es-419:obs:notes:key-terms:judge|judge]]**
-  * **[[:es-419:obs:notes:key-terms:guilt|guilty]]**
-  * **[[:es-419:obs:notes:key-terms:punish|punish]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:worship|worshiping]] adoración/adorando**
+  * **[[:es-419:obs:notes:key-terms:idol|idols]] ídolos**
+  * **[[:es-419:obs:notes:key-terms:justice|justice]] justicia**
+  * **[[:es-419:obs:notes:key-terms:mercy|mercy]] misericordia/clemencia**
+  * **[[:es-419:obs:notes:key-terms:evil|evil]] perversidad/maldad/mal**
+  * **[[:es-419:obs:notes:key-terms:obey|obeying]] obedeciendo**
+  * **[[:es-419:obs:notes:key-terms:judge|judge]] juez**
+  * **[[:es-419:obs:notes:key-terms:guilt|guilty]] culpable**
+  * **[[:es-419:obs:notes:key-terms:punish|punish]] castigo/castigo**
+
 ==== Translation Notes: ====
 
   * **start showing justice and mercy**  - This can be translated as, "start being just and merciful" or, "begin to demonstrate justice and mercy."
