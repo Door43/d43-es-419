@@ -8,10 +8,11 @@ Cuando las personas llegaron a Jerusalén, reconstruyeron el templo y el muro al
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
-  * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]]**
-  * **[[:es-419:obs:notes:key-terms:worship|worshiped]]**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]] Jerusalén**
+  * **[[:es-419:obs:notes:key-terms:temple|Temple]] Templo**
+  * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] Tierra Prometida**
+  * **[[:es-419:obs:notes:key-terms:worship|worshiped]] adoró/adoraron**
+
 ==== Translation Notes: ====
 
   * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
