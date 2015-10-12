@@ -8,9 +8,10 @@ Entonces, Elías le dijo: “No dejen que ninguno de los profetas de Baal escape
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:baal|Baal]] Baal**
+
 ==== Translation Notes: ====
 
   * **escape**  - The prophets of Baal tried to run away after their god was proven to be a false god.
