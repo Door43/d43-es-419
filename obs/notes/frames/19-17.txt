@@ -8,12 +8,13 @@ La mayoría de las veces, las personas no obedecieron a Dios. A menudo maltratad
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:obey|obey]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:jeremiah|Jeremiah]]**
-  * **[[:es-419:obs:notes:key-terms:king|king]]**
-  * **[[:es-419:obs:notes:key-terms:mercy|mercy]]**
+  * **[[:es-419:obs:notes:key-terms:obey|obey]] obedecer**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:jeremiah|Jeremiah]] Jeremías**
+  * **[[:es-419:obs:notes:key-terms:king|king]] rey**
+  * **[[:es-419:obs:notes:key-terms:mercy|mercy]] misericordia**
+
 ==== Translation Notes: ====
 
   * **dry well**  - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, "empty well."
