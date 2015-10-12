@@ -7,11 +7,11 @@ In the new **kingdom** of **Israel**, all the **kings** were **evil**. Many of t
 En el nuevo** reino de Israel**, a todos los **reyes eran malas**. Muchos de estos **reyes** fueron asesinados por otros** israelitas ** que querían convertirse en** rey** en su lugar.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:kingdom|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
-  * **[[:es-419:obs:notes:key-terms:king|kings]]**
-  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom|kingdom]] reino**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]] Israel**
+  * **[[:es-419:obs:notes:key-terms:king|kings]] reyes**
+  * **[[:es-419:obs:notes:key-terms:evil|evil]] maldad/mal/perversidad**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
 ==== Translation Notes: ====
 
   * **Israelites**  - Here, "Israelites" refers only to the people living in the northern kingdom of Israel, not to the people living in the southern kingdom of Judah.
