@@ -10,9 +10,10 @@ Dios le dijo a Elías que fuera a un arroyo en el desierto para esconderse de Ah
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms:ahab|Ahab]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
+  * **[[:es-419:obs:notes:key-terms:ahab|Ahab]] Ahab**
+
 ==== Translation Notes: ====
 
   * **the wilderness**  - This was a remote location with very few people. This may also be translated as, "desert" or, "the bush."
