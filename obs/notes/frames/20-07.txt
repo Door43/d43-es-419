@@ -8,11 +8,12 @@ Pero después de unos pocos años, el rey de Judá se rebeló contra Babilonia. 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:es-419:obs:notes:key-terms:rebel|rebelled]]**
-  * **[[:es-419:obs:notes:key-terms:babylon|Babylon]]**
-  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
-  * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|Judah]] Judá**
+  * **[[:es-419:obs:notes:key-terms:rebel|rebelled]] rebeló**
+  * **[[:es-419:obs:notes:key-terms:babylon|Babylon]] Babilonia**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]] Jerusalén**
+  * **[[:es-419:obs:notes:key-terms:temple|Temple]] Templo**
+
 ==== Translation Notes: ====
 
   * **came back**  - This may also be translated as, "returned" or "came to Judah again."
