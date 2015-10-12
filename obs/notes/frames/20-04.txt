@@ -8,11 +8,12 @@ Entonces, los asirios trajeron los extranjeros para vivir en la tierra donde el 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:assyria|Assyrians]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israelites]]**
-  * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
-  * **[[:es-419:obs:notes:key-terms:samaria|Samaritans]]**
+  * **[[:es-419:obs:notes:key-terms:assyria|Assyrians]] asirios**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]] reino de Israel**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants]] descendientes**
+  * **[[:es-419:obs:notes:key-terms:samaria|Samaritans]] samaritanos**
+
 ==== Translation Notes: ====
 
   * **foreigners**  - This refers to people who were not Israelites.
