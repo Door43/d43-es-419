@@ -8,13 +8,14 @@ Después de tres años y medio, Dios le dijo a Elías que volviera al reino de I
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
-  * **[[:es-419:obs:notes:key-terms:ahab|Ahab]]**
-  * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:es-419:obs:notes:key-terms:worship|worshiped]]**
-  * **[[:es-419:obs:notes:key-terms:baal|Baal]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]] reino de Israel**
+  * **[[:es-419:obs:notes:key-terms:ahab|Ahab]] Ahab**
+  * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]] **
+  * **[[:es-419:obs:notes:key-terms:worship|worshiped]] adoró/adoraron**
+  * **[[:es-419:obs:notes:key-terms:baal|Baal]] Baal**
+
 ==== Translation Notes: ====
 
   * **speak with Ahab because he was going to send**  – This could be translated as, "tell Ahab that God was going to send."
