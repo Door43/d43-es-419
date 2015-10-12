@@ -7,12 +7,12 @@
 **David** gobernaba con **justicia** y **fidelidad** durante muchos años, y **Dios** lo **bendijo.** Sin embargo, hacia el final de su vida él** pecó** terriblemente contra **Dios**.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:david|David]]**
-  * **[[:es-419:obs:notes:key-terms:justice|justice]]**
-  * **[[:es-419:obs:notes:key-terms:faithful|faithfulness]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:bless|blessed]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
+  * **[[:es-419:obs:notes:key-terms:david|David]] David**
+  * **[[:es-419:obs:notes:key-terms:justice|justice]] justicia**
+  * **[[:es-419:obs:notes:key-terms:faithful|faithfulness]] fidelidad**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:bless|blessed]] bendecido**
+  * **[[:es-419:obs:notes:key-terms:sin|sinned]] pecar/pecó**
 ==== Translation Notes: ====
 
   * **David ruled with justice and faithfulness for many years**  - This could be translated as, "When David ruled the people, for many years he did what was right and fair, and he was faithful to God."
