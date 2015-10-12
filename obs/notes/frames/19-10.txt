@@ -8,16 +8,17 @@ Entonces, Elías oró, “Jehová, Dios de Abraham, de Isaac y de Jacob, muestra
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
-  * **[[:es-419:obs:notes:key-terms:pray|prayed]]**
-  * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:abraham|Abraham]]**
-  * **[[:es-419:obs:notes:key-terms:isaac|Isaac]]**
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
-  * **[[:es-419:obs:notes:key-terms:servant|servant]]**
-  * **[[:es-419:obs:notes:key-terms:true|true]]**
+  * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
+  * **[[:es-419:obs:notes:key-terms:pray|prayed]] oró/oraron**
+  * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]] Yahvé**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:abraham|Abraham]] Abraham**
+  * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] Isaac**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] Jacob**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]] Israel**
+  * **[[:es-419:obs:notes:key-terms:servant|servant]] siervo**
+  * **[[:es-419:obs:notes:key-terms:true|true]] verdad/cierto**
+
 ==== Translation Notes: ====
 
   * **show us**  - That is, "prove to us" or, "demonstrate to us."
