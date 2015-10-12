@@ -9,8 +9,8 @@
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
-  * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] (Tienda de reunión)**
-  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]] (Sumo sacerdote)**
+  * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] (Carpa de reunión)**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]] (sumo sacerdote)**
 ==== Translation Notes: Notas de traducción ====
 
   * **a detailed description**  - This could be translated as, "God described it in detail" or, "God told them exactly how He wanted them to make it."
