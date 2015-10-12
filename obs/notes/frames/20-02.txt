@@ -8,10 +8,11 @@ Así que Dios castigó a ambos reinos al permitir que sus enemigos les destruyer
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:punish|punished]]**
-  * **[[:es-419:obs:notes:key-terms:assyria|Assyrian Empire]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:punish|punished]] castigó**
+  * **[[:es-419:obs:notes:key-terms:assyria|Assyrian Empire]] Imperio Asirio**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]] reino de Israel**
+
 ==== Translation Notes: ====
 
   * **both kingdoms**  - This refers to both the kingdoms of Israel and Judah.
