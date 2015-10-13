@@ -17,11 +17,11 @@ La serpiente respondió a la mujer, "¡Eso no es verdad! No morirás. Dios sabe 
  
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/true|verdad]]**
-  * **[[:es-419:obe:kt/death|morir]]**
-  * **[[:es-419:obe:kt/god|Dios]]**
-  * **[[:es-419:obe:kt/good|bueno]]**
-  * **[[:es-419:obe:kt/evil|malo]]**
+  * **[[:es-419:obe:kt/true]]**
+  * **[[:es-419:obe:kt/death]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/good]]**
+  * **[[:es-419:obe:kt/evil]]**
 ==== Translation Notes: ====
 
   * **like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
