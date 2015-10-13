@@ -8,18 +8,14 @@ Satanás tentó a Jesús, diciendo: “Si eres el Hijo de Dios, cambia estas pie
 
 ===== Important Terms: =====
 
-
-  * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
-  * **[[:es-419:obs:notes:key-terms/tempt|tempted]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/god-son|Son of God]]**
-
-  * **[[:es-419:obe:kt/satan|Satan]]**
-  * **[[:es-419:obe:kt/tempt|tempted]]**
-  * **[[:es-419:obe:kt/jesus|Jesus]]**
-  * **[[:es-419:obe:kt/sonofgod|Son of God]]**
-
-
+  * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
+  * **[[:es-419:obs:notes:key-terms:tempt|tempted]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
+  * **[[:es-419:obe:kt:satan|Satan]] Satanás**
+  * **[[:es-419:obe:kt:tempt|tempted]] tentó/tentado**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:sonofgod|Son of God]] Hijo de Dios**
 
 ===== Translation Notes: =====
 
