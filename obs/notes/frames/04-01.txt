@@ -6,11 +6,14 @@
 
 Muchos años después del diluvio, había mucha gente otra vez en el mundo, y todos hablaban el mismo idioma. En lugar de llenar la tierra como Dios les había mandado, ellos se juntaron y construyeron una ciudad.
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
-  
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **many years after the flood**  - Many generations had passed since the end of the flood.
