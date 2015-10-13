@@ -12,6 +12,12 @@ For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **T
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
+ 
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:sinai|Monte Sinai]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:aaron|Aarón]]**
+  * **[[es-419:obe:other:idol|idolo]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **The people became tired of waiting**  - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
