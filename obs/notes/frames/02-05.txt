@@ -10,8 +10,8 @@ La mujer vio que la fruta era bonita y se veía deliciosa. También, quiso ser s
 
   * **[[:es-419:obs:notes:key-terms:wise|wise (sabio)]] **
    
-  =====Términos Importantes=====
-  * **[[:es-419:obe:kt/wise|sabio]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt/wise]]**
 ==== Translation Notes: ====
 
   * **wise**  - The woman wanted to have insight and understanding like the snake seemed to have, and like God has.
