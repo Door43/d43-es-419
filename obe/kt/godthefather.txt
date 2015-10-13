@@ -1,0 +1,35 @@
+====== God the Father, Heavenly Father (Dios el Padre, Padre Celestial) ======
+
+===== Facts: =====
+
+The term "God the Father" is one way of referring to Yahweh, the one true God.
+
+  * God exists as God the Father, God the Holy Spirit, and God the Son. Each one is fully God, and yet they are only one God. This is a mystery that mere humans cannot fully understand.
+  * The title, "God the Father," expresses the kind of personal relationship that he has with "God the Son." It is not a physical relationship. Rather, it expresses that the Son honors and serves the Father.
+  * God the Father sent God the Son (Jesus) into the world and he sends the Holy Spirit to his people.
+  * Anyone who believes in God the Son becomes a child of God the Father and God the Holy Spirit  comes to live in that person. This is another mystery that human beings cannot fully understand.
+
+===== Translation Suggestions: =====
+
+  * It is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
+  * The term "Heavenly Father" could be translated by "Father God who lives in Heaven" or "God our Father from Heaven" or "Father who lives in Heaven."
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[en:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:es-419:obe:kt:sonofgod]], [[:En:obe:kt:jesus]], [[:es-419:obe:kt:heaven]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?godthefather&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:24-09|[24-09]]]** There is only one God. But John heard **God the Father** speak, and saw Jesus the Son and the Holy Spirit when he baptized Jesus.
+  ***[[:es-419:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly Father** will do to every one of you if you do not forgive your brother from your heart."
+  ***[[:es-419:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to heaven and said, "**Father**, thank you for hearing me."
+  ***[[:es-419:obs:notes:frames:40-07|[40-07]]]** Then Jesus cried out, "It is finished! **Father**, I give my spirit into your hands."
+  ***[[:es-419:obs:notes:frames:42-10|[42-10]]]** "So go, make disciples of all people groups by baptizing them in the name of **the Father**, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
+  ***[[:es-419:obs:notes:frames:43-08|[43-08]]]** "Jesus is now exalted to the right hand of **God the Father**."
+  ***[[:es-419:obs:notes:frames:50-10|[50-10]]]** "Then the righteous ones will shine like the sun in the kingdom of **God their Father**."
+
+~~DISCUSSION~~{{tag>publish ktobs}}
