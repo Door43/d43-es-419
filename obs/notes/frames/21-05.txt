@@ -8,17 +8,18 @@ A través del profeta Jeremías, Dios prometió que iba a hacer un pacto nuevo, 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
-  * **[[:es-419:obs:notes:key-terms:jeremiah|Jeremiah]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:promise|promised]]**
-  * **[[:es-419:obs:notes:key-terms:covenant-new|New Covenant]]**
-  * **[[:es-419:obs:notes:key-terms:covenant|covenant]]**
-  * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
-  * **[[:es-419:obs:notes:key-terms:sinai|Sinai]]**
-  * **[[:es-419:obs:notes:key-terms:forgive|forgive]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophet]] profeta**
+  * **[[:es-419:obs:notes:key-terms:jeremiah|Jeremiah]] Jeremías**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:promise|promised]] prometió**
+  * **[[:es-419:obs:notes:key-terms:covenant-new|New Covenant]] nuevo pacto**
+  * **[[:es-419:obs:notes:key-terms:covenant|covenant]] pacto**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]] Israel**
+  * **[[:es-419:obs:notes:key-terms:sinai|Sinai]] Sinaí**
+  * **[[:es-419:obs:notes:key-terms:forgive|forgive]] perdonar**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]] pecados**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] Mesías**
+
 ==== Translation Notes: ====
 
   * **Through the prophet Jeremiah God promised**  – This could be translated as, "Through the messages that God gave to Jeremiah, God promised" or, "The prophet Jeremiah told the people God's promise."
