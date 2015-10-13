@@ -10,6 +10,10 @@ Después que **Dios** venció a los ejércitos, muchos de los otros grupos de pe
   * **[[:es-419:obs:notes:key-terms:canaan|Canaanite]] (Cananeos)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
+   
+  * **[[es-419:obe:other:canaan]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:joshua]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **attacked and destroyed them**  - This could be translated as, "fought against them and defeated them."
