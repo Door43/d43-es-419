@@ -12,6 +12,12 @@ Toda la gente estaba de acuerdo que iba a** obedecer ** las leyes que **Dios** l
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adorar)**
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
   * **[[:es-419:obs:notes:key-terms:sin|sinned]] (pecaron)**
+ 
+  * **[[es-419:obe:other:obey|obedecer]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:kt:worship|adorar]]**
+  * **[[es-419:obe:kt:promise|prometido]]**
+  * **[[es-419:obe:kt:sin|pecaron]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **given them**  - This could be translated as, "told them to obey."
