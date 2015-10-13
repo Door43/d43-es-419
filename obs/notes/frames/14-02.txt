@@ -18,6 +18,20 @@
   * **[[:es-419:obs:notes:key-terms:obey|obey]] (obedecer)**
   * **[[:es-419:obs:notes:key-terms:god-false|false gods]] (dioses falsos)**
   * **[[:es-419:obs:notes:key-terms:evil|evil]] (malvado)**
+  
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:kt:promise|prometido]]**
+  * **[[es-419:obe:other:abraham|Abraham]]**
+  * **[[es-419:obe:other:isaac|Isaac]]**
+  * **[[es-419:obe:other:jacob|Jacob]]**
+  * **[[es-419:obe:kt:promisedland|Tierra Prometida]]**
+  * **[[es-419:obe:other:descendant|descendientes]]**
+  * **[[es-419:obe:other:peoplegroup|grupo de gentes]]**
+  * **[[es-419:obe:other:canaan|Cananeos]]**
+  * **[[es-419:obe:kt:worship|adoración]]**
+  * **[[es-419:obe:other:obey|obedecer]]**
+  * **[[es-419:obe:kt:falsegod|dioses falsos]]**
+  * **[[es-419:obe:kt:evil|malvado]]**
 
 ==== Translation Notes:  Notas de traducción ====
 
