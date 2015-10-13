@@ -13,13 +13,12 @@ Cuando la gente oyó el mensaje de Juan, muchos de ellos se arrepintieron de sus
   * **[[:es-419:obs:notes:key-terms:sin|sins]]**
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
   * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leaders]]**
+  * **[[:es-419:obe:other:johnthebaptist|John's]] de Juan**
+  * **[[:es-419:obe:kt:repent|repented]] arrepentido**
+  * **[[:es-419:obe:kt:sin|sins]] pecados**
+  * **[[:es-419:obe:kt:baptize|baptized]] bautizó/bautizado**
+  * **[[:es-419:obe:other:jewishleaders|religious leaders]] líderes religiosos**
 
-  * **[[:es-419:obe:other:johnthebaptist|John's]]**
-  * **[[:es-419:obe:kt:repent|repented]]**
-  * **[[:es-419:obe:kt:sin|sins]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:other:jewishleaders|religious leaders]]**
-  
 ===== Translation Notes: =====
 
   * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
