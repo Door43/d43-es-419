@@ -12,6 +12,12 @@ El padre de** Gideón** tenía un** altar** dedicado a un **ídolo**. **Dios** l
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]] (sacrificio)**
+   
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:other:altar]]**
+  * **[[es-419:obe:other:idol]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:sacrifice]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **to tear down**  - This means, "to violently bring down" or, "to take down and destroy."
