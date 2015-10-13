@@ -8,12 +8,13 @@ Cuando el tiempo estaba cerca de María para dar a luz, el gobierno Romano dijo 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:mary|Mary]]**
-  * **[[:es-419:obs:notes:key-terms:rome|Roman]]**
-  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]]**
-  * **[[:es-419:obs:notes:key-terms:nazareth|Nazareth]]**
-  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:es-419:obs:notes:key-terms:david|David]]**
+  * **[[:es-419:obs:notes:key-terms:mary|Mary]] María**
+  * **[[:es-419:obs:notes:key-terms:rome|Roman]] romano**
+  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]] José**
+  * **[[:es-419:obs:notes:key-terms:nazareth|Nazareth]] Nazaret**
+  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]] Belén**
+  * **[[:es-419:obs:notes:key-terms:david|David]] David**
+
 ===== Translation Notes: =====
 
   * **When the time was near for Mary to give birth**  - That is, "When it was near the end of Mary's pregnancy."
