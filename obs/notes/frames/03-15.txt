@@ -6,19 +6,21 @@
 
 ** Dios  ** dijo, "  ** Prometo  ** que  ** jamás maldeciré  ** la tierra por las cosas  ** malas  ** que la gente hace, o destruiré el mundo con un diluvio, aunque  ** la gente es pecaminosa desde su niñez."  **
 
-===== Important Terms: Términos Importantes: =====
+===== Important Terms:  =====
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]] **
   * **[[:es-419:obs:notes:key-terms:promise|promise (prometió)]]**
   * **[[:es-419:obs:notes:key-terms:curse|curse (maldecir)]]**
   * **[[:es-419:obs:notes:key-terms:evil|evil (malvado)]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinful (pecaminoso)]]**
-  
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/promise|promise (prometió)]]**
-  * **[[:es-419:obe:kt/curse|curse (maldecir)]]**
-  * **[[:es-419:obe:kt/evil|evil (malvado)]]**
-  * **[[:es-419:obe:kt/sin|sinful (pecaminoso)]]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/promise]]**
+  * **[[:es-419:obe:kt/curse]]**
+  * **[[:es-419:obe:kt/evil]]**
+  * **[[:es-419:obe:kt/sin]]**
 ===== Notas de Traducción: =====
 
   * **never again**  - This means, "not ever again" or, "not again at any time" or, "truly not again". Examples: "I will not ever again curse the ground" or, "I will not curse the ground again at any time" or, "I will truly not curse the ground again".
