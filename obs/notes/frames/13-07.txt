@@ -16,6 +16,16 @@ Entonces,** Dios** escribió estos **Diez Mandamientos** en dos tablas de piedra
   * **[[:es-419:obs:notes:key-terms:bless|bless]] (bendición)**
   * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]] (desobedeció)**
   * **[[:es-419:obs:notes:key-terms:punish|punish]] (castigo)**
+
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:TenCommandments|Diez Mandamientos]]**
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:kt:lawofmoses|leyes]]**
+  * **[[es-419:obe:other:obey|obedeció]]**
+  * **[[es-419:obe:kt:promise|prometió]]**
+  * **[[es-419:obe:kt:bless|bendición]]**
+  * **[[es-419:obe:other:disobey|desobedeció]]**
+  * **[[es-419:obe:other:punish|castigo]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:es-419:obs:notes:frames:13-05|[13-05]]]** and **[[:es-419:obs:notes:frames:13-06|[13-06]]]**.
