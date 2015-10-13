@@ -8,19 +8,17 @@ Pero Jesús le respondió a Satanás citando las Escrituras. Él dijo: “En la 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/satan|Satan]]**
-  * **[[:es-419:obs:notes:key-terms/word-of-god|scriptures]]**
-  * **[[:es-419:obs:notes:key-terms/lord|Lord]]**
-  * **[[:es-419:obs:notes:key-terms/god|God]]**
-
-  * **[[:es-419:obe:kt/jesus|Jesus]]**
-  * **[[:es-419:obe:kt/satan|Satan]]**
-  * **[[:es-419:obe:kt/wordofgod|scriptures]]**
-  * **[[:es-419:obe:kt/lord|Lord]]**
-  * **[[:es-419:obe:kt/lord|Lord]]**
-  * **[[:es-419:obe:kt/god|God]]**
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:satan|Satan]]**
+  * **[[:es-419:obs:notes:key-terms:word-of-god|scriptures]]**
+  * **[[:es-419:obs:notes:key-terms:lord|Lord]] **
+  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:satan|Satan]] Satanás**
+  * **[[:es-419:obe:kt:wordofgod|scriptures]] escrituras**
+  * **[[:es-419:obe:kt:lord|Lord]] Señor**
+  * **[[:es-419:obe:kt:lord|Lord]] Señor**
+  * **[[:es-419:obe:kt:god|God]] Dios**
 
 ===== Translation Notes: =====
 
