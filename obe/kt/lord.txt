@@ -1,0 +1,40 @@
+====== lord, master, sir (señor, maestro, caballero) ======
+
+===== Definition: =====
+
+The term "lord" refers to someone who has ownership or authority over other people.
+
+  * This word is sometimes translated as "master" when addressing Jesus or when referring to someone who owns slaves.
+  * Some English versions translate this as "sir" in contexts where someone is politely addressing someone of higher status.
+  * This term is also used to refer to God, especially in the phrases, "the Lord," "Lord God," and "Lord Jesus." This communicates that God is the ruler and authority over all people and all creation.
+  * In the Old Testament of many Bible versions, the term "LORD" is used to translate God's personal name "Yahweh."
+
+===== Translation Suggestions: =====
+
+  * This term should be translated as "master" when it refers to a person who owns slaves. It could also be used by a servant to address the person he works for.
+  * When it refers to Jesus, it could be translated as "master" if the context shows it means "religious teacher."
+  * If the person addressing Jesus does not know him, "lord" could be translated as "sir." This translation would also be used for other contexts in which a polite form of address to a man is called for.
+  * When it refers to God, a term such as "Lord" should be used. Some languages would use "Master" or some other word that communicates ownership or supreme ruler.
+
+(See also: [[:es-419:obe:kt:lordgod]])
+
+  
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?lord&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:25-05|[25-05]]]** But Jesus replied to Satan by quoting from the Scriptures. He said, "In God's word, he commands his people, 'Do not test the **Lord**  your God.'"
+  * **[[:es-419:obs:notes:frames:25-07|[25-07]]]** Jesus replied, "Get away from me, Satan! In God's word he commands his people, 'Worship only the **Lord**  your God and only serve him.'"
+  * **[[:es-419:obs:notes:frames:26-03|[26-03]]]** This is the year of the **Lord's**  favor.
+  * **[[:es-419:obs:notes:frames:27-02|[27-02]]]** The law expert replied that God's law says, "Love the **Lord**  your God with all your heart, soul, strength, and mind."
+  * **[[:es-419:obs:notes:frames:31-05|[31-05]]]** Then Peter said to Jesus, "**Master**, if it is you, command me to come to you on the water"
+  * **[[:es-419:obs:notes:frames:43-09|[43-09]]]**"But know for certain that God has caused Jesus to become both **Lord**  and Messiah!"
+  * **[[:es-419:obs:notes:frames:47-03|[47-03]]]** By means of this demon she predicted the future for people, she made a lot of money for her **masters**  as a fortuneteller.
+  * **[[:es-419:obs:notes:frames:47-11|[47-11]]]** Paul answered, "Believe in Jesus, the **Master**, and you and your family will be saved."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
