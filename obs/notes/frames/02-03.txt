@@ -13,12 +13,12 @@ La mujer le contestó, "Dios nos dijo que podríamos comer la fruta de cualquier
   * **[[:es-419:obs:notes:key-terms:evil|evil (malo)]]**
   * **[[:es-419:obs:notes:key-terms:death|die (morir)]]**
   
-  =====Términos Importantes=====
+=====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god|Dios]]**
-  * **[[:es-419:obe:kt/good|bueno]]**
-  * **[[:es-419:obe:kt/evil|malo]]**
-  * **[[:es-419:obe:kt/death|morir]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/good]]**
+  * **[[:es-419:obe:kt/evil]]**
+  * **[[:es-419:obe:kt/death]]**
 ==== Translation Notes: ====
 
   * **fruit**  - We don't know what kind of fruit this was. We only know that it grew on this tree. If possible it is best to use a general word for fruit here, and not a word for a specific kind of fruit.
