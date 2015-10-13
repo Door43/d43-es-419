@@ -1,0 +1,39 @@
+====== true, truth (verdaderamente, verdadero) ======
+
+===== Definition: =====
+
+The terms "true" and "truth" refer to concepts that are facts, events that actually happened, and statements that were actually said.
+
+  * True things are real, genuine, actual, rightful, legitimate, and factual.
+  * The truth is an understanding, belief, fact, or statement that is true.
+  * Jesus revealed God's truth in the words that he spoke.
+  * God's word is truth. It tells about things that actually happened and teaches what is true about God and about everything he has made.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context and what is being described, the term "true" could be translated by "real" or "factual" or "correct" or "right" or "certain" or "genuine."
+  * Ways to translated the term "truth" could include, "what is true" or "fact" or "certainty" or "principle."
+  * Tips for translating these phrases:
+    * "accept the truth" --- "believe what is true (about God)"
+    * "I tell you the truth" --- "This true thing I'm about to say is very important:"
+    * "learn the truth" -- "learn true things that God has taught us."
+
+learn the truth, accept the truth, your truth, I tell you the truth, the truth about what you have been taught
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?truth&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
+  ***[[:es-419:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  ***[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
+  ***[[:es-419:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, "**Truly**, you are the Son of God." 
+  ***[[:es-419:obs:notes:frames:39-10|[39-10]]]** "I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me." Pilate said, "What is **truth**?"
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
