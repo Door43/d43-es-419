@@ -10,6 +10,10 @@ En otra ocasión caundo la gente no tuvo agua,** Dios** dijo a **Moisés**, “H
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] (Tierra Prometida)**
+   
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:kt:promisedland]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **Moses dishonored God**  - This could be translated, "Moses disobeyed God" or, "Moses disrespected God." God had a specific way He wanted Moses to show the people God's power to provide for them. When Moses disobeyed God by doing it in a different way he showed a lack of respect for God.
