@@ -8,9 +8,10 @@ Poco después de que el ángel habló a María, ella fue y visitó a Elizabeth. 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms:mary|Mary]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:angel|angel]] ángel**
+  * **[[:es-419:obs:notes:key-terms:mary|Mary]] María**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+
 ===== Translation Notes: =====
 
   * **Elizabeth**  - See the note about Elizabeth on **[[:es-419:obs:notes:frames:22-05|[22-04]]]**.
