@@ -19,6 +19,19 @@
   * **[[:es-419:obs:notes:key-terms:righteous|righteous]] justo/justificado/honrado**
   * **[[:es-419:obs:notes:key-terms:trust|trusted]] confiado/confianza**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed]] obediencia/obedecer**
+  
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:david]]**
+  * **[[es-419:obe:other:king]]**
+  * **[[es-419:obe:other:saul]]**
+  * **[[es-419:obe:other:shepherd]]**
+  * **[[es-419:obe:other:bethlehem]]**
+  * **[[es-419:obe:other:sheep]]**
+  * **[[es-419:obe:other:humble]]**
+  * **[[es-419:obe:kt:righteous]]**
+  * **[[es-419:obe:kt:trust]]**
+  * **[[es-419:obe:other:obey]]**
 ==== Translation Notes: ====
 
   * **watching**  - That is, "caring for" or, "protecting" or, "taking care of."
