@@ -8,16 +8,14 @@ Pero el joven dijo: “Yo he guardado todas estas leyes desde que era un niño. 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/obey|obeyed]]**
-  * **[[:es-419:obs:notes:key-terms/gods-law|laws]]**
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/love|loved]]**
-
-  * **[[:es-419:obe:other/obey|obeyed]]**
-  * **[[:es-419:obe:kt/lawofmoses|laws]]**
-  * **[[:es-419:obe:kt/jesus|Jesus]]**
-  * **[[:es-419:obe:kt/love|loved]]**
-
+  * **[[:es-419:obs:notes:key-terms:obey|obeyed]]**
+  * **[[:es-419:obs:notes:key-terms:gods-law|laws]]**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:love|loved]]**
+  * **[[:es-419:obe:other:obey|obeyed]] obedeció**
+  * **[[:es-419:obe:kt:lawofmoses|laws]] leyes**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:love|loved]] amó/amado**
 
 ===== Translation Notes: =====
 
