@@ -11,6 +11,11 @@ Cuando la gente oyó esto, estaban tristes que habían **pecado**. Tomaron sus a
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+   
+  * **[[es-419:obe:kt:sin]]**
+  * **[[es-419:obe:other:canaan]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:kt:god]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **they had sinned**  - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
