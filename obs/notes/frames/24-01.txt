@@ -8,15 +8,13 @@ Juan, hijo de Zacarías y Elizabeth, creció y se convirtió en un profeta. Viv�
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:john-baptist|John]]**
-  * **[[:es-419:obs:notes:key-terms:zechariah-nt|Zechariah]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
+  * **[[:es-419:obs:notes:key-terms:john-baptist|John]] Juan**
+  * **[[:es-419:obs:notes:key-terms:zechariah-nt|Zechariah]] Zacarías**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophet]] profeta**
+  * **[[:es-419:obe:other:johnthebaptist|John]] Juan**
+  * **[[:es-419:obe:other:zechariahnt|Zechariah]] Zacarías**
+  * **[[:es-419:obe:kt:prophet|prophet]] profeta**
 
-  * **[[:es-419:obe:other:johnthebaptist|John]]**
-  * **[[:es-419:obe:other:zechariahnt|Zechariah]]**
-  * **[[:es-419:obe:kt:prophet|prophet]]**
- 
-  
 ===== Translation Notes: =====
 
   * **wilderness**  - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
