@@ -15,6 +15,15 @@
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]] (Abraham)**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] (Isaac)**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacob)**
+   
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:kt:faithful]]**
+  * **[[es-419:obe:kt:promise]]**
+  * **[[es-419:obe:other:abraham]]**
+  * **[[es-419:obe:other:isaac]]**
+  * **[[es-419:obe:other:jacob]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **miraculously gave them water from a rock**  - This could be translated, "by doing something that only God can do, he made water pour out of a rock so the people and animals could drink."
