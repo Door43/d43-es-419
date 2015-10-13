@@ -8,11 +8,12 @@ En el pasado, Dios había hablado a su pueblo a través de sus ángeles y profet
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:angel|angels]]**
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:priest|priest]]**
-  * **[[:es-419:obs:notes:key-terms:zechariah-nt|Zechariah]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:angel|angels]] ángeles**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:priest|priest]] sacerdote**
+  * **[[:es-419:obs:notes:key-terms:zechariah-nt|Zechariah]] Zacarías**
+
 ===== Translation Notes: =====
 
   * **his people**  - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
