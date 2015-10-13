@@ -5,7 +5,7 @@
 So **Abram obeyed God**. **He took** his wife,**Sarai**, together with all of his **servants** and everything he owned and went to the land **God showed him**,**the land of Canaan**.
 
 Así, **Abram obedeció a Dios**. ** El tomó** a su esposa, **Sarai**, junto con todos sus **siervos** y todo lo que él tenía y fue a la tierra que** Dios le mostró**, **la tierra de Canaán.**
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abram (Abram)]] **
   * **[[:es-419:obs:notes:key-terms:obey|obeyed (obedeció)]]**
@@ -14,12 +14,15 @@ Así, **Abram obedeció a Dios**. ** El tomó** a su esposa, **Sarai**, junto co
   * **[[:es-419:obs:notes:key-terms:servant|servants (siervos)]]**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan (Canaán)]]**
    
-  * **[[:es-419:obe:other/Abraham|Abram (Abram)]]**
-  * **[[:es-419:obe:other/obey|obeyed (obedeció)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/sarah|Sarai (Sara)]]**
-  * **[[:es-419:obe:other/servant|servants (siervos)]]**
-  * **[[:es-419:obe:other/canaan|Canaan (Canaán)]]**
+   
+=====Términos Importantes=====
+ 
+  * **[[:es-419:obe:other/Abraham]]**
+  * **[[:es-419:obe:other/obey]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/sarah]]**
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:other/canaan]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **He took**  – Some languages would say, "He brought" here. Others would use two different verbs here, such as, "He caused his wife to come with him" and, "He brought along all of their servants and possessions."
