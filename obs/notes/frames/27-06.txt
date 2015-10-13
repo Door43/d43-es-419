@@ -8,12 +8,11 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:jew|Jewish]]**
-  * **[[:es-419:obs:notes:key-terms:priest|priest]]**
-  * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leader]]**
-
-  * **[[:es-419:obe:other:jew|Jewish]]**
-  * **[[:es-419:obe:kt:priest|priest]]**
+  * **[[:es-419:obs:notes:key-terms:jew|Jewish]] judío**
+  * **[[:es-419:obs:notes:key-terms:priest|priest]] sacerdote**
+  * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leader]] líder religioso**
+  * **[[:es-419:obe:other:jew|Jewish]] judío**
+  * **[[:es-419:obe:kt:priest|priest]] sacerdote**
 
 ===== Translation Notes: =====
 
