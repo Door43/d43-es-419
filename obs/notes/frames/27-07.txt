@@ -11,10 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
   * **[[:es-419:obs:notes:key-terms:priest|priests]]**
   * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
+  * **[[:es-419:obe:other:jew|Jews]] judíos**
+  * **[[:es-419:obe:kt:priest|priests]] sacerdotes**
+  * **[[:es-419:obe:kt:temple|Temple]] templo**
 
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:kt:priest|priests]]**
-  * **[[:es-419:obe:kt:temple|Temple]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
