@@ -8,14 +8,15 @@ Los profetas también, dijeron que el Mesías sería perfecto, sin tener pecado.
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sin]]**
-  * **[[:es-419:obs:notes:key-terms:death|die]]**
-  * **[[:es-419:obs:notes:key-terms:receive|receive]]**
-  * **[[:es-419:obs:notes:key-terms:punish|punishment]]**
-  * **[[:es-419:obs:notes:key-terms:peace|peace]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
+  * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] Mesías**
+  * **[[:es-419:obs:notes:key-terms:sin|sin]] pecado**
+  * **[[:es-419:obs:notes:key-terms:death|die]] morir/fallecer**
+  * **[[:es-419:obs:notes:key-terms:receive|receive]] recibir**
+  * **[[:es-419:obs:notes:key-terms:punish|punishment]] castigo**
+  * **[[:es-419:obs:notes:key-terms:peace|peace]] paz**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+
 ==== Translation Notes: ====
 
   * **having no sin**  - This can also be translated as "he never sinned."
