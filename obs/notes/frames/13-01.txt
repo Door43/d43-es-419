@@ -12,6 +12,12 @@ Después que **Dios ** guio los** Israelitas ** por el **Mar Rojo,** el los gui�
   * **[[:es-419:obs:notes:key-terms:red-sea|Red Sea]] (Mar Rojo)**
   * **[[:es-419:obs:notes:key-terms:sinai|Sinai]] (Sinaí)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
+
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:israel|Israelitas]]**
+  * **[[es-419:obe:other:RedSea|Mar Rojo]]**
+  * **[[es-419:obe:other:sinai|Sinai]]**
+  * **[[es-419:obe:other:moses|Moisés]]** 
 ==== Translation Notes: Notas de traducción ====
 
   * **burning bush**  - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:es-419:obs:notes:frames:09-12|[09-12]]]**.
