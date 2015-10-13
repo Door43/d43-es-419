@@ -1,0 +1,33 @@
+====== everlasting, eternal, eternity (eterno, eternal, eternidad) ======
+
+===== Definition: =====
+
+The terms “everlasting” and “eternal” have very similar meanings and refer to something that will always exist or that lasts forever.
+
+  * The term “eternity” refers to a state of being that has no beginning or end. It can also refer to life that never ends.
+  * After this present life on earth, humans will spend eternity either in heaven with God or in hell apart from God.
+  * The terms “eternal life” and “everlasting life” are used in the New Testament to refer to living forever with God in our new bodies in heaven.
+  * The phrase “forever and ever” has the idea of time that never ends and expresses what eternity or eternal life is like.
+
+===== Translation Suggestions: =====
+
+  * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
+  * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
+  * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+
+(See also: [[:es-419:obe:kt:forever]], [[:es-419:obe:kt:life]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?eternity&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
+  * **[[:es-419:obs:notes:frames:28-01|[28-01]]]** One day, a rich young ruler came up to Jesus and asked him, "Good Teacher, what must I do to have **eternal life**?" Jesus said to him, "Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have **eternal life**, obey God's laws."
+  * **[[:es-419:obs:notes:frames:28-10|[28-10]]]** Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name's sake, will receive 100 times more and will also receive **eternal life**."
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
