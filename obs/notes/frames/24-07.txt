@@ -12,12 +12,11 @@ Juan le dijo a Jesús: “Yo no soy digno de bautizar a usted. Usted me debe bau
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:baptize|baptize]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
+  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]] Juan(El Bautista)**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:baptize|baptized]] bautizado/bautizó**
+  * **[[:es-419:obe:kt:sin|sinned]] pecó**
 
-  * **[[:es-419:obe:other:johnthebaptist]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:kt:sin|sinned]]**
- 
 ===== Translation Notes: =====
 
   * **I am not worthy to baptize you**  - This could be translated as, "I am not good enough to baptize you" or, "I am sinful, so I should not baptize you."
