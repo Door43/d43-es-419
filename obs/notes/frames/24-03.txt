@@ -14,7 +14,9 @@ Cuando la gente oyó el mensaje de Juan, muchos de ellos se arrepintieron de sus
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
   * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leaders]]**
   * **[[:es-419:obe:other:johnthebaptist|John's]] de Juan**
-  * **[[:es-419:obe:kt:repent|repented]] arrepentido**
+
+
+  * **[[:es-419:obe:kt:repent]] **
   * **[[:es-419:obe:kt:sin|sins]] pecados**
   * **[[:es-419:obe:kt:baptize|baptized]] bautizó/bautizado**
   * **[[:es-419:obe:other:jewishleaders|religious leaders]] líderes religiosos**
