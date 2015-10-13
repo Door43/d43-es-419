@@ -8,11 +8,12 @@
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:angel|angels]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:glory|Glory]]**
-  * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
-  * **[[:es-419:obs:notes:key-terms:peace|peace]]**
+  * **[[:es-419:obs:notes:key-terms:angel|angels]] ángeles**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:glory|Glory]] Gloria**
+  * **[[:es-419:obs:notes:key-terms:heaven|heaven]] cielo/paraíso**
+  * **[[:es-419:obs:notes:key-terms:peace|peace]] paz**
+
 ===== Translation Notes: =====
 
   * (The angel continued speaking.)
