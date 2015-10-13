@@ -8,11 +8,12 @@ María estaba comprometida con un hombre justo llamado José. Cuando se enteró 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:mary|Mary]]**
-  * **[[:es-419:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]]**
-  * **[[:es-419:obs:notes:key-terms:angel|angel]]**
-  * **[[:es-419:obs:notes:key-terms:dream|dream]]**
+  * **[[:es-419:obs:notes:key-terms:mary|Mary]] María**
+  * **[[:es-419:obs:notes:key-terms:righteous|righteous]] justo/honrado**
+  * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]] José**
+  * **[[:es-419:obs:notes:key-terms:angel|angel]] ángel**
+  * **[[:es-419:obs:notes:key-terms:dream|dream]] sueño**
+
 ===== Translation Notes: =====
 
   * **he knew it was not his baby**  - That is, "he knew that he was not the one who had caused her to be pregnant."
