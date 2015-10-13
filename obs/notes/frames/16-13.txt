@@ -9,6 +9,9 @@ Entonces, todos los soldados de **Gedeón** rompieron sus ollas al mismo momento
 
   * **[[:es-419:obs:notes:key-terms:gideon|Gideon's]]  (Gedeón)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+   
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:kt:god]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **shouted**  - This could be translated as, "yelled loudly" or, "said with a very loud voice."
