@@ -11,11 +11,11 @@ Entonces Dios dijo, "No es bueno que el hombre esté solo." Pero ninguno de los 
   * **[[:es-419:obs:notes:key-terms:good|good (bueno]] **
   * **[[:es-419:obs:notes:key-terms:adam|Adam's (Adán) ]] **
   
-  =====Términos Importantes=====
+=====Términos Importantes=====
  
-  * **[[:es-419:obe:kt/god|Dios]]**
-  * **[[:es-419:obe:kt/good|bueno]]**
-  * **[[:es-419:obe:other/adam|Adán]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/good]]**
+  * **[[:es-419:obe:other/adam]]**
 ==== Translation Notes: ====
 
   * **not good**  - This is the first time that anything in creation was not good. It means it was, "not yet good" because God was not finished with the creation of humans.
