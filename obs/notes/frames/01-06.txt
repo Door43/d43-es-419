@@ -13,8 +13,8 @@ En el cuarto día de la creación, Dios habló y hizo el sol, la luna, y las est
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god|Dios]]**
-  * **[[:es-419:obe:kt/good|bueno]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/good]**
 ==== Translation Notes: ====
 
   * **the fourth day**  - The next in the orderly series of days in which God created.
