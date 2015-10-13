@@ -8,12 +8,10 @@ Entonces, Jesús escogió a doce hombres que fueron llamados sus apóstoles. Los
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms/jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms/apostle|apostles]]**
-
-  * **[[:es-419:obe:kt/jesus|Jesus]]**
-  * **[[:es-419:obe:kt/apostle|apostles]]**
-
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:apostle|apostles]]**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:apostle|apostles]] apóstoles**
 
 ===== Translation Notes: =====
 
