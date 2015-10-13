@@ -14,9 +14,9 @@ Dios hizo al hombre y a la mujer a su propia imagen. El los bendijo y les dijo, 
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god|Dios]]**
-  * **[[:es-419:obe:kt/bless|bendecido]]**
-  * **[[:es-419:obe:kt/good|bueno]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/bless]]**
+  * **[[:es-419:obe:kt/good]]**
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
