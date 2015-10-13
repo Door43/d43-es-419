@@ -12,6 +12,12 @@ Esa noche** Dios** le dijo a **Gedeón**: “Ve al campamento **madianita** y cu
   * **[[:es-419:obs:notes:key-terms:midian|Midianite]] (Madianita)**
   * **[[:es-419:obs:notes:key-terms:dream|dreamed]] (soño)**
   * **[[:es-419:obs:notes:key-terms:worship|worshiped]] (adoró)**
+  
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:other:midian]]**
+  * **[[es-419:obe:other:dream]]**
+  * **[[es-419:obe:kt:worship]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **Go down**  - The Midianite soldiers were camping out in a valley and were at a lower elevation than the Israelite soldiers.
