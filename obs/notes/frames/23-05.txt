@@ -8,8 +8,9 @@ Cuando llegaron a Belén, no había lugar para quedarse. La única habitación q
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]] Belén**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]] Jesús**
+
 ===== Translation Notes: =====
 
   * **no place to stay**  - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
