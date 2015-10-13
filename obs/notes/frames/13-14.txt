@@ -10,6 +10,10 @@ Entonces, **Moisés ** golpeó el **ídolo ** al polvo, tiró el polvo en alguna
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+   
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:idol|idolo]]**
+  * **[[es-419:obe:kt:god|Dios]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **beat the idol into powder**  - Moses utterly destroyed the idol by pounding it into fine particles.
