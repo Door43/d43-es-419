@@ -8,10 +8,11 @@ Algún tiempo después, los hombres sabios de los países hacia el este vieron u
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:wise|wise]]**
-  * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]]**
-  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
+  * **[[:es-419:obs:notes:key-terms:wise|wise]] sabio**
+  * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]] rey de los judíos**
+  * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]] Belén**
+  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]] Jesús**
+
 ===== Translation Notes: =====
 
   * **Sometime later**  - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
