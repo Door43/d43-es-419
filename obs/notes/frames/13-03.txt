@@ -11,6 +11,11 @@ Tres días después, después de que la gente se habían preparado espiritualmen
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:sinai|Mount Sinai]] (Monte Sinaí)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
+
+
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:sinai|Monte Sinai]]**
+  * **[[es-419:obe:other:moses|Moisés]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **Three days later**  - In other words, three days after, they arrived at Mount Sinai and God first spoke to them.
