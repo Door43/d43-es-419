@@ -1,0 +1,24 @@
+====== sheep, ram (oveja, carnero) ======
+
+===== Definition: =====
+
+A sheep is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a ram. A young sheep is called a lamb.
+
+  * The Israelites often used rams and lambs for sacrifices.
+  * People eat meat from sheep and use their wool to make clothing and other things.
+  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them in the right direction, to protect them, and to provide them with food, water, and shelter.
+  * In the Bible, people are compared to sheep who have God as their shepherd.
+
+(See also: [[:es-419:obe:other:shepherd|shepherd]], [[:es-419:obe:kt:lamb|lamb, Lamb of God]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sheep&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
+  * **[[:es-419:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
+  * **[[:es-419:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
+  * **[[:es-419:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+~~DISCUSSION~~{{tag>publish ktobs}}
