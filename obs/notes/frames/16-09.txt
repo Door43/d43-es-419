@@ -13,6 +13,13 @@ Para la primera señal, **Gedeón ** puso un paño en el suelo y le pidió a** D
   * **[[:es-419:obs:notes:key-terms:save|save]] (salvar)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
   * **[[:es-419:obs:notes:key-terms:midian|Midianites]] (Madianitas)**
+   
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:other:sheep]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:save]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:midian]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **sign**  - This could be translated as, "miracle" or, "impossible thing."
