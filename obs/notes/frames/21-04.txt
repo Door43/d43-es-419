@@ -8,11 +8,12 @@ Dios prometió al rey David que uno de sus propios descendientes gobernarían co
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:promise|promised]]**
-  * **[[:es-419:obs:notes:key-terms:david|King David]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms:descendant|descendants]]**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:promise|promised]] prometió**
+  * **[[:es-419:obs:notes:key-terms:david|King David]] rey David**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] Mesías**
+  * **[[:es-419:obs:notes:key-terms:descendant|descendants]] descendientes**
+
 ==== Translation Notes: ====
 
   * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself."
