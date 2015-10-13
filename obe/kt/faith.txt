@@ -1,0 +1,32 @@
+====== faith (fe) ======
+
+===== Definition: =====
+
+In general, the term "faith" refers to a belief, trust or confidence in someone or something.
+
+  * To "have faith" in someone is to believe that what he says and does is true and trustworthy.
+  * To "have faith in Jesus" means to believe all of God's teachings about Jesus. It especially means that people trust in Jesus and his sacrifice to cleanse them from their sin and to rescue them from the punishment they deserve because of their sin.
+  * True faith or belief in Jesus will cause a person to produce good spiritual fruits or behaviors because the Holy Spirit is living in him.
+  * Sometimes "faith" refers to all the teachings about Jesus, as in "the truths of the faith."
+  * Phrases such as "keep the faith" or "abandon the faith" use "faith" to refer to the state or condition of believing all the teachings about Jesus.
+===== Translation Suggestions: =====
+
+  * In some contexts, "faith" can be translated as "belief" or "conviction" or "confidence" or "trust."
+  * Some languages may prefer to translate the terms "faith," "faithful," and "faithfulness" using some form of the verb "believe" since all these concepts come from that verb.
+  * The idiom, "keep the faith" could be translated by, "keep believing in Jesus" or "continue to believe in Jesus."
+  * The sentence, "they must keep hold of the deep truths of the faith" could be translated by, "they must keep believing all the true things about Jesus that they have been taught."
+  * The phrase, "my true son in the faith" could be translated by something like, "who is like a son to me because I taught him to believe in Jesus" or "my true spiritual son, who believes in Jesus."
+
+(See also: [[:es-419:obe:kt:believe|believe, believe in]], [[:es-419:obe:kt:faithful|faithful, faithfulness]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?faith&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested Abraham's **faith**  by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
+  * **[[:es-419:obs:notes:frames:31-07|[31-07]]]** Then he (Jesus) said to Peter, "You man of little **faith**, why did you doubt?"
+  * **[[:es-419:obs:notes:frames:32-16|[32-16]]]** Jesus said to her, "Your **faith**  has healed you. Go in peace."
+  * **[[:es-419:obs:notes:frames:38-09|[38-09]]]** Then Jesus said to Peter, "Satan wants to have all of you, but I have prayed for you, Peter, that your **faith**  will not fail.
+~~DISCUSSION~~{{tag>publish ktobs}}
