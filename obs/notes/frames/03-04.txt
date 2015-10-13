@@ -13,9 +13,9 @@
   * **[[:es-419:obs:notes:key-terms:obey|obeyed (obedecer)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
    
-  * **[[:es-419:obe:other/noah|Noah (Noé)]] **
-  * **[[:es-419:obe:other/obey|obeyed (obedecer)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  * **[[:es-419:obe:other/noah]] **
+  * **[[:es-419:obe:other/obey]]**
+  * **[[:es-419:obe:kt/god]]**
 
 
 ===== Notas de Traducción: =====
