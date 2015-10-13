@@ -10,6 +10,10 @@ A la mañana siguiente el pueblo se dio cuenta de que alguien había derribado y
   * **[[:es-419:obs:notes:key-terms:altar|altar]] (altar)**
   * **[[:es-419:obs:notes:key-terms:gideon|Gideon's]] (de Gedeón)**
   * **[[:es-419:obs:notes:key-terms:god-false|god]] (Dios)**
+   
+  * **[[es-419:obe:other:altar]]**
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:kt:falsegod]]**
 ==== Translation Notes:    Notas de traducción ====
 
   * **Why are you trying to help your god?**  - This is not a real question that asks for information. Another way of saying this would be, "You should not be trying to help your god" or, "You should not need to help your god."
