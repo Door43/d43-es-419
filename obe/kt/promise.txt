@@ -1,0 +1,32 @@
+====== promise (prometió) ======
+
+===== Definition: =====
+
+A promise is a pledge or commitment to do a certain thing. When someone makes a promise, he assures the people he is speaking to that he will truly do what he has said he will do.
+
+  * Promises are an important part of formal agreements such as covenants.
+  * A promise is often accompanied by an oath or confirmation that it will be done.
+
+===== Translation Suggestions: =====
+
+  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
+  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
+
+(See also: [[:es-419:obe:kt:covenant]], [[:es-419:obe:other:oath]], [[:es-419:obe:kt:vow]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?promise&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise**  I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children."
+  * **[[:es-419:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised**  and so would his people.
+  * **[[:es-419:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
+  * **[[:es-419:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
+  * **[[:es-419:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
+  * **[[:es-419:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
+  * **[[:es-419:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
