@@ -13,6 +13,13 @@ Pero la gente no escucharon a** Caleb ** ni a **Josué. ** Se pusieron enojados 
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:servant|slaves]] (esclavos)**
+   
+  * **[[es-419:obe:other:caleb]]**
+  * **[[es-419:obe:other:joshua]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:other:aaron]]**
+  * **[[es-419:obe:other:egypt]]**
+  * **[[es-419:obe:other:servant]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **Why did you bring us**  – This is not a real question. It is a way that some languages use to say, "You should not have brought us."
