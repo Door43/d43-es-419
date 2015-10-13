@@ -14,6 +14,14 @@
   * **[[:es-419:obs:notes:key-terms:sabbath|Sabbath day]] (día Sábado)**
   * **[[:es-419:obs:notes:key-terms:holy|holy]] (santo)**
   * **[[:es-419:obs:notes:key-terms:sabbath|seventh day]] (séptimo día)**
+
+  * **[[es-419:obe:other:idol|ídolatrous]]**
+  * **[[es-419:obe:kt:worship|adoración]]**
+  * **[[es-419:obe:kt:yahweh|Jehová]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:kt:sabbath|día Sábado]]**
+  * **[[es-419:obe:kt:holy|santo]]**
+  * **[[es-419:obe:kt:sabbath|séptimo día]]**
 ==== Translation Notes: Notas de traducción ====
 
   * (God continues speaking to Moses.)
