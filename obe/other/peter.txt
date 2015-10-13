@@ -1,0 +1,36 @@
+====== Peter (Pedro), Simon Peter (Simón Pedro), Cephas (Cefas) ======
+
+===== Facts: =====
+
+These names are different ways of referring to Peter, who was one of Jesus' twelve apostles. He was an important leader of the early Church.
+
+  * Before Jesus called him to be his disciple, this man's name was Simon.
+  * Later, Jesus also named him Cephas, which means "stone" or "rock" in the Aramaic language. He was also called Peter, which is a name meaning "stone" or "rock" in the Greek language.
+  * He is most well-known by the names Peter or Simon Peter.
+  * God worked through Peter to heal people and to preach the good news about Jesus.
+  * Two books in the New Testament are letters that Peter wrote to encourage and teach fellow believers.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[en:obe:kt:disciple]], [[en:obe:kt:apostle]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?peter&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:28-09|[28-09]]]** **Peter** said to Jesus, "We have left everything and followed you. What will be our reward?"
+  ***[[:es-419:obs:notes:frames:29-01|[29-01]]]** One day **Peter** asked Jesus, "Master, how many times should I forgive my brother when he sins against me? As many as seven times?"
+  ***[[:es-419:obs:notes:frames:31-05|[31-05]]]** Then **Peter** said to Jesus, "Master, if it is you, command me to come to you on the water." Jesus told **Peter**, "Come!"
+  ***[[:es-419:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, **Peter**, James, and John with him.
+  ***[[:es-419:obs:notes:frames:38-09|[38-09]]]** **Peter** replied, "Even if all the others abandon you, I will not!" Then Jesus said to **Peter**, "Satan wants to have all of you, but I have prayed for you, **Peter**, that your faith will not fail. Even so, tonight, before the rooster crows, you will deny that you even know me three times."
+  ***[[:es-419:obs:notes:frames:38-15|[38-15]]]** As the soldiers arrested Jesus, **Peter** pulled out his sword and cut off the ear of the servant of the high priest.
+  ***[[:es-419:obs:notes:frames:43-11|[43-11]]]** **Peter** answered them, "Every one of you should repent and be baptized in the name of Jesus Christ so that God will forgive your sins."
+  ***[[:es-419:obs:notes:frames:44-08|[44-08]]]** **Peter** answered them, "This man stands before you healed by the power of Jesus the Messiah."
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
