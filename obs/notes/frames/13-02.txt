@@ -15,6 +15,14 @@
   * **[[:es-419:obs:notes:key-terms:kingdom|kingdom]] (reino)**
   * **[[:es-419:obs:notes:key-terms:priest|priests]] (sacerdotes)**
   * **[[:es-419:obs:notes:key-terms:holy|holy]] (santa)**
+
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:obey|obedecer]]**
+  * **[[es-419:obe:kt:covenant|pacto]]**
+  * **[[es-419:obe:other:kingdom|reino]]**
+  * **[[es-419:obe:kt:priest|sacerdotes]]**
+  * **[[es-419:obe:kt:holy|santa]]** 
 ==== Translation Notes: Notas de traducción ====
 
   * **keep my covenant**  - This could be translated as, "do what my covenant requires you to do." Obeying and keeping the covenant are not two different things. One way to make this clear would be to say, "obey me by keeping my covenant.” God will soon tell them what his covenant requires.
