@@ -8,15 +8,16 @@ Los sacerdotes israelitas hicieron sacrificios a Dios en el nombre del pueblo co
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:israel|Israelite]]**
-  * **[[:es-419:obs:notes:key-terms:priest|priests]]**
-  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:punish|punishment]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms:pray|prayed]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelite]] israelita**
+  * **[[:es-419:obs:notes:key-terms:priest|priests]] sacerdotes**
+  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]] sacrificios**
+  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
+  * **[[:es-419:obs:notes:key-terms:punish|punishment]] castigo**
+  * **[[:es-419:obs:notes:key-terms:sin|sins]] pecados**
+  * **[[:es-419:obs:notes:key-terms:pray|prayed]] oró/oraron**
+  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] Mesías**
+  * **[[:es-419:obs:notes:key-terms:priest-high|high priest]] sumo sacerdote**
+
 ==== Translation Notes: ====
 
   * **on behalf of**  - This may be translated as, "for the benefit of" or, "in the place of."
