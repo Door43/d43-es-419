@@ -12,6 +12,12 @@ Then the walls around **Jericho** fell down! The **Israelites** destroyed everyt
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:rahab|Rahab]] (Rahab)**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
+   
+  * **[[es-419:obe:other:jericho]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:rahab]]**
+  * **[[es-419:obe:other:canaan]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **became part of**  - This can be translated as, "who then joined the Israelite community" or, "who then became members of the nation of Israel."
