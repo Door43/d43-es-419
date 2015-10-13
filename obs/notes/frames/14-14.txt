@@ -15,6 +15,15 @@ Después de vagar en el desierto por cuarente años, todos los que habían rebel
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]] (profeta)**
+   
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:rebel]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:promisedland]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:other:joshua]]**
+  * **[[es-419:obe:kt:promise]]**
+  * **[[es-419:obe:kt:prophet]]**
 ==== Translation Notes:    Notas de traducción ====
 
   * **who had rebelled against God**  - This could be translated, "who had refused to obey God when he told them to go into the Promised Land."
