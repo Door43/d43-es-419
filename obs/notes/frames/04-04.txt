@@ -6,17 +6,20 @@
 
 Cientos de años después, Dios habló a un hombre llamado Abram.  Dios le dijo," Deja tu tierra y a tu familia y vé a la tierra que te mostraré. Yo te bendeciré y te haré una nación grande. Haré tu nombre grande. Bendiceré a los que te bendicen y maldiceré a los que te maldicen.  Todas las familias de la tierra serán benditas por tí."
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]  **
   * **[[:es-419:obs:notes:key-terms:abraham|Abram (Abram)]]  **
   * **[[:es-419:obs:notes:key-terms:bless|bless (bendición)]]  **
   * **[[:es-419:obs:notes:key-terms:curse|curse (maldición)]]  **
- 
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/abraham|Abram (Abram)]]**
-  * **[[:es-419:obe:kt/bless|bless (bendición)]]  **
-  * **[[:es-419:obe:kt/curse|curse (maldición)]]  **
+
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:kt/bless]]  **
+  * **[[:es-419:obe:kt/curse]]  **
 ===== Translation Notes: Notas de Traducción =====
 
   * **Hundreds of years later**  – This could be translated as, "many generations after the people split into different language groups at Babel." or, "a long time after that happened."
