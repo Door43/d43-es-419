@@ -6,12 +6,12 @@
 
 **Después de un largo tiempo**, mucha gente vivía en el mundo. Ellos se habían vueltos **muy malos y violentos.** **Llegaron a ser tan malos** que **Dios decidió destruir ** el mundo entero con un **diluvio enorme**.
 ===== Important Terms: =====
-
-**Términos Importantes:**
-
    * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
-   
-   * **[[:es-419:obe:kt/god|God (Dios)]]**
+
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **After a long time**  - This story happens many generations (hundreds of years) after creation.
