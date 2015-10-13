@@ -13,6 +13,13 @@ Un día, un hombre de **Israel** llamado **Gedeón** estaba trillando el grano e
   * **[[:es-419:obs:notes:key-terms:yahweh|Yahweh]] (Jehová)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
+   
+  * **[[es-419:obe:other:gideon]]**
+  * **[[es-419:obe:other:midian]]**
+  * **[[es-419:obe:kt:angel]]**
+  * **[[es-419:obe:kt:yahweh]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:israel]]**
 ==== Translation Notes:    Notas de traducción ====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
