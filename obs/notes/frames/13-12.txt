@@ -15,6 +15,15 @@
   * **[[:es-419:obs:notes:key-terms:sin|sin]] (pecado)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:pray|prayed]] (oraron)**
+  * 
+  * **[[es-419:obe:other:aaron|Aarón]]**
+  * **[[es-419:obe:other:idol|idolo]]**
+  * **[[es-419:obe:kt:worship|(adoración]]**
+  * **[[es-419:obe:other:sacrifice|sacrificios]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:kt:sin|pecado]]**
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:pray|oraron]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **made a golden idol**  - Aaron took the things made of gold that the people had brought to him, melted them, combined them, and formed them into the shape of a calf.
