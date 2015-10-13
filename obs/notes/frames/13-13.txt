@@ -11,6 +11,11 @@ Cuando **Moisés** bajó del monte y vio el **ídolo**, se puso tan bravo que de
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]] (Diez mandamientos)**
+   
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:idol|idolo]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:other:TenCommandments|Diez Mandamientos]]**
 ==== Translation Notes:   Notas de traducción ====
 
   * **smashed the stones**  - He threw the stones down on the ground and they broke up into little pieces.
