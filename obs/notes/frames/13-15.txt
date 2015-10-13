@@ -15,6 +15,13 @@
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:sinai|Mount Sinai]] (Monte Sinaí)**
   * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] (Tierra Prometida)**
+  
+  * **[[es-419:obe:other:moses|Moisés]]**
+  * **[[es-419:obe:other:pray|oraron]]**
+  * **[[es-419:obe:kt:god|Dios]]**
+  * **[[es-419:obe:kt:forgive|perdonar]]**
+  * **[[es-419:obe:other:tencommandments|Diez Mandamientos]]**
+  * **[[es-419:obe:kt:promisedland|Tierra Prometida]]**
 ==== Translation Notes:  Notas de traducción ====
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
