@@ -11,10 +11,10 @@ La gente de Nazaret arrastró a Jesús fuera del lugar de culto y lo llevó al b
   * **[[:es-419:obs:notes:key-terms:nazareth|Nazareth]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
+  * **[[:es-419:obe:other:nazareth|Nazareth]] Nazaret**
+  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
+  * **[[:es-419:obe:kt:worship|worship]] adorar/alabar**
 
-  * **[[:es-419:obe:other:nazareth|Nazareth]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:worship|worship]]**
 ===== Translation Notes: =====
 
   * **place of worship**  - That is, "the building where the Jewish people gathered to worship God." This can also be translated as "worship building." See how you translated it in **[[:es-419:obs:notes:frames:26-02|[26-02]]]**.
