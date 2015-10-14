@@ -12,8 +12,9 @@ Entonces, Jesús partió el pan y el pescado en trozos. Él dio los pedazos a su
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **broke the bread and the fish**  - That is, "tore the bread and the fish."
