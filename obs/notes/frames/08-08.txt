@@ -5,15 +5,16 @@
 **Pharaoh** was so **impressed with Joseph** that he appointed him to be the **second most powerful man** in all of **Egypt**!
 
 ¡El **Faraón ** estaba tan impresionado con **José** que le nombró como el segundo hombre más poderoso de **Egipto**!
-===== Important Terms:  Términos Importantes =====
+===== Important Terms:  =====
 
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh]] (Faraón)**
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph]] (José)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
 
-  * **[[:es-419:obe:other:pharaoh|Pharaoh (Faraón)]]  **
-  * **[[:es-419:obe:other:josephot|Joseph (José)]]  **
-  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]]  **
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:pharaoh]]  **
+  * **[[:es-419:obe:other:josephot]]  **
+  * **[[:es-419:obe:other:egypt]]  **
 ==== Translation Notes:   Notas de traducción ====
 
   * **impressed with**  - Pharaoh was amazed by Joseph's wisdom and felt respect for him; he trusted Joseph to make wise decisions that would benefit the people. It may be clearer to say, "impressed with Joseph's wisdom."
