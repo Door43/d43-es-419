@@ -13,11 +13,12 @@ Entonces, **Pedro ** se puso temeroso y empezó a hundirce en el agua. El gritó
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:faith|faith]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:lord|Master]]**
-  * **[[:es-419:obe:kt:save|save]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:faith|faith]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:faith]]**
 
 ===== Translation Notes: =====
 
