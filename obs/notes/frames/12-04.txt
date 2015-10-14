@@ -16,12 +16,12 @@ Así el **Faraón** y su ejército después persiguió a los** Israelitas** **pa
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:other:servant|esclavos]]**
-  * **[[:es-419:obe:other:egypt|Egipcio]]**
-  * **[[:es-419:obe:other:redsea|Mar Rojo]]**
-  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:redsea]]**
+  * **[[:es-419:obe:other:egypt]]**
 
 ==== Translation Notes: ====
 
