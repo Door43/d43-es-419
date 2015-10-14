@@ -1,0 +1,31 @@
+====== Hagar (Agar)======
+
+
+===== Facts: =====
+
+Hagar was Sarai's personal slave.
+
+  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
+  * Sarai wanted Hagar to bear children for her and Abram.
+  * Hagar gave birth to Abram's son, Ishmael.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[sarah]], [[en:obe:other:abraham]], [[servant]])
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?Hagar&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
+  ***[[:es-419:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~
