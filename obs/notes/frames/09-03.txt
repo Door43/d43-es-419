@@ -14,10 +14,10 @@ Los **Egipcios** forzaron a los **Israelitas** para que construyeran muchos edif
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other:egypt|Egipcios]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:bless|bendijo]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:bless]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **miserable**  – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
