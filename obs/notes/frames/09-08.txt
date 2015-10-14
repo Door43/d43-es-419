@@ -15,11 +15,11 @@ Un día, cuando** Moisés ** había crecido, él vió a un **Egipcio ** golpeand
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:egypt|Egipcio]]**
-  * **[[:es-419:obe:other:israel|Israelita]]**
-  * **[[:es-419:obe:other:servant|esclavo]]**
-  * **[[:es-419:obe:kt:save|salvar]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:save]]**
 
 
 ==== Translation Notes: Notas de traducción ====
