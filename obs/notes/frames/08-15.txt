@@ -5,7 +5,7 @@
 The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**.
 
 Las **promesas del pacto ** que** Dios ** le dió a** Abraham ** fueron pasadas a **Isaac**, entonces a **Jacobo**, y entonces a los doce hijos de Jacobo y a sus familias. Los descendientes de los doce hermanos llegaron a ser **las doce tribus de Israel**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:covenant|covenant]] (pacto)**
   * **[[:es-419:obs:notes:key-terms:promise|promises]] (promesas)**
@@ -16,14 +16,15 @@ Las **promesas del pacto ** que** Dios ** le dió a** Abraham ** fueron pasadas 
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]] (descendientes)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
 
-  * **[[:es-419:obe:kt:covenant|covenant (pacto)]] **
-  * **[[:es-419:obe:kt:promise|promises (promesas)]] **
-  * **[[:es-419:obe:kt:god|God (Dios)]] **
-  * **[[:es-419:obe:other:abraham|Abraham (Abraham)]] **
-  * **[[:es-419:obe:other:isaac|Isaac (Isaac)]]  **
-  * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]] **
-  * **[[:es-419:obe:other:descendant|descendants (descendientes)]] **
-  * **[[:es-419:obe:other:israel|Israel (Israel)]] **
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:covenant]] **
+  * **[[:es-419:obe:kt:promise]] **
+  * **[[:es-419:obe:kt:god]] **
+  * **[[:es-419:obe:other:abraham]] **
+  * **[[:es-419:obe:other:isaac]]  **
+  * **[[:es-419:obe:other:jacob]] **
+  * **[[:es-419:obe:other:descendant]] **
+  * **[[:es-419:obe:other:israel]] **
 ==== Translation Notes: Notas de Traducción ====
 
   * **covenant promises**  - Long ago God made an agreement with Abraham and promised him that he would give him many descendants; they would possess the land of Canaan and become a great nation. God also promised that all peoples would be blessed through Abraham's line. See also **[[:es-419:obs:notes:frames:07-10|[07-10]]]**.
