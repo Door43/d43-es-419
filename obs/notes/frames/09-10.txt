@@ -13,9 +13,9 @@ Cuando el **Faraón ** escucho lo que **Moisés** había hecho, él intentó mat
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
