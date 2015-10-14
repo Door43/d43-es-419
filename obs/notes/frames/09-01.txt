@@ -12,10 +12,11 @@ Después de **José** morir, todos sus parientes se quedaron en **Egipto**. Ello
   * **[[:es-419:obs:notes:key-terms:descendant|descendants]] (descendientes)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
 
-  * **[[:es-419:obe:other:josephot|Joseph (José)]]  **
-  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]] **
-  * **[[:es-419:obe:other:descendant|descendants (descendientes)]] **
-  * **[[:es-419:obe:other:israel|Israelites (Israelitas)]] **
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:josephot]]  **
+  * **[[:es-419:obe:other:egypt]] **
+  * **[[:es-419:obe:other:descendant]] **
+  * **[[:es-419:obe:other:israel]] **
 ==== Translation Notes: Notas de traducción ====
 
   * **called the Israelites**  - The people group that descended from Jacob was called "Israel," which is the name that God gave to Jacob. The people from that group were called "Israelites."
