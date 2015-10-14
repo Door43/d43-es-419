@@ -5,7 +5,7 @@
 **Isaac** wanted to **give his blessing** to **Esau**. But before he did, **Rebekah** and **Jacob tricked him** by having Jacob **pretend** to be Esau. Isaac was old and could no longer see. So Jacob put on Esau’s clothes and put **goatskins** on his neck and hands.
 
 **Isaac** quiso dar su bendición a** Esaú**. Pero antes de el hacerlo, **Rebeca** y **Jacobo** lo engañaron a el por tener a **Jacobo** pretender que era **Esaú**. **Isaac** era viejo y ya no podía ver. Así, **Jacobo** se puso la ropa de **Esaú** y puso las pieles de cabra en su cuello y manos.
-===== Important Terms:Términos Importantes =====
+===== Important Terms:=====
 
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]] **
   * **[[:es-419:obs:notes:key-terms:bless|blessing (benediction)]]**
@@ -13,11 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
   
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:kt/bless|blessing (benediction)]]**
-  * **[[:es-419:obe:other/esau|Esau (Esau)]]**
-  * **[[:es-419:obe:other/Rebekah|Rebekah (Rebeca)]]**
-  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:kt/bless]]**
+  * **[[:es-419:obe:other/esau]]**
+  * **[[:es-419:obe:other/Rebekah]]**
+  * **[[:es-419:obe:other/Jacob]]**
 ===== Translation Notes: Notas de traducción =====
 
   * **give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
