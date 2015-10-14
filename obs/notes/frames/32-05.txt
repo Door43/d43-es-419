@@ -10,8 +10,9 @@ Cuando el hombre llegó a **Jesús**, se cayó de rodillas ante él. Jesús dijo
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:demon|demon]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:demon|demon]]** 
+ =====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:demon]]** 
 ===== Translation Notes: =====
 
   * **fell on his knees**  - That is, "quickly knelt down on the ground."
