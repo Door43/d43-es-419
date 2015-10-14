@@ -21,17 +21,17 @@ Dios dijo, “Yo he visto el **sufrimiento** de mi gente. Te enviaré al **Fara�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:suffer|sufrimiento]]**
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:other:servant|esclavitud]]**
-  * **[[:es-419:obe:other:egypt|Egipto]]**
-  * **[[:es-419:obe:other:canaan|Canaan]]**
-  * **[[:es-419:obe:kt:promise|prometió]]**
-  * **[[:es-419:obe:other:abraham|Abraham]]**
-  * **[[:es-419:obe:other:isaac|Isaac]]**
-  * **[[:es-419:obe:other:jacob|Jacobo]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:kt:promise|]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:isaac]]**
+  * **[[:es-419:obe:other:jacob]]**
 ==== Translation Notes: ====
 
   * **suffering of my people**  - This could be translated as, "the very harsh treatment that my people are experiencing. Some languages might translate this as, "how the Egyptians are giving my people terrible pain."
