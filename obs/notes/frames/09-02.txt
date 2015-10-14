@@ -5,7 +5,7 @@
 After hundreds of years, the number of **Israelites** had become very large. The **Egyptians** no longer remembered **Joseph** and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the **Pharaoh** who was ruling Egypt at that time **made the Israelites slaves** to the Egyptians.
 
 Después de cientos de años, el número de los Israelitas se convirtio grande. Los** Egipcios ya no se acordaban de José y todo lo que el hizo por ayudarlos a ellos. Ellos tenían mucho** miedo de los **Israelitas** porque eran muchos de ellos. Así que el **Faraón ** quien estaba reinando sobre **Egipto** hizo que los **Israelitas** fuesen **esclavos ** de los **Egipcios.**
-===== Important Terms: Términos Importantes =====
+===== Important Terms:  =====
 
   * **[[:es-419:obs:notes:key-terms:Israel|Israelites (Israelitas)]]**
   * **[[:es-419:obs:notes:key-terms:egypt|Egyptians (Egipcios)]] **
@@ -13,11 +13,12 @@ Después de cientos de años, el número de los Israelitas se convirtio grande. 
   * **[[:es-419:obs:notes:key-terms:pharaoh|Pharaoh (Faraón)]] **
   * **[[:es-419:obs:notes:key-terms:servant|slaves (esclavos)]]**
 
-  * **[[:es-419:obe:other:Israel|Israelites (Israelitas)]]**
-  * **[[:es-419:obe:other:egypt|Egyptians (Egipcios)]] **
-  * **[[:es-419:obe:other:josephot|Joseph (José)]]**
-  * **[[:es-419:obe:other:pharaoh|Pharaoh (Faraón)]] **
-  * **[[:es-419:obe:other:servant|slaves (esclavos)]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:Israel]]**
+  * **[[:es-419:obe:other:egypt]] **
+  * **[[:es-419:obe:other:josephot]]**
+  * **[[:es-419:obe:other:pharaoh]] **
+  * **[[:es-419:obe:other:servant]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **Pharaoh**  – "Pharaoh" is an Egyptian word that refers to their king. This Pharaoh was probably the son of a former Pharaoh who had died, who may have been a descendant of the Pharaoh that Joseph knew.
