@@ -15,11 +15,11 @@ Esa misma noche, el **faraón** llamó a **Moisés** y a **Aarón**, y dijo: “
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:pharaoh|Faraon]] **
-  * **[[:es-419:obe:other:moses|Moises]]**
-  * **[[:es-419:obe:other:aaron|Aaron]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:other:pharaoh]] **
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:aaron]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:egypt]]**
 
 
 ==== Translation Notes: ====
