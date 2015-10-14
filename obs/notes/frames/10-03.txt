@@ -15,10 +15,10 @@
 =====Términos Importantes=====
 
 
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:nileriver|Río Nilo]]**
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:nileriver]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:israel]]**
 
 
 ==== Translation Notes: ====
