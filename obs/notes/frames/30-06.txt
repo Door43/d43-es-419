@@ -1,6 +1,4 @@
-===== Preparation for the Meal [30-06] =====
-
-**Preparación para la Comida [30-06]    **
+===== Preparation for the Meal [30-06] Preparación para la Comida [30-06]  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
