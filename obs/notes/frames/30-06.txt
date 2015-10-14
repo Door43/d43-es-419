@@ -11,8 +11,9 @@ Jesús dijo a sus discípulos que dijeran a la gente en la multitud que se recos
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
