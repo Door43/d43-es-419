@@ -13,9 +13,10 @@ Entonces, Jesús tomó los cinco panes y los dos peces, alzó la mirada al cielo
   * **[[:es-419:obs:notes:key-terms:god|God]]**
 
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:kt:god|God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:god]]**
 
 ===== Translation Notes: =====
 
