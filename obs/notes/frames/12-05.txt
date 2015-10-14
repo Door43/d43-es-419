@@ -15,11 +15,11 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:save|salva]]**
-  * **[[:es-419:obe:other:redsea|Mar Rojo]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:other:redsea]]**
 
 ==== Translation Notes: ====
 
