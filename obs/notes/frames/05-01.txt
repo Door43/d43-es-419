@@ -6,7 +6,7 @@ Ten years after **Abram** and **Sarai** arrived in **Canaan**, **they still did 
 
 Diez años después de que Abram y Saraí llegaron a Canaan, todavía no tenían a un hijo. Entonces, la esposa de Abram, Sarai, le dijo, “Pues Dios no me ha permitido que tenga a hijos y ahora soy vieja para dar a luz, aquí está mi sierva, Hagar. Cásese con ella también, para que pueda tener a un hijo por mi.”
 
-===== Important Terms: Términos Importantes: =====
+===== Important Terms:  =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abram (Abram)]] **
   * **[[:es-419:obs:notes:key-terms:sarah|Sarai (Sara)]]**
@@ -14,13 +14,15 @@ Diez años después de que Abram y Saraí llegaron a Canaan, todavía no tenían
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:servant|servant (siervo)]]**
   * **[[:es-419:obs:notes:key-terms:hagar|Hagar (Agar)]]**
-   
-  * **[[:es-419:obe:other/abraham|Abram (Abram)]]**
-  * **[[:es-419:obe:other/sarah|Sarai (Sara)]]**
-  * **[[:es-419:obe:other/canaan|Canaan (Canaán)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/servant|servant (siervo)]]**
-  * **[[:es-419:obe:other/hagar|Hagar (Agar)]]**
+
+=====Términos Importantes:=====
+
+  * **[[:es-419:obe:other/abraham)]]**
+  * **[[:es-419:obe:other/sarah]]**
+  * **[[:es-419:obe:other/canaan]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:other/hagar]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
