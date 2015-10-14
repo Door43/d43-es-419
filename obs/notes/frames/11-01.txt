@@ -15,11 +15,11 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|Dios]] **
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:kt:believe|creer]]**
-  * **[[:es-419:obe:other:obey|obedecer]]**
+  * **[[:es-419:obe:kt:god]] **
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:other:obey]]**
 
 ==== Translation Notes: ====
 
