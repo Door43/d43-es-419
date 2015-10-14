@@ -6,7 +6,7 @@ When they reached the place of **sacrifice**, **Abraham** tied up his **son Isaa
 
 Cuando ellos llegaron al lugar del sacrificio, Abraham amarró a su hijo Isaac y lo puso en el altar. Estuvo listo para matar a su hijo cuando Dios le dijo, “¡Párate! ¡No le hagas daño al niño! Ahora se que tú me temes porque no mantuviste a tu único hijo de mi.”
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice (sacrificio)]] **
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
@@ -15,12 +15,14 @@ Cuando ellos llegaron al lugar del sacrificio, Abraham amarró a su hijo Isaac y
   * **[[:es-419:obs:notes:key-terms:altar|altar (altar)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios) ]]**
    
-  * **[[:es-419:obe:other/sacrifice|sacrifice (sacrificio)]]**
-  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
-  * **[[:es-419:obe:kt/son|son(hijo)]]**
-  * **[[:es-419:obe:other/Isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:other/altar|altar (altar)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  
+=====Términos Importantes:=====
+  * **[[:es-419:obe:other/sacrifice]]**
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:kt/son]]**
+  * **[[:es-419:obe:other/Isaac]]**
+  * **[[:es-419:obe:other/altar]]**
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **kill his son**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
