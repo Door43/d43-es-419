@@ -5,15 +5,16 @@
 **Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons.
 
 Aunque **Jacobo** era un hombre viejo, él se mudó a **Egipto** con toda su familia, y todos ellos vivían allá.** Antes que ****Jacobo muriera **, él **bendijo** cada uno de sus hijos.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendijo)**
 
-  * **[[:es-419:obe:other:jacob|Jacob (Jacobo)]] **
-  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]] **
-  * **[[:es-419:obe:kt:bless|blessed  (bendijo)]] **
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:jacob]] **
+  * **[[:es-419:obe:other:egypt]] **
+  * **[[:es-419:obe:kt:bless]] **
 ==== Translation Notes: Notas de Traducción ====
 
   * **Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
