@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah's (Rebeca)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
    
-  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
-  * **[[:es-419:obe:other/Rebekah|Rebekah's (Rebeca)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  =====Términos Importantes=====
+  * **[[:es-419:obe:other/Jacob]]**
+  * **[[:es-419:obe:other/Rebekah]]**
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de traducción =====
 
   * **wealthy**  – This included money, large herds of animals and other possessions.
