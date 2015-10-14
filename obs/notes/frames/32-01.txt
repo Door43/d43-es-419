@@ -10,8 +10,9 @@ Un día, **Jesús ** y sus **discípulos ** cruzaron el lago en un bote a la reg
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
 
 
 ===== Translation Notes: =====
