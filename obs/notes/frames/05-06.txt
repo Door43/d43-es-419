@@ -6,7 +6,7 @@ When **Isaac** was a young man, **God tested Abraham's faith** by saying, “Tak
 
 Cuando Isaac era un hombre joven, Dios probó la fe de Abraham diciendo, “Toma a Isaac, tu único hijo, y mátalo como un sacrificio para mí.” Otra vez Abraham obedeció a Dios e hizo los preparativos para sacrificar a su hijo.
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]] **
   * **[[:es-419:obs:notes:key-terms:god|God (Dios) ]]**
@@ -16,13 +16,15 @@ Cuando Isaac era un hombre joven, Dios probó la fe de Abraham diciendo, “Toma
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice (sacrificio)]]**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed (obedeció)]]**
    
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/Abraham|Abraham's (Abraham)]]**
-  * **[[:es-419:obe:kt/faith|faith (fe)]]**
-  * **[[:es-419:obe:kt/son|son(hijo)]]**
-  * **[[:es-419:obe:other/sacrifice|sacrifice (sacrificio)]]**
-  * **[[:es-419:obe:other/obey|obeyed (obedeció)]]**
+  
+=====Términos Importantes:=====
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/Abraham]]**
+  * **[[:es-419:obe:kt/faith]]**
+  * **[[:es-419:obe:kt/son]]**
+  * **[[:es-419:obe:other/sacrifice]]**
+  * **[[:es-419:obe:other/obey]]**
   
 ===== Translation Notes: Notas de Traducción =====
 
