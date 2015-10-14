@@ -12,9 +12,10 @@ Entonces, **Jesús ** dijo a los **discípulos ** que subieran al bote y que nav
   * **[[:es-419:obs:notes:key-terms:pray|pray]]**
 
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:pray|pray]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:pray]]**
 ===== Translation Notes: =====
 
   * **he dismissed the crowd**  - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
