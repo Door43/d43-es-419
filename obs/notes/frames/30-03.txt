@@ -13,10 +13,11 @@ La multitud tenía más de 5.000 hombres en ella, sin contar las mujeres y los n
   * **[[:es-419:obs:notes:key-terms:shepherd|shepherd]]**
   * **[[:es-419:obs:notes:key-terms:heal|healed]]**
 
-  * **[[:es-419:obe:kt:jesus:|Jesus]]**
-  * **[[:es-419:obe:other:sheep|sheep]]**
-  * **[[:es-419:obe:other:shepherd|shepherd]]**
-  * **[[:es-419:obe:other:heal|healed]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:sheep]]**
+  * **[[:es-419:obe:other:shepherd]]**
+  * **[[:es-419:obe:other:heal]]**
 
 ===== Translation Notes: =====
 
