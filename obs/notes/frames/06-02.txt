@@ -5,17 +5,18 @@
 After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
 
 Después de un largo viaje a la tierra donde vivían los parientes de **Abraham**, **Dios ** guió al **siervo ** a **Rebeca**. Ella era la nieta del hermano de Abraham.
-===== Important Terms: Términos importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham's (De Abraham)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:servant|servant (siervo)]]**
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
-  * 
-  * **[[:es-419:obe:other/abraham|Abraham's (De Abraham)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/servant|servant (siervo)]]**
-  * **[[:es-419:obe:other/Rebekah|Rebekah (Rebeca)]]**
+
+=====Términos Importantes:=====
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:other/Rebekah]]**
 ===== Translation Notes:  Notas de traducción =====
 
   * **granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
