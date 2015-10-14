@@ -14,10 +14,10 @@ Una hija del **Faraón** vió la canasta y miró adentro. Cuando vió al bebé, 
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other:pharaoh|Faraó]]**
-  * **[[:es-419:obe:kt:son|hijo]]**
-  * **[[:es-419:obe:other:israel|Israelita]]**
-  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:moses]]**
 
 ==== Translation Notes: Notas de traducción ====
 
