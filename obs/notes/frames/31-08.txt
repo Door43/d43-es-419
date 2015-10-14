@@ -15,12 +15,13 @@ Cuando **Pedro ** y **Jesús ** llegaron al bote, el viento dejó de soplar de i
   * **[[:es-419:obs:notes:key-terms:true|Truly]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:worship|worshipped]]**
-  * **[[:es-419:obe:kt:true|Truly]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:true]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
 
 
 ===== Translation Notes: =====
