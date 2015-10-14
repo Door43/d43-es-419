@@ -5,7 +5,7 @@
 The **slave** traders took **Joseph** to **Egypt**. Egypt was a large, powerful country located along the **Nile River**. The slave traders sold Joseph as a slave to a wealthy **government official**. Joseph served his master well, and **God blessed** Joseph.
 
 Los traficantes de **esclavos** llevaron a **José** a **Egipto**. **Egipto ** era muy grande, un país poderoso localizado al lado del **R****ío Nilo**. Los traficantes de **esclavos ** vendieron a **José** a un oficial rico del gobierno. **José** servía a su patrón bien, y **Dios bendijo a José**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:servant|slave]] (esclavo)**
   * **[[:es-419:obs:notes:key-terms:joseph|Joseph]] (José)**
@@ -14,12 +14,13 @@ Los traficantes de **esclavos** llevaron a **José** a **Egipto**. **Egipto ** e
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:bless|blessed]] (bendijo)**
 
-  * **[[:es-419:obe:other:servant|slave (esclavo)]] **
-  * **[[:es-419:obe:other:josephot|Joseph (José)]]  **
-  * **[[:es-419:obe:other:egypt|Egypt (Egipto)]]  **
-  * **[[:es-419:obe:other:nileriver|Nile River (Río Nilo)]]  **
-  * **[[:es-419:obe:kt:god|God (Dios)]]  **
-  * **[[:es-419:obe:kt:bless|blessed (bendijo)]]  **
+=====Términos Importantes===== 
+  * **[[:es-419:obe:other:servant]] **
+  * **[[:es-419:obe:other:josephot]]  **
+  * **[[:es-419:obe:other:egypt]]  **
+  * **[[:es-419:obe:other:nileriver]]  **
+  * **[[:es-419:obe:kt:god]]  **
+  * **[[:es-419:obe:kt:bless]]  **
 ==== Translation Notes:  Notas de traducción ====
 
   * **government official**  - This was a person who was part of the Egyptian government. Another way to say this would be, "a leader in Egypt's government."
