@@ -10,7 +10,8 @@ After that, the **disciples** collected the food that had not been eaten and it 
 
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:kt:disciple|disciples]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
