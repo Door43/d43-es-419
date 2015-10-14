@@ -11,9 +11,10 @@ Entonces, **Pedro ** dijo a **Jesús**, “**Maestro**, si eres tu, manda que va
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:lord|Master]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:lord|Master]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:lord]]**
 
 ===== Translation Notes: =====
 
