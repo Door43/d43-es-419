@@ -1,23 +1,22 @@
-===== Moses Was Angry/Moisés Estaba Enojado [13-13] b =====
+===== Moses Was Angry/Moisés Estaba Enojado [13-13] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
 When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
 
-Cuando **Moisés** bajó del monte y vio el **ídolo**, se puso tan bravo que destrozó las piedras en que **Dios** había escrito los **diez mandamientos.**
-===== Important Terms:  Términos Importantes =====
+Cuando **Moisés** bajó de la montaña y vió el **ídolo**, se puso tan enfadado que aplastó las piedras en que **Dios** había escrito los **Diez Mandamientos.**
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]] (Diez mandamientos)**
-   
-  * **[[es-419:obe:other:moses|Moisés]]**
-  * **[[es-419:obe:other:idol|idolo]]**
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:other:TenCommandments|Diez Mandamientos]]**
-==== Translation Notes:   Notas de traducción ====
+  * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]] (Diez Mandamientos)**
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:idol|idolo]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:tencommandments|Diez Mandamientos]]**
+==== Translation Notes: Notas de traducción ====
 
   * **smashed the stones**  - He threw the stones down on the ground and they broke up into little pieces.
-  * **rompió las tablas de piedra**  - El lanzó las piedras al suelo y se rompieron en pequeños pedazos.
+  * **aplastó las  piedras**  - El lanzó las piedras al suelo y se rompieron en pequeños pedazos.
 **[[:es-419:obs:notes:frames:13-12|<<]] | [[:es-419:obs:notes:13|Up]] | [[:es-419:obs:notes:frames:13-14|>>]]**
