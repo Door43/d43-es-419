@@ -10,8 +10,9 @@ Al fin del día, los discípulos le dijeron a Jesús: “Ya es tarde y no hay pu
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **Late in the day**  - This could also be translated as, "When it was almost evening."
