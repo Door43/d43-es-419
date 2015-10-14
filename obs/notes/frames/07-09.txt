@@ -6,15 +6,16 @@
 
 Jacobo tenía mucho miedo porque pensaba que Esaú todavía quería matarlo. Así, él envió muchos rebaños de animales a Esaú como un regalo. Los criados que traían los animales dijeron a Esaú, “Tu siervo, Jacobo, te está dando estos animales. Él viene pronto.”
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jacob|Jacob (Jacobo)]]**
   * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
   * **[[:es-419:obs:notes:key-terms:servant|servants (siervos)]]**
    
-  * **[[:es-419:obe:other/Jacob|Jacob (Jacobo)]]**
-  * **[[:es-419:obe:other/esau|Esau (Esaú)]]**
-  * **[[:es-419:obe:other/servant|servants (Siervos)]]**
+  =====Términos Importantes=====
+  * **[[:es-419:obe:other/Jacob]]**
+  * **[[:es-419:obe:other/esau]]**
+  * **[[:es-419:obe:other/servant]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **your servant, Jacob**  - Jacob was not actually Esau's servant. But Jacob told his servants to say this because he wanted to show Esau that he was coming to him humbly and respectfully, so that Esau would no longer be angry with him.
