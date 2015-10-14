@@ -6,7 +6,7 @@ As **Abraham** and **Isaac walked to the place of sacrifice**, Isaac asked, “F
 
 Mientras Abraham e Isaac caminaron al lugar del sacrificio, Isaac preguntó, “¿Padre, tenemos la madera para el sacrificio, pero dónde está el cordero? Abraham respondio, "Dios proveera el cordero para el sacrificio, mi hijo,"
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]] **
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac (Isaac)]]**
@@ -14,11 +14,14 @@ Mientras Abraham e Isaac caminaron al lugar del sacrificio, Isaac preguntó, “
   * **[[:es-419:obs:notes:key-terms:lamb|lamb (cordero)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   
-  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:other/sacrifice|sacrifice  (sacrificio)]]**
-  * **[[:es-419:obe:kt/lamb|lamb (cordero)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  
+=====Términos Importantes:=====
+  
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:other/sacrifice]]**
+  * **[[:es-419:obe:kt/lamb]]**
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
