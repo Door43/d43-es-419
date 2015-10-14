@@ -6,7 +6,7 @@ After a long time, **Abraham** died and all of **the promises that God had made 
 
 Después de mucho tiempo, Abraham murió, y todas las promesas que Dios había hecho a él en el pacto se pasaron a Isaac. Dios había prometido a Abraham que tendría incontables de descendientes, pero la esposa de Isaac, Rebeca, no podía tener a hijos.
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
   * **[[:es-419:obs:notes:key-terms:promise|promises (promesas)]]**
@@ -16,13 +16,16 @@ Después de mucho tiempo, Abraham murió, y todas las promesas que Dios había h
   * **[[:es-419:obs:notes:key-terms:descendant|descendants (descendientes)]]**
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
  
-  * **[[:es-419:obe:other/Abraham|Abraham (Abraham)]]**
-  * **[[:es-419:obe:kt/promise|promises  (promesas)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:kt/covenant|covenant (pacto)]]**
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:other/descendant|descendants (descendientes)]]**
-  * **[[:es-419:obe:other/rebekah|Rebekah (Rebeca)]]**
+  
+  
+=====Términos Importantes:=====
+  * **[[:es-419:obe:other/Abraham]]**
+  * **[[:es-419:obe:kt/promise]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt/covenant]]**
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:other/descendant]]**
+  * **[[:es-419:obe:other/rebekah]]**
 ===== Translation Notes: =====
 
   * **the promises … were passed on**  - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.
