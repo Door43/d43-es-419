@@ -1,24 +1,23 @@
-===== The People Sinned/El Pueblo Pecó [13-10] b =====
+===== The People Sinned/El Pueblo Pecó [13-10] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink&}}
 
 The people all agreed to **obey** the laws that **God** had **given them**, to **worship** only God, and to be **his special people**. But a short time after they **promised** to obey God, they **sinned terribly**.
 
-Toda la gente estaba de acuerdo que iba a** obedecer ** las leyes que **Dios** les dio, para **adorarle** sólo a El, y para ser su gente especial. Pero después de un tiempo corto de **prometer** a **Dios** esto, ellos **pecaron** terriblemente.
-===== Important Terms:  Términos Importantes =====
+Toda la gente estaba de acuerdo que iba a** obedecer ** las leyes que **Dios** les dió, para **adorar** solo a Dios, y para ser su gente especial. Pero después de un tiempo corto de **prometer** a **Dios que iban a obedecer**, ellos **pecaron** terriblemente.
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:obey|obey]] (obedecer)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adorar)**
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
   * **[[:es-419:obs:notes:key-terms:sin|sinned]] (pecaron)**
- 
-  * **[[es-419:obe:other:obey|obedecer]]**
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:kt:worship|adorar]]**
-  * **[[es-419:obe:kt:promise|prometido]]**
-  * **[[es-419:obe:kt:sin|pecaron]]**
-==== Translation Notes:  Notas de traducción ====
+  * **[[:es-419:obe:other:obey|obedecer]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:worship|adorar]]**
+  * **[[:es-419:obe:kt:promise|prometido]]**
+  * **[[:es-419:obe:kt:sin|pecaron]]**
+==== Translation Notes: Notas de traducción ====
 
   * **given them**  - This could be translated as, "told them to obey."
   * **había dado**  - Esto puede ser traducido como, "les dijo que obedecieran".
