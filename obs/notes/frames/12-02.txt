@@ -11,7 +11,7 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **tall pillar of cloud**  - This could be translated as, "a tall cloud" or, "a cloud shaped like a pillar."
