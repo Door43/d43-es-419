@@ -14,10 +14,10 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:aaron|Aarón]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:aaron]]**
 
 
 ==== Translation Notes: ====
