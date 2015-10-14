@@ -5,7 +5,7 @@
 But **Esau** had already **forgiven Jacob**, and they were happy to see each other again. Jacob then **lived peacefully** in **Canaan**. Then **Isaac** died, and Jacob and Esau **buried him**. The **covenant promises God** had promised to **Abraham** now **passed on from Isaac to Jacob**.
 
 Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por verse otra vez. Entonces, **Jacobo** **vivía en paz en Canaán**. Entonces, **Isaac** se murió, y **Jacobo** y** Esaú lo** enterraron. Las **promesas ** del **pacto** que **Dios ** había prometido a **Abraham**, ahora** pasó de Isaac a** **Jacobo**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:esau|Esau (Esaú)]]**
   * **[[:es-419:obs:notes:key-terms:forgive|forgiven (perdonado)]]**
@@ -18,16 +18,17 @@ Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por ve
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]]**
  
-  * **[[:es-419:obe:other/esau|Esau (Esaú)]]**
-  * **[[:es-419:obe:kt/forgive|forgiven (perdonado)]]**
-  * **[[:es-419:obe:other/jacob|Jacob (Jacobo)]]**
+  =====Términos Importantes=====
+  * **[[:es-419:obe:other/esau]]**
+  * **[[:es-419:obe:kt/forgive]]**
+  * **[[:es-419:obe:other/jacob]]**
   * **[[:es-419:obe:other/peace|peacefully (en paz)]]**
-  * **[[:es-419:obe:other/canaan|Canaan (Canaán)]]**
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:kt/covenant|cavenant (pacto)]]**
-  * **[[:es-419:obe:kt/promise|promises (promesa)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
+  * **[[:es-419:obe:other/canaan]]**
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:kt/covenant]]**
+  * **[[:es-419:obe:kt/promise]]**
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/abraham]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
