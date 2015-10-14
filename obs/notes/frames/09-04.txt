@@ -13,9 +13,9 @@
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other:pharaoh|Faraón]]**
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:other:nileriver|Río Nilo]]**
+  * **[[:es-419:obe:other:pharaoh]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:nileriver]]**
 ===== Translation Notes: =====
 
   * **saw**  – Another way to say this would be, "realized" or, "knew."
