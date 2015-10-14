@@ -9,7 +9,8 @@
 
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:kt:disciple|disciples]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:disciple]]**
 
 ===== Translation Notes: =====
 
