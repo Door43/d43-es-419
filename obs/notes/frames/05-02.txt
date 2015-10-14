@@ -6,19 +6,21 @@ So** Abram married Hagar**. Hagar had a baby boy, and Abram named him **Ishmael*
 
 Entonces, Abram se casó con Agar. Agar dio a luz a un hijo, y Abram le llamó Ismael. Pero Sara se puso celosa de Agar. Cuando Ismael tenía trece años, Dios habló otra vez a Abram.
 
-===== Important Terms: Términos Importantes: =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abram (Abram)]]**
   * **[[:es-419:obs:notes:key-terms:hagar|Hagar (Agar)]]**
   * **[[:es-419:obs:notes:key-terms:ishmael|Ishmael (Ismael)]]**
   * **[[:es-419:obs:notes:key-terms:sarah|Sarai (Sara)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
- 
-  * **[[:es-419:obe:other/abraham|Abram (Abram)]]**
-  * **[[:es-419:obe:other/hagar|Hagar (Agar)]]**
-  * **[[:es-419:obe:other/Ishmael|Ishmael (Ismael)]]**
-  * **[[:es-419:obe:other/sarah|Sarai ( Sara)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:other/hagar]]**
+  * **[[:es-419:obe:other/Ishmael]]**
+  * **[[:es-419:obe:other/sarah]]**
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **married**  - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
