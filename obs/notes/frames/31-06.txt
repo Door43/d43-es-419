@@ -10,8 +10,9 @@ Así, **Pedro ** bajó del bote y empezó a caminar a **Jesús ** encima del agu
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
 
 
 ===== Translation Notes: =====
