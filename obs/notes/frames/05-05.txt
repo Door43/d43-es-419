@@ -6,7 +6,7 @@ That day **Abraham circumcised all the males in his household**. About a year la
 
 Aquel día Abraham circuncidó a todos los machos en su casa. Aproximádamente un año después, cuando Abraham tenía 100 años de edad y Sarah tenía 90 años, Sarah dio a luz al hijo de Abraham. Le llamaron Isaac como Dios les había dicho.
 
-===== Important Terms: Términos Importantes: =====
+===== Important Terms:  =====
 
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham (Abraham)]] **
   * **[[:es-419:obs:notes:key-terms:circumcise|circumcised (circunsidado)]]**
@@ -15,12 +15,15 @@ Aquel día Abraham circuncidó a todos los machos en su casa. Aproximádamente u
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac(Isaac)]]**
   * **[[:es-419:obs:notes:key-terms:god|God (Dios)]]**
 
-  * **[[:es-419:obe:other/abraham|Abraham (Abraham)]]**
-  * **[[:es-419:obe:kt/circumcise|circumcised (circunsidado)]]**
-  * **[[:es-419:obe:other/sarah|Sarah (Sara)]]**
-  * **[[:es-419:obe:kt/son|son (hijo)]]**
-  * **[[:es-419:obe:other/isaac|Isaac (Isaac)]]**
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
+  
+=====Términos Importantes:=====
+
+  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:kt/circumcise]]**
+  * **[[:es-419:obe:other/sarah]]**
+  * **[[:es-419:obe:kt/son]]**
+  * **[[:es-419:obe:other/isaac]]**
+  * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de Traducción: =====
 
   * **all the males in his household**  - This means all of the men and boys that Abraham was responsible for, including his male servants, young and old.
