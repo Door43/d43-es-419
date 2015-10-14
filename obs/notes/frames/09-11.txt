@@ -13,9 +13,9 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:shepherd|pastor]]**
-  * **[[:es-419:obe:other:egypt|Egipto]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:shepherd]]**
+  * **[[:es-419:obe:other:egypt]]**
 
 ==== Translation Notes: ====
 
