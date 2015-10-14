@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:rebekah|Rebekah (Rebeca)]]**
   * **[[:es-419:obs:notes:key-terms:son|son (hijo)]]**
    
-  * **[[:es-419:obe:kt/god|God (Dios)]]**
-  * **[[:es-419:obe:other/rebekah|Rebekah (Rebeca)]]**
-  * **[[:es-419:obe:kt/son|son (hijo)]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:other/rebekah]]**
+  * **[[:es-419:obe:kt/son]]**
 ===== Translation Notes: =====
 
   * **from the two sons**  - That is, "from the descendants of the two sons."
