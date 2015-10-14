@@ -1,24 +1,23 @@
-===== Make Us an Idol for Us/Haz Un Idolo Para Nosotros [13-11] b =====
+===== Make Us an Idol for Us/Haz Un Idolo Para Nosotros [13-11] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink&}}
 
 For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **The people became tired of waiting** for him to return. So they **brought gold** to **Aaron** and asked him to make an **idol** for them!
 
-**Moisés ** estaba en la cima del monte de **Sinai** por muchos días hablando con **Dios**. La gente se cansó de esperar su regreso. ¡Así, ellos llevaron oro a **Aarón** y le pidieron que les hiciera un **ídolo** para ellos!
-===== Important Terms:  Términos Importantes =====
+**Por muchos días,  Moisés ** estaba en la cima del **Monte de** **Sinaí** hablando con **Dios**. La gente se cansó de esperar su regreso. ¡Así, **ellos llevaron oro** a **Aarón** y le pidieron que les hiciera un **ídolo** para ellos!
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:sinai|Mount Sinai]] (Monte Sinaí)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
- 
-  * **[[es-419:obe:other:moses|Moisés]]**
-  * **[[es-419:obe:other:sinai|Monte Sinai]]**
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:other:aaron|Aarón]]**
-  * **[[es-419:obe:other:idol|idolo]]**
-==== Translation Notes:   Notas de traducción ====
+  * **[[:es-419:obe:other:moses|Moisés]]**
+  * **[[:es-419:obe:other:sinai|Monte Sinai]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:aaron|Aarón]]**
+  * **[[:es-419:obe:other:idol|idolo]]**
+==== Translation Notes: Notas de traducción ====
 
   * **The people became tired of waiting**  - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
   * **La gente se cansó de esperar**  - Esto puede ser traducido como, "La gente perdió la paciencia porque el no regresó rápidamente" o "La gente no quizo esperar más a que el regresara".
