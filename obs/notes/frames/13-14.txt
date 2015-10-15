@@ -5,14 +5,17 @@
 Then **Moses beat the idol into powder**, threw the powder into some water and made the people drink the water. **God** sent **a plague** on the people and many of them died.
 
 Entonces, **Moisés ** golpeó el **ídolo ** al polvo, tiró el polvo en alguna agua y forzó a la gente que la bebiera el agua. **Dios** envió una plaga sobre la gente y muchos de ellos se murieron.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:idol|idolo]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
+
+=====Términos Importantes =====
+
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:idol]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **beat the idol into powder**  - Moses utterly destroyed the idol by pounding it into fine particles.
