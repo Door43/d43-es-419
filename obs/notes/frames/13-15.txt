@@ -6,7 +6,7 @@
 
 **Moisés hizo** nuevas tablas de piedra para los **Diez Mandamientos ** para reemplazar las que él había roto**. ** Entonces, él subió a la montaña otra vez y** oraba** a **Dios** para que **perdonara** a la gente.** Dios** **escuchó** a **Moises** y los **perdonó**.  Moisés** ** bajó de la montaña con los Diez Mandamientos en las nuevas tablas. Entonces Dios guió a los **Israelitas ** lejos del **Monte Sinaí** hacia la** Tierra Prometida**.
 
-Important Terms: Términos Importantes
+=====Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:pray|prayed]] (oraron)**
@@ -16,12 +16,17 @@ Important Terms: Términos Importantes
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:sinai|Mount Sinai]] (Monte Sinaí)**
   * **[[:es-419:obs:notes:key-terms:promised-land|Promised Land]] (Tierra Prometida)**
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:pray|oraron]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:forgive|perdonar]]**
-  * **[[:es-419:obe:other:tencommandments|Diez Mandamientos]]**
-  * **[[:es-419:obe:kt:promisedland|Tierra Prometida]]**
+
+=====Términos Importantes =====
+
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:other:tencommandments]]**
+  * **[[:es-419:obe:other:Israel]]**
+  * **[[:es-419:obe:other:sinai]]**
+  * **[[:es-419:obe:kt:promisedland]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
