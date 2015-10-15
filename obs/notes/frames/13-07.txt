@@ -5,7 +5,7 @@
 Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave them to **Moses**. **God also gave** many other laws and rules **to follow**. If the people **obeyed** these laws, God **promised** that he would **bless** and protect them. If they **disobeyed** them, God would **punish them**.
 
 Entonces,** Dios** escribió estos **Diez Mandamientos** en dos tablas de piedra y se las dió a **Moisés**. **Dios** también, le dió muchas otras **leyes** y reglas para seguir. Si la gente **obedeció ** estas **leyes**,** Dios ** les** prometió** que los** bendeciría y los protegería**. Si ellos **desobedecían,** **Dios** los **castigaría**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]] (Diez Mandamientos)**
@@ -17,15 +17,16 @@ Entonces,** Dios** escribió estos **Diez Mandamientos** en dos tablas de piedra
   * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]] (desobedeció)**
   * **[[:es-419:obs:notes:key-terms:punish|punish]] (castigo)**
 
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:other:TenCommandments|Diez Mandamientos]]**
-  * **[[es-419:obe:other:moses|Moisés]]**
-  * **[[es-419:obe:kt:lawofmoses|leyes]]**
-  * **[[es-419:obe:other:obey|obedeció]]**
-  * **[[es-419:obe:kt:promise|prometió]]**
-  * **[[es-419:obe:kt:bless|bendición]]**
-  * **[[es-419:obe:other:disobey|desobedeció]]**
-  * **[[es-419:obe:other:punish|castigo]]**
+=====Términos Importantes =====
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:TenCommandments]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:kt:lawofmoses]]**
+  * **[[es-419:obe:other:obey]]**
+  * **[[es-419:obe:kt:promise]]**
+  * **[[es-419:obe:kt:bless]]**
+  * **[[es-419:obe:other:disobey]]**
+  * **[[es-419:obe:other:punish]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:es-419:obs:notes:frames:13-05|[13-05]]]** and **[[:es-419:obs:notes:frames:13-06|[13-06]]]**.
