@@ -6,7 +6,7 @@
 
 **Dios ** había **prometido** a **Abraham**, **Isaac, ** y **Jacobo ** que el le daría la **Tierra Prometida** a sus **descendientes**, pero ahora había muchos **grupos de gente ** viviendo allá. Ellos eran llamados los **Cananeos**. Los **Cananeos ** no **adoraban o** **obedecían** a **Dios**. Ellos** adoraban ** los **diose**s **falsos ** y hacían muchas cosas **malas**.
 
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
@@ -21,19 +21,21 @@
   * **[[:es-419:obs:notes:key-terms:obey|obey]] (obedecer)**
   * **[[:es-419:obs:notes:key-terms:god-false|false gods]] (dioses falsos)**
   * **[[:es-419:obs:notes:key-terms:evil|evil]] (mal)**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:promise|prometido]]**
-  * **[[:es-419:obe:other:abraham|Abraham]]**
-  * **[[:es-419:obe:other:isaac|Isaac]]**
-  * **[[:es-419:obe:other:jacob|Jacob]]**
-  * **[[:es-419:obe:kt:promisedland|Tierra Prometida]]**
-  * **[[:es-419:obe:other:descendant|descendientes]]**
-  * **[[:es-419:obe:other:peoplegroup|grupo de gentes]]**
-  * **[[:es-419:obe:other:canaan|Cananeos]]**
-  * **[[:es-419:obe:kt:worship|adoración]]**
-  * **[[:es-419:obe:other:obey|obedecer]]**
-  * **[[:es-419:obe:kt:falsegod|dioses falsos]]**
-  * **[[:es-419:obe:kt:evil|malvado]]**
+ 
+=====Términos Importantes ===== 
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:isaac]]**
+  * **[[:es-419:obe:other:jacob]]**
+  * **[[:es-419:obe:kt:promisedland]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:other:peoplegroup]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:falsegod]]**
+  * **[[:es-419:obe:kt:evil]]**
 ==== Translation Notes: Notas de traducción ====
 
 //(There are no notes for this frame.) (No hay notas para este marco)//
