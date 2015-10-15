@@ -11,6 +11,13 @@
   * **[[:es-419:obs:notes:key-terms:love|love]] amor**
   * **[[:es-419:obs:notes:key-terms:david|David]] David**
   * **[[:es-419:obs:notes:key-terms:king|king]] rey**
+
+=====Términos Importantes =====
+
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:other:David]]**
+  * **[[:es-419:obe:other:king]]**
 ==== Translation Notes: ====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
