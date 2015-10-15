@@ -11,6 +11,12 @@
   * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] Israel**
   * **[[:es-419:obs:notes:key-terms:praise|praised]] alabado/alabanza**
+
+=====Términos Importantes =====
+  * **[[:es-419:obe:other:David]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:praise]]**
 ==== Translation Notes: ====
 
   * **a giant named Goliath**  - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
