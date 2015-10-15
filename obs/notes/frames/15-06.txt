@@ -13,15 +13,14 @@
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
   * **[[:es-419:obs:notes:key-terms:gibeon|Gibeonites]] (Gabaonitas)**
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
-  
-  
-=====Términos Importantes =====
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:israel]]**
-  * **[[:es-419:obe:other:peace]]**
-  * **[[:es-419:obe:other:canaan]]**
-  * **[[:es-419:obe:other:gibeon]]**
-  * **[[:es-419:obe:other:joshua]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
+  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:es-419:obe:other:gibeon|Gibeon, Gibeonite]]**
+  * **[[:es-419:obe:other:joshua|Joshua]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
@@ -31,5 +30,5 @@
   * **lied to Joshua and said**  - This could be translated as, "They lied to Joshua by saying" or, "They falsely said to Joshua" or, "They falsely told Joshua."
   * **mientio a Josué y dijo **- Esto puede ser traducido como, "Ellos le mientieron a Josué diciendo" o, "Ellos falsamente le dijieron a Josué" o, "Ellos falsamente le contaron a Josué."
   * **where the Gibeonites were from**  - That is, "where the Gibeonites lived" or, "where the Gibeonites' home was." "Gibeonites" means, "people of Gibeon."
-  * **donde eran los Gabeonitas**  - Esto es, "donde los Gabeonitas vivían" o, "donde el hogar de los Gibeonitas estaba." "Gabeonitas" significa, "gente de Gebeón."
+  * **donde eran los Gabeonitas**  - Esto es, "donde los Gabeonitas vivían" o, "donde el hogar de los Gibeonitas estaba." "Gabeonitas" significa, "gente de Gabeón."
 **[[:es-419:obs:notes:frames:15-05|<<]] | [[:es-419:obs:notes:15|Up]] | [[:es-419:obs:notes:frames:15-07|>>]]**
