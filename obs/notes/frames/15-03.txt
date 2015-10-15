@@ -5,7 +5,7 @@
 **After the people crossed the Jordan River**, **God** told **Joshua how to attack** the powerful city of **Jericho**. The people **obeyed** God. Just as God told them to do, the soldiers and **priests** marched around the city of Jericho **once a day for six days**.
 
 Después que la gente cruzó el **Río** **Jordán**, **Dios** le dijo a **Josué** como atacar la poderosa ciudad de **Jericó**. La gente **obedeció a Dios**. Así, como **Dios** les dijo que hiciera, los soldados y los** sacerdotes ** marcharon alrededor de la ciudad de **Jericó** una vez al día durante seis días.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:jordan-river|Jordan River]] (Río Jordán)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
@@ -13,12 +13,14 @@ Después que la gente cruzó el **Río** **Jordán**, **Dios** le dijo a **Josu�
   * **[[:es-419:obs:notes:key-terms:jericho|Jericho]] (Jericó)**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed]] (obedeció)**
   * **[[:es-419:obs:notes:key-terms:priest|priests]] (sacerdotes)**
-  * **[[:es-419:obe:other:jordanriver|Jordan River]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:joshua|Joshua]]**
-  * **[[:es-419:obe:other:jericho|Jericho]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:es-419:obe:kt:priest|priest, priesthood]]**
+
+=====Términos Importantes =====
+  * **[[:es-419:obe:other:jordanriver]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:joshua]]**
+  * **[[:es-419:obe:other:jericho]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:priest]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **After the people crossed the Jordan River**  – In some languages it is better to say, "The people crossed the Jordan River and then…"
