@@ -5,7 +5,7 @@
 “Do not make **idols** and do not **worship** them, because **I**, **Yahweh**, **am a jealous God**. **Do not use my name in a disrespectful way**. Be sure to keep the **Sabbath day holy**. In other words, do all your work in six days, for the **seventh day** is a day for you to rest and **to remember me**.”
 
 “No hagan ídolos y no los **adoren**, porque Yo, **Jehová**, yo soy un** Dios** celoso. No usen mi nombre en una manera irrespetuosa. Estén seguros de guardar el **Sagrado día** **Sábado** . Es otras palabras, hagan todo su trabajo en seis días, porque el séptimo día es para que tú descanses y me recuerden.”
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:idol|idols]] (ídolos)**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adoración)**
@@ -15,13 +15,14 @@
   * **[[:es-419:obs:notes:key-terms:holy|holy]] (santo)**
   * **[[:es-419:obs:notes:key-terms:sabbath|seventh day]] (séptimo día)**
 
-  * **[[es-419:obe:other:idol|ídolatrous]]**
-  * **[[es-419:obe:kt:worship|adoración]]**
-  * **[[es-419:obe:kt:yahweh|Jehová]]**
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:kt:sabbath|día Sábado]]**
-  * **[[es-419:obe:kt:holy|santo]]**
-  * **[[es-419:obe:kt:sabbath|séptimo día]]**
+ =====Términos Importantes =====
+  * **[[es-419:obe:other:idol]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:kt:yahweh]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:sabbath]]**
+  * **[[es-419:obe:kt:holy]]**
+  * **[[es-419:obe:kt:sabbath]]**
 ==== Translation Notes: Notas de traducción ====
 
   * (God continues speaking to Moses.)
