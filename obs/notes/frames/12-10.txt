@@ -14,10 +14,10 @@ Así que ellos siguieron a los **Israelitas ** dentro el camino a través del ma
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:israel|Israelitas]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:egypt|Egipcios]]**
-  * **[[:es-419:obe:other:chariot|carretas]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:chariot]]**
 
 
 
