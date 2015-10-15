@@ -1,11 +1,11 @@
-===== Water from a Rock / Agua de una roca [14-12] =====
+===== Water from a Rock / Agua de una roca [14-12] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-12.jpg?nolink&}}
 
 **God** even **miraculously gave them water from a rock**. **But despite all this**, the people of **Israel** complained and grumbled against God and against **Moses**. **Even so**, **God was still faithful to his promises to Abraham**, **Isaac**, **and Jacob**.
 
 **Dios** aun les dio agua de una roca milagrosamente. Pero a pesar de todo esto, la gente de **Israel ** se quejó y gruñó contra **Dios** y contra Moisés. Aun así, **Dios** todavía era fiel a sus** promesas** a **Abraham**, a **Isaac,** y a **Jacobo.**
-===== Important Terms:  Términos Importantes =====
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
@@ -14,20 +14,19 @@
   * **[[:es-419:obs:notes:key-terms:promise|promises]] (promesas)**
   * **[[:es-419:obs:notes:key-terms:abraham|Abraham]] (Abraham)**
   * **[[:es-419:obs:notes:key-terms:isaac|Isaac]] (Isaac)**
-  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacob)**
-   
-  * **[[es-419:obe:kt:god]]**
-  * **[[es-419:obe:other:israel]]**
-  * **[[es-419:obe:other:moses]]**
-  * **[[es-419:obe:kt:faithful]]**
-  * **[[es-419:obe:kt:promise]]**
-  * **[[es-419:obe:other:abraham]]**
-  * **[[es-419:obe:other:isaac]]**
-  * **[[es-419:obe:other:jacob]]**
+  * **[[:es-419:obs:notes:key-terms:jacob|Jacob]] (Jacobo)**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:moses|Moses]]**
+  * **[[:es-419:obe:kt:faithful|faithful, faithfulness]]**
+  * **[[:es-419:obe:kt:promise|promise (prometió)]]**
+  * **[[:es-419:obe:other:abraham|Abraham, Abram]]**
+  * **[[:es-419:obe:other:isaac|Isaac]]**
+  * **[[:es-419:obe:other:jacob|Jacob, Israel]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **miraculously gave them water from a rock**  - This could be translated, "by doing something that only God can do, he made water pour out of a rock so the people and animals could drink."
-  * milagrosamente les dio agua de una roca - esto puede ser transladado, "Por haciendo algo que unicamente Dios puede hacer, el hizo agua saltara de la roca. para que la gente y los animales puedan beber.
+  * milagrosamente les dio agua de una roca - esto puede ser traducido, "Por haciendo algo que unicamente Dios puede hacer, el hizo que el agua saliera de la roca para que la gente y los animales puedan beber.
   * **But despite all this**  - This could be translated as, "But even though God provided food, water, clothing, and everything that they needed."
   * **pero despues de todo esto **- esto puede ser traducido como, "aparte de todo lo que Dios les proveo de comida, agua, ropa y todo lo que necesitaban".
   * **Even so**  - This could be translated, "Even though the Israelites complained and grumbled against him."
