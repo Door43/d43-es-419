@@ -5,7 +5,7 @@
 **God** said to **Moses** and the people of **Israel**, “If you will **obey** me and **keep my covenant**, **you will be my prized possession**, a **kingdom of priests**, and a **holy nation**.”
 
 **Dios ** dijo a **Moisés** y a la gente de **Israel**, “Si tú me **obedeces** y guarda mi** pacto**, tú serías mi posesión más apreciada​, un reino de sacerdotes, y una nación **santa**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
@@ -16,13 +16,14 @@
   * **[[:es-419:obs:notes:key-terms:priest|priests]] (sacerdotes)**
   * **[[:es-419:obs:notes:key-terms:holy|holy]] (santa)**
 
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:other:moses|Moisés]]**
-  * **[[es-419:obe:other:obey|obedecer]]**
-  * **[[es-419:obe:kt:covenant|pacto]]**
-  * **[[es-419:obe:other:kingdom|reino]]**
-  * **[[es-419:obe:kt:priest|sacerdotes]]**
-  * **[[es-419:obe:kt:holy|santa]]** 
+ =====Términos Importantes =====
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:moses]]**
+  * **[[es-419:obe:other:obey]]**
+  * **[[es-419:obe:kt:covenant]]**
+  * **[[es-419:obe:other:kingdom]]**
+  * **[[es-419:obe:kt:priest]]**
+  * **[[es-419:obe:kt:holy]]** 
 ==== Translation Notes: Notas de traducción ====
 
   * **keep my covenant**  - This could be translated as, "do what my covenant requires you to do." Obeying and keeping the covenant are not two different things. One way to make this clear would be to say, "obey me by keeping my covenant.” God will soon tell them what his covenant requires.
