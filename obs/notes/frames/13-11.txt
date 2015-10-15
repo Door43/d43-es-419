@@ -5,18 +5,21 @@
 For many days, **Moses** was on top of **Mount Sinai** talking with **God**. **The people became tired of waiting** for him to return. So they **brought gold** to **Aaron** and asked him to make an **idol** for them!
 
 **Por muchos días, Moisés ** estaba en la cima del **Monte de** **Sinaí** hablando con **Dios**. La gente se cansó de esperar su regreso. ¡Así, **ellos llevaron oro** a **Aarón** y le pidieron que les hiciera un **ídolo** para ellos!
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:sinai|Mount Sinai]] (Monte Sinaí)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:sinai|Monte Sinai]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:aaron|Aarón]]**
-  * **[[:es-419:obe:other:idol|idolo]]**
+
+=====Términos Importantes ===== 
+
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:sinai]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:aaron]]**
+  * **[[:es-419:obe:other:idol]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **The people became tired of waiting**  - This could be translated as, "The people became impatient because he did not return quickly" or, "The people didn't want to wait any longer for him to return."
