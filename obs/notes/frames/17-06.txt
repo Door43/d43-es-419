@@ -15,6 +15,17 @@
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]] sacrificios**
   * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] Tienda-de-Reunión/Carpa-de-Reunión**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] Moisés**
+
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:other:david]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:sacrifice]]**
+  * **[[:es-419:obe:other:tentofmeeting]]**
+  * **[[:es-419:obe:other:moses]]**
 ==== Translation Notes: ====
 
   * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
