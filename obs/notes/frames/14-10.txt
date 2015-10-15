@@ -5,14 +5,16 @@
 **God did not go with them into this battle**, so they were defeated and many of them were killed. Then the **Israelites turned back from Canaan** and **wandered through the wilderness** for forty years.
 
 **Dios ** no fue con ellos a esta batalla, así, ellos fueron vencidos y muchos de ellos fueron matados. Entonces, los** Israelitas** dejaron a **Canaán ** y vagaban en el desierto por cuarenta años.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
+
+=====Términos Importantes ===== 
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:canaan]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **God did not go with them into this battle**  - In other words, God did not help them in this fight.
