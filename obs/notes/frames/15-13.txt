@@ -5,7 +5,7 @@
 **When Joshua was an old man**, he called all the people of **Israel** together. Then Joshua reminded the people of their obligation to **obey** the **covenant** that **God** had made with the **Israelites** at **Sinai**. The **people promised** to **remain faithful to God** and **follow his laws**.
 
 Cuando **Josué** era un hombre viejo, llamó a todo el pueblo de** Israel** juntos. Entonces, **Josué** les recordó a los habitantes de su obligación de **obedecer el pacto que Dios** había hecho con los**israelita**s en el **Sinaí**. Las personas se comprometieron a permanecer** fieles a Dios** y seguir sus **leyes**.
-===== Important Terms:  Términos Importantes =====
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]] (Israel)**
@@ -17,17 +17,17 @@ Cuando **Josué** era un hombre viejo, llamó a todo el pueblo de** Israel** jun
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
   * **[[:es-419:obs:notes:key-terms:faithful|faithful]] (fiel)**
   * **[[:es-419:obs:notes:key-terms:gods-law|his laws]] (sus leyes)**
-   
-  * **[[es-419:obe:other:joshua]]**
-  * **[[es-419:obe:other:israel]]**
-  * **[[es-419:obe:other:obey]]**
-  * **[[es-419:obe:kt:covenant]]**
-  * **[[es-419:obe:kt:god]]**
-  * **[[es-419:obe:other:israel]]**
-  * **[[es-419:obe:other:sinai]]**
-  * **[[es-419:obe:kt:promise]]**
-  * **[[es-419:obe:kt:faithful]]**
-  * **[[es-419:obe:kt:lawofmoses]]**
+  * **[[:es-419:obe:other:joshua|Joshua]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:es-419:obe:kt:covenant|covenant (pacto)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:es-419:obe:kt:promise|promise (prometió)]]**
+  * **[[:es-419:obe:kt:faithful|faithful, faithfulness]]**
+  * **[[:es-419:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
+
 ==== Translation Notes:  Notas de traducción ====
 
   * **When Joshua was an old man**  – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
