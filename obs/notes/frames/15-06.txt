@@ -5,7 +5,7 @@
 **God** had commanded the **Israelites** not to make a **peace treaty** with any of the people groups in **Canaan**. **But one of the Canaanite people groups, called the Gibeonites**, **lied to Joshua and said** they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the Israelites did not ask God **where the Gibeonites were from**. So Joshua made a peace treaty with them.
 
 **Dios ** había mandado a los** Israelitas** que no hicieran un tratado de **paz** con ninguno de los grupos de gente en **Canaán**. Pero uno de los grupos de** Canaán**, llamado los **Gibeonitas**, mintió a **Josué** y le dijo que ellos eran de un lugar lejos del **Canaán**. Ellos pidieron a **Josué** que hiciera un tratado de** paz** con ellos. **Josué** y los **Israelitas ** no le preguntaron a **Dios** de dónde eran los **Gibeonitas**. Así **Josué** hizo un tratado de **paz ** con ellos.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
@@ -13,12 +13,15 @@
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
   * **[[:es-419:obs:notes:key-terms:gibeon|Gibeonites]] (Gabaonitas)**
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:es-419:obe:other:gibeon|Gibeon, Gibeonite]]**
-  * **[[:es-419:obe:other:joshua|Joshua]]**
+  
+  
+=====Términos Importantes =====
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:gibeon]]**
+  * **[[:es-419:obe:other:joshua]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
