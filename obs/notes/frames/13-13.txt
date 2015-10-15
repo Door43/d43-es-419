@@ -11,10 +11,12 @@ Cuando **Moisés** bajó de la montaña y vió el **ídolo**, se puso tan enfada
   * **[[:es-419:obs:notes:key-terms:idol|idol]] (ídolo)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:ten-commandments|Ten Commandments]] (Diez Mandamientos)**
-  * **[[:es-419:obe:other:moses|Moisés]]**
-  * **[[:es-419:obe:other:idol|idolo]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:tencommandments|Diez Mandamientos]]**
+
+=====Términos Importantes =====
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:idol]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:tencommandments]]**
 
 ==== Translation Notes: Notas de traducción ====
 
