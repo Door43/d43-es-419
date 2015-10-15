@@ -5,7 +5,7 @@
 **God** told the **Israelites**, “You must **get rid of** all the **Canaanites** in the **Promised Land**. **Do not make peace with them** and **do not marry them**. You must completely destroy all of their **idols**. If you do not **obey** me, **you will worship their idols** instead of me.”
 
 Dios dijo a los **Israelitas**, “Tú debes deshacerte de todos los **Cananeos** en la** Tierra Prometida.** No hagan la **paz ** con ellos y no se casen con ellos. Deben destruir completamente todos sus **ídolos**. Si tú no me **obedeces**, **tú puedes adorar sus ídolos en** vez de mí.”
-===== Important Terms: Términos Importantes =====
+===== Important Terms:=====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
@@ -15,12 +15,14 @@ Dios dijo a los **Israelitas**, “Tú debes deshacerte de todos los **Cananeos*
   * **[[:es-419:obs:notes:key-terms:idol|idols]] (ídolos)**
   * **[[:es-419:obs:notes:key-terms:obey|obey]] (obedecer)**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adorar)**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:es-419:obe:kt:promisedland|Promised Land]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:other:idol|idol, idolatrous]]**
+ =====Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:kt:promisedland|]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:other:idol]]**
   * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
   * **[[:es-419:obe:kt:worship|worship (adoración)]]**
 ==== Translation Notes: Notas de traducción ====
