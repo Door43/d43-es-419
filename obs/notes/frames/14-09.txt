@@ -5,16 +5,18 @@
 When the people heard this, they were sorry **they had sinned**. They took their weapons and went to attack the people of **Canaan**. **Moses warned them not to go** because **God was not with them**, **but they did not listen to him**.
 
 Cuando la gente oyó esto, estaban tristes que habían **pecado**. Tomaron sus armas y fueron para atacar a la gente de **Canaán**. **Moisés** les advirtió que no fueran porque **Dios ** no estaba con ellos, pero ellos no le escucharon.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:sin|sinned]] (pecaron)**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:es-419:obe:other:moses|Moses]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+
+=====Términos Importantes =====
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **they had sinned**  - It may be necessary to add, "they had sinned by disobeying God's command to conquer the peoples of Canaan."
