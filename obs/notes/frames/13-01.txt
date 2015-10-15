@@ -5,7 +5,7 @@
 After **God** led the **Israelites** through the **Red Sea**, he led them through the wilderness to a mountain called **Sinai**. This was the same mountain where **Moses** had seen the **burning bush**. The people **set up their tents** at the **base of the mountain**.
 
 Después que **Dios ** guio los** Israelitas ** por el **Mar Rojo,** el los guió por el desierto a un monte llamado **Sinaí**. Este era el mismo monte donde **Moisés** había visto el arbusto ardiente. La gente prepararon sus carpas al pie de la montaña.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
@@ -13,11 +13,13 @@ Después que **Dios ** guio los** Israelitas ** por el **Mar Rojo,** el los gui�
   * **[[:es-419:obs:notes:key-terms:sinai|Sinai]] (Sinaí)**
   * **[[:es-419:obs:notes:key-terms:moses|Moses]] (Moisés)**
 
-  * **[[es-419:obe:kt:god|Dios]]**
-  * **[[es-419:obe:other:israel|Israelitas]]**
-  * **[[es-419:obe:other:RedSea|Mar Rojo]]**
-  * **[[es-419:obe:other:sinai|Sinai]]**
-  * **[[es-419:obe:other:moses|Moisés]]** 
+
+=====Términos Importantes =====
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:RedSea]]**
+  * **[[es-419:obe:other:sinai]]**
+  * **[[es-419:obe:other:moses]]** 
 ==== Translation Notes: Notas de traducción ====
 
   * **burning bush**  - Before Moses returned to Egypt, God had spoken to him from a shrub that was on fire, but that was not burned up by the fire. See **[[:es-419:obs:notes:frames:09-12|[09-12]]]**.
