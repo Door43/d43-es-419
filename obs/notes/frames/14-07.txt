@@ -5,7 +5,7 @@
 But the people did not listen to **Caleb** and **Joshua**. They became angry with **Moses** and **Aaron** and said, “**Why did you bring us to this horrible place**? We should have stayed in **Egypt rather than be killed in battle and our wives and children made slaves**.” The people wanted to choose a different leader to take them back to Egypt.
 
 Pero la gente no escucharon a** Caleb ** y a **Josué. ** Ellosse pusieron enojados con **Moisés ** y a **Aarón** y dijeron, “¿Por qué nos trajiste a este lugar horrible? Nosotros debimos quedarnos mejor en **Egipto ** que ser matados en batalla y nuestras mujeres y hijos ser **esclavos**.” La gente quería escoger a un líder diferente para llevarles a **Egipto**.
-===== Important Terms: Términos Importantes =====
+===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:caleb|Caleb]] (Caleb)**
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
@@ -13,12 +13,14 @@ Pero la gente no escucharon a** Caleb ** y a **Josué. ** Ellosse pusieron enoja
   * **[[:es-419:obs:notes:key-terms:aaron|Aaron]] (Aarón)**
   * **[[:es-419:obs:notes:key-terms:egypt|Egypt]] (Egipto)**
   * **[[:es-419:obs:notes:key-terms:servant|slaves]] (esclavos)**
-  * **[[:es-419:obe:other:caleb|Caleb]]**
-  * **[[:es-419:obe:other:joshua|Joshua]]**
-  * **[[:es-419:obe:other:moses|Moses]]**
-  * **[[:es-419:obe:other:aaron|Aaron]]**
-  * **[[:es-419:obe:other:egypt|Egypt, Egyptian]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+
+=====Términos Importantes =====
+  * **[[:es-419:obe:other:caleb]]**
+  * **[[:es-419:obe:other:joshua]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:aaron]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:other:servant]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **Why did you bring us**  – This is not a real question. It is a way that some languages use to say, "You should not have brought us."
