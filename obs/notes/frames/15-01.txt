@@ -1,11 +1,11 @@
-===== The Two Spies / Los Dos Espías [15-01] =====
+===== The Two Spies / Los Dos Espías [15-01] *F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-01.jpg?nolink&}}
 
 **At last it was time for** the **Israelites** to **enter Canaan**, the **Promised Land**. **Joshua** sent **two spies to the Canaanite city of Jericho** that was **protected by strong walls**. In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to **escape**. She did this because she **believed God**. They promised to protect Rahab and **her family** when the Israelites would destroy Jericho.
 
 Por fin llegó el momento para los** Israelitas** para entrar en **Canaán**, la **Tierra Prometida**. **Josué**envió a dos espías a la ciudad **Cananea** de **Jericó** que estaba protegida por fuertes muros. En esa ciudad vivía una prostituta llamada **Rahab** que escondió a los espías y luego los ayudó a escapar. Ella hizo esto porque ella creyó a** Dios**. Ellos **prometieron** proteger a **Rahab** y a su familia, cuando los hijos de **Israel ** destruiría **Jericó**.
-===== Important Terms:  Términos Importantes =====
+===== Important Terms: Términos Importantes =====
 
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] (Israelitas)**
   * **[[:es-419:obs:notes:key-terms:canaan|Canaan]] (Canaán)**
@@ -17,18 +17,17 @@ Por fin llegó el momento para los** Israelitas** para entrar en **Canaán**, la
   * **[[:es-419:obs:notes:key-terms:believe|believed]] (creyeron)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometió)**
-   
-  * **[[es-419:obe:other:israel]]**
-  * **[[es-419:obe:other:canaan]]**
-  * **[[es-419:obe:kt:promisedland]]**
-  * **[[es-419:obe:other:joshua]]**
-  * **[[es-419:obe:other:canaan]]**
-  * **[[es-419:obe:other:Jericho]]**
-  * **[[es-419:obe:other:rahab]]**
-  * **[[es-419:obe:kt:believe]]**
-  * **[[es-419:obe:kt:god]]**
-  * **[[es-419:obe:kt:promise]]**
-==== Translation Notes:  Notas de traducción ====
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:es-419:obe:kt:promisedland|Promised Land]]**
+  * **[[:es-419:obe:other:joshua|Joshua]]**
+  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
+  * **[[:es-419:obe:other:jericho|Jericho]]**
+  * **[[:es-419:obe:other:rahab|Rahab]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:promise|promise (prometió)]]**
+==== Translation Notes: Notas de traducción ====
 
   * **At last it was time for**  - "At last" means "finally" or, "after a long wait." To make it clear what "time" refers to, you could say, "after they had wandered in the desert for 40 years, God finally permitted."
   * **Por fin era tiempo para**  - "Por fin" significa "finalmente" o, "despues de una espera larga. "Para hacerlo claro que "tiempo" se refiere a, "despues que ellos habian vagado en el desierto por 40 años, Dios finalmente permitio."
