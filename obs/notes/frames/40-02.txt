@@ -15,12 +15,13 @@ Los soldados le llevaron a Jesús a un lugar que se llamaba “el cráneo” y c
   * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
   * **[[:es-419:obs:notes:key-terms:king-of-jews|King of the Jews]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:cross|cross]]**
-  * **[[:es-419:obe:kt:godthefather|Father]]**
-  * **[[:es-419:obe:kt:forgive|forgive]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:kt:kingofthejews|King of the Jews]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:cross]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:kingofthejews]]**
  
  
 ===== Translation Notes: =====
