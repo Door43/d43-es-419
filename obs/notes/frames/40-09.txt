@@ -15,12 +15,13 @@ Entonces, José y Nicodemo, dos líderes de los Judios que creían que Jesús er
   * **[[:es-419:obs:notes:key-terms:pilate|Pilate]]**
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:other:tomb|tomb]]**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:other:tomb]]**
  
 ===== Translation Notes: =====
 
