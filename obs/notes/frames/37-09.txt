@@ -14,11 +14,12 @@ Entonces, Jesús miró al cielo y dijo, “Padre, gracias por escucharme. Se que
   * **[[:es-419:obs:notes:key-terms:believe|believe]]**
   * **[[:es-419:obs:notes:key-terms:lazarus|Lazarus]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:kt:godthefather|father]]**
-  * **[[:es-419:obe:kt:believe|believe]]**
-  * **[[:es-419:obe:other:Lazarus|Lazarus]]**
+=====Términos Importantes===== 
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:other:Lazarus]]**
 
 
 
