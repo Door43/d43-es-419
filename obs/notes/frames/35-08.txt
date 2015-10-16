@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:sin|sinned]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
 
-  * **[[:es-419:obe:kt:son|son]]**
-  * **[[:es-419:obe:kt:sin|sinned]]**
-  * **[[:es-419:obe:kt:god|God]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:god]]**
  
 
 ===== Translation Notes: =====
