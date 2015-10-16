@@ -13,10 +13,11 @@ Entonces, Jesús fue con sus discípulos a un lugar llamado Getsemaní. Jesús d
   * **[[:es-419:obs:notes:key-terms:pray|pray]]**
   * **[[:es-419:obs:notes:key-terms:tempt|temptation]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:pray|pray]]**
-  * **[[:es-419:obe:kt:tempt|temptatipn]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:tempt]]**
  
 ===== Translation Notes: =====
 
