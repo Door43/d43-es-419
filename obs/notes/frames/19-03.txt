@@ -13,6 +13,10 @@ Dios le dijo a Elías que fuera a un arroyo en el desierto para esconderse de Ah
   * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
   * **[[:es-419:obs:notes:key-terms:elijah|Elijah]] Elías**
   * **[[:es-419:obs:notes:key-terms:ahab|Ahab]] Ahab**
+   
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:elijah]]**
+  * **[[es-419:obe:other:ahab]]**
 
 ==== Translation Notes: ====
 
