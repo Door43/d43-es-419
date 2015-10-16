@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:disobey|disobeyed]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinful]]**
 
-  * **[[:es-419:obe:kt:faithful|faithfully]]**
-  * **[[:es-419:obe:other:disobey|disobeyed]]**
-  * **[[:es-419:obe:kt:sin|sinful]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:faithful]]**
+  * **[[:es-419:obe:other:disobey]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
