@@ -7,7 +7,8 @@
 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
 
 ===== Translation Notes: =====
 
