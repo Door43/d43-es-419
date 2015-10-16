@@ -26,7 +26,8 @@ Cuando Jesús llegó al pueblo de Lázaro, Lázaro ya tenía cuatro días de est
 ===== Translation Notes: =====
 
   * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
-  * **Martha** - Martha era la hermana de Lazaro y Maria. Vea [37-01]
+  * **Martha** - Martha era la hermana de Lazaro y Maria. Vea **[[:es-419:obs:notes:frames:37-01|[37-01]]]**.
+ [37-01]
   * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
   * **fuimos al encuentro de Jesus** - Esto es, "fui al encuentro de  Jesus *viniendo a la ciudad."
   * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
