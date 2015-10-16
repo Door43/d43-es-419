@@ -17,14 +17,16 @@ Jesús le respondió, “Yo soy la resurrección y la vida. Quienquiera que cree
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son of God]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:resurrection|Resurection]]**
-  * **[[:es-419:obe:kt:life|Life]]**
-  * **[[:es-419:obe:kt:believe|believes]]**
-  * **[[:es-419:obe:kt:death|dies]]**
-  * **[[:es-419:obe:kt:lord|Master]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God]]**
+=====Términos Importantes=====
+
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:resurrection]]**
+  * **[[:es-419:obe:kt:life]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:christ|]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
  
 ===== Translation Notes: =====
 
