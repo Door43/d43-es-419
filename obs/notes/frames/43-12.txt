@@ -16,13 +16,14 @@ Como 3.000 personas creyeron lo que Pedro dijo y llegaron a ser discípulos de J
   * **[[:es-419:obs:notes:key-terms:church|church]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
 
-  * **[[:es-419:obe:kt:believe|believed]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:kt:church|church]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:kt:church]]**
+  * **[[:es-419:obe:other:jerusalem]]**
  
 ===== Translation Notes: =====
 
