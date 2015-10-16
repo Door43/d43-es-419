@@ -14,11 +14,12 @@ Mientras Moises y Elías estvuieron hablando con Jesús, Pedro dijo a Jesús. �
   * **[[:es-419:obs:notes:key-terms:peter|Peter]]**
   * **[[:es-419:obs:notes:key-terms:good|good]]**
 
-  * **[[:es-419:obe:other:moses|Moses]]**
-  * **[[:es-419:obe:other:elijah|Elijah]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:good|good]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:elijah]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:good]]**
   
 ===== Translation Notes: =====
 
