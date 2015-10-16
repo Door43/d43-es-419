@@ -15,12 +15,13 @@ Cuando Jesús llegó al pueblo de Lázaro, Lázaro ya tenía cuatro días de est
   * **[[:es-419:obs:notes:key-terms:believe|believe]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus']]**
-  * **[[:es-419:obe:kt:death|dead]]**
-  * **[[:es-419:obe:kt:lord|Master]]**
-  * **[[:es-419:obe:kt:believe|believe]]**
-  * **[[:es-419:obe:kt:god|God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:god]]**
   
 ===== Translation Notes: =====
 
