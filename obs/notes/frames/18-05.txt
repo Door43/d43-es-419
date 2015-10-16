@@ -11,6 +11,11 @@ Después de la muerte de **Salomón**, su hijo **Roboam**, se convirtió en **re
   * **[[:es-419:obs:notes:key-terms:rehoboam|Rehoboam]] Roboam**
   * **[[:es-419:obs:notes:key-terms:king|king]] rey**
   * **[[:es-419:obs:notes:key-terms:israel|nation of Israel]] nación de Israel**
+   
+  * **[[es-419:obe:other:solomon]]**
+  * **[[es-419:obe:other:rehoboam]]**
+  * **[[es-419:obe:other:king]]**
+  * **[[es-419:obe:other:israel]]**
 ==== Translation Notes: ====
 
   * **confirm him as king**  - That is, "tell him that they were glad he was king and that they would do what he said."
