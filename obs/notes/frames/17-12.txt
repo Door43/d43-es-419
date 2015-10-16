@@ -10,6 +10,10 @@ El marido de **Betsabé**, un hombre llamado **Urías**, fue uno de los mejores 
   * **[[:es-419:obs:notes:key-terms:bathsheba|Bathsheba's]] Betsabé**
   * **[[:es-419:obs:notes:key-terms:uriah|Uriah]] Urías**
   * **[[:es-419:obs:notes:key-terms:david|David's]] David**
+   
+  * **[[es-419:obe:other:bathsheba]]**
+  * **[[es-419:obe:other:uriah]]**
+  * **[[es-419:obe:other:david]]**
 ==== Translation Notes: ====
 
   * **go be with his wife**  - That is, "go home to be intimate with his wife." David wanted people, especially Uriah, to believe that Bathsheba was pregnant with Uriah's child.
