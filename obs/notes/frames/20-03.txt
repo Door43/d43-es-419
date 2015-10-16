@@ -11,7 +11,10 @@ Los Asírios juntaron todos los lideres, la gente rica, y las personas con las h
   * **[[:es-419:obs:notes:key-terms:assyria|Assyrians]] asirios**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|kingdom of Israel]] reino de Israel**
-
+   
+  * **[[es-419:obe:other:assyria]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:kingdomofisrael]]**
 ==== Translation Notes: ====
 
   * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
