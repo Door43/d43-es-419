@@ -14,11 +14,12 @@ So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** to
   * **[[:es-419:obs:notes:key-terms:believe|believed]]**
   * **[[:es-419:obs:notes:key-terms:miracle|miracle]]**
 
-  * **[[:es-419:obe:other:lazarus|Lazarus]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:kt:believe|believed]]**
-  * **[[:es-419:obe:kt:miracle|miracle]]**
+=====Términos Importantes===== 
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:miracle]]**
  
  
 
