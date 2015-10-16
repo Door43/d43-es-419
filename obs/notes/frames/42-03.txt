@@ -15,12 +15,13 @@ Entonces, Jesús les explicó de qué dice la palabra de Dios acerca del Mesías
   * **[[:es-419:obs:notes:key-terms:suffer|suffer]]**
   * **[[:es-419:obs:notes:key-terms:raise|rise]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:wordofgod|God's word]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
-  * **[[:es-419:obe:kt:prophet|prophets]]**
-  * **[[:es-419:obe:kt:suffer|suffer]]**
-  * **[[:es-419:obe:kt:raise|rise]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:raise]]**
 
 ===== Translation Notes: =====
 
