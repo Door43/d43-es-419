@@ -10,8 +10,9 @@
   * **[[:es-419:obs:notes:key-terms:son|son]]**
   * **[[:es-419:obs:notes:key-terms:beg|begged]]**
 
-  * **[[:es-419:obe:kt:son|son]]**
-  * **[[:es-419:obe:other:beg|begged]]**
+ ===== Términos Importantes=====
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:other:beg]]**
  
 ===== Translation Notes: =====
 
