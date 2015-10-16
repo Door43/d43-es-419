@@ -9,7 +9,8 @@
 
   * **[[:es-419:obs:notes:key-terms:son|son]]**
 
-  * **[[:es-419:obe:kt:son|son]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:son]]**
 
 ===== Translation Notes: =====
 
