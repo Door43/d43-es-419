@@ -13,10 +13,11 @@ Un día, Pedro y Juan estuvieron yendo al Templo. Minetras se acercaron a la pue
   * **[[:es-419:obs:notes:key-terms:temple|Temple]]**
   * **[[:es-419:obs:notes:key-terms:beg|begging]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:other:johntheapostle|John]]**
-  * **[[:es-419:obe:kt:temple|temple]]**
-  * **[[:es-419:obe:other:beg|begging]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:beg]]**
   
 ===== Translation Notes: =====
 
