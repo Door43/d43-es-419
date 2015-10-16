@@ -1,10 +1,10 @@
-===== Joshua Renewed the Covenant / Josué renueva el pacto [15-13] =====
+===== Joshua Renewed the Covenant / Josué Renovó el Pacto [15-13]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-13.jpg?nolink&}}
 
 **When Joshua was an old man**, he called all the people of **Israel** together. Then Joshua reminded the people of their obligation to **obey** the **covenant** that **God** had made with the **Israelites** at **Sinai**. The **people promised** to **remain faithful to God** and **follow his laws**.
 
-Cuando **Josué** era un hombre viejo, llamó a todo el pueblo de** Israel** juntos. Entonces, **Josué** les recordó a los habitantes de su obligación de **obedecer el pacto que Dios** había hecho con los**israelita**s en el **Sinaí**. Las personas se comprometieron a permanecer** fieles a Dios** y seguir sus **leyes**.
+Cuando **Josué** era un hombre viejo, él llamó a todo la gente de** Israel** juntos. Entonces, **Josué** les recordó a la gente de sus obligación de **obedecer el pacto que Dios** había hecho con los **Israelita**s en el **Sinaí**. La **gente prometió** **permanece**r** fieles a Dios** y **seguir** sus **leyes**.
 ===== Important Terms: =====
 
   * **[[:es-419:obs:notes:key-terms:joshua|Joshua]] (Josué)**
@@ -17,30 +17,28 @@ Cuando **Josué** era un hombre viejo, llamó a todo el pueblo de** Israel** jun
   * **[[:es-419:obs:notes:key-terms:promise|promised]] (prometido)**
   * **[[:es-419:obs:notes:key-terms:faithful|faithful]] (fiel)**
   * **[[:es-419:obs:notes:key-terms:gods-law|his laws]] (sus leyes)**
- 
+===== Términos Importantes =====
 
-=====Términos Importantes =====
-  * **[[:es-419:obe:other:joshua]]**
-  * **[[:es-419:obe:other:israel]]**
-  * **[[:es-419:obe:other:obey]]**
-  * **[[:es-419:obe:kt:covenant]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:israel]]**
-  * **[[:es-419:obe:other:sinai]]**
-  * **[[:es-419:obe:kt:promise]]**
-  * **[[:es-419:obe:kt:faithful]]**
-  * **[[:es-419:obe:kt:lawofmoses]]**
-
-==== Translation Notes:  Notas de traducción ====
+  * **[[:es-419:obe:other:joshua|Joshua]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:es-419:obe:kt:covenant|covenant (pacto)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:sinai|Sinai, Mount Sinai]]**
+  * **[[:es-419:obe:kt:promise|promise (prometió)]]**
+  * **[[:es-419:obe:kt:faithful|faithful, faithfulness]]**
+  * **[[:es-419:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
+==== Translation Notes: Notas de traducción ====
 
   * **When Joshua was an old man**  – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
-  * **Quando Josué era un hombre viejo**  - Puede que sea claro decir, " Muchos años despues, quando Josué era un hombre viejo." Josué tenia mas de cien años en este tiempo.
+  * **Cuando Josué era un hombre viejo**  - Puede que sea más claro decir, " Muchos años después, cuando Josué era un hombre viejo." Josué tenía más de 100 años en ese tiempo.
   * **remain faithful to God**  - In other words, they would be loyal to God. They would worship and serve only God; they would not worship or serve any other gods.
-  * **permanecer fiel a Dios**  - En otra palabras, ellos serian fieles a Dios. Ellos adorarian y servirian nomas a Dios; ellos no adorarian o servirian nigun otro Dioses.
+  * **permanecer fieles a Dios**  - En otras palabras, ellos serían leales a Dios. Ellos adorarían y servirían solamente a Dios; ellos no adorarían o servirían  ninguno de los otros dioses.
   * **follow his laws**  - This means that the people would obey the laws that God had given them already as part of the covenant.
-  * **segir sus leyes**  - Esto significa que la gente obedecerian la leyes que Dios les habia dado ya como parte de la alianza.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una historia Biblica de//  - Estas referencias pueden ser ligeramente diferente en algunas traduciones biblicas.
+  * **seguir sus leyes**  - Esto significa que la gente obedecerían las leyes que Dios les había dado que ya eran parte del pacto.
+  * //A Bible story from.//  - These references may be slightly different in some Bible translations.
+  * //Una historia de la Biblia//  - Estas referencias pueden ser ligeramente diferente en algunas traduciones de la Biblia.
 //Una historia de la Biblia de: Josué 1-24//
 
 **[[:es-419:obs:notes:frames:15-12|<<]] | [[:es-419:obs:notes:15|Up]] | [[:es-419:obs:notes:frames:16-01|>>]]**
