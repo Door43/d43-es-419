@@ -13,11 +13,12 @@ Cada Año, 50 días después de la** Pascua**, los** Judios ** celebraron un dí
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
 
-  * **[[:es-419:obe:kt:passover|Passover]]**
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:passover]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
 
  
  
