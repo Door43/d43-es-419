@@ -12,6 +12,12 @@ Todos los** reyes** y la mayoría de la gente del** reino de Israel adoraban íd
   * **[[:es-419:obs:notes:key-terms:worship|worshiped]] adoraron/adoró**
   * **[[:es-419:obs:notes:key-terms:idol|idols]] ídolos**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifice]] sacrificio**
+   
+  * **[[es-419:obe:other:king]]**
+  * **[[es-419:obe:other:kingdomofisrael]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:other:idol]]**
+  * **[[es-419:obe:other:sacrifice]]**
 ==== Translation Notes: ====
 
   * **child sacrifice**  - They killed children as offerings to some of their idols
