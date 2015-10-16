@@ -13,10 +13,11 @@ Mientras Pedro estuvo hablando, una nube brillante se bajó y les envolvió y un
   * **[[:es-419:obs:notes:key-terms:love|love]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:sonofgod|Son]]**
-  * **[[:es-419:obe:kt:love|love]]**
-  * **[[:es-419:obe:kt:disciple|discipes]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:kt:disciple]]**
  
  
 ===== Translation Notes: =====
