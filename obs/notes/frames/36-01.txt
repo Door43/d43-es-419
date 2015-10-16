@@ -14,11 +14,12 @@ Un día, Jesús llevó a tres de sus discípulos, Pedro, Santiago y Juan consigo
   * **[[:es-419:obs:notes:key-terms:john|John]]**
   * **[[:es-419:obs:notes:key-terms:baptize|baptized]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:other:johntheapostle|John]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:baptize]]**
 
 ===== Translation Notes: =====
 
