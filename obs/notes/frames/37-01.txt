@@ -15,12 +15,13 @@ Un día, Jesús recibió un mensaje que Lázaro estaba muy enfermo. Lázaro y su
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:love|loved]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus]]**
-  * **[[:es-419:obe:kt:death|death]]**
-  * **[[:es-419:obe:kt:glory|glory]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:love|loved]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:glory]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:love]]**
 
  
  
