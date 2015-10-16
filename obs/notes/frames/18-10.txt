@@ -10,6 +10,10 @@ Los **reinos de Judá y Israel ** se convirtieron en enemigos y, a menudo luchar
   * **[[:es-419:obs:notes:key-terms:kingdom|kingdoms]] reinos**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|Judah]] Judá**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-israel|Israel]] Israel**
+   
+  * **[[es-419:obe:other:kingdom]]**
+  * **[[es-419:obe:other:kingdomofjudah]]**
+  * **[[es-419:obe:other:kingdomofisrael]]**
 ==== Translation Notes: ====
 
   * **Judah and Israel**  - The people of Judah and Israel were all descendants of Jacob and part of God's people. Even so, they disobeyed God and fought and killed each other.
