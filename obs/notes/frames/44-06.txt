@@ -13,10 +13,11 @@ Los líderes del Templo estaban enojados con lo que Pedro y Juan estaban diciend
   * **[[:es-419:obs:notes:key-terms:john|John]]**
   * **[[:es-419:obs:notes:key-terms:believe|believed]]**
 
-  * **[[:es-419:obe:kt:temple|Temple]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:other:johntheapostle|John]]**
-  * **[[:es-419:obe:kt:believe|believed]]**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:believe]]**
  
 ===== Translation Notes: =====
 
