@@ -14,11 +14,12 @@ La muchedumbre vino rapidamente para ver al hombre sanado. Pedro les dijo, “¿
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:faith|faith]]**
 
-  * **[[:es-419:obe:other:heal|healed]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:power|power]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:faith|faith]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:heal]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:power]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:faith]]**
   
 ===== Translation Notes: =====
 
