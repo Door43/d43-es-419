@@ -11,6 +11,10 @@ A lo largo de la historia de los israelitas, Dios les envió profetas. Los profe
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
   * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
   * **[[:es-419:obs:notes:key-terms:prophet|prophets]] profetas**
+   
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:prophet]]**
 ==== Translation Notes: ====
 
   * **Throughout the history of**  - This expression means that God sent many prophets at many different times during all of the years that Israel and Judah existed.
