@@ -19,7 +19,19 @@ A través del profeta Jeremías, Dios prometió que iba a hacer un pacto nuevo, 
   * **[[:es-419:obs:notes:key-terms:forgive|forgive]] perdonar**
   * **[[:es-419:obs:notes:key-terms:sin|sins]] pecados**
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] Mesías**
-
+   
+  * **[[es-419:obe:kt:prophet]]**
+  * **[[es-419:obe:other:jeremiah]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:promise]]**
+  * **[[es-419:obe:kt:newcovenant]]**
+  * **[[es-419:obe:kt:covenant]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:sinai]]**
+  * **[[es-419:obe:kt:forgive]]**
+  * **[[es-419:obe:kt:sin]]**
+  * **[[es-419:obe:other:king]]**
+ 
 ==== Translation Notes: ====
 
   * **Through the prophet Jeremiah God promised**  – This could be translated as, "Through the messages that God gave to Jeremiah, God promised" or, "The prophet Jeremiah told the people God's promise."
