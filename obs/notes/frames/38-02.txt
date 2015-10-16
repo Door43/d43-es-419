@@ -17,15 +17,16 @@ Uno de los discípulos de Jesús era un hombre que se llamaba Judas. Judas era e
   * **[[:es-419:obs:notes:key-terms:betray|betray]]**
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas]]**
-  * **[[:es-419:obe:kt:god|God's]]**
-  * **[[:es-419:obe:kt:apostle|apostles']]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:kt:betray|betray]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
+ =====Términos Importantes=====  
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:apostle]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:kt:christ]]**
  
 
 
