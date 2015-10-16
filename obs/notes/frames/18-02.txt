@@ -15,6 +15,15 @@ En **Jerusalén**, **Salomón** construyó el **templo** que su padre **David** 
   * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
   * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]] sacrificios**
   * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] Tienda-de-Reunión**
+   
+  * **[[es-419:obe:other:jerusalem]]**
+  * **[[es-419:obe:other:solomon]]**
+  * **[[es-419:obe:kt:temple]]**
+  * **[[es-419:obe:other:david]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:sacrifice]]**
+  * **[[es-419:obe:other:tentofmeeting]]**
 ==== Translation Notes: ====
 
   * **was present in the Temple**  – That is, "was present in the Temple in a special way." Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
