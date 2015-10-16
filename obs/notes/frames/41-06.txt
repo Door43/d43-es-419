@@ -15,12 +15,13 @@ Entonces, el ángel dijo a las mujeres, “Vayan y digan a los discípulos. 'Jes
   * **[[:es-419:obs:notes:key-terms:death|dead]]**
   * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
 
-  * **[[:es-419:obe:kt:angel|angel]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:raise|risen]]**
-  * **[[:es-419:obe:kt:death|dead]]**
-  * **[[:es-419:obe:other:Galilee|Galilee]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:Galilee]]**
  
 ===== Translation Notes: =====
 
