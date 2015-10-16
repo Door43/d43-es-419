@@ -17,6 +17,16 @@ Elías era un profeta cuando Ahab era el rey sobre el reino de Israel. Ahab era 
   * **[[:es-419:obs:notes:key-terms:worship|worship]] adorar/adoración**
   * **[[:es-419:obs:notes:key-terms:god-false|god]] dios**
   * **[[:es-419:obs:notes:key-terms:baal|Baal]] Baal**
+   
+  * **[[es-419:obe:other:elijah]]**
+  * **[[es-419:obe:kt:prophet]]**
+  * **[[es-419:obe:other:ahab]]**
+  * **[[es-419:obe:other:king]]**
+  * **[[es-419:obe:other:kingdomofisrael]]**
+  * **[[es-419:obe:kt:evil]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:other:baal]]**
 ==== Translation Notes: ====
 
   * **until I say so**  - This may be translated as, "until I command the rain and dew to come again."
