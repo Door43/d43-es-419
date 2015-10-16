@@ -12,6 +12,12 @@ Unos setenta años más tarde, Ciro, el rey de los persas, derrotó Babilonia, y
   * **[[:es-419:obs:notes:key-terms:babylon|Babylon]] Babilonia**
   * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
   * **[[:es-419:obs:notes:key-terms:jew|Jews]] judíos**
+   
+  * **[[es-419:obe:other:king]]**
+  * **[[es-419:obe:other:babylon]]**
+  * **[[es-419:obe:other:israel]]**
+  * **[[es-419:obe:other:jew]]**
+ 
 ==== Translation Notes: ====
 
   * **seventy years later**  - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
