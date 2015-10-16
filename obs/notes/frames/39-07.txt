@@ -13,10 +13,11 @@ Entonces, Pedro juró, diciendo, “¡Dios me maldiga si conozco a este hombre!�
   * **[[:es-419:obs:notes:key-terms:curse|curse]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:curse|curse]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:curse]]**
+  * **[[:es-419:obe:kt:jesus]]**
   
 ===== Translation Notes: =====
 
