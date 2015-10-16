@@ -10,6 +10,10 @@
   * **[[:es-419:obs:notes:key-terms:rehoboam|Rehoboam]] Roboam**
   * **[[:es-419:obs:notes:key-terms:solomon|Solomon]] Salomón**
   * **[[:es-419:obs:notes:key-terms:punish|punish]] castigo/castigar**
+   
+  * **[[es-419:obe:other:rehoboam]]**
+  * **[[es-419:obe:other:solomon]]**
+  * **[[es-419:obe:other:punish]]**
 ==== Translation Notes: ====
 
   * **foolishly answered**  - Rehoboam's answer was harsh, and caused the people to turn against him.
