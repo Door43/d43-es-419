@@ -17,15 +17,16 @@ Después de crucificar a Jesús los soldados, los líderes Judios que no creyero
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
 
-  * **[[:es-419:obe:kt:crucify|crucified]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:kt:raise|rise]]**
-  * **[[:es-419:obe:other:tomb|tomb]]**
-  * **[[:es-419:obe:kt:disciple|discipes]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:crucify]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:other:tombtomb]]**
+  * **[[:es-419:obe:kt:disciple]]**
 
 ===== Translation Notes: =====
 
