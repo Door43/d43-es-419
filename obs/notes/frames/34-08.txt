@@ -9,7 +9,8 @@
 
   * **[[:es-419:obs:notes:key-terms:fast|fast]]**
 
-  * **[[:es-419:obe:other:fast|fast]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:fast]]**
 
 ===== Translation Notes: =====
 
