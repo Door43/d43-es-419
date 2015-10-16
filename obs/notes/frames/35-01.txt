@@ -11,9 +11,10 @@ Un día, **Jesús ** estaba enseñado a muchos **cobradores de impuestos ** y ot
   * **[[:es-419:obs:notes:key-terms:tax-collector|tax collectors]]**
   * **[[:es-419:obs:notes:key-terms:sin|sinners]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:taxcollector|tax collector]]**
-  * **[[:es-419:obe:kt:sin|sinners]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:taxcollector]]**
+  * **[[:es-419:obe:kt:sin]]**
 
 ===== Translation Notes: =====
 
