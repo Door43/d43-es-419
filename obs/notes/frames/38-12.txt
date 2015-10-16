@@ -18,15 +18,16 @@ Jesús oró tres veces, “Padre mío, si es posible, por favor, deje que no ten
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:angel|angel]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:pray|prayed]]**
-  * **[[:es-419:obe:kt:godthefather|My father]]**
-  * **[[:es-419:obe:kt:suffer|suffering]]**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:suffer]]**
   * **[[:es-419:obe:kt:sin|sins]]**
-  * **[[:es-419:obe:kt:forgive|forgiven]]**
-  * **[[:es-419:obe:kt:blood|blood]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:angel|angel]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:kt:blood]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:angel]]**
  
 ===== Translation Notes: =====
 
