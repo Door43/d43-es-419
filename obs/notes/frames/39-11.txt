@@ -14,11 +14,12 @@ Después de hablar con Jesús, Pilato se presentó a la muchedumbre y dijo, “N
   * **[[:es-419:obs:notes:key-terms:jewish-leaders|Jewish leaders]]**
   * **[[:es-419:obs:notes:key-terms:crucify|Crucify]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:kt:guilt|guilt]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:kt:crucify|Crucify]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:guilt]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:crucify]]**
 
  
  
