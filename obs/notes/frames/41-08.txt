@@ -13,10 +13,11 @@ Mientras las mujeres estuvieron en el camino para decir a los discíplulos las b
   * **[[:es-419:obs:notes:key-terms:worship|worshiped]]**
   * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
 
-   * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:worship|worshipped]]**
-  * **[[:es-419:obe:other:galilee|Galilee]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:galilee]]**
   
 ===== Translation Notes: =====
 
