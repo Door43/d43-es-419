@@ -14,11 +14,12 @@ Todos los líderes religiosos dijeron al sumo sacerdote, “¡El merece la muert
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:mock|mocked]]**
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:kt:highpriest|high priest]]**
-  * **[[:es-419:obe:kt:death|die]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:mock|mocked]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:mock]]**
  
 ===== Translation Notes: =====
 
