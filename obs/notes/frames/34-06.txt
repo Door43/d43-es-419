@@ -14,12 +14,13 @@ Entonces, **Jesús ** contó una historia a alguna gente que **confiaba ** en su
   * **[[:es-419:obs:notes:key-terms:tax-collector|tax collector]]**
   * **[[:es-419:obs:notes:key-terms:jewish-leaders|religious leader]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:trust|trusted]]**
-  * **[[:es-419:obe:kt:temple|Temple]]**
-  * **[[:es-419:obe:other:pray|pray]]**
-  * **[[:es-419:obe:other:taxcollector|tax collector]]**
-  * **[[:es-419:obe:other:jewishleaders|religious leaders]]**
+========== Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:trust]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:other:taxcollector]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
 
 ===== Translation Notes: =====
 
