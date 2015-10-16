@@ -25,7 +25,7 @@ Entonces, María llegó. Ella cayó a los pies de Jesús y le dijo, “Señor, s
 ===== Translation Notes: =====
 
   * **Mary**  - This was the same woman as in **[[:es-419:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **Maria **- Esta es la misma mujer como en [37-01]
+  * **Maria **- Esta es la misma mujer como en **[[:es-419:obs:notes:frames:37-01|[37-01]]]**, no la madre de Jesús.
   * **fell at the feet of Jesus**  - That is, "knelt down at Jesus' feet" as a sign of respect.
   * **cayo a los pies de Jesus** - Esto es, " se arrodillo a los pies de Jesus" como senal de respeto.
   * **my brother would not have died.**  - That is, "you could have kept my brother from dying" or, "you could have prevented my brother's death" or, "my brother would still be alive."
