@@ -13,10 +13,11 @@ Mientras Pedro estaba esperando afuera de la casa, una sierva joven lo vio y le 
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:other:servant|servant girl]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:galilee|Galilee]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:galilee]]**
   
 ===== Translation Notes: =====
 
