@@ -13,11 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:lord|Lord]]**
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
 
-  * **[[:es-419:obe:kt:crucify|crucified]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:lord|Lord]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:crucify]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:christ]]**
  
 ===== Translation Notes: =====
 
