@@ -14,11 +14,12 @@ El próximo día, los líderes Judios trajeron a Pedro y a Juan al sumo sacerdot
   * **[[:es-419:obs:notes:key-terms:priest-high|high priest]]**
   * **[[:es-419:obs:notes:key-terms:power|power]]**
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders]]**
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:other:johntheapostle|John]]**
-  * **[[:es-419:obe:kt:highpriest|high priest]]**
-  * **[[:es-419:obe:kt:power|power]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:power]]**
  
 ===== Translation Notes: =====
 
