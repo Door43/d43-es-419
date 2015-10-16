@@ -13,10 +13,11 @@ Entonces, Jesús dijo a los discípulos, “Uno de Uds. me va a traicionar.” L
   * **[[:es-419:obs:notes:key-terms:betray|betray]]**
   * **[[:es-419:obs:notes:key-terms:judas|Judas]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:betray|betray]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas]]**
+=====Términos Importantes===== 
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
 ===== Translation Notes: =====
 
   * **give this piece of bread**  - That is, "hand this piece of bread."
