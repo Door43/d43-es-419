@@ -15,6 +15,15 @@
   * **[[:es-419:obs:notes:key-terms:worship|worship]] adoración/adorar**
   * **[[:es-419:obs:notes:key-terms:temple|Temple]] Templo**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]] reino de Judá**
+   
+  * **[[es-419:obe:other:jeroboam]]**
+  * **[[es-419:obe:other:rebel]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:sin]]**
+  * **[[es-419:obe:other:idol]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:kt:temple]]**
+  * **[[es-419:obe:other:kingdomofjudah]]**
 ==== Translation Notes: ====
 
   * **caused the people to sin**  - This could be translated as, "led the people to sin" or, "motivated the people to sin." Rehoboam led the people into sin by making idols for them to worship.
