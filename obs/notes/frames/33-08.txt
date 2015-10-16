@@ -9,6 +9,7 @@
   * **[[:es-419:obs:notes:key-terms/love|love]]**
   * **[[:es-419:obs:notes:key-terms/god|God]]**
 
+=====Términos Importantes=====
   * **[[:es-419:obe:kt:wordofgod|God's word]]**
   * **[[:es-419:obe:kt:love|love]]**
   * **[[:es-419:obe:kt:god|God]]**
