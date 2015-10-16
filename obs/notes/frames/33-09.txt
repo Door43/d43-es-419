@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:word-of-god|word of God]]**
   * **[[:es-419:obs:notes:key-terms:believe|believes]]**
 
-  * **[[:es-419:obe:kt:good|good]]**
-  * **[[:es-419:obe:kt:wordofgod|word of God]]**
-  * **[[:es-419:obe:kt:believe|believes]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:good]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:believe]]**
 
 ===== Translation Notes: =====
 
