@@ -12,9 +12,10 @@ Mientras los discípulos estaban hablando, Jesús apareció de repente en el apo
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:peace|Peace]]**
 
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:peace|Peace]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:peace]]**
   
 ===== Translation Notes: =====
 
