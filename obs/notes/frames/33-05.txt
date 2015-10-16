@@ -9,7 +9,9 @@
 
   * **[[:es-419:obs:notes:key-terms:good|good]]**
 
-  * **[[:es-419:obe:kt:good|good]]**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:good]]**
 
 ===== Translation Notes: =====
 
