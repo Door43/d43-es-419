@@ -18,15 +18,16 @@ Jesús dijo a sus discípulos, “Toda potestad en el cielo y en la tierra me ha
   * **[[:es-419:obs:notes:key-terms:holy-spirit|Holy Spirit]]**
   * **[[:es-419:obs:notes:key-terms:obey|obey]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:other:peoplegroup|people groups]]**
-  * **[[:es-419:obe:kt:baptize|baptizing]]**
-  * **[[:es-419:obe:kt:godthefather|Father]]**
-  * **[[:es-419:obe:kt:sonofgod|Son]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
-  * **[[:es-419:obe:other:obey|obey]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:other:peoplegroup]]**
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:other:obey]]**
 
 ===== Translation Notes: =====
 
