@@ -10,8 +10,9 @@
   * **[[:es-419:obs:notes:key-terms:son|sons]]**
   * **[[:es-419:obs:notes:key-terms:inherit|inheritance]]**
 
-  * **[[:es-419:obe:kt:son|sons]]**
-  * **[[:es-419:obe:kt:inherit|inheritance]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:kt:inherit]]**
 
 ===== Translation Notes: =====
 
