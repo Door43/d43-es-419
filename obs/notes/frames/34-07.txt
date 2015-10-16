@@ -13,11 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:adultery|adulterers]]**
   * **[[:es-419:obs:notes:key-terms:tax-collector|tax collector]]**
 
-  * **[[:es-419:obe:other:jewishleaders|religious leader]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:sin|sinner]]**
-  * **[[:es-419:obe:kt:adultery|adulterers]]**
-  * **[[:es-419:obe:other:taxcollector|tax collector]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:adultery]]**
+  * **[[:es-419:obe:other:taxcollector]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
