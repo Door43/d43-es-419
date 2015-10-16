@@ -15,7 +15,14 @@ Después del tiempo de Elias, Dios escogió a otro hombre que se llamaba Eliseo 
   * **[[:es-419:obs:notes:key-terms:naaman|Naaman]] Naamán**
   * **[[:es-419:obs:notes:key-terms:heal|heal]] sanar/sano**
   * **[[:es-419:obs:notes:key-terms:jordan-river|Jordan River]] río Jordan**
-
+   
+  * **[[es-419:obe:other:elijah]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:prophet]]**
+  * **[[es-419:obe:kt:miracle]]**
+  * **[[es-419:obe:other:naaman]]**
+  * **[[es-419:obe:other:heal]]**
+  * **[[es-419:obe:other:jordanriver]]**
 ==== Translation Notes: ====
 
   * **an enemy commander**  - Naaman was a commander in the army of one of the countries that was Israel's enemy.
