@@ -10,8 +10,9 @@
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom of God]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
 
 ===== Translation Notes: =====
 
