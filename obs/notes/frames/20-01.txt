@@ -18,7 +18,17 @@ La Nacion de Israel y la Nacion de Judá, ambos pecaron contra Dios. Ellos rompi
   * **[[:es-419:obs:notes:key-terms:repent|repent]] arrepentirse/arrepentimiento**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] adoración**
   * **[[:es-419:obs:notes:key-terms:obey|obey]] obedecer**
-
+ 
+  * **[[es-419:obe:other:kingdomofisrael]]**
+  * **[[es-419:obe:other:kingdomofjudah]]**
+  * **[[es-419:obe:kt:sin]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:covenant]]**
+  * **[[es-419:obe:other:sinai]]**
+  * **[[es-419:obe:kt:prophet]]**
+  * **[[es-419:obe:kt:repent]]**
+  * **[[es-419:obe:kt:worship]]**
+  * **[[es-419:obe:other:obey]]**
 ==== Translation Notes: ====
 
   * **broke the covenant**  - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
