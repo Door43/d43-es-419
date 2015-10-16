@@ -18,6 +18,18 @@ Después de ser matado** Urías, David se ** casó **con Betsabé. ** Más tarde
   * **[[:es-419:obs:notes:key-terms:repent|repented]] arrepentir/arrepintió**
   * **[[:es-419:obs:notes:key-terms:forgive|forgave]] perdonó/perdonar**
   * **[[:es-419:obs:notes:key-terms:obey|obeyed]] obedeció/obedecer**
+   
+  * **[[es-419:obe:other:uriah]]**
+  * **[[es-419:obe:other:david]]**
+  * **[[es-419:obe:other:bathsheba]]**
+  * **[[es-419:obe:kt:god]]**
+  * **[[es-419:obe:kt:prophet]]**
+  * **[[es-419:obe:other:nathan]]**
+  * **[[es-419:obe:kt:evil]]**
+  * **[[es-419:obe:kt:sin]]**
+  * **[[es-419:obe:kt:repent]]**
+  * **[[es-419:obe:kt:forgive]]**
+  * **[[es-419:obe:other:obey]]**
 ==== Translation Notes: ====
 
   * **what David had done**  - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
