@@ -13,10 +13,11 @@ Finalmente, el sumo sacerdote miró directamente a Jesús y dijo, “Díganos, �
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son of the living God]]**
 
-  * **[[:es-419:obe:kt:highpriest|high priest]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
-  * **[[:es-419:obe:kt:sonofgod|son of the living God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
  
 
 ===== Translation Notes: =====
