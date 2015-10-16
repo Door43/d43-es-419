@@ -13,10 +13,11 @@ El día después de ser enterrado Jesús fue un día sábado, y los Judios no es
   * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
   * **[[:es-419:obs:notes:key-terms:tomb|tomb]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:sabbath|Sabbath]]**
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:other:tomb|tomb]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sabbath]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:tomb]]**
   
 ===== Translation Notes: =====
 
