@@ -17,15 +17,16 @@ Cuarenta días después de resucitar Jesús de la muerte, él dijo a sus discíp
   * **[[:es-419:obs:notes:key-terms:heaven|heaven]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:godthefather|Father]]**
-  * **[[:es-419:obe:kt:power|power]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
-  * **[[:es-419:obe:kt:heaven|heaven]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:godthefather|Father]]**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:power]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:godthefather]]**
  
 ===== Translation Notes: =====
 
