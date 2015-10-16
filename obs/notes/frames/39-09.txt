@@ -14,11 +14,12 @@ Temprano la próxima mañana, los líderes de los Judios llevaron a Jesús a Pil
   * **[[:es-419:obs:notes:key-terms:rome|Roman]]**
   * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]]**
 
-  * **[[:es-419:obe:other:jewishleaders|religious leaders]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:pilate|Pilate]]**
-  * **[[:es-419:obe:other:rome|Roman]]**
-  * **[[:es-419:obe:kt:kingofthejews|King of the Jews]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:other:rome]]**
+  * **[[:es-419:obe:kt:kingofthejews]]**
   
 ===== Translation Notes: =====
 
