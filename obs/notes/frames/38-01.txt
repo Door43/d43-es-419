@@ -19,16 +19,17 @@ Cada año, los Judios celebaron la Pascua. Esta fue una celebración de cómo Di
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
 
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:kt:passover|Passover]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:save|saved]]**
-  * **[[:es-419:obe:other:servant|slavery]]**
-  * **[[:es-419:obe:other:egypt|Egypt]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:preach|preaching]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+ =====Términos Importantes===== 
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:passover]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:egypt]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:jerusalem]]**
  
 
 ===== Translation Notes: =====
