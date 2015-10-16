@@ -14,12 +14,13 @@ Los dos hombres dijeron uno al otro, “¡Aquel fue Jesús!” ¡Por esto nuestr
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:life|alive]]**
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:wordofgod|God's word]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:prophet|prophets]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:life|alive]]**
+ =====Términos Importantes=====
+ * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:life]]**
 
 ===== Translation Notes: =====
 
