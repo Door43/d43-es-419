@@ -1,0 +1,27 @@
+====== obey, obedient, obedience (obedece, obediente, obediencia) ======
+
+===== Definition: =====
+
+The term "obey" means to do what someone in authority requires or commands them to do. The term "obedient" describes the character of someone who obeys.
+
+  * People also obey laws which are created by leaders of a country, state or organization.
+  * Children obey their parents, slaves obey their masters, people obey God, and citizens obey the laws of their country.
+  * When the law or someone in authority commands people not to do something, they obey by not doing that.
+  * Ways to translate this term could include a word or phrase that means, "doing what is commanded" or "following orders" or "doing what God says to do."
+
+(See also: [[:es-419:obe:other:disobey|disobey, disobedient]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?obey&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:03-04|[03-04]]]** Noah **obeyed**  God. He and his three sons built the boat just the way God had told them.
+  * **[[:es-419:obs:notes:frames:05-06|[05-06]]]** Again Abraham **obeyed**  God and prepared to sacrifice his son.
+  * **[[:es-419:obs:notes:frames:05-10|[05-10]]]**"Because you (Abraham) have **obeyed **  me, all the families of the world will be blessed through your family"
+  * **[[:es-419:obs:notes:frames:05-10|[11-06]]]** But the Egyptians did not believe God or **obey**  his commands.
+  * **[[:es-419:obs:notes:frames:13-07|[13-07]]]** If the people **obeyed**  these laws, God promised that he would bless and protect them.
+~~DISCUSSION~~{{tag>publish  ktobs}}
+
+~~NOCACHE~~
