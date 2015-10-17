@@ -1,0 +1,34 @@
+====== curse, cursed (maldición, maldito) ======
+
+===== Definition: =====
+
+The term "curse" means to cause negative things to happen to the person or thing that is being cursed.
+
+  * A curse can be a statement that harm will happen to someone or something.
+  * To curse someone can also be an expression of desire that bad things will happen to them.
+  * It can also refer to the punishment or other negative things that someone causes to happen to someone.
+
+===== Translation Suggestions: =====
+
+  * This term could be translated as "cause bad things to happen to" or "declare that something bad will happen to" or "swear to cause evil things to happen to."
+  * In the context of God sending curses on his disobedient people, it could be translated as, "punish by allowing bad things to happen."
+  * The term "cursed" when used to describe people could be translated as, "(this person) will experience much trouble."
+  * The phrase "cursed be" could be translated as, "May (this person) experience great difficulties."
+  * The phrase, "Cursed is the ground" could be translated as, "The soil will not be very fertile."
+  * "Cursed be the day I was born" could also be translated as, "I am so miserable it would have been better not to be born."
+  * However, if the target language has the phrase "cursed be" and it has the same meaning, then it is good to keep the same phrase.
+
+(See also: [[:es-419:obe:kt:bless|bless, blessed, blessing]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?curse&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
+  * **[[:es-419:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
+  * **[[:es-419:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
+  * **[[:es-419:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
+  * **[[:es-419:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+~~DISCUSSION~~{{tag>publish ktobs}}
