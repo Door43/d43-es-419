@@ -1,0 +1,44 @@
+====== Christ, Messiah (Cristo, Mesías) ======
+
+===== Facts: =====
+
+The term "Messiah" comes from a Hebrew word and is used in the Old Testament. The term "Christ" comes from a Greek word and is used in the New Testament. Both these words mean "Anointed One."
+
+  * Both "Messiah" and "Christ" refer to God's Son, whom God the Father appointed to rule as king over his people, and to save them from sin and death
+  * In the Old Testament, the prophets wrote prophecies about the Messiah hundreds of years before he came to earth.
+  * Jesus fulfilled many of these prophecies and did many miraculous works that proved he is the Messiah.
+  * Someday Jesus will come back and fulfill the rest of the prophecies about the Messiah.
+  * The word "Christ" is sometimes used as a title. as in, "the Christ" and "Christ Jesus."
+  * The word "Christ" is sometimes used as a name, as in "Jesus Christ."
+
+===== Translation Suggestions: =====
+
+  * This term could be translated using its meaning, "the Anointed One" or "God's Anointed Savior."
+  * Or a borrowed word that looks or sounds like "Christ" or "Messiah" could be used. (See: tA How to Translate Unknowns)
+  * The borrowed word could be followed by the definition of the term as in, "Christ, 'the Anointed One'.".
+  * Be consistent in how this is translated throughout the Bible so that it is clear that the same term is being referred to.
+
+(See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:kt:sonofgod]], [[:es-419:obe:other:david]], [[:es-419:obe:kt:jesus]], [[:En:obe:kt:anoint]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?christ&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:17-07|[17-07]]]** The **Messiah**  was God's Chosen One who would save the people of the world from sin.
+  * **[[:es-419:obs:notes:frames:17-08|[17-08]]]** As it happened, the Israelites would have to wait a long time before the **Messiah**  came, almost 1,000 years.
+  * **[[:es-419:obs:notes:frames:21-01|[21-01]]]** From the very beginning, God planned to send the **Messiah**.
+  * **[[:es-419:obs:notes:frames:21-04|[21-04]]]** God promised King David that the **Messiah**  would be one of David's own descendants.
+  * **[[:es-419:obs:notes:frames:21-05|[21-05]]]** The **Messiah**  would start the New Covenant.
+  * **[[:es-419:obs:notes:frames:21-06|[21-06]]]** God's prophets also said that the **Messiah**  would be a prophet, a priest, and a king.
+  * **[[:es-419:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the **Messiah**  would be born from a virgin.
+  * **[[:es-419:obs:notes:frames:43-07|[43-07]]]**"But God raised him to life again to fulfill the prophecy which says, 'You will not let your **Holy One**  rot in the grave.'"
+  * **[[:es-419:obs:notes:frames:43-09|[43-09]]]**"But know for certain that God has caused Jesus to become both Lord and **Messiah**!"
+  * **[[:es-419:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be baptized in the name of Jesus **Christ**  so that God will forgive your sins."
+  * **[[:es-419:obs:notes:frames:46-06|[46-06]]]** Saul reasoned with the Jews, proving that Jesus was the **Messiah**.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
