@@ -1,0 +1,30 @@
+====== judge, judgment (juez, juicio) ======
+
+===== Definition: =====
+
+The terms "judge" and "judgment" often refer to making a decision about whether something  is morally right or wrong.
+
+  * The "judgment of God" often refers to his decision to condemn something or someone as sinful.
+  * God's judgment usually includes punishing people for their sin.
+  * The term "judge" can also mean "condemn." God instructs his people not to judge each other in this way.
+  * Another meaning is "arbitrate between" or "judge between," as in deciding which person is right in a dispute between them.
+  * In some contexts, God's judgments are his decrees or judicial decisions. They are similar to his laws or his precepts.
+===== Translation Suggestions: =====
+
+  * Depending on the context, other ways to translate "to judge" could include, "to decide" or "to condemn" or "to punish" or "to decree."
+  * The term "judgment" could be translated as, "punishment" or "decision" or "verdict" or "decree" or "condemnation."
+
+(See also: [[:es-419:obe:kt:justice]], [[:es-419:obe:other:judgeposition]], [[:es-419:obe:other:law]], [[:es-419:obe:kt:LawofMoses]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?judge&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:19-16|[19-16]]]** The prophets warned the people that if they did not stop doing evil and start obeying God, then God would **judge**  them as guilty, and he would punish them.
+  * **[[:es-419:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a kingdom and **judges**  the people. The Messiah would come would be the perfect king who would sit on the throne of his ancestor David. He would reign over the whole world forever, and who would always **judge**  honestly and make the right decisions.
+  * **[[:es-419:obs:notes:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted to the other religious leaders, "We do not need any more witnesses! You have heard him say that he is the Son of God. What is your **judgment**?"
+  * **[[:es-419:obs:notes:frames:50-14|[50-14]]]** But God will **judge**  everyone who does not believe in Jesus. He will throw them into hell, where they will weep and grind their teeth in anguish forever.
+
+~~DISCUSSION~~{{tag>publish ktobs}}
