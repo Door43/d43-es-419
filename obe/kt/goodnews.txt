@@ -1,0 +1,34 @@
+====== good news, gospel (buenas nuevas, evangelio) ======
+
+===== Definition: =====
+
+The phrase, "good news" means a message or announcement that tells people something that benefits them and makes them glad.
+
+  * In the Bible, this term usually refers to the message about God's salvation for people through Jesus' sacrifice on the cross.
+  * In most English Bibles, "good news" is usually translated as "gospel" and is also used in phrases such as, the "gospel of Jesus Christ," the "gospel of God" and the "gospel of the kingdom."
+
+===== Translation Suggestions: =====
+
+  * Different ways to translate this term could include, "good message" or "good announcement" or "glad word" or "God's message of salvation" or "the good things God teaches about Jesus."
+  * Depending on the context, ways to translate the phrase, "good news of" could include, "good news/message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
+
+(See: [[:es-419:obe:kt:salvation]], [[:es-419:obe:other:sacrifice]], [[:es-419:obe:other:kingdom]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?goodnews&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:23-06|[23-06]]]** The angel said, "Do not be afraid, because I have some **good news**  for you. The Messiah, the Master, has been born in Bethlehem!"
+  * **[[:es-419:obs:notes:frames:26-03|[26-03]]]** Jesus read, "God has given me his Spirit so that I can proclaim **good news**  to the poor, freedom to captives, recovery of sight for the blind, and release to the oppressed. This is the year of the Lord's favor."
+  * **[[:es-419:obs:notes:frames:45-10|[45-10]]]** Philip also used other Scriptures to tell him the **good news of Jesus**.
+  * **[[:es-419:obs:notes:frames:46-10|[46-10]]]** Then they sent them off to preach the **good news about Jesus**  in many other places.
+  * **[[:es-419:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of Philippi to proclaim the **good news about Jesus**.
+  * **[[:es-419:obs:notes:frames:47-13|[47-13]]]** The **good news about Jesus**  kept spreading, and the Church kept growing.
+  * **[[:es-419:obs:notes:frames:50-01|[50-01]]]** For almost 2,000 years, more and more people around the world have been hearing the **good news about Jesus**  the Messiah.
+  * **[[:es-419:obs:notes:frames:50-02|[50-02]]]** When Jesus was living on earth he said, "My disciples will preach the **good news**  about the kingdom of God to people everywhere in the world, and then the end will come."
+  * **[[:es-419:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told Christians to proclaim the **good news**  to people who have never heard it.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
