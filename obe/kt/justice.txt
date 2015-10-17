@@ -1,0 +1,34 @@
+====== just, justice, justly (justo, justicia, justamente) ======
+
+===== Definition: =====
+
+Justice is the fair and right treatment of all people under the laws of God and country.
+
+  * To be "just" is to act in a fair and right way toward others. It also implies honesty and integrity to do what is morally right in God's eyes.
+  * To act "justly" means to treat people in a way that is right, good and proper according to God's laws.
+  * To receive justice means to be treated fairly under the law, either being protected by law or receiving due punishment for breaking the law.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, other ways to translate "just" could include, "morally right" or "fair."
+  * The term "justice" could be translated as, "fair treatment" or "deserved consequences"
+  * To act justly could be translated as, "treat (someone) fairly."
+
+(See also: [[:es-419:obe:kt:judge|judge, judgment]])
+
+===== Bible References:  =====
+
+{{topic>:en:bible?justice&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:17-09|[17-09]]]** David ruled with **justice**  and faithfulness for many years, and God blessed him.
+
+  * **[[:es-419:obs:notes:frames:18-13|[18-13]]]** Some of these kings (of Judah) were good men who ruled **justly**  and worshiped God.
+
+  * **[[:es-419:obs:notes:frames:19-16|[19-16]]]** They (the prophets) all told the people to stop worshiping idols and to start showing **justice**  and mercy to others.
+
+  * **[[:es-419:obs:notes:frames:50-17|[50-17]]]** Jesus will rule his kingdom with peace and **justice**, and he will be with his people forever.
+
+~~DISCUSSION~~{{tag>publish ktobs}}
