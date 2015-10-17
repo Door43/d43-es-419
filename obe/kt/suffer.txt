@@ -1,0 +1,31 @@
+====== suffer, suffering (sufrimiento, sufrir) ======
+
+===== Definition: =====
+
+The term "suffer" and "suffering" refer to experiencing something very unpleasant, such as illness, pain, or other hardships.
+
+  * When people are persecuted or when they are sick, they suffer.
+  * A person can suffer because of his own wrong behavior or because of things that happen outside of his control.
+  * Suffering can be physical, such as feeling pain or sickness. It can also be emotional such as feeling fear, sadness, or loneliness.
+
+===== Translation Suggestions: =====
+
+  * The term "suffer" can be translated as "feel pain" or "endure difficulty" or "experience hardships" or "go through difficult circumstances."
+  * Depending on the context, "suffering" could be translated as "extremely difficult circumstances" or "severe hardships" or "experiencing hardship" or "time of painful experiences."
+
+===== Bible References: =====
+
+{{topic>:en:bible?suffer&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:09-13|[09-13]]]** God said, "I have seen the **suffering**  of my people."
+  * **[[:es-419:obs:notes:frames:38-12|[38-12]]]** Jesus prayed three times, "My Father, if it is possible, please let me not have to drink this cup of **suffering**."
+  * **[[:es-419:obs:notes:frames:42-03|[42-03]]]** He (Jesus) reminded them that the prophets said the Messiah would **suffer**  and be killed, but would rise again on the third day.
+  * **[[:es-419:obs:notes:frames:42-07|[42-07]]]** He (Jesus) said, "It was written long ago that the Messiah would **suffer**, die, and rise from the dead on the third day."
+  * **[[:es-419:obs:notes:frames:44-05|[44-05]]]**"Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would **suffer**  and die."
+  * **[[:es-419:obs:notes:frames:46-04|[46-04]]]** God said, "I have chosen him (Saul) to declare my name to the unsaved. I will show him how much he must **suffer**  for my sake."
+  * **[[:es-419:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more **suffering**, sadness, crying, evil, pain, or death.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
