@@ -12,6 +12,12 @@ Algún tiempo después, los hombres sabios de los países hacia el este vieron u
   * **[[:es-419:obs:notes:key-terms:king-of-jews|king of the Jews]] rey de los judíos**
   * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]] Belén**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]] Jesús**
+   
+  * **[[es-419:obe:kt:wise]]**
+  * **[[es-419:obe:kt:kingofthejews]]**
+  * **[[es-419:obe:other:bethlehem]]**
+  * **[[es-419:obe:kt:jesus]]**
+
 
 ===== Translation Notes: =====
 
