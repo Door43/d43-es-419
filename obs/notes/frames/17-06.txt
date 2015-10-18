@@ -1,33 +1,31 @@
-===== David Wanted to Build a Temple / David quería construir un templo [17-06] =====
+===== David Wanted to Build a Temple / David Quería Construir un Templo [17-06]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink&}}
 
 **David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
 
-**David** quería construir un **templo** en el que todos los **israelitas** podían **adorar ** a **Dios** y ofrecerle **sacrificios.** Por cerca de 400 años, la gente había estado** adorando a Dios** y ofrecer** sacrificios** a él en el **tabernáculo de reunión** que **Moisés** había construido.
+**David** quería construir un **templo** donde todos los **Israelitas** podían **adorar ** a **Dios** y ofrecerle **sacrificios a él.** Por alrededor de 400 años, la gente había estado** adorando a Dios** y ofreciendo** sacrificios** a él en **la Carpa de Reunión** que **Moisés** había construido.
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:david|David]] David**
-  * **[[:es-419:obs:notes:key-terms:temple|temple]] templo**
-  * **[[:es-419:obs:notes:key-terms:israel|Israelites]] israelitas**
-  * **[[:es-419:obs:notes:key-terms:worship|worship]] adoración/adorar**
-  * **[[:es-419:obs:notes:key-terms:god|God]] Dios**
-  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]] sacrificios**
-  * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] Tienda-de-Reunión/Carpa-de-Reunión**
-  * **[[:es-419:obs:notes:key-terms:moses|Moses]] Moisés**
+  * **[[:es-419:obs:notes:key-terms:david|David]]( David)**
+  * **[[:es-419:obs:notes:key-terms:temple|temple]]( templo)**
+  * **[[:es-419:obs:notes:key-terms:israel|Israelites (Israelitas)]]**
+  * **[[:es-419:obs:notes:key-terms:worship|worship]]( adoración/adorar)**
+  * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
+  * **[[:es-419:obs:notes:key-terms:sacrifice|sacrifices]] (sacrificios)**
+  * **[[:es-419:obs:notes:key-terms:tent-of-meeting|Tent of Meeting]] (Carpa-de-Reunión)**
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:david]]**
-  * **[[:es-419:obe:kt:temple]]**
-  * **[[:es-419:obe:other:israel]]**
-  * **[[:es-419:obe:kt:worship]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:sacrifice]]**
-  * **[[:es-419:obe:other:tentofmeeting]]**
-  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:other:david|David]]**
+  * **[[:es-419:obe:kt:temple|temple]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:es-419:obe:other:tentofmeeting|Tent of Meeting]]**
+  * **[[:es-419:obe:other:moses|Moses]]**
 ==== Translation Notes: ====
 
   * **build a temple**  - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-  * **construir un templo** - David queria construir un edificio permanente para adorar a Dios que replacaria el tabernáculo de reunión portable. 
+  * **construir un templo**  - David quería construir un edificio permanente para adorar a Dios que reemplazaría la carpa de reunión portable.
 **[[:es-419:obs:notes:frames:17-05|<<]] | [[:es-419:obs:notes:17|Up]] | [[:es-419:obs:notes:frames:17-07|>>]]**
