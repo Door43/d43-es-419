@@ -16,14 +16,16 @@ Dios le dijo a Juan: “El Espíritu Santo vendrá y descansará en alguien que 
   * **[[:es-419:obs:notes:key-terms:god-father|God the Father]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:god-son|Son]]**
-  * **[[:es-419:obe:kt:god|God]] Dios**
-  * **[[:es-419:obe:other:johnthebaptist|John]] Juan**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]] Espíritu Santo**
-  * **[[:es-419:obe:kt:baptize|baptize]] bautizar**
-  * **[[:es-419:obe:kt:sonofgod|Son of God]] Hijo de Dios**
-  * **[[:es-419:obe:kt:godthefather|God the Father]] Dios el Padre**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:sonofgod|Son]] Hijo**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:god]] **
+  * **[[:es-419:obe:other:johnthebaptist]] **
+  * **[[:es-419:obe:kt:holyspirit]] **
+  * **[[:es-419:obe:kt:baptize]] **
+  * **[[:es-419:obe:kt:sonofgod]] **
+  * **[[:es-419:obe:kt:godthefather]] **
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sonofgod]] **
 
 ===== Translation Notes: =====
 
