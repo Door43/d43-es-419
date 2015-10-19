@@ -1,0 +1,32 @@
+====== innocent (inocente) ======
+
+===== Definition: =====
+
+The term "innocent" means to not be guilty of a crime or other wrongdoing that a person is accused of.
+
+  * A person accused of doing something wrong is innocent if he has not committed that wrong.
+  * Jesus is the only human being who was completely innocent, because he never did anything wrong. He was sinless.
+  * The apostle Paul uses "innocent" as a way of calling people simple, inexperienced, and naive.
+  * The term "innocent" is also used to refer generally to not being involved in evil things.
+
+===== Translation Suggestions: =====
+
+  * The term "innocent" could also be translated as "not guilty" or "having done nothing wrong."
+  * If possible, it is best to translate "sinless" and "innocent" differently.
+  * The frequently occurring idiom, "innocent blood" could be translated as, "people who did nothing wrong to deserve being killed."
+  * Depending on the context, other ways to translate "innocent" could include, "naive" or "pure" or "unsuspecting of evil" or "not mixed up in evil."
+
+(See also: [[:es-419:obe:kt:guilt|guilt, guilty]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?innocent&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
+  * **[[:es-419:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, "Do you have no fear of God? We are guilty, but this man is **innocent**."
+  * **[[:es-419:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, "Certainly, this man was **innocent**. He was the Son of God."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
