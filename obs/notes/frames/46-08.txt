@@ -16,13 +16,14 @@ Saulo fue a Jerusalen para conocer a los dsicípulos, pero ellos tenían miedo d
   * **[[:es-419:obs:notes:key-terms:apostle|apostles]]**
   * **[[:es-419:obs:notes:key-terms:preach|preached]]**
 
-  * **[[:es-419:obe:other:paul|Saul]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:disciple|disciples]]**
-  * **[[:es-419:obe:kt:believer|believers]]**
-  * **[[:es-419:obe:other:barnabas|Barnabas]]**
-  * **[[:es-419:obe:kt:apostle|apostles]]**
-  * **[[:es-419:obe:other:preach|preached]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:believer]]**
+  * **[[:es-419:obe:other:barnabas]]**
+  * **[[:es-419:obe:kt:apostle]]**
+  * **[[:es-419:obe:other:preach]]**
   
 ===== Translation Notes: =====
 
