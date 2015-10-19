@@ -1,0 +1,35 @@
+====== temple (templo) ======
+
+===== Facts: =====
+
+The temple was a building surrounded by walled courtyards where the Israelites came to pray and to offer sacrifices to God. It was located on Mount Moriah in the city of Jerusalem.
+
+  * Often the term "temple" refers to the whole temple complex, including the courtyards that surrounded the main building. Sometimes it refers only to the building.
+  * The temple building had two rooms, the Holy Place and the Most Holy Place.
+  * God referred to the temple as his dwelling place.
+  * In the New Testament, the term "temple of the Holy Spirit" is used to refer to believers in Jesus, because the Holy Spirit lives in them.
+
+===== Translation Suggestions: =====
+
+  * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
+  * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
+  * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
+  * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
+
+(See also: [[:es-419:obe:other:sacrifice]], [[:es-419:obe:other:solomon]], [[:es-419:obe:other:babylon]], [[:es-419:obe:kt:holyspirit]], [[:es-419:obe:kt:tabernacle]], [[:es-419:obe:other:courtyard]] [[:es-419:obe:other:zion]] [[:es-419:obe:other:house]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?temple&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:17-06|[17-06]]]** David wanted to build a **temple**  where all the Israelites could worship God and offer him sacrifices.
+  * **[[:es-419:obs:notes:frames:18-02|[18-02]]]** In Jerusalem, Solomon built the **Temple**  for which his father David had planned and gathered materials. Instead of at the Tent of Meeting, people now worshiped God and offered sacrifices to him at the **Temple**. God came and was present in the **Temple**, and he lived there with his people.
+  * **[[:es-419:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of Jerusalem, destroyed the **Temple**, and took away all the treasures.
+  * **[[:es-419:obs:notes:frames:20-13|[20-13]]]** When the people arrived in Jerusalem, they rebuilt the **Temple**  and the wall around the city of the city and the **Temple**.
+  * **[[:es-419:obs:notes:frames:25-04|[25-04]]]** Then Satan took Jesus to the highest point on the **Temple**  and said, "If you are the Son of God, throw yourself down, for it is written, 'God will command his angels to carry you so your foot does not hit a stone.'"
+  * **[[:es-419:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple**  was torn in two, from the top to the bottom.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
