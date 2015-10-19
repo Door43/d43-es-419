@@ -12,10 +12,12 @@ Entonces, Jesús dijo: “Es cierto que ningún profeta es bien recibido en su c
   * **[[:es-419:obs:notes:key-terms:word-of-god|scripture]]**
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
   * **[[:es-419:obs:notes:key-terms:joseph-nt|Joseph]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:wordofgod|scripture]] escritura**
-  * **[[:es-419:obe:kt:christ|Messiah]] Mesías**
-  * **[[:es-419:obe:other:josephnt|Joseph]] José**
+ 
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:wordofgod]] **
+  * **[[:es-419:obe:kt:christ]] **
+  * **[[:es-419:obe:other:josephnt]] **
 
 ===== Translation Notes: =====
 
