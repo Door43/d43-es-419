@@ -1,0 +1,32 @@
+====== cross (cruz) ======
+
+===== Definition: =====
+
+A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam attached to it near the top.
+
+  * During the time of the Roman Empire, the Roman government would execute criminals by tying or nailing them to a cross and leaving them there to die.
+  * Jesus was falsely accused of crimes he did not commit and the Romans put him to death on a cross.
+  * Note that this is a completely different word from the verb "to cross (a river)" or "to cross over."
+
+===== Translation Suggestions: =====
+
+  * This term could be translated using a term in the target language that refers to the shape of a cross.
+  * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:es-419:obe:kt:crucify|crucify]], [[:es-419:obe:other:rome|Rome, Roman]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?cross&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:40-01|[40-01]]]** After the soldiers mocked Jesus, they led him away to crucify him. They made him carry the **cross**  on which he would die.
+  * **[[:es-419:obs:notes:frames:40-02|[40-02]]]** The soldiers brought Jesus to a place called "the Skull" and nailed his arms and feet to the **cross**.
+  * **[[:es-419:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, "If you are the Son of God, come down from the **cross**  and save yourself! Then we will believe you."
+  * **[[:es-419:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the **cross**, he received your punishment.
+  * **[[:es-419:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the **cross**  instead of you, and that God raised him to life again.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
