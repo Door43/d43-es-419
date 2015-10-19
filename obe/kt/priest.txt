@@ -1,0 +1,38 @@
+====== priest, priesthood (sacerdote, sacerdicio) ======
+
+===== Definition: =====
+
+In the Bible, a priest was someone who was chosen to pray and offer sacrifices to God on behalf of God's people.
+
+  * In the Old Testament, God chose Aaron and his descendants to be his priests for the people of Israel.
+  * The Israelite priests had the responsibility of offering the people's sacrifices to God, along with other duties in the temple.
+  * Priests also offered regular prayers to God on behalf of his people and performed other religious rites.
+  * The priests pronounced formal blessings on people and taught them God's laws.
+  * In Jesus' time, there were different levels of priests, including the chief priests and the high priest.
+  * Jesus is our Great High Priest who intercedes for us in God's presence. He offered himself as the ultimate sacrifice for sin. This means that the sacrifices made by human priests are no longer needed.
+  * God also calls every believer in Jesus a "priest" who can come directly to God in prayer to intercede for himself and other people.
+  * In Bible times, there were also priests who presented offerings to false gods such as Baal.
+
+===== Translation Suggestions: =====
+
+  * The term "priest" could be translated as "sacrifice person (for God)" or "God's intermediary" or "sacrificial mediator" or "person God appoints to represent him".
+  * The translation of "priest" should be different from the translation of "mediator."
+  * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
+  * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
+
+(See also: [[en:obe:other:aaron]], [[en:obe:other:sacrifice]], [[en:obe:other:chiefpriests]], [[:es-419:obe:kt:highpriest]], [[:es-419:obe:other:mediator]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?priest&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High"
+  ***[[:es-419:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person's sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron's descendants to be his **priests**.
+  ***[[:es-419:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
+  ***[[:es-419:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
+
+~~DISCUSSION~~{{tag>publish ktobs}}
