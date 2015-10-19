@@ -13,10 +13,11 @@ Cuando Felipe se acercó al carruaje, él oyó al Etíope leyendo de lo que el p
   * **[[:es-419:obs:notes:key-terms:lamb|lamb]]**
   * **[[:es-419:obs:notes:key-terms:life|life]]**
 
-  * **[[:es-419:obe:other:chariot|chariot]]**
-  * **[[:es-419:obe:other:isaiah|prophet Isaiah]]**
-  * **[[:es-419:obe:kt:lamb|lamb]]**
-  * **[[:es-419:obe:kt:life|life]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:chariot]]**
+  * **[[:es-419:obe:other:isaiah]]**
+  * **[[:es-419:obe:kt:lamb]]**
+  * **[[:es-419:obe:kt:life]]**
  
   
   
