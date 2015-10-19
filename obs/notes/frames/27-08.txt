@@ -10,8 +10,9 @@
 
   * **[[:es-419:obs:notes:key-terms:samaria|Samaritan]]**
   * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
-  * **[[:es-419:obe:other:samaria|Samaritan]] samaritano**
-  * **[[:es-419:obe:other:jew|Jews]] judíos**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:other:samaria]] **
+  * **[[:es-419:obe:other:jew]] **
 
 ===== Translation Notes: =====
 
