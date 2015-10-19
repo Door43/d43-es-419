@@ -1,0 +1,36 @@
+====== inherit, inheritance ( heredar, herencia) ======
+
+===== Definition: =====
+
+To inherit means to receive something valuable from a parent or other person, because of a special relationship with that person. The inheritance that is received may be money, land or other kinds of property. 
+
+  * God promised to Abraham and his descendants that they would inherit the land of Canaan, that it would belong to them forever.
+  * There is also a figurative or spiritual sense in which people who belong to God are said to "inherit the land." This means that they will prosper and be blessed by God in both physical and spiritual ways.
+  * In the New Testament, God promises that those who trust in Jesus will "inherit salvation" and "inherit eternal life." It is also expressed as, "inherit the kingdom of God." This is a spiritual inheritance that lasts forever.
+  * There are other figurative meanings for these terms:
+      * The Bible says that wise people will "inherit glory" and righteous people will "inherit good things."
+      * To "inherit the promises" means to receive the good things that God has promised to give his people.
+      * This term is also used in a negative sense to refer to foolish or disobedient people who "inherit the wind" or "inherit folly." This means they receive the consequences of their sinful actions, including punishment and worthless living.
+
+
+===== Translation Suggestions: =====
+
+  * As always, consider first whether there are already terms in the target language for the concept of an heir or an inheritance and use those terms.
+  * Depending on the context, other ways that the term "inherit" could be translated might include, "receive" or "possess" or "come to possess" or "come into possession of."
+  * Ways to translate "inheritance" could include, "promised gift" or "secure possession" (from God).
+  * The term "heir" could be translated with a word or phrase that means, "privileged child who receives the father's possessions" or "person chosen to receive (God's) spiritual possessions or blessings."
+
+(See also: [[:es-419:obe:other:heir]], [[:es-419:obe:other:canaan|Canaan, Canaanite]], [[:es-419:obe:kt:promisedland|Promised Land]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?inherit&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
+  * **[[:es-419:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit**  eternal life?"
+  * **[[:es-419:obs:notes:frames:35-03|[35-03]]]**"There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance**  now!' So the father divided his property between the two sons."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
