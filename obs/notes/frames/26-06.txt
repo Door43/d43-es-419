@@ -14,12 +14,14 @@ Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había muc
   * **[[:es-419:obs:notes:key-terms:heal|heal]]**
   * **[[:es-419:obs:notes:key-terms:naaman|Naaman]]**
   * **[[:es-419:obs:notes:key-terms:jew|Jews]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:prophet|prophet]] profeta**
-  * **[[:es-419:obe:other:israel|Israel]] Israel**
-  * **[[:es-419:obe:other:heal|heal]] sanar/curar**
-  * **[[:es-419:obe:other:naaman|Naaman]] Naaman**
-  * **[[:es-419:obe:other:jew|Jews]] judíos**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:israel]] **
+  * **[[:es-419:obe:other:heal]] **
+  * **[[:es-419:obe:other:naaman]] **
+  * **[[:es-419:obe:other:jew]] **
 
 ===== Translation Notes: =====
 
