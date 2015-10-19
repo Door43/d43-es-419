@@ -1,0 +1,37 @@
+====== blood (sangre) ======
+
+===== Definition: =====
+
+The term "blood" refers to the red liquid that comes out of a person's skin when there is an injury or wound. Blood brings life-giving nutrients to a person's entire body.
+
+  * Blood symbolizes life and when it is shed or poured out, it symbolizes the loss of life, or death.
+  * When people made sacrifices to God, they killed an animal and poured its blood on the altar. This symbolized the sacrifice of the animal's life to pay for people's sins.
+  * Through his death on the cross, Jesus' blood symbolically cleanses people from their sins and pays for the punishment they deserve for those sins.
+  * The phrase "flesh and blood" is an idiom that refers to human beings.
+  * The idiom "own flesh and blood" refers to people who are biologically related.
+
+===== Translation Suggestions: =====
+
+  * This term should be translated with the term that is used for blood in the target language
+  * The idiom "flesh and blood" could be translated as "people" or "human beings."
+  * Depending on the context, the idiom "my own flesh and blood" could be translated as "my own family" or "my own relatives" or "my own people."
+  * If there is an idiom in the target language that is used with this meaning, that idiom could be used to translate "flesh and blood."
+
+(See: [[:es-419:obe:kt:flesh|flesh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?blood&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
+  * **[[:es-419:obs:notes:frames:10-03|[10-03]]]** God turned the Nile River into **blood**, but Pharaoh still would not let the Israelites go.
+  * **[[:es-419:obs:notes:frames:11-05|[11-05]]]** All the houses of the Israelites had **blood**  around the doors, so God passed over those houses and everyone inside was safe. They were saved because of the lamb's **blood**.
+  * **[[:es-419:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
+  * **[[:es-419:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
+  * **[[:es-419:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
