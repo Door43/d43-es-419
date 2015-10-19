@@ -15,12 +15,13 @@ El carcelero y su familia creyeron en Jesús y fueron bautizados. Entyonces, el 
   * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
   * **[[:es-419:obs:notes:key-terms:joy|rejoiced]]**
 
-  * **[[:es-419:obe:kt:believe|believed]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:other:paul|Paul]]**
-  * **[[:es-419:obe:other:silas|Silas]]**
-  * **[[:es-419:obe:kt:joy|rejoiced]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:silas]]**
+  * **[[:es-419:obe:kt:joy]]**
  
 ===== Translation Notes: =====
 
