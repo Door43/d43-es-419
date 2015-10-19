@@ -1,0 +1,22 @@
+====== Holy One (El Santo) ======
+
+===== Definition: =====
+
+The term "Holy One" is a title in the Bible that almost always refers to God.
+
+  * In the Old Testament, this title often occurs in the phrase "Holy One of Israel."
+  * In the New Testament, Jesus is also referred to as the "Holy One."
+  * The term "holy one" is sometimes used in the Bible to refer to an angel.
+
+===== Translation Suggestions: =====
+
+  * The literal term is, "the Holy" (with "One" being implied.) Many languages (like English) will translate this with the implied noun included (such as "One" or "God").
+  * This term could also be translated as, "God, who is holy" or "the Set Apart One."
+  * The phrase, "the Holy One of Israel" could be translated as, "the Holy God whom Israel worships" or "Holy One who rules Israel."
+  * It is best to translate this term using the same word or phrase that is used to translate "holy."
+
+(See also: [[:es-419:obe:kt:holy]], [[:es-419:obe:kt:God]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?holyone&nocomments}}~~DISCUSSION~~{{tag>publish}}
