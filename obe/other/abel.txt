@@ -1,0 +1,24 @@
+====== Abel (Abel) ======
+
+===== Facts: =====
+
+Abel was Adam and Eve' second son.
+
+Abel era el segundo hijo de Adán y Eva.
+
+  * Abel was a shepherd.
+  * Abel era un pastor.
+  * Abel pleased God with his life and offerings.
+  * Abel agradaba a Dios con su vida y ofrendas.
+  * Adam and Eve's firstborn son Cain, murdered, Abel.
+  * El primer hijo de Adán y Eva, Caín, mató a Abel.
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:es-419:obe:other:adam|Adam (Adán)]], [[:es-419:obe:other:eve|Eve (Eva)]], [[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?abel&nocomments}}~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
