@@ -12,7 +12,7 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:servant|servant]]**
+  * **[[:es-419:obe:other:servant]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
