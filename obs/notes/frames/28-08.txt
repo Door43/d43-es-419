@@ -11,9 +11,10 @@ Jesús miró a los discípulos y les dijo: “Con la gente esto es imposible, m�
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:disciple|disciples]] discípulos**
-  * **[[:es-419:obe:kt:god|God]] Dios**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]] **
+  * **[[:es-419:obe:kt:god]]**
 
 ===== Translation Notes: =====
 
