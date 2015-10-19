@@ -11,9 +11,11 @@ La gente de Nazaret arrastró a Jesús fuera del lugar de culto y lo llevó al b
   * **[[:es-419:obs:notes:key-terms:nazareth|Nazareth]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
-  * **[[:es-419:obe:other:nazareth|Nazareth]] Nazaret**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:worship|worship]] adorar/alabar**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:nazareth]] **
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:worship]] **
 
 ===== Translation Notes: =====
 
