@@ -16,14 +16,16 @@ Algunos creyentes que huyeron de la persecución en Jerusalen se fueron lejos ha
   * **[[:es-419:obs:notes:key-terms:paul|Saul]]**
   * **[[:es-419:obs:notes:key-terms:church|church]]**
   * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
-  * **[[:es-419:obe:other:persecute|persecution]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:jew|Jews]]**
-  * **[[:es-419:obe:other:barnabas|Barnabas]]**
-  * **[[:es-419:obe:other:paul|Saul]]**
-  * **[[:es-419:obe:kt:church|church]]**
-  * **[[:es-419:obe:kt:christian|Christians]]**
+ 
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:persecute]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:barnabas]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:church]]**
+  * **[[:es-419:obe:kt:christian]]**
 
 ===== Translation Notes: =====
 
