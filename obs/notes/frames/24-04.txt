@@ -13,11 +13,13 @@ Juan dijo a los líderes religiosos, “¡Ustedes son serpientes venenosas! Arre
   * **[[:es-419:obs:notes:key-terms:repent|Repent]]**
   * **[[:es-419:obs:notes:key-terms:fulfill|fulfilled]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophets]]**
-  * **[[:es-419:obe:other:johnthebaptist|John]] Juan**
-  * **[[:es-419:obe:other:jewishleaders|religious leaders]] líderes religiosos**
-  * **[[:es-419:obe:kt:repent|Repent]] arrepentirse**
-  * **[[:es-419:obe:kt:fulfill|fulfilled]] cumplido**
-  * **[[:es-419:obe:kt:prophet|prophets]] profetas**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:johnthebaptist]] **
+  * **[[:es-419:obe:other:jewishleaders]] **
+  * **[[:es-419:obe:kt:repent]] **
+  * **[[:es-419:obe:kt:fulfill]] **
+  * **[[:es-419:obe:kt:prophet]] **
 
 ===== Translation Notes: =====
 
