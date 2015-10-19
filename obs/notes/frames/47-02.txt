@@ -15,12 +15,13 @@ Dios abrió el corazón de Lídia para que creyera el mensaje acerca de Jesús, 
   * **[[:es-419:obs:notes:key-terms:paul|Paul]]**
   * **[[:es-419:obs:notes:key-terms:silas|Silas]]**
 
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:kt:believe|believe]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:baptize|baptized]]**
-  * **[[:es-419:obe:other:paul|Paul]]**
-  * **[[:es-419:obe:other:silas|Silas]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:silas]]**
  
 ===== Translation Notes: =====
 
