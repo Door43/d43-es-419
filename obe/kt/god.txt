@@ -1,12 +1,17 @@
-====== God   Dios ======
+====== God (Dios) ======
 
-===== Facts: =====
+===== Facts:  Puntos: =====
 
-In the Bible, the term "God" refers to the eternal being named "Yahweh," who created the universe out of nothing. Yahwehexists as Father, Son, and Holy Spirit.    .
+In the Bible, the term "God" refers to the eternal being named "Yahweh," who created the universe out of nothing. Yahwehexists as Father, Son, and Holy Spirit. .
+
+En la Biblia, Los terminos " Dios" se refiere hacia la eternidad que es nombrado " Yahweh" quien creo el universo de la nada. Yahwehexists como Padre, Hijo,Y el Espiritu Santo.
 
   * God has always existed – he existed before anything else existed, and he will continue to exist forever.
+  * Dios siempre a existido- El ha existido antes cualquier cosa a existido, y el siempre va continuar existiendo siempre.
   * He is the only true God and has authority over everything in the universe
+  * El es el unico Dios verdadero y tiene authoridad sobre todo en el universo.
   * God is perfectly righteous, infinitely wise, holy, sinless, just, merciful, and loving.
+  * Dios es perfectamente correcto, infinitamente con Sabiduria, poderoso,
   * He is a covenant-keeping God, who always fulfills his promises.
   * People were created to worship God and he is the only one they should worship.
   * God revealed his name as "Yahweh" which means, "he is" or "I am" or "the One who (always) exists."
@@ -20,7 +25,7 @@ In the Bible, the term "God" refers to the eternal being named "Yahweh," who cre
   * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
   * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:es-419:obe:kt:yahweh|Yahweh]], [[:es-419:obe:kt:godthefather|God the Father, Heavenly Father]], [[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:es-419:obe:kt:sonofgod|Son of God, the Son]], [[:es-419:obe:kt:falsegod|false god, god]], [[:es-419:obe:other:creation|create, creation, Creator]], [[:es-419:obe:other:idol|idol]])
 
