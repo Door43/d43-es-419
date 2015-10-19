@@ -14,12 +14,14 @@ Al día siguiente, Jesús vino para ser bautizado por Juan. Cuando Juan lo vio, 
   * **[[:es-419:obs:notes:key-terms:lamb|Lamb]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
   * **[[:es-419:obs:notes:key-terms:sin|sin]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:baptize|baptized]] bautizado**
-  * **[[:es-419:obe:other:johnthebaptist|John]] Juan**
-  * **[[:es-419:obe:kt:lamb|Lamb]] Cordero**
-  * **[[:es-419:obe:kt:god|God]] Dios**
-  * **[[:es-419:obe:kt:sin|sin]] pecado**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:baptize]] **
+  * **[[:es-419:obe:other:johnthebaptist]] **
+  * **[[:es-419:obe:kt:lamb]] **
+  * **[[:es-419:obe:kt:god]] **
+  * **[[:es-419:obe:kt:sin]] **
 
 ===== Translation Notes: =====
 
