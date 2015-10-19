@@ -12,10 +12,11 @@
   * **[[:es-419:obs:notes:key-terms:rebel|rebelled]] (rebeló)**
   * **[[:es-419:obs:notes:key-terms:god|God]] (Dios)**
   * **[[:es-419:obs:notes:key-terms:sin|sin]] (pecado)**
-  * **[[:es-419:obs:notes:key-terms:idol|idols]] (ídolo)**
+  * **[[:es-419:obs:notes:key-terms:idol|idols]] (ídolos)**
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adoración)**
   * **[[:es-419:obs:notes:key-terms:temple|Temple]] (Templo)**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]]( reino de Judá)**
+  * **[[:es-419:obs:notes:key-terms:kingdom-of-judah|kingdom of Judah]] (reino de Judá)**
+
 ===== Términos Importantes =====
 
   * **[[:es-419:obe:other:jeroboam|Jeroboam]]**
