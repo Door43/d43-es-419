@@ -15,12 +15,13 @@ Uno de los líderes en la Iglesia primitiva era un hombre que se llamaba Esteban
   * **[[:es-419:obs:notes:key-terms:believe|believe]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:kt:church|church]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
-  * **[[:es-419:obe:kt:wise|wisdom]]**
-  * **[[:es-419:obe:kt:miracle|miracle]]**
-  * **[[:es-419:obe:kt:believe|believe]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:church]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:wise]]**
+  * **[[:es-419:obe:kt:miracle]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:jesus]]**
  
 ===== Translation Notes: =====
 
