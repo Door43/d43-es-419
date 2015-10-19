@@ -12,10 +12,11 @@ Jesús respondió al experto de la ley por contar una historia. “Había un hom
   * **[[:es-419:obs:notes:key-terms:jew|Jewish]]**
   * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]]**
   * **[[:es-419:obs:notes:key-terms:jericho|Jericho]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] ****Jesús**
-  * **[[:es-419:obe:other:jew|Jewish]] judío**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]] Jerusalén**
-  * **[[:es-419:obe:other:jericho|Jericho]] Jericó**
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]] **
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:other:jericho]]**
 
 ===== Translation Notes: =====
 
