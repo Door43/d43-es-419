@@ -20,16 +20,17 @@ El sumo sacerdote preguntó a Esteban, “¿Son estas cosas la verdad?” Esteba
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
 
 
-  * **[[:es-419:obe:kt:highpriest|high priest]]**
-  * **[[:es-419:obe:kt:true|true]]**
-  * **[[:es-419:obe:kt:god|God]]**
-  * **[[:es-419:obe:other:abraham|Abraham]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:other:disobey|disobeyed]]**
-  * **[[:es-419:obe:other:rebel|rebellious]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit]]**
-  * **[[:es-419:obe:kt:prophet|prophets]]**
-  * **[[:es-419:obe:kt:christ|Messiah]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:true]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:disobey]]**
+  * **[[:es-419:obe:other:rebel]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
   
 ===== Translation Notes: =====
 
