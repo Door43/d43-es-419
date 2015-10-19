@@ -16,13 +16,14 @@ Pablo y los otros líderes Cristianos viajaban a muchas ciudades, predicando y e
   * **[[:es-419:obs:notes:key-terms:believer|believers]]**
   * **[[:es-419:obs:notes:key-terms:church|churches]]**
 
-  * **[[:es-419:obe:other:paul|Paul]]**
-  * **[[:es-419:obe:kt:christian|Christian]]**
-  * **[[:es-419:obe:other:preach|preaching]]**
-  * **[[:es-419:obe:kt:goodnews|good news]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:believer|believers]]**
-  * **[[:es-419:obe:kt:church|churches]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:christian]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:goodnews]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:believer]]**
+  * **[[:es-419:obe:kt:church]]**
   
 ===== Translation Notes: =====
 
