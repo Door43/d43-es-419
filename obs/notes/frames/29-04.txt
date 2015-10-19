@@ -13,8 +13,8 @@
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:servant|servant]]**
-  * **[[:es-419:obe:other:king|king]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:king]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
