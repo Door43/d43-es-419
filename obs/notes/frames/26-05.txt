@@ -14,12 +14,14 @@ Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había muc
   * **[[:es-419:obs:notes:key-terms:elijah|Elijah]]**
   * **[[:es-419:obs:notes:key-terms:israel|Israel]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:true|true]] cierto/verdadero**
-  * **[[:es-419:obe:kt:prophet|prophet]] profeta**
-  * **[[:es-419:obe:other:elijah|Elijah]] Elías**
-  * **[[:es-419:obe:other:israel|Israel]] Israel**
-  * **[[:es-419:obe:kt:god|God]] Dios**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:true]] **
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:elijah]] **
+  * **[[:es-419:obe:other:israel]] **
+  * **[[:es-419:obe:kt:god]] **
 
 ===== Translation Notes: =====
 
