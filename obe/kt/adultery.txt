@@ -1,0 +1,29 @@
+====== adultery, adulterer (adulterio, adúltero) ======
+
+===== Definition: =====
+
+Adultery is when a married person has sexual relations with someone who is not his spouse. An adulterer is a person who sins by committing adultery.
+
+  * God commanded the Israelites to not commit adultery.
+  * The marriage relationship is the only context in which God approves sexual relations.
+  * Adultery breaks the promises that a husband and wife made to each other in their covenant of marriage.
+
+===== Translation Suggestions: =====
+
+  * If the target language does not have one word that means "adultery," this term could be translated with a phrase such as, "having sexual relations with someone else's wife."
+  * Some languages may have an indirect way of talking about adultery, such as "sleeping with someone else's spouse" or "being unfaithful to one's wife." (See: [[en:ta:vol2:translate:figs_euphemism|euphemism]])
+
+(See also: [[:es-419:obe:kt:fornication|fornication, sexual immorality]], [[:es-419:obe:kt:covenant|covenant]], [[:es-419:obe:kt:know|have relations with, sleep with]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?adultery&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:13-06|[13-06]]]**"Do not commit **adultery**."
+  * **[[:es-419:obs:notes:frames:28-02|[28-02]]]** Do not commit **adultery**.
+  * **[[:es-419:obs:notes:frames:34-07|[34-07]]]**"The religious leader prayed like this, 'Thank you, God, that I am not a sinner like other men—such as robbers, unjust men, **adulterers**, or even like that tax collector.'"
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
