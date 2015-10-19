@@ -16,11 +16,11 @@ Un día, Pedro le preguntó a Jesús: “Maestro, ¿cuántas veces debo perdonar
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other:peter|Peter]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:lord|Master]]**
-  * **[[:es-419:obe:kt:forgive|forgive]]**
-  * **[[:es-419:obe:kt:sin|sins]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
