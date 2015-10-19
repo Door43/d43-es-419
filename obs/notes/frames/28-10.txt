@@ -13,8 +13,8 @@ Respondió Jesús: “Todo aquel que haya dejado casas, hermanos, hermanas, padr
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:eternity|eternal life]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:eternity]]**
 ===== Translation Notes: =====
 
   * **has left**  - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
