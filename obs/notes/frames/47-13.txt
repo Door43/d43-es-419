@@ -15,11 +15,12 @@ El próximo día los líderes de la ciudad soltaron a Pablo y a Sílas de la car
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:church|Church]]**
 
-  * **[[:es-419:obe:other:paul|Paul]]**
-  * **[[:es-419:obe:other:silas|Silas]]**
-  * **[[:es-419:obe:other:philippi|Philippi]]**
-  * **[[:es-419:obe:kt:goodnews|good news]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+===== Términos Importantes=====
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:silas]]**
+  * **[[:es-419:obe:other:philippi]]**
+  * **[[:es-419:obe:kt:goodnews]]**
+  * **[[:es-419:obe:kt:jesus]]**
  
 ===== Translation Notes: =====
 
