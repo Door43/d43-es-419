@@ -1,0 +1,29 @@
+====== guilt, guilty (culpa, culpable) ======
+
+===== Definition: =====
+
+The term "guilt" refers to the fact of having sinned or committed a crime.
+
+  * To "be guilty" means to have done something morally wrong, that is, to have disobeyed God.
+  * The opposite of "guilty" is "innocent."
+
+===== Translation Suggestions: =====
+
+  * Some languages might translate "guilt" as "the weight of one's sins" or "the counting of one's sins."
+  * Ways to translate "to be guilty" could include a word or phrase that means, "to be at fault" or "having done something morally wrong" or "having committed a sin."
+
+(See also: [[:es-419:obe:kt:innocent|innocent]], [[:es-419:obe:kt:sin|sin, sinful, sinner]], [[:es-419:obe:other:punish|punish, punishment]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?guilt&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
+  * **[[:es-419:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
+  * **[[:es-419:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
+  * **[[:es-419:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
