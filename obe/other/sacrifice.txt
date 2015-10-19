@@ -1,0 +1,34 @@
+====== sacrifice, offering (sacrificio, ofrenda) ======
+
+===== Definition: =====
+
+The term "offering" is a general term that can refer to anything that is given to God, or to an idol. A sacrifice is similar, but normally refers to animals which were killed and then presented to God or to idols.
+
+  * In the Bible, offerings and sacrifices were given to God as a form of worship.
+  * God required the Israelites to make several different kinds of sacrifices and offerings. These included offerings to ask God to forgive sin, and offerings to thank him for blessings. Some of these offerings were the "burnt offering," the "sin offering," the "grain offering," and the "drink offering."
+  * The names of the offerings depended on what was being offered and for what purpose.
+  * Only the sacrifice of Jesus, God's perfect, sinless Son, can completely cleanse people from sin. Animal sacrifices could never do that.
+
+
+===== Translation Suggestions =====
+
+  * "Offering" can be translated as "a gift to God" or "something given to God" or "something valuable that is presented to God" or "sacred gift."
+  * "Sacrifice" can be translated as "to kill and animal and give it to God" or "meat presented to God" or "meat presented to an idol."
+
+(See also: [[:es-419:obe:kt:priest|priest]], [[:es-419:obe:other:altar|altar]], [[:es-419:obe:other:burntoffering]], [[:es-419:obe:other:sinoffering]], [[:es-419:obe:other:drinkoffering]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sacrifice&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an altar and **sacrificed**  some of each kind of animal which could be used for a **sacrifice**. God was happy with the **sacrifice**  and blessed Noah and his family.
+  * **[[:es-419:obs:notes:frames:05-06|[05-06]]]**"Take Isaac, your only son, and kill him as a **sacrifice**  to me." Again Abraham obeyed God and prepared to **sacrifice**  his son.
+  * **[[:es-419:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the **sacrifice**  instead of Isaac.
+  * **[[:es-419:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the Tent of Meeting as a **sacrifice**  to God. A priest would kill the animal and burn it on the altar. The blood of the animal that was **sacrificed**  covered the person's sin and made that person clean in God's sight.
+  * **[[:es-419:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could worship God and offer him **sacrifices**.
+  * **[[:es-419:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great High Priest. Unlike other priests, he offered himself as the only **sacrifice**  that could to take away the sin of all the people in the world.
+  * **[[:es-419:obs:notes:frames:48-08|[48-08]]]** But God provided Jesus, the Lamb of God, as a **sacrifice**  to die in our place.
+  * **[[:es-419:obs:notes:frames:49-11|[49-11]]]** Because Jesus **sacrificed**  himself, God can forgive any sin, even terrible sins.
+~~DISCUSSION~~{{tag>publish ktobs}}
