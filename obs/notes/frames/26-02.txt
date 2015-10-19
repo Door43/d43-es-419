@@ -14,12 +14,14 @@ Jesús decía: “Dios me ha dado su Espíritu para que yo pueda dar buenas nuev
   * **[[:es-419:obs:notes:key-terms:worship|worship]]**
   * **[[:es-419:obs:notes:key-terms:prophet|prophet]]**
   * **[[:es-419:obs:notes:key-terms:isaiah|Isaiah]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:other:nazareth|Nazareth]] Nazaret**
-  * **[[:es-419:obe:kt:sabbath|Sabbath]] sábado**
-  * **[[:es-419:obe:kt:worship|worship]] adorar/adoración**
-  * **[[:es-419:obe:kt:prophet|prophet]] profeta**
-  * **[[:es-419:obe:other:isaiah|Isaiah]] Isaías**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:other:nazareth]]**
+  * **[[:es-419:obe:kt:sabbath]] **
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:prophet]] **
+  * **[[:es-419:obe:other:isaiah]]**
 
 ===== Translation Notes: =====
 
