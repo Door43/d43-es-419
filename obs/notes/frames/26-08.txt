@@ -11,9 +11,11 @@ Entonces, Jesús se fue por toda la región de Galilea, y grandes multitudes vin
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:galilee|Galilee]]**
   * **[[:es-419:obs:notes:key-terms:heal|healed]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:other:galilee|Galilee]] Galilea**
-  * **[[:es-419:obe:other:heal|healed]] sanó/curó**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:other:galilee]]**
+  * **[[:es-419:obe:other:heal]]**
 
 ===== Translation Notes: =====
 
