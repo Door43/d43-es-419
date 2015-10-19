@@ -11,9 +11,10 @@
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:adultery|adultery]]**
   * **[[:es-419:obs:notes:key-terms:love|love]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]] Jesús**
-  * **[[:es-419:obe:kt:adultery|adultery]] adulterio**
-  * **[[:es-419:obe:kt:love|love]] amor**
+ =====Términos Importantes=====
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:adultery]]**
+  * **[[:es-419:obe:kt:love]] **
 
 ===== Translation Notes: =====
 
