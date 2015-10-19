@@ -1,0 +1,34 @@
+====== Jerusalem (Jerusalén) ======
+
+===== Facts: =====
+
+Jerusalem was originally an ancient Canaanite city that later became of central political and religious importance in Israel. It is still the capital city of present-day Israel.
+
+  * The Old Testament city of Salem was probably the same as the city of Jerusalem. Both names have the root meaning of "peace."
+  * Abraham offered his son Isaac on Mount Moriah which is part of the city of Jerusalem.
+  * King David captured Jerusalem from the Jebusites and made it his capital city.
+  * David's son Solomon built the first templeon Mount Moriah in Jerusalem.
+  * The Babylonians destroyed Jerusalem, but 70 years later God allowed them to return and rebuild the city.
+  * Because the temple was located there, Jerusalem was the center for celebrating the major Jewish festivals.
+  * In the New Testament, Jesus was dedicated as a baby at the temple in Jerusalem and it was in Jerusalem where he was put on trial and sentenced to die on a cross.
+  * After Jesus came back to life, Jerusalem was one of the main places where Jesus spent time with his disciples before he returned to heaven.
+  * Since Jerusalem was located in the mountains of Israel, people normally referred to going to Jerusalem as "going up to Jerusalem." 
+
+(See also: [[:es-419:obe:other:david]], [[:es-419:obe:other:solomon]], [[:es-419:obe:kt:christ]], [[:es-419:obe:kt:jesus]], [[:es-419:obe:other:jebusites]], [[:es-419:obe:other:zion]])
+===== Bible References: =====
+
+{{topic>:en:bible?jerusalem&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:17-05|[17-05]]]** David conquered **Jerusalem**  and made it his capital city.
+  * **[[:es-419:obs:notes:frames:18-02|[18-02]]]** In **Jerusalem**, Solomon built the Temple for which his father David had planned and gathered materials.
+  * **[[:es-419:obs:notes:frames:20-07|[20-07]]]** They (Babylonians) captured the city of **Jerusalem**, destroyed the Temple, and took away all the treasures of the city and the Temple.
+  * **[[:es-419:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of Jews returned to the city of **Jerusalem**  in Judah.
+  * **[[:es-419:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
+  * **[[:es-419:obs:notes:frames:38-02|[38-02]]]** After Jesus and the disciples arrived in **Jerusalem**, Judas went to the Jewish leaders and offered to betray Jesus to them in exchange for money.
+  * **[[:es-419:obs:notes:frames:42-08|[42-08]]]** "It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in **Jerusalem**, and then go to all people groups everywhere."
+  * **[[:es-419:obs:notes:frames:42-11|[42-11]]]** Forty days after Jesus rose from the dead, he told his disciples, "Stay in **Jerusalem**  until you receive power when the Holy Spirit comes on you."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
