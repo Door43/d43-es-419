@@ -5,9 +5,6 @@
 “‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
 
 ”'Por ejemplo, yo **ayuno ** dos veces cada semana y le doy a Ud. diez porciento de todo el dinero y las cosas que yo recibo.'”
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:fast|fast]]**
 
 ===== Términos Importantes=====
   * **[[:es-419:obe:other:fast]]**
