@@ -6,14 +6,7 @@ For almost 2,000 years, more and more people around the world have been hearing 
 
 Por casi 2,000 años, más y más personas alrededor del mundo han escuchado las buenas nuevas acerca de Jesús el Mesías. La Iglesia ha estado creciendo. Jesús prometió que él volvería al fin del mundo. Aunque no ha vuleto, él cumpirá con su promesa.
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:good-news|good news]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms:church|Church]]**
-  * **[[:es-419:obs:notes:key-terms:promise|promised]]**
-
+=====Términos Importantes=====
   * **[[:es-419:obe:kt/goodnews]]**
   * **[[:es-419:obe:kt/Jesus]]**
   * **[[:es-419:obe:kt/christ]]**
