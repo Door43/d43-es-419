@@ -15,6 +15,7 @@ Cuando los padres del niño ya no lo podían esconder a él, ellos lo colocaron 
 
 ==== Translation Notes: Notas de Traducción ====
 
-* //(There are no notes for this frame.) **(No hay notas de traducción para este marco)**  //
+  * //(There are no notes for this frame.) //
+  *//(No hay notas de traducción para este marco //
 
 **[[:es-419:obs:notes:frames:09-05|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-07|>>]]**
