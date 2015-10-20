@@ -13,11 +13,12 @@
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
   * **[[:es-419:obs:notes:key-terms:god|God]]**
 
-  * **[[:es-419:obe:other:moses|Moses]]**
-  * **[[:es-419:obe:kt:prophet|prophet]]**
-  * **[[:es-419:obe:kt:wordofgod|word of God]] **
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:god|God]]**
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:wordofgod]] **
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:god]]**
 
   
 ===== Translation Notes: =====
