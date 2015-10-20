@@ -12,10 +12,12 @@ Un ángel dijo a una **virgen** se llamaba **María ** que ella iba a dar a a lu
   * **[[:es-419:obs:notes:key-terms:god-son|God's Son]]**
   * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
 
-  * **[[:es-419:obe:other:virgin|virgin]]**
-  * **[[:es-419:obe:other:mary|Mary]]**
-  * **[[:es-419:obe:kt:sonofgod|God's Son]]**
-  * **[[:es-419:obe:kt:jesus|Jesus]]**
+
+=====Términos Importantes=====
+  * **[[:es-419:obe:other:virgin]]**
+  * **[[:es-419:obe:other:mary]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:jesus]]**
   
 ===== Translation Notes: =====
 
