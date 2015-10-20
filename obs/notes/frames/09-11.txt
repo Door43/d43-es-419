@@ -20,5 +20,5 @@
 ==== Translation Notes: ====
 
   * **wilderness**  - See how you translated this in **[[:es-419:obs:notes:frames:09-10|[09-10]]]**.
-  * **desierto**  - Ver como tu tradujo esto en**[[:es-419:obs:notes:frames:09-10|[09-10]]]**.
+  * **desierto**  - Ver como tu tradujo esto en **[[:es-419:obs:notes:frames:09-10|[09-10]]]**.
 **[[:es-419:obs:notes:frames:09-10|<<]] | [[:es-419:obs:notes:09|Up]] | [[:es-419:obs:notes:frames:09-12|>>]]**
