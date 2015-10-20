@@ -6,14 +6,7 @@
 
 “Cuando el mundo se acaba, los ángeles recolectarán junto a todas las personas que pertenecen al diablo y las echarán al fuego furioso, donde ellos llorarán y rechinarán los dientes en sufrimiento terrible. Entonces, los justos brillarán como el sol en el reino de Dios su Padre.”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:angel|angels]]**
-  * **[[:es-419:obs:notes:key-terms:satan|devil]]**
-  * **[[:es-419:obs:notes:key-terms:suffer|suffering]]**
-  * **[[:es-419:obs:notes:key-terms:righteous|righteous]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|kingdom]]**
-  * **[[:es-419:obs:notes:key-terms:god-father|God their Father]]**
+=====Términos Importantes=====
 
   * **[[:es-419:obe:kt/angel]]**
   * **[[:es-419:obe:kt/satan]]**
