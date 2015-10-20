@@ -6,14 +6,7 @@ The **disciples** did not understand the meaning of the story, so they asked **J
 
 Los discípulos no entendieron el sentir de la historia, así, ellos preguntaron a Jesús para que les explcara. Jesús dijo, “El hombre que sembró la semilla buena representa al Mesías. El campo representa el mundo. La semilla buena representa la gente del reino de Dios.”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
-  * **[[:es-419:obs:notes:key-terms:messiah|Messiah]]**
-  * **[[:es-419:obs:notes:key-terms:kingdom-of-god|God's kingdom]]**
-
+=====Términos Importantes=====
   * **[[:es-419:obe:kt/disciple]]**
   * **[[:es-419:obe:kt/Jesus]]**
   * **[[:es-419:obe:kt/good]]**
