@@ -1,0 +1,29 @@
+====== Canaan, Canaanite (Canaán, Canaanita) ======
+
+===== Facts: =====
+
+Canaan was the son of Noah's son, Ham. His descendants, the Canaanites, were one of several people groups who settled in the area of land from the valley of the Jordan River to the Mediterranean Sea. This area of land became known as the Land of Canaan.
+
+  * God promised to give this land to Abraham and his descendants, the Israelites.
+  * Today the countries and territories in that land are Israel, Lebanon, part of Jordan, part of Syria, and Palestine.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[en:obe:kt:promisedland|Promised Land]], [[ham]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?canaan&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:04-05|[04-05]]]** He (Abram) took his wife, Sarai, together with all his servants and everything he owned and went to the land God showed him, the land of **Canaan**.
+  ***[[:es-419:obs:notes:frames:04-06|[04-06]]]**  When Abram arrived in **Canaan** God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
+  ***[[:es-419:obs:notes:frames:04-09|[04-09]]]** "I give the land of **Canaan** to your descendants." 
+  ***[[:es-419:obs:notes:frames:05-03|[05-03]]]**  "I will give you and your descendants the land of **Canaan** as their possession and I will be their God forever."
+  ***[[:es-419:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
+
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
