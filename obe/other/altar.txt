@@ -1,0 +1,25 @@
+====== altar (altar)======
+
+===== Definition: =====
+
+An altar was a raised structure on which the Israelites burned animals and grains as offerings to God.
+
+  * During Bible times, simple altars were often made by packing together a mound of earth or by carefully placing large stones to form a stable pile.
+  * Some special, box-shaped altars were made of wood overlaid with metals such as gold, brass, or bronze.
+  * Other people groups living nearby the Israelites also built altars to offer sacrifices to their gods.
+
+(See also: [[sacrifice|sacrifice, offering]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?altar&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an **altar**  and sacrificed some of each kind of animal which could be used for a sacrifice.
+  * **[[:es-419:obs:notes:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
+  * **[[:es-419:obs:notes:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
+  * **[[:es-419:obs:notes:frames:16-06|[16-06]]]** He (Gideon) built a new altar dedicated to God near where the **altar**  to the idol used to be and made a sacrifice to God on it.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
