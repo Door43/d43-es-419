@@ -6,11 +6,7 @@
 
 “Los siervos le respondieron a su señor, 'Deberíamos arrancar la cizaña?' El señor dijo, 'No. Si hacen esto, arrancarán algo del trigo también. Eseperen hasta la cosecha y entonces, recogan la cizaña en pilas para ser quemada, pero traigan el trigo a mi granero.'”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:servant|servants]]**
-  * **[[:es-419:obs:notes:key-terms:lord|master]]**
-
+=====Términos Importantes=====
   * **[[:es-419:obe:other/servant]]**
   * **[[:es-419:obe:kt/lord]]**
 ===== Translation Notes: =====
