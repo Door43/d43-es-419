@@ -6,14 +6,7 @@ If you are a **Christian**, **God** has **forgiven** your **sins** because of wh
 
 Si Ud. es un Cristiano, Dios le ha perdonado sus pecados por lo que Jesús hizo. Ahiora, Dios le considera como un amigo cercano en vez de un enemigo.
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:christian|Christian]]**
-  * **[[:es-419:obs:notes:key-terms:god|God]]**
-  * **[[:es-419:obs:notes:key-terms:forgive|forgiven]]**
-  * **[[:es-419:obs:notes:key-terms:sin|sins]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-
+=====Términos Importantes=====
   * **[[:es-419:obe:kt/christian]]**
   * **[[:es-419:obe:kt/god]]**
   * **[[:es-419:obe:kt/forgive]]**
