@@ -6,12 +6,7 @@
 
 “La cizaña representa la gente que pertenece al malo. El enemigo que sembró la cizaña representa el diablo. La cosecha respresenta el fin del mundo, y los cosechadores representan los ángeles de Dios.”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:evil|evil]]**
-  * **[[:es-419:obs:notes:key-terms:satan|devil]]**
-  * **[[:es-419:obs:notes:key-terms:god|God's]]**
-  * **[[:es-419:obs:notes:key-terms:angel|angels]]**
+=====Términos Importantes=====
 
   * **[[:es-419:obe:kt/evil]]**
   * **[[:es-419:obe:kt/satan]]**
