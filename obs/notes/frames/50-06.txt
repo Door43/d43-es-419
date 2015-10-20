@@ -6,12 +6,7 @@
 
 “Cuando las semillas se brotaron, los siervos del hombre le dijeron, '¡Señor, Ud. sembró semilla buena en aquel campo. ¿Por qué hay cizaña en el? 'Un enemigo debe haberlas sembrado.'”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:servant|servants]]**
-  * **[[:es-419:obs:notes:key-terms:lord|Master]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
-
+=====Términos Importantes=====
   * **[[:es-419:obe:other/servant]]**
   * **[[:es-419:obe:kt/lord]]**
   * **[[:es-419:obe:kt/good]]**
