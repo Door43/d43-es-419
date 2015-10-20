@@ -6,11 +6,7 @@
 
 Jesús dijo a los discípulos una historia para explicarles qué sucederá con la gente cuando el mundo se acaba. “Un hombre sembró semilla buena en su campo. Mientras él estaba dormido, su enemigo vino y sembró semillas de cizaña con el trigo, y entonces, se fue.”
 
-===== Important Terms: =====
-
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:es-419:obs:notes:key-terms:disciple|disciples]]**
-  * **[[:es-419:obs:notes:key-terms:good|good]]**
+=====Términos Importantes=====
 
   * **[[:es-419:obe:kt/Jesus]]**
   * **[[:es-419:obe:kt/disciple]]**
