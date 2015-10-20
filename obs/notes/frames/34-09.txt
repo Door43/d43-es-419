@@ -19,7 +19,6 @@
   * **[[:es-419:obe:other:taxcollector]]**
   * **[[:es-419:obe:other:jewishleaders]]**
   * **[[:es-419:obe:kt:heaven]]**
-  * **[[:es-419:obe:other:heal]]**
   * **[[:es-419:obe:other:pray]]**
   * **[[:es-419:obe:kt:god]]**
   * **[[:es-419:obe:kt:mercy]]**
