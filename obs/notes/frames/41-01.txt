@@ -23,6 +23,7 @@ Después de crucificar a Jesús los soldados, los líderes Judios que no creyero
   * **[[:es-419:obe:other:jewishleaders]]**
   * **[[:es-419:obe:other:pilate]]**
   * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
   * **[[:es-419:obe:other:tomb]]**
   * **[[:es-419:obe:kt:disciple]]**
 
