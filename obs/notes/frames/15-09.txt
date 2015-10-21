@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:amorite|Amorite]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:amorite]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **God fought for Israel**  - God fought on the side of Israel against Israel's enemies.
