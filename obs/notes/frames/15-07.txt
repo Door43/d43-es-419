@@ -16,8 +16,8 @@ Los **Israelitas** estaban enojados cuando se dieron cuenta que los **Gabaonitas
   * **[[:es-419:obe:other:king]]**
   * **[[:es-419:obe:other:canaan]]**
   * **[[:es-419:obe:other:amorite]]**
-  * **[[:es-419:obe:other:gibeon]**
-  * **[[:es-419:obe:other:Joshua]]**
+  * **[[:es-419:obe:other:gibeon]]**
+  * **[[:es-419:obe:other:joshua]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **sent a message to Joshua asking for help**  - This could be translated as, "sent some of their people to tell Joshua that they needed the Israelites to help defend them against their enemies."
