@@ -8,9 +8,9 @@ Después que **Dios** derrotó  los ejércitos, muchos de los otros grupos de ge
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:joshua|Joshua]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:joshua]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **attacked and destroyed them**  - This could be translated as, "fought against them and defeated them."
