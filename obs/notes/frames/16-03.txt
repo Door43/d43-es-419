@@ -8,12 +8,12 @@ Entonces,** Dios ** proveyó a un **libertador** quien los rescató de sus enemi
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:deliverer|deliver, deliverer]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:other:idol|idol, idolatrous]]**
-  * **[[:es-419:obe:other:midian|Midian, Midianites]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:deliverer]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:idol]]**
+  * **[[:es-419:obe:other:midian]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **God provided**  - This could be translated as, "God chose" or, "God appointed" or, "God raised up."
