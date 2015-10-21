@@ -8,10 +8,10 @@ Después de esta batalla,** Dios** le dió a cada tribu de **Israel** su propia 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:promisedland|Promised Land]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:promisedland]]**
+  * **[[:es-419:obe:other:peace]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **God gave…Land **– this could be translated as, "God appointed each tribe its own plot of land" or, "God decided which part of the Promised Land each tribe of Israel would live on."
