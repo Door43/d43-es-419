@@ -8,12 +8,12 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:other:canaan|Canaan, Canaanite]]**
-  * **[[:es-419:obe:other:gibeon|Gibeon, Gibeonite]]**
-  * **[[:es-419:obe:other:joshua|Joshua]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:gibeon]]**
+  * **[[:es-419:obe:other:joshua]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **peace treaty**  – This is an agreement between two groups of people that they will not harm each other but will live in peace and help each other. This could be translated as, "peace agreement."
