@@ -8,12 +8,12 @@ A continuación, los **Madianitas ** venían de nuevo para robar a los** Israeli
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:midian|Midian, Midianites]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:gideon|Gideon]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:other:midian]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:gideon]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:save]]**
+ 
 ==== Translation Notes: Notas de traducción ====
 
   * **came again to steal from the Israelites**  – This could be translated as, "came again to the Israelites' land to steal things from them."
