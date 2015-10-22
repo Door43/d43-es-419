@@ -8,10 +8,10 @@ El** Imperio Persa** era fuerte, pero misericordioso con la gente que conquistar
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:mercy|mercy, merciful (misericordia, misericordioso)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:kt:temple|temple (templo)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:mercy]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:jerusalem]]**
 ==== Translation Notes: ====
 
   * **Persian Empire**  - See how you translated this term in **[[:es-419:obs:notes:frames:20-11|[20-11]]]**.
