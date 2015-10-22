@@ -14,11 +14,11 @@ Los **profetas ****siguieron hablando por ******Dios** ** a pesar de que la gent
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] (Mesías) **
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
-  * **[[:es-419:obe:kt:promise|promise (promesa)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:repent]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:kt:Christ]]**
 ==== Translation Notes: ====
 
   * **continued to speak for God**  - That is, "continued to tell the people what God wanted to tell them."
