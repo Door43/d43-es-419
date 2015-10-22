@@ -8,15 +8,24 @@ Eventualmente, **Saúl** murió en una batalla, y **David** se convirtió en **r
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:saul**
-  * **[[:es-419:obs:notes:key-terms:david**
-  * **[[:es-419:obs:notes:key-terms:king**
-  * **[[:es-419:obs:notes:key-terms:israel**
-  * **[[:es-419:obs:notes:key-terms:love**
-  * **[[:es-419:obs:notes:key-terms:god**
-  * **[[:es-419:obs:notes:key-terms:bless**
-  * **[[:es-419:obs:notes:key-terms:jerusalem**
+  * **[[:es-419:obs:notes:key-terms:saul|Saul]] (Saúl)**
+  * **[[:es-419:obs:notes:key-terms:david|David]]( David)**
+  * **[[:es-419:obs:notes:key-terms:king|king]]( rey)**
+  * **[[:es-419:obs:notes:key-terms:israel|Israel]]( Israel)**
+  * **[[:es-419:obs:notes:key-terms:love|loved]] (amado)**
+  * **[[:es-419:obs:notes:key-terms:god|God]]( Dios)**
+  * **[[:es-419:obs:notes:key-terms:bless|blessed]]( bendecido/bendición)**
+  * **[[:es-419:obs:notes:key-terms:jerusalem|Jerusalem]] (Jerusalén)**
+===== Términos Importantes =====
 
+  * **[[:es-419:obe:other:paul|Paul, Saul]]**
+  * **[[:es-419:obe:other:david|David]]**
+  * **[[:es-419:obe:other:king|king (rey)]]**
+  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
+  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:bless|bless, blessed, blessing]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
 ==== Translation Notes: ====
 
   * **made him successful**  - That is, "helped him accomplish the good things he wanted to do."
