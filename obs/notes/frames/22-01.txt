@@ -8,11 +8,11 @@ En el pasado, **Dios** había hablado a **su gente ** a través de sus **ángele
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
-  * **[[:es-419:obe:other:zechariah|Zechariah (OT)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:priest]]**
+  * **[[:es-419:obe:other:zechariah]]**
 ===== Translation Notes: =====
 
   * **his people**  - This could be translated as, "his people, the Israelites" or "his people, the Jews." But only include the added information if it is not clearly understood who these people were.
