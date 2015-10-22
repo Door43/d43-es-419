@@ -8,9 +8,9 @@ Los **Asírios** juntaron todos los líderes, la gente rica, y la gente con habi
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]]**
-  * **[[:es-419:obe:other:kingdomofisrael|kingdom of Israel]]**
+  * **[[:es-419:obe:other:assyria]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:kingdomofisrael]]**
 ==== Translation Notes: ====
 
   * **skills**  – This refers to practical skills such as woodworking, metalworking, and building.
