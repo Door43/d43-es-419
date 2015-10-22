@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:gideon|Gideon]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:gideon]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **32,000 Israelite soldiers came to Gideon**  - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:es-419:obs:notes:frames:16-08|[16-08]]]**.
