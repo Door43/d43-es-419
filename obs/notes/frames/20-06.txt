@@ -18,15 +18,15 @@ Cerca de 100 años después que los **Asirios** destruyeron el **reino de Israel
   * **[[:es-419:obs:notes:key-terms:servant|servant]] (siervo)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:assyria|Assyria, Assyrian, Assyrian Empire]]**
-  * **[[:es-419:obe:other:kingdomofisrael|kingdom of Israel]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:es-419:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
-  * **[[:es-419:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:assyria]]**
+  * **[[:es-419:obe:other:kingdomofisrael]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:nebuchadnezzar]]**
+  * **[[:es-419:obe:other:king)]]**
+  * **[[:es-419:obe:other:babylon]]**
+  * **[[:es-419:obe:other:kingdomofjudah]]**
+  * **[[:es-419:obe:other:babylon]]**
+  * **[[:es-419:obe:other:servant]]**
 ==== Translation Notes: ====
 
   * **empire**  - See how you translated this in **[[:es-419:obs:notes:frames:20-02|[20-02]]]**.
