@@ -1,10 +1,10 @@
-===== Elijah Rebuked Ahab [19-02] Elías Reprendió Acab [19-02]*F =====
+===== Elijah Rebuked Ahab [19-02] Elías Reprendió Ahcab [19-02]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink&}}
 
 **Elijah** was a **prophet** when **Ahab** was **king** over the **kingdom of Israel**. Ahab was an **evil** man who encouraged people to **worship** a false **god** named **Baal**. Elijah said to Ahab, “There will be no rain or dew in the kingdom of Israel **until I say so**.” **This made Ahab very angry**.
 
-Elías era un profeta cuando Acab era el rey sobre el reino de Israel. Acab era un hombre malo que alentaba a la gente a adorar un dios falso que se llamaba Baal. Elías dijo a Acab. “No habrá lluvia ni rocío en el reino de Israel hasta que yo lo diga.” Esto hizo que Acab se  enojara mucho.
+Elías era un profeta cuando Acab era el rey sobre el reino de Israel. Acab era un hombre malo que alentaba a la gente a adorar un dios falso que se llamaba Baal. Elías dijo a Acab. “No habrá lluvia ni rocío en el reino de Israel hasta que yo lo diga.” Esto hizo que Acab se enojara mucho.
 
 ===== Important Terms: =====
 
@@ -17,17 +17,17 @@ Elías era un profeta cuando Acab era el rey sobre el reino de Israel. Acab era 
   * **[[:es-419:obs:notes:key-terms:worship|worship]] (adorar)**
   * **[[:es-419:obs:notes:key-terms:god-false|god]] (dios)**
   * **[[:es-419:obs:notes:key-terms:baal|Baal]]( Baal)**
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[es-419:obe:other:elijah]]**
-  * **[[es-419:obe:kt:prophet]]**
-  * **[[es-419:obe:other:ahab]]**
-  * **[[es-419:obe:other:king]]**
-  * **[[es-419:obe:other:kingdomofisrael]]**
-  * **[[es-419:obe:kt:evil]]**
-  * **[[es-419:obe:kt:worship]]**
-  * **[[es-419:obe:kt:god]]**
-  * **[[es-419:obe:other:baal]]**
+  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:other:ahab|Ahab (Acab)]]**
+  * **[[:es-419:obe:other:king|king (rey)]]**
+  * **[[:es-419:obe:other:kingdomofisrael|kingdom of Israel (reino de Israel)]]**
+  * **[[:es-419:obe:kt:evil|evil, wicked, wickedness (mal, malvado, maldad)]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:baal|Baal (Baal)]]**
 ==== Translation Notes: ====
 
   * **until I say so**  - This may be translated as, "until I command the rain and dew to come again."
