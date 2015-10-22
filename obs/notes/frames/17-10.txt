@@ -8,8 +8,8 @@ Un día, cuando todos los soldados de **David** estaban lejos de sus casas lucha
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:david|David]]**
-  * **[[:es-419:obe:other:bathsheba|Bathsheba]]**
+  * **[[:es-419:obe:other:david]]**
+  * **[[:es-419:obe:other:bathsheba]]**
 ==== Translation Notes: ====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
