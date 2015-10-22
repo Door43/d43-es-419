@@ -8,18 +8,18 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:david|David]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:saul|Saul (OT)]]**
-  * **[[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]]**
-  * **[[:es-419:obe:other:bethlehem|Bethlehem]]**
-  * **[[:es-419:obe:other:sheep|sheep, ram (oveja, carnero)]]**
-  * **[[:es-419:obe:other:humble|humble, humility]]**
-  * **[[:es-419:obe:kt:righteous|righteous, righteousness (justo, honradez)]]**
-  * **[[:es-419:obe:kt:trust|trust, trustworthy, trustworthiness]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:david]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:saul]]**
+  * **[[:es-419:obe:other:shepherd]]**
+  * **[[:es-419:obe:other:bethlehem]]**
+  * **[[:es-419:obe:other:sheep]]**
+  * **[[:es-419:obe:other:humble]]**
+  * **[[:es-419:obe:kt:righteous]]**
+  * **[[:es-419:obe:kt:trust]]**
+  * **[[:es-419:obe:other:obey]]**
 ==== Translation Notes: ====
 
   * **watching**  - That is, "caring for" or, "protecting" or, "taking care of."
