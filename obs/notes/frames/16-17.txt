@@ -8,13 +8,13 @@ Este patrón se repitió muchas veces: los **Israelitas pecarían**, **Dios los 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment]]**
-  * **[[:es-419:obe:kt:repent|repent, repentance]]**
-  * **[[:es-419:obe:kt:deliverer|deliver, deliverer]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:kt:repent]]**
+  * **[[:es-419:obe:kt:deliverer]]**
+  * **[[:es-419:obe:kt:save]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **This pattern repeated many times**  - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
