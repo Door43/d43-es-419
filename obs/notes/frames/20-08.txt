@@ -15,12 +15,12 @@ Para **castiga**r al **rey de Judá**, por rebelarse, los soldados de Nabucodono
   * **[[:es-419:obs:notes:key-terms:babylon|Babylon]] (Babilonia)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
-  * **[[:es-419:obe:other:nebuchadnezzar|Nebuchadnezzar]]**
-  * **[[:es-419:obe:kt:son|son (hijo)]]**
-  * **[[:es-419:obe:other:babylon|Babylon, Babylonian]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:kingdomofjudah]]**
+  * **[[:es-419:obe:other:nebuchadnezzar]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:other:babylon]]**
 ==== Translation Notes: ====
 
   * **To punish**  - Nebuchadnezzar punished the king of Judah by telling his soldiers to do these things.
