@@ -5,18 +5,12 @@
 About **seventy years later**, **Cyrus**, the **king** of the **Persians**, defeated **Babylon**, so the Persian Empire replaced the Babylonian Empire. **The Israelites were now called Jews** and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered **the land of Judah**.
 
 Unos setenta años más tarde, **Ciro**, el** rey ** de los **Persas**, derrotó **Babilonia**, y el Imperio Persa reemplazó el Imperio Babilónico. Los **Israelitas** **ahora fueron llamados Judíos ** y la mayoría de ellos habían vivido toda su vida en Babilonia. Sólo unos pocos Judíos muy viejos, incluso se acordaron **la tierra de Judá**.
-===== Important Terms: =====
+===== Términos Importantes =====
 
-  * **[[:es-419:obs:notes:key-terms:king|king]] (rey)**
-  * **[[:es-419:obs:notes:key-terms:babylon|Babylon]] (Babilonia)**
-  * **[[:es-419:obs:notes:key-terms:israel|Israelites (]]Israelitas)**
-  * **[[:es-419:obs:notes:key-terms:jew|Jews]] (Judíos)**
-  *
-
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:babylon]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:jew]]**
 ==== Translation Notes: ====
 
   * **seventy years later**  - This refers to the seventy years that had passed since the Babylonian army took the people of Jerusalem into exile.
