@@ -14,11 +14,11 @@ Pero después de unos pocos años, el rey de **Judá se rebeló** contra **Babil
   * **[[:es-419:obs:notes:key-terms:temple|Temple]] (Templo)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:kingdomofjudah|kingdom of Judah, Judah]]**
-  * **[[:es-419:obe:other:rebel|rebel, rebellious (rebelde, rebelde)]]**
-  * **[[:es-419:obe:other:babylon|Babylon, Babylonian]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:kt:temple|temple (templo)]]**
+  * **[[:es-419:obe:other:kingdomofjudah]]**
+  * **[[:es-419:obe:other:rebel]]**
+  * **[[:es-419:obe:other:babylon]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:temple]]**
 ==== Translation Notes: ====
 
   * **came back**  - This may also be translated as, "returned" or "came to Judah again."
