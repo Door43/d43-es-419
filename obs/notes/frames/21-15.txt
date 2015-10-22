@@ -12,9 +12,9 @@
   * **[[:es-419:obs:notes:key-terms:messiah|Messiah]] (Mesías)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
 ==== Translation Notes: ====
 
   * **into the world**  - This could be translated as, "to the people of the world." The Messiah would be sent not only to the Jews, but to all people
