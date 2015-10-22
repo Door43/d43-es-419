@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:prophet]]**
 ==== Translation Notes: ====
 
   * **Throughout the history of**  - This expression means that God sent many prophets at many different times during all of the years that Israel and Judah existed.
