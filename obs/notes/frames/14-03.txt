@@ -14,8 +14,8 @@ Dios dijo a los **Israelitas**, “Tú debes deshacerte de todos los **Cananeos*
   * **[[:es-419:obe:kt:promisedland|]]**
   * **[[:es-419:obe:other:peace]]**
   * **[[:es-419:obe:other:idol]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:worship]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **get rid of**  - This could be translated as, "get them out of the land" or, "remove them from the land."
