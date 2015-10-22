@@ -8,11 +8,11 @@ Todos los** reyes** y la mayoría de la gente del** reino de Israel adoraban íd
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:kingdomofisrael|kingdom of Israel]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:other:idol|idol, idolatrous]]**
-  * **[[:es-419:obe:other:sacrifice|sacrifice, offering]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:kingdomofisrael]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:idol]]**
+  * **[[:es-419:obe:other:sacrifice]]**
 ==== Translation Notes: ====
 
   * **child sacrifice**  - They killed children as offerings to some of their idols
