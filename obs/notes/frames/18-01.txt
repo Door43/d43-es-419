@@ -8,12 +8,12 @@ Después de muchos años, **David ** murió, y su hijo **Salomón**, comenzó a 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:david|David]]**
-  * **[[:es-419:obe:other:solomon|Solomon]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:wise|wise, wisdom]]**
-  * **[[:es-419:obe:kt:judge|judge, judgment (juez, juicio)]]**
+  * **[[:es-419:obe:other:david]]**
+  * **[[:es-419:obe:other:solomon]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:wise]]**
+  * **[[:es-419:obe:kt:judge]]**
 ==== Translation Notes: ====
 
   * **asked for wisdom**  - This could be translated as, "asked God to make him wise."
