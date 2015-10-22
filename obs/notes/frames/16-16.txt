@@ -8,14 +8,14 @@ Entonces, **Gedeón** usó el oro para hacer una prenda especial como el **sumo 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:gideon|Gideon]]**
-  * **[[:es-419:obe:kt:highpriest|high priest]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:other:idol|idol, idolatrous]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:deliverer|deliver, deliverer]]**
+  * **[[:es-419:obe:other:gideon]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:idol]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:deliverer]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **Gideon used the gold to make a special garment**  – This could be translated as, "Gideon melted down the gold objects the people had given him and formed a special garment out of that gold."
