@@ -8,9 +8,9 @@ Entonces, los **profetas** de **Baal oraron a Baal**, “¡Escúchenos, Baal!”
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:baal|Baal]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:baal]]**
+  * **[[:es-419:obe:other:pray]]**
 ==== Translation Notes: ====
 
   * **prayed to Baal**  - the prophets of Baal asked Baal to send fire onto the bull they prepared as a sacrifice.
