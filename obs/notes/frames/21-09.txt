@@ -16,13 +16,13 @@
   * **[[:es-419:obs:notes:key-terms:bethlehem|Bethlehem]] (Belén)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:virgin|virgin (virgen)]]**
-  * **[[:es-419:obe:other:bethlehem|Bethlehem]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:other:isaiah]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:virgin)]]**
+  * **[[:es-419:obe:other:bethlehem]]**
 ==== Translation Notes: ====
 
   * **Malachi**  - Malachi was the last prophet in the Old Testament.
