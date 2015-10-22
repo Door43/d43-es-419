@@ -8,14 +8,14 @@ Los** profetas** también dijeron que el **Mesías** sería perfecto, **sin tene
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:receive|receive (recibir)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:receive]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **having no sin**  - This can also be translated as "he never sinned."
