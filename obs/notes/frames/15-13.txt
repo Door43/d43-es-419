@@ -8,16 +8,16 @@ Cuando **Josué** era un hombre viejo, él llamó a todo la gente de** Israel** 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:joshua|Joshua]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience]]**
-  * **[[:es-419:obe:kt:covenant|covenant (pacto)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:sinai|Sinai, Mount Sinai]]**
-  * **[[:es-419:obe:kt:promise|promise (prometió)]]**
-  * **[[:es-419:obe:kt:faithful|faithful, faithfulness]]**
-  * **[[:es-419:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
+  * **[[:es-419:obe:other:joshua]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:covenant]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:sinai]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:kt:faithful]]**
+  * **[[:es-419:obe:kt:lawofmoses]]**
 ==== Translation Notes: Notas de traducción ====
 
   * **When Joshua was an old man**  – It may be clearer to say, "Many years later, when Joshua was an old man." Joshua was over 100 years old at this time.
