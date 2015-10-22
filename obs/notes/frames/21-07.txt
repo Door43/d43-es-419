@@ -18,15 +18,15 @@
   * **[[:es-419:obs:notes:key-terms:priest-high|high priest]] (sumo sacerdote)**
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]]**
-  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
-  * **[[:es-419:obe:other:sacrifice|sacrifice, offering (sacrificio, ofrenda)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:priest]]**
+  * **[[:es-419:obe:other:sacrifice]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:highpriest]]**
 ==== Translation Notes: ====
 
   * **on behalf of**  - This may be translated as, "for the benefit of" or, "in the place of."
