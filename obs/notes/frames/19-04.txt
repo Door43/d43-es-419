@@ -8,8 +8,8 @@ Así que **Elías** se fue a un** país vecino**. Una viuda y su hijo en ese pa�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:elijah]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **neighboring country**  - This refers to a country that was beside, or shared a border with Israel.
