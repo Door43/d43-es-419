@@ -8,6 +8,3 @@
 **Recent Changes**
 {{changes>ns = es-419:obs}}
 
-**Latest Status**
-{{page>en:uwadmin:es-419:obs:status}}
-
