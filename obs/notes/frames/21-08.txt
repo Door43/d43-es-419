@@ -8,11 +8,11 @@ Un **rey ** es alguien quien gobierna sobre un **reino** y **juzga** a la gente.
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:kingdom|kingdom (reino)]]**
-  * **[[:es-419:obe:kt:judge|judge, judgment (juez, juicio)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:other:david|David (David)]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:kingdom]]**
+  * **[[:es-419:obe:kt:judge]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:other:david]]**
 ==== Translation Notes: ====
 
   * **sit on the throne of his ancestor David**  - A throne is a ceremonial chair for a king or queen that represents their authority. This expression could also be translated as, "have the authority to reign as his ancestor King David did" or, "be the descendant of King David and continue his rule over God's people."
