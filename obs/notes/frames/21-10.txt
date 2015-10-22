@@ -8,11 +8,11 @@ El **profeta Isaías** dijo que el Mesías viviría en Galilea, consolorá a la 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
-  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:isaiah]]**
+  * **[[:es-419:obe:other:galilee]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:other:heal]]**
 ==== Translation Notes: ====
 
   * **broken-hearted people**  - This expression refers to people who are experiencing extreme sadness.
