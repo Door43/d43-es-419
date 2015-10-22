@@ -8,11 +8,11 @@ Los **profetas** también, hablaron de como el **Mesías** iba a **morir**. **Is
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:isaiah]]**
+ 
 ==== Translation Notes: ====
 
   * **pierce**  - That is, "stab." Sharp objects would penetrate his body as part of the punishment for people's sin.
