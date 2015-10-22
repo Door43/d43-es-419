@@ -8,12 +8,12 @@ Aunque **Dios castigó** a su gente por su **pecado** llevándolos al **exilio**
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:promise|promise (promesa)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:promisedland|Promised Land]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:punish]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:promisedland]]**
 ==== Translation Notes: ====
 
   * **exile**  - See how you translated this term in **[[:es-419:obs:notes:frames:20-09|[20-09]]]**.
