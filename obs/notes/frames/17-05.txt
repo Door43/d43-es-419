@@ -9,14 +9,14 @@ Eventualmente, **Saúl** murió en una batalla, y **David** se convirtió en **r
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:paul|Paul, Saul]]**
-  * **[[:es-419:obe:other:david|David]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:bless|bless, blessed, blessing]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:david]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:bless]]**
+  * **[[:es-419:obe:other:jerusalem]]**
 ==== Translation Notes: ====
 
   * **made him successful**  - That is, "helped him accomplish the good things he wanted to do."
