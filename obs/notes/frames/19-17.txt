@@ -8,12 +8,12 @@ La mayoría de las veces, las gente no **obedecía a Dios**. Ellos a menudo  mal
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:jeremiah|Jeremiah]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:kt:mercy|mercy, merciful (misericordia, misericordioso)]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:jeremiah]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:kt:mercy]]**
 ==== Translation Notes: ====
 
   * **dry well**  - The well did not currently have any water in it, but it did still have mud in the bottom. This could be translated as, "empty well."
