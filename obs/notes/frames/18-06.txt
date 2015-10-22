@@ -9,9 +9,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:rehoboam|Rehoboam]]**
-  * **[[:es-419:obe:other:solomon|Solomon]]**
-  * **[[:es-419:obe:other:punish|punish, punishment]]**
+  * **[[:es-419:obe:other:rehoboam]]**
+  * **[[:es-419:obe:other:solomon]]**
+  * **[[:es-419:obe:other:punish]]**
 ==== Translation Notes: ====
 
   * **foolishly answered**  - Rehoboam's answer was harsh, and caused the people to turn against him.
