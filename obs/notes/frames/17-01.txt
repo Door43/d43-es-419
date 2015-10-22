@@ -8,11 +8,11 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:saul|Saul (OT)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:saul]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **first king of Israel**  – This could be translated as, "first king to rule over Israel."
