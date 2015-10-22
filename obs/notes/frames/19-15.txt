@@ -8,10 +8,10 @@ Al principio **Naaman** se enojó, y **no lo haría porque le parecía una tonte
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:naaman|Naaman]]**
-  * **[[:es-419:obe:other:jordanriver|Jordan River]]**
-  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:naaman]]**
+  * **[[:es-419:obe:other:jordanriver]]**
+  * **[[:es-419:obe:other:heal]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **would not do it because it seemed foolish**  - Naaman would not do what Elisha said because he knew that washing alone could not heal his disease.
