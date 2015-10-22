@@ -8,11 +8,11 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:priest]]**
+  * **[[:es-419:obe:other:king]]**
 ==== Translation Notes: ====
 
   * **perfect prophet**  - The Messiah would be a prophet who is perfect in obedience to God, giving every word God would speak to the people. He would present God perfectly to the people, helping them to know and understand God.
