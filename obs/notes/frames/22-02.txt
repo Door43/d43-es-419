@@ -8,11 +8,11 @@ El ángel le dijo:** Zacarías**, “Tú mujer tendrá un hijo. Le pondrás por 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:other:zechariah|Zechariah (OT)]]**
-  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:other:zechariah]]**
+  * **[[:es-419:obe:other:johnthebaptist]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:christ]]**
 ===== Translation Notes: =====
 
   * **The angel**  - This refers to the angel that came to Zechariah in **[[:es-419:obs:notes:frames:22-01|[22-01]]]**.
