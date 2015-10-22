@@ -8,11 +8,11 @@ Entonces, **Elías** le dijo al **Rey Ahab**, “Regresa inmediatamente a la ciu
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:ahab|Ahab]]**
-  * **[[:es-419:obe:kt:yahweh|Yahweh]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:elijah]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:ahab]]**
+  * **[[:es-419:obe:kt:yahweh]]**
+  * **[[:es-419:obe:kt:god]]**
 ==== Translation Notes: ====
 
   * **the sky grew black**  - That is, "the sky became very dark." Heavy rainclouds covered the sky, making it look dark grey or black.
