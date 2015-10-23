@@ -1,5 +1,3 @@
-======   ======
-
 ====== 38. Jesus Is Betrayed ======
 
 ====== 38. Jesus Es ​Traicionado ======
@@ -56,7 +54,7 @@ Después de la cena, Jesús y sus discípulos caminaron al Monte de los Olivos. 
 
 Peter replied, "Even if all the others abandon you, I will not!" Then Jesus said to Peter, "Satan wants to have all of you, but I have prayed for you, Peter, that your faith will not fail. Even so, tonight, before the rooster crows, you will deny that you even know me three times."
 
-Pedro respondió, "¡Aún si los demás te abandonan, yo no lo haré!" Entonces, Jesús dijo a Pedro, "Satanás quiere tenerlos a todos ustedes, pero yo he orado por tí, Pedro, para que tu fe no falle. Aún así, antes de que cante el gallo, tú negarás <font 17.5px line-height: 22.27272605896px;/inherit;;inherit;;inherit>que me conoces</font> tres veces."
+Pedro respondió, "¡Aún si los demás te abandonan, yo no lo haré!" Entonces, Jesús dijo a Pedro, "Satanás quiere tenerlos a todos ustedes, pero yo he orado por tí, Pedro, para que tu fe no falle. Aún así, antes de que cante el gallo, tú negarás que me conoces tres veces."
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?direct&}}
 
