@@ -1,25 +1,23 @@
-===== Mary and Elizabeth [22-06] =====
+===== Mary and Elizabeth [22-06] María y Isabel [22-06]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&}}
 
 Soon after the **angel** spoke to **Mary**, she went and visited **Elizabeth**. **As soon as Elizabeth heard Mary’s greeting**, Elizabeth’s **baby jumped inside her**. The women rejoiced together about **what God had done for them**. After Mary visited Elizabeth for three months, Mary returned home.
 
-Poco después de que el ángel habló a María, ella fue y visitó a Elizabeth. En cuanto Isabel oyó el saludo de María, el bebé de Elizabeth saltó dentro de ella. Las mujeres se regocijaron juntos acerca de lo que Dios había hecho por ellas. Después de estar María con Isabel por tres meses, María regresó a su casa.
+Poco después de que el **ángel** habló a **María**, ella fue y visitó a **Isabel**. **En cuanto Isabel oyó el saludo de María**, el **bebé** de Isabel** saltó dentro de ella**. Las mujeres se regocijaron juntas acerca de lo **que Dios** **había hecho por ellas**. Después de María visitar a Isabel por tres meses, María regresó a su casa.
+===== Términos Importantes =====
 
-
-=====Términos Importantes=====
-  * **[[es-419:obe:kt:angel]]**
-  * **[[es-419:obe:other:mary]]**
-  * **[[es-419:obe:kt:god]]**
-
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:other:mary|Mary (María)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
 ===== Translation Notes: =====
 
   * **Elizabeth**  - See the note about Elizabeth on **[[:es-419:obs:notes:frames:22-05|[22-04]]]**.
-  * **Isabel** - Mire la nota sobre Isabel en **[[:es-419:obs:notes:frames:22-05|[22-04]]]**.
+  * **Isabel**  - Ver la nota sobre Isabel en **[[:es-419:obs:notes:frames:22-05|[22-04]]]**.
   * **As soon as Elizabeth heard Mary's greeting**  - For some languages it may be better to say, "Mary greeted Elizabeth and as soon as Elizabeth heard her."
-  * **Tan pronto Isabel oyo el saludo de Maria **- Algunos idiomas es mejor decir , "Maria saludo a Isabel y tan pronto Isabel la oyo."
+  * **Tan pronto Isabel oyó el saludo de Maria **- Algunos idiomas es mejor decir , "María saludó a Isabel y tan pronto Isabel la oyó"
   * **baby jumped inside her**  - The baby moved suddenly inside Elizabeth's womb in response to Mary's greeting to Elizabeth.
-  * **el bebe brinco adentro de ella **- El bebe se movio de repente dentro de la barriga de Isabel en repuesta del saludo de Maria a Isabel.
+  * **el bebe brincó adentro de ella **- El bebé se movió de repente dentro de la barriga de Isabel en repuesta del saludo de María a Isabel.
   * **what God had done for them**  - This refers to the fact that both women were pregnant through God's supernatural intervention. Mary had conceived without a man, and Elizabeth had conceived with Zechariah after she was past the age of childbearing.
-  * **lo que Dios hizo por ellas** - Esto se refiere al hecho que las dos mujeres estaban embarazadas a traves de la intervencion subrernatural de Dios. Maria habia concevido sin un hombre, y Isabel habia concevido con Zacarias despues que ella habia pasado la edad de maternidad.
+  * **lo que Dios hizo por ellas**  - Esto se refiere al hecho que las dos mujeres estaban embarazadas a través de la intervención subrernatural de Dios. Marîa habia concevido sin un hombre, y Isabel habia concevido con Zacarias después que ella habia pasado la edad de maternidad.
 **[[:es-419:obs:notes:frames:22-05|<<]] | [[:es-419:obs:notes:22|Up]] | [[:es-419:obs:notes:frames:22-07|>>]]**
