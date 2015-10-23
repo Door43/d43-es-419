@@ -4,7 +4,7 @@
 
   * [[:es-419:obe:kt:home|Key Terms]]
   * [[:es-419:obe:other:home|Other Terms]]
-  * [[:es-419:bible:admin-reports:obe-admin:obe-reject]]
+
 
 ==== All terms from both lists: ====
 
