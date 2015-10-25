@@ -1,29 +1,26 @@
-===== The Wise Men Visited Jesus [23-09] =====
+===== The Wise Men Visited Jesus [23-09] Los Hombres Sabios Visitaron a Jesús [23-09]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-09.jpg?nolink&}}
 
 **Sometime later**, **wise men** from countries far to the east saw an **unusual star** in the sky. T**hey realized** it meant a new **king of the Jews** had been born. So, they traveled a great distance to see this king. They came to **Bethlehem** and found **the house** where **Jesus** and his parents were staying.
 
-Algún tiempo después, los hombres sabios de los países hacia el este vieron una estrella inusual en el cielo. Se dieron cuenta de que significaba haber nacido un nuevo rey de los Judios. Así, viajaron una gran distancia para ver a este rey. Llegaron a Belén y encontraron la casa donde se alojaban Jesús y sus padres.
+**Algún tiempo** **después**, los **hombres sabios** de los países hacia el este vieron una **estrella inusual** en el cielo**. Se dieron** cuenta de que significaba  un nuevo** rey de los Judíos ** habia nacido. Así, ellos viajaron una gran distancia para ver a este rey. Llegaron a **Belén** y encontraron **la casa** donde se alojaban **Jesús** y sus padres.
+===== Términos Importantes =====
 
-
-=====Términos Importantes=====
-  * **[[es-419:obe:kt:wise]]**
-  * **[[es-419:obe:kt:kingofthejews]]**
-  * **[[es-419:obe:other:bethlehem]]**
-  * **[[es-419:obe:kt:jesus]]**
-
-
+  * **[[:es-419:obe:kt:wise|wise, wisdom (sabio, sabiduría)]]**
+  * **[[:es-419:obe:kt:kingofthejews|King of the Jews (rey de los judíos)]]**
+  * **[[:es-419:obe:other:bethlehem|Bethlehem (Belén)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
   * **Sometime later**  - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **Tiempo despues** - No esta claro cuanto tiempo fue despues del nacimiento de Jesus los hombres sabios vieron la estrella, pero puede haber tomado como hasta dos anos a ellos para prepararse para el viaje  y luego viajar a Belen.
+  * **Algún tiempo después**  - No esta claro cuanto tiempo fue antes del nacimiento de Jesús los hombres sabios vieron la estrella, pero puede haber tomado como hasta dos años a ellos para prepararse para el viaje y entoces viajar a Belén.
   * **wise men**  - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah
-  * **hombres sabios** - Los "hombres sabios" posiblemente eran astrologos que estudiaban las estrellas. Puede tambien que ellos tenian acceso a las escrituras de los profetas del Viejo Testamento que predijo el nacimiento del Mesias.
+  * **hombres sabios**  - Los "hombres sabios" posiblemente eran astrólogos que estudiaban las estrellas. Puede también que ellos teíian acceso a las escrituras de los profetas del Viejo Testamento que predijo el nacimiento del Mesías.
   * **unusual star**  - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **inusual estrella** - La estrella que ellos notaron no era una estrella normal.  Era algo que aparecio al tiempo del nacimiento de Jesus.
+  * **inusual estrella**  - La estrella que ellos notaron no era una estrella normal. Era algo que apareció al tiempo del nacimiento de Jesús.
   * **They realized**  - Some languages may add, "From their studies, these scholars realized."
-  * **Ellos realizaron **- Algunos idiomas pueden anadir, "De sus estudios, estos eruditos realizaron."
+  * **Se dieron **- Algunos idiomas pueden añadir, "De sus estudios, estos estudiosos realizaron."
   * **the house**  - They were no longer staying in the place for animals where he was born.
-  * **la casa **- Ellos ya no se estaban quedando en el sitio para animales****donde el nacio.
+  * **la casa **- Ellos ya no se estaban quedandose en el sitio para animales donde el nació.
 **[[:es-419:obs:notes:frames:23-08|<<]] | [[:es-419:obs:notes:23|Up]] | [[:es-419:obs:notes:frames:23-10|>>]]**
