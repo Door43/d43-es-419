@@ -1,30 +1,27 @@
-===== Mary Was Pregnant [23-01] =====
+===== Mary Was Pregnant [23-01]María Quedó Embarazada [23-01]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-01.jpg?nolink&}}
 
 **Mary** was engaged to a **righteous** man named **Joseph**. When he heard that Mary was pregnant, **he knew it was not his baby**. He did not want **to shame Mary**, so **he planned to quietly divorce her**. Before he could do that, an **angel** came and spoke to him **in a dream**.
 
-María estaba comprometida con un hombre justo llamado José. Cuando se enteró de que María estaba embarazada, él sabía que no era su bebé. Él no quería avergonzar a María, así, planeaba divorciarse de ella en secreto. Antes de que pudiera hacer eso, un ángel vino y le habló en un sueño.
+**María** estaba comprometida con un hombre **justo** llamado **José**. Cuando él se enteró de que María estaba embarazada, **él sabía que no era** **su bebé**. Él no quería **avergonzar a María,** **así que él planificó** **divorciarse de ella en secreto**. Antes de que pudiera hacer eso, un **ángel** vino y le habló en un **sueño**.
+===== Términos Importantes =====
 
-
-=====Términos Importantes=====
-  * **[[es-419:obe:other:mary]]**
-  * **[[es-419:obe:kt:righteous]]**
-  * **[[es-419:obe:other:josephnt]]**
-  * **[[es-419:obe:kt:angel]]**
-  * **[[es-419:obe:other:dream]]**
-  
-
+  * **[[:es-419:obe:other:mary|Mary (María)]]**
+  * **[[:es-419:obe:kt:righteous|righteous, righteousness (justo, honradez)]]**
+  * **[[:es-419:obe:other:josephnt|Joseph (NT) (José NT)]]**
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:other:dream|dream (sueña)]]**
 ===== Translation Notes: =====
 
   * **he knew it was not his baby**  - That is, "he knew that he was not the one who had caused her to be pregnant."
-  * **el sabia que no era su bebe** - Esto es, "el sabia que no fue el que causo a ella a estar embarazada."
+  * **el sabía que no era su bebé**  - Eso es, "él sabía que no fue él que causó a ella de estar embarazada."
   * **to shame Mary**  - That is, "to cause Mary to be publicly disgraced" or "to embarrass Mary publicly." Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **para avergonzar a Maria** - Esto es, "para causar  Maria ser publicamente deshonrada" o, "para avergonzar a Maria publicamente." Jose fue misericordioso con Maria, a pesar que parecia que ella era una adultera.
+  * **para avergonzar a María**  - Eso es, "para causar María ser publicamente deshonrada" o, "para avergonzar a María publicamente." José fue misericordioso con María, a pesar que parecía que ella era una adúltera.
   * **he planned to quietly divorce her**  - This could also be translated as, "He planned to divorce her without telling others why," or, "He planned to divorce her without telling others about her pregnancy." Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **el planifico tranquilamente divorciarse de ella** - Esto se puede traducir como, "El planifico divorciarse  de ella sin decir a otros porque, "o, "El planifico divorciarse de ella diciendole a otros de su embarazo." Pero Jose era un hombre justo, el queria resolver la situacion la mejor forma posible, que en esta cultura seria divorciarse de ella tranquilamente.
+  * **él planificó secretamente divorciarse de ella**  - Esto se puede traducir como, "Él planificó divorciarse de ella sin decir a otros porqué," o, "Él planificó divorciarse de ella diciendóle a otros de su embarazo." Pero José era un hombre justo, él quería resolver la situación la mejor forma posible, lo que en esta cultura sería divorciarse de ella secretamente.
   * **divorce her**  - For some languages it may be better to say, "break their engagement." Joseph and Mary were engaged or, "pledged to be married." But in Jewish culture a divorce was required in order to break off an engagement.
-  * **divorciarse de ella **- Para algunos idiomas era mejor decir, "romper el compromiso." Jose y Maria eataban compremetidos o, "compremetidos a casarse." Pero en la cultura Judia un divorcio era requerido en orden para romper el compromiso.
+  * **divorciarse de ella **- Para algunos idiomas era mejor decir, "romper el compromiso." José y María eataban compremetidos o, "compremetidos a casarse." Pero en la cultura Judia un divorcio era requerido en orden para romper el compromiso.
   * **in a dream**  - That is, "while he was asleep and dreaming."
-  * **en un sueno** - Esto es, "mientras el dormia y sonaba."
+  * **en un sueño**  - Esto es, "mientras él dormía y soñaba."
 **[[:es-419:obs:notes:frames:22-07|<<]] | [[:es-419:obs:notes:23|Up]] | [[:es-419:obs:notes:frames:23-02|>>]]**
