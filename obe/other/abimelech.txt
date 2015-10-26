@@ -4,17 +4,28 @@
 
 ===== Facts: =====
 
+** Datos: **
+
 Abimelech was a Philistine king in the region of Gerar during the time when Abraham and Isaac were in the land of Canaan..
 
+Abimelec era un rey filisteo en la región de Guerar durante el tiempo cuando Abraham e Isaac estaban en la tierra de Canaán.
+
   * Abraham deceived King Abimelech by telling him that Sarah was his sister rather than his wife.
+  * Abrahan engañó al rey Abimelec al decirle que Sara era su hermana en vez de su esposa.
   * Abimelech took Sarah into his household, but returned her immediately when God appeared to him in a dream and rebuked him.
+  * Abimelec tomó a Sara en su hogar, pero cuando Dios se le apareció en un sueño y lo reprendió, inmediatamente la regresó.
   * Abraham and Abimelech made an agreement regarding disputed ownership of wells at Beersheba.
+  * Abraham y Abimelec hicieron un trato sobre la disputa de propiedad de los pozos de Berseba.
   * Many years later, Abraham's son Isaac and his family settled in the region ruled by Abimelech.
-  * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham. Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
+  * Muchos años después, Isaac el hijo de Abraham y su familia se establecieron en la región gobernada por Abimelec.
+  * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham.
+  * Otro hombre con el nombre de Abimelec era un hijo de Gideón y un hermano de Jotán.
+  * Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
+  * Algunas traducciones utilizan una ortografía un poco diferente de su nombre para hacer claro que él es una persona diferente al rey Abimelec.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:es-419:obe:other:philistines]], [[:es-419:obe:other:gerar]], [[:es-419:obe:other:beersheba]], [[:es-419:obe:other:jotham]], [[:es-419:obe:other:gideon]])
+(See also: [[:es-419:obe:other:philistines|Philistines]], [[:es-419:obe:other:gerar|Gerar]], [[:es-419:obe:other:beersheba|Beersheba]], [[:es-419:obe:other:jotham|Jotham]], [[:es-419:obe:other:gideon|Gideon]])
 
 ===== Bible References: =====
 
