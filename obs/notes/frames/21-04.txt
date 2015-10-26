@@ -16,5 +16,5 @@
 ==== Translation Notes: ====
 
   * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself."
-  * **propios descendientes de David**  - Otra manera de decir esto es, "un descendiente directamante de David mismo."
+  * **propios descendientes de David**  - Otra manera de decir esto es, "un descendiente directo de David mismo."
 **[[:es-419:obs:notes:frames:21-03|<<]] | [[:es-419:obs:notes:21|Up]] | [[:es-419:obs:notes:frames:21-05|>>]]**
