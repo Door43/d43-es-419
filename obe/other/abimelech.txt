@@ -4,7 +4,7 @@
 
 ===== Facts: =====
 
-** Datos: **
+**Datos: **
 
 Abimelech was a Philistine king in the region of Gerar during the time when Abraham and Isaac were in the land of Canaan..
 
@@ -25,7 +25,11 @@ Abimelec era un rey filisteo en la región de Guerar durante el tiempo cuando Ab
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
+(Sugerencias de traducción: Cómo Traducir Nombres)
+
 (See also: [[:es-419:obe:other:philistines|Philistines]], [[:es-419:obe:other:gerar|Gerar]], [[:es-419:obe:other:beersheba|Beersheba]], [[:es-419:obe:other:jotham|Jotham]], [[:es-419:obe:other:gideon|Gideon]])
+
+(Vea también: filisteos, Guerar, Berseba, Jotán, Gideón)
 
 ===== Bible References: =====
 
