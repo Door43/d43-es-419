@@ -19,10 +19,12 @@ El término 'edad' se refiere al números de años que una persona ha vivido. Ta
 
 ===== Translation Suggestions: =====
 
-
   * The term "age" could also be translated as, "era" or "number of years" or "long time period."
+  * El término 'edad' también se podría traducir como 'era' o 'número de años' o 'largo período de tiempo'.
   * The phrase, "at a very old age" could be translated as, "at many years old" or "when he was very old" or "when he had lived a very long time."
+  * La frase, 'a una edad muy avanzada' puede traducirse como 'muchos años de edad' o 'cuando era bien viejo' o 'cuando vivió un largo tiempo'.
   * The phrase, "this present evil age" means, "during this time right now when people are very evil."
+  * La frase 'esta presente siglo malo' significa, 'durante este tiempo ahora cuando la gente es bien mala'.
 
 ===== Bible References: =====
 
