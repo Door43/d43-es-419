@@ -4,16 +4,24 @@
 
 ===== Definition: =====
 
+===== Definición: =====
+
 In ancient times, the acacia was a common shrub or tree growing in the land of Canaan; it is still plentiful there today.
 
+En tiempos antiguos, la acacia era un arbusto común o árbol creciendo en la tierra de Canaáa y aún hoy es abundante allá.
+
   * The orange-brown wood of the acacia tree is very hard and durable, making it a useful material for building things.
+  * La madera naranja-marrón del árbol de acaci es bien fuerte y duradera, haciéndola un material útil para construir cosas.
   * This wood is highly resistant to decay because it is very dense so that it keeps out water, and it has natural preservatives that keep insects from destroying it.
+  * Esta madera es altamente resistente al decaimiento porque es bien densa, por lo que mantiene afuera el agua y tiene preservativos naturales que impide que los insectos lo destruyan.
   * In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.
+  * En la Biblia, madera de acacia se utilizó para construir el tabernáculo y el arca del pacto.
   * Based on the Hebrew word for this tree, the KJV uses the terms "shittah tree" and "shittim wood," rather than acacia.
+  * Basado en la palabra griega para árbol, la KJV usa los términos 'árbol de sita' y 'madera shittim;, en vez de acacia.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:es-419:obe:kt:tabernacle]], [[:es-419:obe:other:arkofthecovenant]])
+(See also: [[:es-419:obe:kt:tabernacle|tabernacle]], [[:es-419:obe:other:arkofthecovenant|ark of the covenant]])
 
 ===== Bible References: =====
 
