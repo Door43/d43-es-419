@@ -1,0 +1,24 @@
+====== acacia ======
+
+====== acacia ======
+
+===== Definition: =====
+
+In ancient times, the acacia was a common shrub or tree growing in the land of Canaan; it is still plentiful there today.
+
+  * The orange-brown wood of the acacia tree is very hard and durable, making it a useful material for building things.
+  * This wood is highly resistant to decay because it is very dense so that it keeps out water, and it has natural preservatives that keep insects from destroying it.
+  * In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.
+  * Based on the Hebrew word for this tree, the KJV uses the terms "shittah tree" and "shittim wood," rather than acacia.
+
+(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:es-419:obe:kt:tabernacle]], [[:es-419:obe:other:arkofthecovenant]])
+
+===== Bible References: =====
+
+{{topic>acacia&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
