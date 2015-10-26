@@ -2,18 +2,30 @@
 
 ===== Facts: =====
 
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites. 
+===== Datos: =====
 
-    * God promised Abraham that he would have many descendants and that they would become a great nation.
-    * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-    * Abraham believed God and obeyed him. 
-    * Abraham's name was originally "Abram," but God changed it to Abraham.
-    * Abram means, "exalted father," and Abraham means, "father of many."
+Abraham was the person that God chose to start the family that would grow into the people known as the Israelites.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+Abraham fue la persone que Dios escogió para comenzar la familia que llegaría a ser la gente conocida como los israelitas.
 
-(See also: [[sarah]], [[isaac]])
+  * God promised Abraham that he would have many descendants and that they would become a great nation.
+  * Dios prometió a Abraham que el tendría muchos descendientes y que ellos llegarían a ser una gran nación.
+  * God made his covenant with Abraham and promised to uphold it with his descendants forever.
+  * Dios hizo su pacto con Abraham y prometió sostenerla con sus descentientes para siempre.
+  * Abraham believed God and obeyed him.
+  * Abraham creyó a Dios y le obedeció.
+  * Abraham's name was originally "Abram," but God changed it to Abraham.
+  * El nombre de Abrahan erea originalmente 'Abram', pero Dios lo cambió a Abraham.
+  * Abram means, "exalted father," and Abraham means, "father of many."
+  * Abram significa 'padre exaltado' y Abraham significa, 'padre de muchos'.
 
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(Sugerencias de traducciones: Traduce Nombres)
+
+(See also: [[:es-419:obe:other:sarah|Sarah, Sarai]], [[:es-419:obe:other:isaac|Isaac (Isaac)]])
+
+(Vea también: Sara, Saraí, Isaac}
 
 ===== Bible References: =====
  
