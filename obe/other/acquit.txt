@@ -1,0 +1,21 @@
+====== acquit ======
+
+====== absolver ======
+
+===== Definition: =====
+
+The word "acquit" is a legal term that means to formally declare someone to not be guilty of an unlawful activity.
+
+  * This term is sometimes used in the Bible to talk about forgiving sinners.
+  * Often the context is about wrongly acquitting people who continue to rebel against God.
+  * This could be translated as, "declare innocent" or "judge to be not guilty."
+
+(See also: [[:es-419:obe:kt:forgive]], [[:es-419:obe:kt:guilt]])
+
+===== Bible References: =====
+
+{{topic>acquit&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
