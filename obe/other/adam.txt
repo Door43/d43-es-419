@@ -2,17 +2,26 @@
 
 ===== Facts: =====
 
+===== Datos: =====
+
 Adam was made in the image of God. God made Adam with many qualities that God has in himself, like personality, the ability to love, the capacity to make choices, to be self-aware, and to be capable of relationships and to communicate, plus many more.
 
+Adán fue hecho en la imagen de Dios. Dios hizo a Adán con muchas características que Dios mismo tenía, como personalidad, la abilidad de amar, la capacidad de hacer deciciones, de ser consciente de si mismo y de ser capaz de relaciones y de comunicarse y muchas mas.
+
   * Adam was the first man.
+  * Adán fue el primer hombre.
   * God formed him from dirt and breathed life into him.
+  * Dios lo formó de la tierra y respiró vida en el.
   * Adam's name sounds similar to the Hebrew word for "red dirt" or "ground."
+  * El nombre de Adán suena similar a la palabra en hebreó 'tierra roja' o 'suelo'.
   * The name "Adam" is the same as the Old Testament word for "mankind" or "human being."
+  * El nombre 'Adán' es la misma que la palabra en el Antiguo Testamento para 'humanidad' o 'ser humano'
   * All people are descendants of Adam and Eve.
+  * Toda la gente son descdendientes de Adán y Eva.
 
 Adam and Eve disobeyed God. They did what God told them not to do. This separated them from God and brought spiritual and physical death into their lives and into the world that God had made.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:es-419:obe:other:eve|Eve]])
 
