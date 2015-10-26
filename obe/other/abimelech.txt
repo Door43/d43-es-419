@@ -1,0 +1,25 @@
+====== Abimelech ======
+
+** Abimelec **
+
+===== Facts: =====
+
+Abimelech was a Philistine king in the region of Gerar during the time when Abraham and Isaac were in the land of Canaan..
+
+  * Abraham deceived King Abimelech by telling him that Sarah was his sister rather than his wife.
+  * Abimelech took Sarah into his household, but returned her immediately when God appeared to him in a dream and rebuked him.
+  * Abraham and Abimelech made an agreement regarding disputed ownership of wells at Beersheba.
+  * Many years later, Abraham's son Isaac and his family settled in the region ruled by Abimelech.
+  * Another man by the name of Abimelech was a son of Gideon and a brother of Jotham. Some translations may use a slightly different spelling of his name to make it clear that he is a different person from King Abimelech.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:philistines]], [[:es-419:obe:other:gerar]], [[:es-419:obe:other:beersheba]], [[:es-419:obe:other:jotham]], [[:es-419:obe:other:gideon]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?abimelech&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
