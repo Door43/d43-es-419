@@ -1,0 +1,21 @@
+====== Abner ======
+
+** Abner **
+
+===== Definition: =====
+
+Text
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>Abner&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft 1Ki02 ktlink}}
