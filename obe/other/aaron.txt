@@ -1,6 +1,6 @@
 ====== Aaron (Aarón)======
 
-===== Facts:  Puntos:=====
+===== Facts: Puntos: =====
 
 God chose Aaron to be the first high priest for the people of Israel.
 
@@ -9,15 +9,18 @@ Dios elige a Aarón para ser el primer alto sacerdote de la gente/el pueblo de I
   * Aaron was Moses' older brother.
   * Aarón era el hermano mayor de Moisés.
   * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  *  Aarón ayudó a Moisés a hablar con el faraón sobre dejar a los israelitas libres/en libertad.
+  * Aarón ayudó a Moisés a hablar con el faraón sobre dejar a los israelitas libres/en libertad.
   * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  *  Mientras los israelitas estaban viajando por el desierto, Aarón pecó al hacer un ídolo para que le gente/el pueblo adorara. 
+  * Mientras los israelitas estaban viajando por el desierto, Aarón pecó al hacer un ídolo para que le gente/el pueblo adorara.
   * God also appointed Aaron and his descendants to be the priests for the people of Israel.
-  * Dios también nombró a los descendientes de Aarón para ser los sacerdotes para el pueblo/la gente de Israel 
+  * Dios también nombró a los descendientes de Aarón para ser los sacerdotes para el pueblo/la gente de Israel
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[en:obe:kt:priest]], [[moses]], [[israel]])
+(See also: [[:en:obe:kt:priest|priest, priesthood]], [[:es-419:obe:other:moses|Moses (Moisés)]], [[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]])
+
+(Vea también: sacerdote, sacerdocio. Moisés, Israel, israelitas, nación de Israel)
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
