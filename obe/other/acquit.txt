@@ -6,11 +6,16 @@
 
 The word "acquit" is a legal term that means to formally declare someone to not be guilty of an unlawful activity.
 
-  * This term is sometimes used in the Bible to talk about forgiving sinners.
-  * Often the context is about wrongly acquitting people who continue to rebel against God.
-  * This could be translated as, "declare innocent" or "judge to be not guilty."
+La palabra 'absolver' es el término legal que significa formalmente declarar a alguien no ser culpable de un activity ilegal.
 
-(See also: [[:es-419:obe:kt:forgive]], [[:es-419:obe:kt:guilt]])
+  * This term is sometimes used in the Bible to talk about forgiving sinners.
+  * Este término es aveces utilizado en la Biblia para hablar sobre perdonar pecadores.
+  * Often the context is about wrongly acquitting people who continue to rebel against God.
+  * A menudo el contexto es sobre absolver erróneamente a gente que continua rebelándose contra Dios.
+  * This could be translated as, "declare innocent" or "judge to be not guilty."
+  * Esto podría ser traducido como, 'declara inocente' o 'juzgado no ser culpable'.
+
+(See also: [[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]], [[:es-419:obe:kt:guilt|guilt, guilty (culpa, culpable)]])
 
 ===== Bible References: =====
 
