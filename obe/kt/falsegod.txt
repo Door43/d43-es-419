@@ -1,0 +1,37 @@
+====== false god, god (falso dios)======
+
+===== Definition: =====
+
+A false god is something that people worship instead of the one true God.
+
+  * These "gods" do not exist. Yahweh is the only God, and he has no rival.
+  * People sometimes make objects into idols to worship as symbols of their false gods.
+  *  In the Bible, God's people frequently turned away from obeying him in order to worship false gods.
+  * Demons often deceive people into believing that the false gods and idols they worship have power.
+
+ 
+
+===== Translation Suggestions: =====
+
+
+  * There may already be a word for "god" or "false god" in the language or in a nearby language.
+  * The term "idol" could be used to refer to false gods.
+  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
+  * Another option would be to use a different word to refer to the false gods.
+
+(See also: [[:es-419:obe:kt:god|God]], [[:es-419:obe:other:idol|idol]], [[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?falsegod&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
+  * **[[:es-419:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
+  * **[[:es-419:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
+  * **[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
+  * **[[:es-419:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
