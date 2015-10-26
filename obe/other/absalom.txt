@@ -4,16 +4,24 @@
 
 ===== Facts: =====
 
+===== Datos: =====
+
 Absalom was the third son of King David. He was known for his handsome appearance and fiery temperament.
 
+Absalón are el tercer hijo del rey David. Él era conocido por su hermosa apariencia y ardiente temperamento.
+
   * When Absalom's sister Tamar was raped by their half-brother, Amnon, Absalom made a plan to have Amnon killed.
+  * Cuando Tamar, la hermana de Absalón, fue violada por su hermanastro, Amnón, Absalón hizo un plan para matar a Amnón.
   * After the murder of Amnon, Absalom fled to the region of Geshur (where his mother Maacah was from) and stayed there three years. Then King David sent for him to come back to Jerusalem, but did not allow Absalom to come into his presence for two years.
+  * Luego del asesinato de Amnón, Absalón huyó a la región de Geshur (de donde era su madre Macaah) y se quedó allí tres años. Entonces el rey David envió por él para que volviera a Jerusalén, pero no permitió que Absalón estuviera en su presencia por dos años.
   * Absalom turned some of the people against King David and led a revolt against him.
+  * Absalón tornó a algunas personas contra el rey David y dirigió una revuelta contra el.
   * David's army fought against Absalom and killed him. David was very grieved when this happened.
+  * El ejército de David peleó contra Absalón y lo mató. David estaba bien apenado cuando esto paso.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[geshur]], [[amnon]])
+(See also: [[:es-419:obe:other:geshur|Geshur]], [[:es-419:obe:other:amnon|Amnon]])
 
 ===== Bible References: =====
 
