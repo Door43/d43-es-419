@@ -9,6 +9,6 @@ Para conocer mas sobre las Historias Bíblicas Libres, visite [[https://unfoldin
 
 ==== Como usted puede ayudar ====
 
-Sientase en libertad de unirse al equipo de tradución y comenzar una nueva traducción, completar alguna ya comenzada o ayudar a revisar una traducción completa. Mas información de como comenzar a traducir las Historias Bíblicas Libres [[:en:obs:help|aquí]], e información útil también se puede encontrar en [[:en:get-started|" Empezando"]] y en    [[:en:tips-tricks|"Consejos & Trucos"]]. Si necesita ayuda, ¡[[:contact|solo pregunte]]!
+Sientase en libertad de unirse al equipo de tradución y comenzar una nueva traducción, completar alguna ya comenzada o ayudar a revisar una traducción completa. Mas información de como comenzar a traducir las Historias Bíblicas Libres [[:en:obs:help|aquí]], e información útil también se puede encontrar en [[:en:get-started|" Empezando"]] y en [[:en:tips-tricks|"Consejos & Trucos"]]. Si necesita ayuda, ¡[[:contact|solo pregunte]]!
 
 {{page>es-419:obs:stories}}{{page>en:obs:active}}
