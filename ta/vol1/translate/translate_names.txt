@@ -1,4 +1,4 @@
-===== Translate Names =====
+===== Translate Names (Traduce Nombres) =====
 
 This module answers the question: How do I translate names?\\
 Before you start this module have you learned about: [[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
