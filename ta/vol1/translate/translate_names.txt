@@ -1,0 +1,46 @@
+===== Translate Names =====
+
+This module answers the question: How do I translate names?\\
+Before you start this module have you learned about: [[en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
+
+==== Identify Something with a Proper Name: ====
+
+A Proper Name (or Proper Noun) is a specific name for someone or something. In contrast, the word "mountain" is a common name–it is a general term describing a kind of landform. Mount Zion is a specific mountain in Israel; therefore, it is a Proper Name. Understanding this difference will help you as you watch the video (see link below). Within the Bible you will hear many proper names which might be unknown to the reader. It could be unclear what the name is referring to. A Proper Name could refer to a person, a country, a certain landform, a body of water, or something else. In this video you will learn how to identify what kind of thing a particular proper name is referring to.
+
+Click [[http://youtu.be/AL_rkQ8yODk|here]] (http://youtu.be/AL_rkQ8yODk) to watch the video for the computer. (6.5 minutes) Click [[http://youtu.be/i36kf-hyTXE|here]] (http://youtu.be/i36kf-hyTXE) to watch the video on your tablet.
+
+===== Translation Suggestions =====
+
+There are many things to keep in mind when translating a name in the Bible:
+
+  * Proper names sometimes reveal information about the person, place, or thing it refers to.
+  * Proper names of people may reveal something about the origin or history of the family.
+  * Proper names of people may reveal something about a characteristic of the person.
+  * Sometimes people and places have more than one name.
+
+These are the different ways to translate names in the Bible. Discuss these with the translation team, and choose one:
+
+  * Copy the proper name from the source language into the target language with no change. Often, this means using the name as it is spelled in the national language translation.
+  * Use the name from the source language, but make adjustments to the spelling or add whatever is necessary so that it sounds like the right kind of name in the target language.
+  * Pronounce the name as it is pronounced in the source language, and using the target language's spelling system, write the name in a way that people will read it with the source language's pronunciation.
+  * Translate the meaning of the name.
+If a person or place has two names, follow one of these two ways. In either case, it may be necessary to add a footnote that explains that the two names refer to the same person or place:
+  * Use the name that occurs in the particular text you are translating.
+  * Use one name most of the time and the other name only when the text talks about that name or the meaning of that name.
+
+===== Examples from the Bible =====
+
+**Luke 1:3** “Having carefully investigated everything from the beginning, I also have decided to write a careful account for you, most honorable Theophilus.”\\ 
+\\ 
+//The word "honorable" describes a person. So "honorable" tells us that Theophilus is the name of a person.//\\ 
+\\ 
+**Psalms 72:2** "Jerusalem is where he lives; Mount Zion is his home."\\ 
+\\ 
+//The word "Mount" next to "Zion" lets us know that it refers to a mountain landform named "Zion" or "Mount Zion." "Jerusalem" is the name of a city. We know it is a place because it is where someone lives, and this verse also tells us that Jerusalem is located on Mount Zion.//\\ 
+\\ 
+**John 21:1** “Later, Jesus appeared again to the disciples beside the Sea of Galilee.”\\ 
+\\ 
+//The text refers to a place called the Sea of Galilee. "Sea" is our clue that the Sea of Galilee is a body of water.//
+ 
+
+
