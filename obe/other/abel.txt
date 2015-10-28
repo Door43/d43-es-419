@@ -17,6 +17,8 @@ Abel era el segundo hijo de Adán y Eva.
 
 (See also: [[:es-419:obe:other:adam|Adam (Adán)]], [[:es-419:obe:other:eve|Eve (Eva)]], [[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]])
 
+(Vea también: [[:es-419:obe:other:adam|Adam (Adán)]], [[:es-419:obe:other:eve|Eve (Eva)]], [[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]])
+
 ===== Bible References: =====
 
 {{topic>:en:bible?abel&nocomments}}~~DISCUSSION~~{{tag>publish}}
