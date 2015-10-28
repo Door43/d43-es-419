@@ -21,11 +21,11 @@ Abraham fue la persone que Dios escogió para comenzar la familia que llegaría 
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(Sugerencias de traducciones: Traduce Nombres)
+(Sugerencias de traducciones: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
 (See also: [[:es-419:obe:other:sarah|Sarah, Sarai]], [[:es-419:obe:other:isaac|Isaac (Isaac)]])
 
-(Vea también: Sara, Saraí, Isaac}
+(Vea también: [[:es-419:obe:other:sarah|Sarah, Sarai]], [[:es-419:obe:other:isaac|Isaac (Isaac)]])
 
 ===== Bible References: =====
  
