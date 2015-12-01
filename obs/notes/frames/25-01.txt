@@ -1,4 +1,4 @@
-===== Satan Tempted Jesus [25-01] =====
+===== Satan Tempted Jesus [25-01]  **Satanás tienta a Jesús**  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
@@ -6,16 +6,15 @@ Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out in
 
 Inmediatamente después de que Jesús fue bautizado, el Espíritu Santo lo llevó al desierto, donde ayunó durante cuarenta días y cuarenta noches. Entonces, Satanás se acercó a Jesús y le tentó a pecar.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:kt:baptize]] **
-  * **[[:es-419:obe:kt:holyspirit]] **
-  * **[[:es-419:obe:other:fast]] **
-  * **[[:es-419:obe:kt:satan]] **
-  * **[[:es-419:obe:kt:tempt]] **
-  * **[[:es-419:obe:kt:sin]] **
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
+  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:other:fast|fast (ayuno)]]**
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
+  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
 ===== Translation Notes: =====
 
   * **the Holy Spirit led him**  - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
