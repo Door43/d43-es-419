@@ -1,20 +1,19 @@
-===== A Promise for the Whole World [21-02]/Una Promesa paraTodo el Mundo [21-02]*F =====
+===== A Promise for the Whole World [21-02]/Una Promesa para Todo el Mundo [21-02]*F =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
 **God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
 
 **Dios** prometió a **Abraham** que a **través de él** todos los grupos de gente en el mundo recibirían una** bendición**. Esta bendición sería **cumplida** cuando el **Mesías** vendrá en algún momento en el futuro. Él haría posible que la gente de cada grupo de gente en el mundo sería **salvado**.
-
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:Abraham]]**
-  * **[[:es-419:obe:other:peoplegroup]]**
-  * **[[:es-419:obe:kt:bless]]**
-  * **[[:es-419:obe:kt:fulfill]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:abraham|Abraham, Abram (Abraham, Abram)]]**
+  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
+  * **[[:es-419:obe:kt:bless|bless, blessed, blessing (bendecir, bendecido, bendición)]]**
+  * **[[:es-419:obe:kt:fulfill|fulfill (cumplir)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:save|save (salvar)]]**
 ==== Translation Notes: ====
 
   * **through him**  – That is, "because of one of his descendants."
