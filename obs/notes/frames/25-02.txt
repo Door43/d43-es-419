@@ -1,4 +1,4 @@
-===== The First Temptation [25-02] =====
+===== The First Temptation [25-02] La primera tentación =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
@@ -6,13 +6,12 @@
 
 Satanás tentó a Jesús, diciendo: “Si eres el Hijo de Dios, cambia estas piedras en pan para que pueda comer!”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:satan]] **
-  * **[[:es-419:obe:kt:tempt]] **
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:kt:sonofgod]] **
-
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]] **
+  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
 ===== Translation Notes: =====
 
   * **turn these rocks into bread**  - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
