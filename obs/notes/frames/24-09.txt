@@ -1,4 +1,4 @@
-===== Jesus Is the Son of God [24-09] =====
+===== Jesus Is the Son of God [24-09]   Jesús es el Hijo de Dios =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?nolink&}}
 
@@ -6,21 +6,20 @@
 
 Dios le dijo a Juan: “El Espíritu Santo vendrá y descansará en alguien que bautizas. Esa persona es el Hijo de Dios.” Sólo hay un Dios. Pero cuando Juan bautizó a Jesús, oyó Dios el Padre habló, vio a Dios el Hijo, que es Jesús, y él vio al Espíritu Santo.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:god]] **
-  * **[[:es-419:obe:other:johnthebaptist]] **
-  * **[[:es-419:obe:kt:holyspirit]] **
-  * **[[:es-419:obe:kt:baptize]] **
-  * **[[:es-419:obe:kt:sonofgod]] **
-  * **[[:es-419:obe:kt:godthefather]] **
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:sonofgod]] **
-
+  * **[[:es-419:obe:kt:god|God (Dios)]] **
+  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
 ===== Translation Notes: =====
 
   * **God had told John**  - That is, "Before this, God had told John" or, "Before Jesus came to be baptized, God had told John."
-  * **Dios le dijo a Juan** - Esto es, "Antes de esto, Dios le dijo a Juan" o, "Antes que Jesus vino para ser bautizado, Dios le dijo a Juan."
+  * **Dios le dijo a Juan**  - Esto es, "Antes de esto, Dios le dijo a Juan" o, "Antes que Jesus vino para ser bautizado, Dios le dijo a Juan."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //Una historia de la Biblia //- Estas referencias pueden un poco diferentes de algunas traducciones de la Biblia.
 //Una historia de la Biblia de: Mateo 3; Marcos 1: 9-11; Lucas 3: 1-23//
