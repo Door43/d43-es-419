@@ -1,4 +1,4 @@
-===== A Baptism of Repentance [24-03] =====
+===== A Baptism of Repentance [24-03] Un bautismo de arrepentimiento =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
@@ -6,20 +6,19 @@ When people heard **John's** message, many of them **repented from their sins**,
 
 Cuando la gente oyó el mensaje de Juan, muchos de ellos se arrepintieron de sus pecados y Juan los bautizaba. Muchos líderes religiosos también, llegaron a ser bautizados por Juan, pero no se arrepintieron ni confesaron sus pecados.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:johnthebaptist]] **
-  * **[[:es-419:obe:kt:repent]] **
-  * **[[:es-419:obe:kt:sin]] **
-  * **[[:es-419:obe:kt:baptize]] **
-  * **[[:es-419:obe:other:jewishleaders]] **
-
+  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]] **
+  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
 ===== Translation Notes: =====
 
   * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **arrepintieron de sus pecados** - Esto puede ser traducido como, "arrepentirse acerca de sus pecados" o, "alejarse de sus pecados." 
+  * **arrepintieron de sus pecados**  - Esto puede ser traducido como, "arrepentirse acerca de sus pecados" o, "alejarse de sus pecados."
   * **did not repent**  - That is, "did not turn away from their sins."
   * **no se arrepintieron **- Esto es, "no se alejaron de sus pecados."
   * **confess their sins**  - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
-  * **confesar sus pecados** - Para confesar tienes que reconocer que algo es verdad. Estos lideres no querian reconocer que ellos habian pecado. Esto se puede traducir como, "confiesa que has pecado."
+  * **confesar sus pecados**  - Para confesar tienes que reconocer que algo es verdad. Estos lideres no querian reconocer que ellos habian pecado. Esto se puede traducir como, "confiesa que has pecado."
 **[[:es-419:obs:notes:frames:24-02|<<]] | [[:es-419:obs:notes:24|Up]] | [[:es-419:obs:notes:frames:24-04|>>]]**
