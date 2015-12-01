@@ -1,4 +1,4 @@
-===== Not the Messiah [24-05] =====
+===== Not the Messiah [24-05]   No era el Mesías =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
@@ -6,12 +6,11 @@ Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am no
 
 Algunos Judios preguntaron a Juan si él era el Mesías. Juan respondió: “Yo no soy el Mesías, pero hay alguien que viene después de mí. Él es tan grande que ni siquiera soy digno de desatar las sandalias.”
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:other:jew]] **
-  * **[[:es-419:obe:other:johnthebaptist]] **
-  * **[[:es-419:obe:kt:christ]] **
-
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]] **
+  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
 ===== Translation Notes: =====
 
   * **He is so great**  - This could be translated as, "He is so important."
