@@ -1,4 +1,4 @@
-===== The Third Temptation [25-06] =====
+===== The Third Temptation [25-06]   La tercera tentación =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
@@ -6,14 +6,13 @@ Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **thei
 
 Entonces, Satanás le mostró a Jesús todos los reinos del mundo y toda su gloria y le dijo: “Te daré todo esto si te postras y me adoras.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:satan]] **
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:other:kingdom]] **
-  * **[[:es-419:obe:kt:glory]] **
-  * **[[:es-419:obe:kt:worship]] **
-
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]] **
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:kingdom|kingdom (reino)]]**
+  * **[[:es-419:obe:kt:glory|glory, glorious (gloria, glorioso)]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
 ===== Translation Notes: =====
 
   * **kingdoms of the world**  - This refers to all the greatest cities, countries, and other territories of the world.
@@ -21,5 +20,5 @@ Entonces, Satanás le mostró a Jesús todos los reinos del mundo y toda su glor
   * **their glory**  - That is, "their power and wealth."
   * **su gloria **-Esto es, tener poder y riqueza
   * **I will give you all this**  - This could be translated as, "I will give you all the wealth and power of these kingdoms" or, "I will make you the ruler over all these countries, cities and people."
-  * **Yo te dare todo esto **-  Esto se puede traducir como, "Yo te dare toda la riqueza y poder de estos reinos" o, "Yo te hare el gobernante sobre todos estos paises, ciudades y gente."
+  * **Yo te dare todo esto **- Esto se puede traducir como, "Yo te dare toda la riqueza y poder de estos reinos" o, "Yo te hare el gobernante sobre todos estos paises, ciudades y gente."
 **[[:es-419:obs:notes:frames:25-05|<<]] | [[:es-419:obs:notes:25|Up]] | [[:es-419:obs:notes:frames:25-07|>>]]**
