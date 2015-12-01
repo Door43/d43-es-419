@@ -1,18 +1,17 @@
-===== The Second Temptation [25-04] =====
+===== The Second Temptation [25-04]   La segunda tentación =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-04.jpg?nolink&}}** Then Satan** took **Jesus** to the highest point on the **Temple** and said, “If you are the **Son of God**, **throw yourself down**, because **it is written**, ‘**God** will command his **angels** to carry you **so your foot does not hit a stone**.’”
 
 Entonces, Satanás llevó a Jesús al punto más alto en el templo y le dijo: “Si eres el Hijo de Dios, tírate abajo, porque está escrito: 'Dios mandará a sus ángeles para llevarte para que su pie no golpees una piedra. '”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:satan]]**
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:kt:temple]] **
-  * **[[:es-419:obe:kt:sonofgod]] **
-  * **[[:es-419:obe:kt:god]] **
-  * **[[:es-419:obe:kt:angel]]**
-
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:temple|temple (templo)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
 ===== Translation Notes: =====
 
   * **throw yourself down**  - That is, "jump off this building to the ground."
