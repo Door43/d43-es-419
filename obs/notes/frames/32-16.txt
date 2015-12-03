@@ -1,24 +1,20 @@
-===== Healed by Faith [32-16]   Sanado por Fe [32-16]  =====
+===== Healed by Faith [32-16] Sanada por Fe [32-16] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-16.jpg?nolink&}}
 
 The woman **fell on her knees before Jesus**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your**** faith has healed you**. Go in **peace**.”
 
 La mujer se puso de rodillas ante **Jesús**, temblando y muy temerosa. Entonces, ella le dijo lo que había hecho, y que estaba sanada. Jesús le dijo, “Tu **fe ** te ha **sanada**. Ve en **paz**.”
+===== Términos Importantes =====
 
-
-
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:faith]]**
-  * **[[:es-419:obe:other:heal]]**
-  * **[[:es-419:obe:other:peace]]**
-
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:faith|faith (fe)]]**
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
+  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
 ===== Translation Notes: =====
 
   * **fell on her knees**  - That is, "quickly knelt down."
-  * **cayó de rodillas** - esto es, " rapidamente se arrodillo."
+  * **cayó de rodillas**  - esto es, " rapidamente se arrodillo."
   * **before Jesus**  - That is, "in front of Jesus."
   * **delante de Jesús **- Esto es, "al frente de Jesús."
   * **shaking and very afraid**  - That is, "shaking with fear" or, "trembling because she was afraid."
@@ -28,7 +24,7 @@ La mujer se puso de rodillas ante **Jesús**, temblando y muy temerosa. Entonces
   * **Go in peace.**  - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, "Go well", "Go with God" or, "Peace." Other ways of translating it could be, "May you have peace as you go" or, "Go and know that all is well between us."
   * **Ve en paz **- La gente habló esta bendición tradicional cuando ellos se dejaron. Otras lenguas pueden decir algo similar como, "Vaya bien" o, ":Vaya con Dios" o, "Paz." Otras maneras de traducir esto pujeden ser, " Que la paz vaya contigo" o, "Ve y conoce que todo esta bien entre nosotros."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  *//Una historia de la Biblia// - Estas referencias pueden ser un poco diferentes en algunas traducciones de la Biblia.
+  * //Una historia de la Biblia//  - Estas referencias pueden ser un poco diferentes en algunas traducciones de la Biblia.
 //​Una historia de: Mateo 8:28-34; 9:20-22; Marcos 5:1-20; 5:24b-34; Lucas 8:26-39; 8:42b-48//
 
 **[[:es-419:obs:notes:frames:32-15|<<]] | [[:es-419:obs:notes:32|Up]] | [[:es-419:obs:notes:frames:33-01|>>]]**
