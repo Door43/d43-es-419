@@ -1,4 +1,4 @@
-===== What Is Our Reward? [28-09] =====
+===== What Is Our Reward? [28-09] ¿Cúal es nuestra recompensa? =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?nolink&}}
 
@@ -6,15 +6,14 @@
 
 Pedro dijo a Jesús: “Nosotros hemos dejado todo y hemos seguido a usted. ¿Cuál será nuestra recompensa?”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
   * **left everything**  - That is, "left everything behind" or, "given up everything we owned."
   * **dejamos todo **- Esto es, "dejamos todo atras" o, "renunciamos a todo lo que teniamos."
   * **What will be our reward?**  - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?" or, "What will God give us as a reward?" It may also be necessary to add, "because we have done this?"
-  * **Cual sera nuestra recompensa?** - Otra forma de decir esto es, "Que recompesa vamos a recibir" o, "Como vamos a hacer recompensados? " o, "Que Dios nos dara a nosotros como recompensa?"Puede ser necesario anadir,"Porque nosotros hicimos esto?"
+  * **Cual sera nuestra recompensa?**  - Otra forma de decir esto es, "Que recompesa vamos a recibir" o, "Como vamos a hacer recompensados? " o, "Que Dios nos dara a nosotros como recompensa?"Puede ser necesario anadir,"Porque nosotros hicimos esto?"
 **[[:es-419:obs:notes:frames:28-08|<<]] | [[:es-419:obs:notes:28|Up]] | [[:es-419:obs:notes:frames:28-10|>>]]**
