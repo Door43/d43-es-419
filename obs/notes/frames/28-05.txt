@@ -1,4 +1,4 @@
-===== Not Willing to Obey [28-05] =====
+===== Not Willing to Obey [28-05] No está dispuesto a obedecer =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?nolink&}}
 
@@ -6,12 +6,11 @@ When the young man **heard what Jesus said**, he became very sad, because he was
 
 Cuando el joven oyó lo que dijo Jesús, se puso muy triste, porque era muy rico y no quería regalar todo lo que poseía. Dio media vuelta y se alejó de Jesús.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]] **
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
 ===== Translation Notes: =====
 
   * **heard what Jesus said**  - That is, "heard Jesus tell him to give away what he owned."
-  * **oyo lo que que Jesus dijo** - Esto es, "oyo a Jesus decirle que diera todo lo que poseia."
+  * **oyo lo que que Jesus dijo**  - Esto es, "oyo a Jesus decirle que diera todo lo que poseia."
 **[[:es-419:obs:notes:frames:28-04|<<]] | [[:es-419:obs:notes:28|Up]] | [[:es-419:obs:notes:frames:28-06|>>]]**
