@@ -1,4 +1,4 @@
-===== The Prophesy about Jesus [26-04] =====
+===== The Prophesy about Jesus [26-04] La profecía acerca de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?nolink&}}
 
@@ -6,19 +6,18 @@ Then **Jesus** sat down. Everybody watched him closely. They knew the passage of
 
 Entonces, Jesús dijo: “Es cierto que ningún profeta es bien recibido en su ciudad natal. Durante el tiempo del profeta Elías, había muchas viudas en Israel. Pero cuando no llovió durante tres años y medio, Dios no envió a Elías para ayudar a una viuda de Israel, sino a una viuda de una nación diferente ”.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:kt:wordofgod]] **
-  * **[[:es-419:obe:kt:christ]] **
-  * **[[:es-419:obe:other:josephnt]] **
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
+  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:other:josephnt|Joseph (NT) (José NT)]]**
 ===== Translation Notes: =====
 
   * **The words I just read to you are happening right now**  - Other ways to translate this would be, "The words you just heard me read are being fulfilled right now" or, "Today the words I read to you came true as you heard them."
-  * **Las palabras que Yo acabo de leer estan sucediendo ahora mismo** - Otra formas de traducir esto puede ser, "Las palabras que  acabas  de escuchar   se han cumplido ahora mismo" o, "Hoy las palabras que Yo he leido a ti vinieron ciertas a medida que las escuchastes."
+  * **Las palabras que Yo acabo de leer estan sucediendo ahora mismo**  - Otra formas de traducir esto puede ser, "Las palabras que acabas de escuchar se han cumplido ahora mismo" o, "Hoy las palabras que Yo he leido a ti vinieron ciertas a medida que las escuchastes."
   * **amazed**  - Translate the word "amazed" with a term that means that they were surprised, shocked, and confused about how this could be possible.
   * **Asombrado **- Traducir la palabra "asombrado" con un termino que significa que ellos estaban sorprendidos, conmocionado, y confundidos sobre como esto podia ser posible.
   * **Isn't this the son of Joseph?**  - This could also be translated as, "This man is only the son of Joseph!" or, "Everyone knows he is just Joseph's son!" The people were not asking if he was Joseph's son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man.
-  * **No es este el hijo de Jose?** - Esto puede tambien traducirce  como, "Este hombre es solamente el hijo de Jose!" o, "Todo el mundo sabe que el es justamente el hijo de Jose!" La gente no estaban preguntando si el era hijo de Jose o no. Ellos se estaban preguntando como puede ser el Mesias porque pensaron que el solamente era hijo de un hombre ordinario.
+  * **No es este el hijo de Jose?**  - Esto puede tambien traducirce como, "Este hombre es solamente el hijo de Jose!" o, "Todo el mundo sabe que el es justamente el hijo de Jose!" La gente no estaban preguntando si el era hijo de Jose o no. Ellos se estaban preguntando como puede ser el Mesias porque pensaron que el solamente era hijo de un hombre ordinario.
 **[[:es-419:obs:notes:frames:26-03|<<]] | [[:es-419:obs:notes:26|Up]] | [[:es-419:obs:notes:frames:26-05|>>]]**
