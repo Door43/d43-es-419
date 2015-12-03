@@ -1,4 +1,4 @@
-===== Moses and Elijah [36-03] =====
+===== Moses and Elijah [36-03]  Moisés y Elías =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
@@ -6,21 +6,20 @@ Then **Moses** and the prophet **Elijah appeared**. These men had lived on the e
 
 Entonces, Moises y el profeta Elías aparecieron. Estos hombres habían vivido en la tierrra centenares de años antes. Ellos hablaron con Jesús acerca de su muerte, que iba a suceder pronto en Jerusalen.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:moses]]**
-  * **[[:es-419:obe:kt:prophet]]**
-  * **[[:es-419:obe:other:elijah]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:other:jerusalem]]**
- 
+  * **[[:es-419:obe:other:moses|Moses (Moisés)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
 ===== Translation Notes: =====
 
   * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **aparecieron** - Esto es tambien es posible decir, "aparecieron de la nada."Ellos de repente estaban ahi.
+  * **aparecieron**  - Esto es tambien es posible decir, "aparecieron de la nada."Ellos de repente estaban ahi.
   * **his death, which would soon happen**  - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **su muerte, que pronto iba a suceder** - Esto se puede traducir como, "como el pronto ****iba a morir" o, "como a el pronto lo iban a matar.
+  * **su muerte, que pronto iba a suceder**  - Esto se puede traducir como, "como el pronto iba a morir" o, "como a el pronto lo iban a matar.
   * **in Jerusalem**  - Some languages may prefer to say, "in the city of Jerusalem."
-  * **en Jerusalen** - Algunos idiomas prefieren decir, "en la ciudad de Jerusalem."
+  * **en Jerusalen**  - Algunos idiomas prefieren decir, "en la ciudad de Jerusalem."
 **[[:es-419:obs:notes:frames:36-02|<<]] | [[:es-419:obs:notes:36|Up]] | [[:es-419:obs:notes:frames:36-04|>>]]**
