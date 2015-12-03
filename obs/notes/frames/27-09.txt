@@ -1,4 +1,4 @@
-===== Help for the Victim [27-09] =====
+===== Help for the Victim [27-09] Ayuda para la víctima =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?nolink&}}
 
@@ -6,18 +6,17 @@
 
 “El Samaritano luego levantó al hombre en su propio burro y lo llevó a un mesón y cuidó de él.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:samaria]] **
-
+  * **[[:es-419:obe:other:samaria|Samaria, Samaritan (Samaria, samaritano)]] **
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
   * (Jesus continua para decir la historia.)
   * **his own donkey**  - Make sure it is clear that "his" refers to the Samaritan.
-  * **su propio burro** - Asegurate que este claro que "el" se refiere al Samaritano.
+  * **su propio burro**  - Asegurate que este claro que "el" se refiere al Samaritano.
   * **roadside inn**  - That is, "a lodging place." This is a place where travelers could get food and stay overnight
   * **posada en la carretera **- Esto es "un sitio de alojamiento. "Este es un sitio que los viajeros podian conseguir comida y quedarse la noche
   * **where he took care of him**  - This could also be translated as, "where he continued to take care of him."
-  * **sitio donde cuido de el** - Esto se puede traducir tambien como, "donde el continuo cuidandolo a el"
+  * **sitio donde cuido de el**  - Esto se puede traducir tambien como, "donde el continuo cuidandolo a el"
 **[[:es-419:obs:notes:frames:27-08|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-10|>>]]**
