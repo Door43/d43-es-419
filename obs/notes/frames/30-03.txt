@@ -1,4 +1,4 @@
-===== Jesus Taught and Healed People / Jesús  Enseñaba y sanaba la Gente [30-03] =====
+===== Jesus Taught and Healed People / Jesús Enseñaba y sanaba las personas[30-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
@@ -6,13 +6,12 @@ The crowd had over 5,000 men in it, **not counting the women and children**. **J
 
 La multitud tenía más de 5.000 hombres en ella, sin contar las mujeres y los niños. Jesús sintió gran compasión hacia las personas. Para Jesús, estas personas eran como ovejas sin pastor. Así que, él les enseñó y sanó a la gente entre ellos que estaban enfermos.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:sheep]]**
-  * **[[:es-419:obe:other:shepherd]]**
-  * **[[:es-419:obe:other:heal]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:sheep|sheep, ram (oveja, carnero)]]**
+  * **[[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]]**
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
 ===== Translation Notes: =====
 
   * **not counting the women and children**  - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
