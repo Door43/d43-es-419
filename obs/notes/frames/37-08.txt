@@ -1,4 +1,4 @@
-===== Rolling the Stone Away [37-08] =====
+===== Rolling the Stone Away [37-08] Rodando la piedra =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}
 
@@ -6,20 +6,15 @@
 
 Jesús respondió, “¿No le dije que vería la gloria de Dios si cree en mí?” Así, ellos quitaron la piedra.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====  
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:glory]]**
-  * **[[:es-419:obe:kt:believe]]**
- 
-
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:glory|glory, glorious (gloria, glorioso)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
 ===== Translation Notes: =====
 
-  * **Did I not tell you?** - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
-  * **see God's glory** - That is, "see the glory of God displayed" or, "see God show how great he is."
-  * **rolled the stone away** - Some languages should say, "rolled the stone away from the opening of the tomb."
-
-
+  * **Did I not tell you?**  - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
+  * **see God's glory**  - That is, "see the glory of God displayed" or, "see God show how great he is."
+  * **rolled the stone away**  - Some languages should say, "rolled the stone away from the opening of the tomb."
 **[[:es-419:obs:notes:frames:37-07|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-09|>>]]**
