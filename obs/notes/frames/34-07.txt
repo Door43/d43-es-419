@@ -1,17 +1,17 @@
-===== The Religious Leader's Prayer [34-07] / El Lider Religioso Reza =====
+===== The Religious Leader's Prayer [34-07] / La oración del líder religioso  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
 “The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
 
 “El **líder religioso ** oró así, 'Gracias, **Dios**, que no soy un **pecador ** como otros hombres: un ladrón, un hombre injusto, un **adúltero**, o aun como aquel cobrador de impuestos.'”
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:sin]]**
-  * **[[:es-419:obe:kt:adultery]]**
-  * **[[:es-419:obe:other:taxcollector]]**
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:adultery|adultery, adulterer (adulterio, adúltero)]]**
+  * **[[:es-419:obe:other:taxcollector|tax collector (recaudador de impuestos)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
