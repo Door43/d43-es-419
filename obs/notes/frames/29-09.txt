@@ -1,17 +1,16 @@
-===== Forgive Your Brother [29-09] =====
+===== Forgive Your Brother [29-09]  Perdona a tu hermano =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
+ {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?nolink&}}
 
 **Then Jesus said**, “**This** is what **my heavenly Father** will do to every one of you if you do not **forgive your brother from your heart**.”
 
 Entonces,Jesús dijo: “Esto es lo que mi Padre celestial hará con cada uno de Uds. si no perdonen a su hermano de su corazón.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:godthefather]]**
-  * **[[:es-419:obe:kt:forgive]]**
- 
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
 ===== Translation Notes: =====
 
   * **Then Jesus said**  - Some languages may add, "to his disciples."
@@ -26,8 +25,8 @@ Entonces,Jesús dijo: “Esto es lo que mi Padre celestial hará con cada uno de
   * **desde tu corazon**  - Esto es, "con sinceridad" o,"verdaderamente" o, "honestamente."
   * **//A Bible story - // **//These references may be slightly different in some Bible translations.//
   * //**Una historia de la Biblia**  - Estas referencias pueden ser ligeramente diferentes en algunas traducciones Biblicas.//
- //A Bible story from: Matthew 18:21-35// 
+//A Bible story from: Matthew 18:21-35//
 
- //Una historia Biblica de: Mateo 18:21-35//
- 
+//Una historia Biblica de: Mateo 18:21-35//
+
 **[[:es-419:obs:notes:frames:29-08|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:30-01|>>]]**
