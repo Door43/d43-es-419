@@ -1,4 +1,4 @@
-===== The Levite [27-07] =====
+===== The Levite [27-07]  El levita =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
@@ -6,12 +6,11 @@
 
 “No mucho tiempo después de eso, un levita llegó por el camino. (Los Levitas eran una tribu de Judios que ayudaron a los sacerdotes en el Templo.) El levita también, cruzó al otro lado del camino y no hizo caso del hombre que había sido robado y golpeado ”.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:kt:priest]]**
-  * **[[:es-419:obe:kt:temple]] **
-
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
+  * **[[:es-419:obe:kt:temple|temple (templo)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
@@ -21,5 +20,5 @@
   * **Levites were a tribe of Jews**  - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
   * **Levitas eran una tribu de Judios **- Esto es, "Levitas eran de una tribu Israelita de Levi" o, "Levitas era de un clan Israelita de Levi."
   * **ignored**  - That is, "did not help."
-  * **ignoraron** - Esto es, "no ayudaron,"
+  * **ignoraron**  - Esto es, "no ayudaron,"
 **[[:es-419:obs:notes:frames:27-06|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-08|>>]]**
