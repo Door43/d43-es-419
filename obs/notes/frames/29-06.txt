@@ -1,4 +1,4 @@
-===== To Prison [29-06] =====
+===== To Prison [29-06] A prisión =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?nolink&}}
 
@@ -6,17 +6,17 @@
 
 “El compañero se postró de rodillas y dijo:” Por favor, sea paciente conmigo, y voy a pagar el monto total que le debo. “Pero en cambio, el criado echó a su consiervo en la cárcel hasta que pagara la deuda ”.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
   * (Jesús continúa la historia.)
   * **fellow servant**  - Translate this phrase in the same way as in **[[:es-419:obs:notes:frames:29-05|[29-05]]]**.
-  * **college** - Traducie esta frase de la misma manera que en **[[:es-419:obs:notes:frames:29-05|[29-05]]]**.
+  * **college**  - Traducie esta frase de la misma manera que en **[[:es-419:obs:notes:frames:29-05|[29-05]]]**.
   * **fell on his knees**  - This phrase has the same meaning as in **[[:es-419:obs:notes:frames:29-04|[29-04].]]**
-  * **se postro en sus rodillas** - Esta frase tiene el mismo significado que en **[[:es-419:obs:notes:frames:29-04|[29-04].]]**
+  * **se postro en sus rodillas**  - Esta frase tiene el mismo significado que en **[[:es-419:obs:notes:frames:29-04|[29-04].]]**
   * **threw his fellow servant into prison**  - This could also be translated as, "had the man put into prison." The word "threw" is figurative and means it was done in a forceful way.
   * **tiro su colega en prision**  - Esto tambien podria ser traducido como, "el hombre fue puesto en prison." La palabra "tiro" is figurativa y quiere decir esto fue hecho de una manera forzada.
 **[[:es-419:obs:notes:frames:29-05|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-07|>>]]**
