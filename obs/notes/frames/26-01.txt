@@ -1,4 +1,4 @@
-===== Jesus in Galilee [26-01] =====
+===== Jesus in Galilee [26-01] Jesús en Galilea =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
@@ -6,22 +6,19 @@
 
 Después de superar las tentaciones de Satanás, Jesús volvió en el poder del Espíritu Santo a la región de Galilea, donde vivía. Jesús pasó de un lugar a otro enseñando. Todo el mundo hablaba bien de él.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:satan]]**
-  * **[[:es-419:obe:kt:tempt]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:power]]**
-  * **[[:es-419:obe:kt:holyspirit]] **
-  * **[[:es-419:obe:other:galilee]]**
-
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
+  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:power|power (poder)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
 ===== Translation Notes: =====
 
-  * **After overcoming Satan's temptations, Jesus returned** - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
-  * **in the power of the Holy Spirit** - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
-  * **went from place to place teaching** - That is, he "traveled to different towns and other places and taught the people there."
-  * **Everyone** - That is, "Everyone who knew him or heard about him."
-  * **spoke well of him** - That is, "said good things about him."
-
-
+  * **After overcoming Satan's temptations, Jesus returned**  - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
+  * **in the power of the Holy Spirit**  - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
+  * **went from place to place teaching**  - That is, he "traveled to different towns and other places and taught the people there."
+  * **Everyone**  - That is, "Everyone who knew him or heard about him."
+  * **spoke well of him**  - That is, "said good things about him."
 **[[:es-419:obs:notes:frames:25-08|<<]] | [[:es-419:obs:notes:26|Up]] | [[:es-419:obs:notes:frames:26-02|>>]]**
