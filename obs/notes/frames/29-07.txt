@@ -1,4 +1,4 @@
-===== The King Heard [29-07] =====
+===== The King Heard [29-07] El Rey escuchó =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?nolink&}}
 
@@ -6,11 +6,10 @@
 
 “Algunos otros siervos vieron lo que había sucedido y se vieron muy perturbados. Fueron al rey y le dijeron todo.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:king|king (rey)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
@@ -19,6 +18,6 @@
   * **lo que habia pasado**  - Esto es, "que el sirviente habia rehusado cancelar la deuda de el otro sirviente y lo puso en prision."
   * **were greatly disturbed**  - That is, "deeply grieved" or, "very distressed."
   * **fueron grandemente disturbados**  - Esto es, "profundamente apenado" o, "muy consternados".
-  * **everything** – That is, "they told the king what the servant had done to his fellow servant.
+  * **everything**  – That is, "they told the king what the servant had done to his fellow servant.
   * **todo**  - Esto es, "ellos le dijeron al rey todo lo que el sirviente le habia hecho al companero.
 **[[:es-419:obs:notes:frames:29-06|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-08|>>]]**
