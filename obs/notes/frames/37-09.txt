@@ -1,4 +1,4 @@
-===== Jesus' Prayer [37-09] =====
+===== Jesus' Prayer [37-09] Oración de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
@@ -6,20 +6,17 @@ Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **
 
 Entonces, Jesús miró al cielo y dijo, “Padre, gracias por escucharme. Se que siempre me escucha, pero yo lo digo para el bien de toda esta gente que está aquí, para que ellos crean que Ud. me envió.” Entonces, Jesús gritó, “¡Lázaro, ven fuera!
 
+===== Términos Importantes =====
 
-=====Términos Importantes===== 
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:heaven]]**
-  * **[[:es-419:obe:kt:godthefather]]**
-  * **[[:es-419:obe:kt:believe]]**
-  * **[[:es-419:obe:other:Lazarus]]**
-
-
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
 ===== Translation Notes: =====
 
   * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
   * **oyendome **- Esto es, "escuchandome a mi." Puede ser util anadir, "como yo oro a ti" o, "cuando yo te hablo."
   * **come out**  - Some languages may prefer to say, "come out of the tomb."
-  * **sal afuera** - Algunos idiomas prefieren decir, "salid de la tumba."
+  * **sal afuera**  - Algunos idiomas prefieren decir, "salid de la tumba."
 **[[:es-419:obs:notes:frames:37-08|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-10|>>]]**
