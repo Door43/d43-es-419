@@ -1,4 +1,4 @@
-===== The Debt Is Canceled [29-04] =====
+===== The Debt Is Canceled [29-04] La deuda es cancelada =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
@@ -6,11 +6,10 @@
 
 “El siervo se postró de rodillas ante el rey y le dijo: 'Por favor, sea paciente conmigo, y voy a pagar el monto total que le debo.” El rey se compadeció del siervo, por lo que canceló toda su deuda y lo dejó ir. ”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:king|king (rey)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
@@ -22,6 +21,5 @@
   * **felt pity**  - That is, "felt compassion for" or, "felt sorry for". The king knew that the servant and his family would suffer greatly if they were sold into slavery.
   * **sentir pena**  - esto es, "sentir compasion por" o, "sentir pena por". El rey supo que el sirviente y su familia deberian sufrir grandemente si ellos fueran vendidos a la esclvitud.
   * **canceled all of his debt**  - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king".
-  * **cancelada toda su deuda** - Esto puede ser traducido como, "dijo que el sirviente no necesitaba pagarle ningun dinero que el le debia a el rey".
-
+  * **cancelada toda su deuda**  - Esto puede ser traducido como, "dijo que el sirviente no necesitaba pagarle ningun dinero que el le debia a el rey".
 **[[:es-419:obs:notes:frames:29-03|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-05|>>]]**
