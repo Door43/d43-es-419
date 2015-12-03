@@ -1,4 +1,4 @@
-===== Not Able to Repay [29-03] =====
+===== Not Able to Repay [29-03] Incapaz de pagar =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?nolink&}}
 
@@ -6,18 +6,17 @@
 
 “Dado que el siervo no podía pagar la deuda, el rey dijo,” Vendan este hombre y su familia como esclavos para hacer el pago de su deuda. '”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:other:king]]**
-  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:king|king (rey)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
   * (Jesús continúa la historia.)
   * **pay the debt**  - That is, "pay back the money he owed to the king."
-  * **pagar la deuda** - Esto es, "pagar el dinero nque el le debe al rey."
+  * **pagar la deuda**  - Esto es, "pagar el dinero nque el le debe al rey."
   * **to make payment on his debt**  - This could be translated as, "and use the money received from selling them to pay part of what he owes me."
   * **hacer pagos a sus deudas **- Esto puede ser traducido como, "y usar parte de el dinero reciviso de su venta para pagarme parte de lo que me deben.
 **[[:es-419:obs:notes:frames:29-02|<<]] | [[:es-419:obs:notes:29|Up]] | [[:es-419:obs:notes:frames:29-04|>>]]**
