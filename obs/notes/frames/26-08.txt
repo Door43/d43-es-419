@@ -1,4 +1,4 @@
-===== Jesus Healed the Sick [26-08] =====
+===== Jesus Healed the Sick [26-08] Jesús sana a los enfermos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
@@ -6,12 +6,11 @@ Then **Jesus went throughout the region of Galilee**, and large crowds came to h
 
 Entonces, Jesús se fue por toda la región de Galilea, y grandes multitudes vinieron a él. Trajeron muchas personas que estaban enfermas o con discapacidades, incluidos los que no podían ver, caminar, oír, ni hablar, y Jesús los sanó.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:other:galilee]]**
-  * **[[:es-419:obe:other:heal]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
+  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
 ===== Translation Notes: =====
 
   * **went throughout the region of Galilee**  - That is, "all around in Galilee" or, "from place to place in Galilee."
