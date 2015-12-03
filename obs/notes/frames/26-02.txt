@@ -1,4 +1,4 @@
-===== Jesus in Nazareth [26-02] =====
+===== Jesus in Nazareth [26-02] Jesús en Nazaret =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
@@ -6,15 +6,14 @@
 
 Jesús decía: “Dios me ha dado su Espíritu para que yo pueda dar buenas nuevas a los pobres, la libertad a los cautivos y dar vista a los ciegos, y liberar a los oprimidos. Este es el año de la gracia del Señor.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]] **
-  * **[[:es-419:obe:other:nazareth]]**
-  * **[[:es-419:obe:kt:sabbath]] **
-  * **[[:es-419:obe:kt:worship]]**
-  * **[[:es-419:obe:kt:prophet]] **
-  * **[[:es-419:obe:other:isaiah]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
+  * **[[:es-419:obe:other:nazareth|Nazareth, Nazarene]]**
+  * **[[:es-419:obe:kt:sabbath|Sabbath (sábado)]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
 ===== Translation Notes: =====
 
   * **place of worship**  - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
@@ -22,8 +21,7 @@ Jesús decía: “Dios me ha dado su Espíritu para que yo pueda dar buenas nuev
   * **scroll**  - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
   * **rollo **- Un rollo era una larga hoja de papel o cuero que estaba enrollado y habia escrito en el.
   * **the scroll of the prophet Isaiah**  - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **el rollo del profeta Isaias** - Esto es, "el rollo que tenia palabras que el profeta Isaias habia escrito. "Isaias habia escrito el rollo cientos de anos  antes. Esto era una copia del rollo.
+  * **el rollo del profeta Isaias**  - Esto es, "el rollo que tenia palabras que el profeta Isaias habia escrito. "Isaias habia escrito el rollo cientos de anos antes. Esto era una copia del rollo.
   * **opened up the scroll**  - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
-  * **abrio el rollo** - Esto de puede traducir como, "Abre la hoja de papel" o, "desenrollada la hoja de papel."
-   
+  * **abrio el rollo**  - Esto de puede traducir como, "Abre la hoja de papel" o, "desenrollada la hoja de papel."
 **[[:es-419:obs:notes:frames:26-01|<<]] | [[:es-419:obs:notes:26|Up]] | [[:es-419:obs:notes:frames:26-03|>>]]**
