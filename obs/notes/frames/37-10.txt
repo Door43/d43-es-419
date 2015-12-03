@@ -1,4 +1,4 @@
-===== Lazarus Was Alive Again [37-10] =====
+===== Lazarus Was Alive Again [37-10] Lázaro estaba vivo otra vez =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-10.jpg?nolink&}}
 
@@ -6,24 +6,19 @@ So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** to
 
 ¡Así, Lázaro salió! Todavía estaba envuelto en las telas del sepulcro. Jesús les dijo, “¡Ayúdenle quitar las telas del sepulcro y suéltenle! Muchos de los Judios creyeron en Jesús por este miraglo.
 
+===== Términos Importantes =====
 
-=====Términos Importantes===== 
-  * **[[:es-419:obe:other:lazarus]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:kt:believe]]**
-  * **[[:es-419:obe:kt:miracle]]**
- 
- 
-
-
-
+  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:miracle|miracle, wonder, sign (milagro, maravilla, signo)]]**
 ===== Translation Notes: =====
 
   * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
   * **Lazaro salio **- Algunos idiomas dirian, "Lazaro sal de la tumba!"
   * **grave clothes**  - That is, "burial clothes." This can also be translated as, "burial bandages" or, "strips of cloth."
-  * **ropa del selpucro** - Esto es, "ropa del entierro." Esto tambien puede ser traducido como, "vendajes del entierro" o, tiras de tela."
+  * **ropa del selpucro**  - Esto es, "ropa del entierro." Esto tambien puede ser traducido como, "vendajes del entierro" o, tiras de tela."
   * **because of this miracle**  - That is, "because God had done this amazing miracle" or, "because Jesus had made Lazarus come alive again."
-  * **porque esto es un milagro **-  Esto es, "porque Dios habia hecho un asombroso milagro" o,porque Jesus hizo que Lazaro volviera a la vida otra vez."
+  * **porque esto es un milagro **- Esto es, "porque Dios habia hecho un asombroso milagro" o,porque Jesus hizo que Lazaro volviera a la vida otra vez."
 **[[:es-419:obs:notes:frames:37-09|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-11|>>]]**
