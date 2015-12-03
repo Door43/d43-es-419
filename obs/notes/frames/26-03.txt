@@ -1,4 +1,4 @@
-===== Jesus Read the Scriptures [26-03] =====
+===== Jesus Read the Scriptures [26-03] Jesús lee las Escrituras =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?nolink&}}
 
@@ -6,23 +6,22 @@ Jesus read, “**God** has given me his **Spirit** so that I can **proclaim good
 
 Entonces, Jesús se sentó. Todo el mundo lo observaba de cerca. Sabían que el pasaje de la Escritura que acabó de leer que se refiere al Mesías. Jesús dijo: “Las palabras que acabó de leer a Uds.están sucediendo en este momento.” Todas las personas se sorprendieron. “¿No es éste el hijo de José?” dijeron.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:holyspirit]]**
-  * **[[:es-419:obe:kt:goodnews]]**
-  * **[[:es-419:obe:kt:lord|]] **
-
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
 ===== Translation Notes: =====
 
   * **proclaim good news to the poor**  - That is, "to tell poor and needy people the good message that God will help them."
-  * **reclamaron las buenas noticias a los probres** - Esto es, " decir al la gente pobre y necesitada el mesaje bueno que Dios los iba a ayudar."
-  * **freedom to captives** - That is, "to tell people who are wrongfully in prison that they will be released."
-  * **libertad a los cautivos** - Esto es, "decir a la gente que estaban injustamente en la carcel que ellos van a hacer libeberados.
+  * **reclamaron las buenas noticias a los probres**  - Esto es, " decir al la gente pobre y necesitada el mesaje bueno que Dios los iba a ayudar."
+  * **freedom to captives**  - That is, "to tell people who are wrongfully in prison that they will be released."
+  * **libertad a los cautivos**  - Esto es, "decir a la gente que estaban injustamente en la carcel que ellos van a hacer libeberados.
   * **recovery of sight for the blind**  - This could be translated as, "that those who are blind will receive their sight."
-  * **recuperacion de vista de los ciegos** - Esto puede ser traducido como, "que aquellos que eran ciegos recivirian su vista."
+  * **recuperacion de vista de los ciegos**  - Esto puede ser traducido como, "que aquellos que eran ciegos recivirian su vista."
   * **release to the oppressed**  - That is, "freedom for those who are mistreated in life.
-  * **liberacion de los oprimidos** - Esto es, "libertad a aquellos que han sido maltratados en la vida."
+  * **liberacion de los oprimidos**  - Esto es, "libertad a aquellos que han sido maltratados en la vida."
   * **the year of the Lord's favor**  - This may be translated as, "the time when the Lord will be merciful to us" or, "the time when the Lord will be very gracious to us."
-  * **el ano del favor del Senor** - Este se puede traducir como, "el tiempo donde el Senor tendra misericordia con nosotros" o, "clemente con nosotros."
+  * **el ano del favor del Senor**  - Este se puede traducir como, "el tiempo donde el Senor tendra misericordia con nosotros" o, "clemente con nosotros."
 **[[:es-419:obs:notes:frames:26-02|<<]] | [[:es-419:obs:notes:26|Up]] | [[:es-419:obs:notes:frames:26-04|>>]]**
