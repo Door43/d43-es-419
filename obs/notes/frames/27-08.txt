@@ -1,4 +1,4 @@
-===== The Samaritan [27-08] =====
+===== The Samaritan [27-08] El samaritano =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
@@ -6,11 +6,10 @@
 
 “La próxima persona a caminar por ese camino era un samaritano. Los Samaritanos eran descendientes de los Judios que tenían las personas casadas de otras naciones. Los Samaritanos y los Judios se odiaban.) Pero cuando el samaritano vio al hombre judío, se sentía compasión muy fuerte para, él. Así que él se preocupaba por él, y vendó sus heridas ”.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:other:samaria]] **
-  * **[[:es-419:obe:other:jew]] **
-
+  * **[[:es-419:obe:other:samaria|Samaria, Samaritan (Samaria, samaritano)]] **
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
