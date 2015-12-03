@@ -1,4 +1,4 @@
-====== 30. Jesus Feeds Five Thousand People    Jesús Alimenta Cinco Mil Personas ======
+====== 30. Jesus Feeds Five Thousand People Jesús Alimenta Cinco Mil Personas ======
 
 ===== Overview: =====
 
@@ -12,7 +12,7 @@ Click on the links below to translate each frame of the story.
 A Quiet Place [30-01] Un lugar quieto
 
 [[:es-419:obs:notes:frames:30-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&200}}]]\\
-The Crowd Followed Jesus [30-02] La multitud seguía a Jesús
+The Crowd Followed Jesus [30-02] La multitud siguió a Jesús
 
 [[:es-419:obs:notes:frames:30-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&200}}]]\\
 Jesus Taught and Healed People [30-03] Jesús enseñaba y sanaba las personas
@@ -24,13 +24,13 @@ The People Were Hungry [30-04] Las personas tenían hambre
 Five Loaves and Two Fish [30-05] Cinco panes y dos peces
 
 [[:es-419:obs:notes:frames:30-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&200}}]]\\
-Preparation for the Meal [30-06] Preparación de la comida
+Preparation for the Meal [30-06] Preparación para la comida
 
 [[:es-419:obs:notes:frames:30-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&200}}]]\\
-Jesus Blessed the Food [30-07] Jesús bendijo la comida
+Jesus Blessed the Food [30-07] Jesús bendijo los alimentos
 
 [[:es-419:obs:notes:frames:30-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&200}}]]\\
-Everyone Ate [30-08] Todo el mundo comió.
+Everyone Ate [30-08] Todos comieron
 
 [[:es-419:obs:notes:frames:30-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&200}}]]\\
 More than Enough [30-09] Más que suficiente
