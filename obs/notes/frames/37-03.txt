@@ -1,4 +1,4 @@
-===== Lazarus Was Dead [37-03] =====
+===== Lazarus Was Dead [37-03] Lázaro estaba muerto =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink&}}
 
@@ -6,19 +6,18 @@
 
 Los discípulos de Jesús respondieron, “Señor, si Lázaro duerme, entonces, se mejorará.” Entonces, Jesús les dijo sin pelos en la lengua, “Lázaro está muerto. Estoy contento que no estuve allá, para que Uds. puedan creer en mí.”
 
- 
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:lord]]**
-  * **[[:es-419:obe:other:lazarus]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:believe]]**
-  
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
+  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
 ===== Translation Notes: =====
 
   * **he will get better**  - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **el va a mejorar **- Los discipulos intentaron esto con un sentido ****de, "no hay una razon para nosotros ir con el ahora, ya que el se va a mejorar."
+  * **el va a mejorar **- Los discipulos intentaron esto con un sentido de, "no hay una razon para nosotros ir con el ahora, ya que el se va a mejorar."
   * **I am glad**  - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-  * **Estoy contento** - Esto se puede traducir como, "Yo estoy alegre" o, "Esto es bueno que." No quiere decir que el estaba contento que Lazaro murio, pero mas bien contento que Dios iba a mostrar que grande el es.
+  * **Estoy contento**  - Esto se puede traducir como, "Yo estoy alegre" o, "Esto es bueno que." No quiere decir que el estaba contento que Lazaro murio, pero mas bien contento que Dios iba a mostrar que grande el es.
 **[[:es-419:obs:notes:frames:37-02|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:37-04|>>]]**
