@@ -1,4 +1,4 @@
-===== How Many Times? [29-01] =====
+===== How Many Times? [29-01] ¿Cúantas veces? =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
@@ -6,14 +6,13 @@
 
 Un día, Pedro le preguntó a Jesús: “Maestro, ¿cuántas veces debo perdonar a mi hermano que peca contra mí? ¿Hasta siete veces?” Jesús dijo, “No siete veces, sino hasta setenta veces siete!” Por esto, Jesús quería decir que siempre deberíamos perdonar. Entonces, Jesús le dijo esta historia.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:lord]]**
-  * **[[:es-419:obe:kt:forgive]]**
-  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
