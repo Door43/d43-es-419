@@ -1,4 +1,4 @@
-===== Peter's Comments [36-04] =====
+===== Peter's Comments [36-04] Comentarios de Pedro =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
@@ -6,19 +6,17 @@ As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus
 
 Mientras Moises y Elías estvuieron hablando con Jesús, Pedro dijo a Jesús. “Es bueno que estemos aquí. Déjenos hacer tres refugios, uno para Ud., uno para Moises, y uno para Elías.” Pedro no sabía lo que estuvo dieciendo.
 
+===== Términos Importantes =====
 
-
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:moses]]**
-  * **[[:es-419:obe:other:elijah]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:good]]**
-  
+  * **[[:es-419:obe:other:moses|Moses (Moisés)]]**
+  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:good|good, goodness (bueno, bondad)]]**
 ===== Translation Notes: =====
 
   * **shelters**  - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **refugios** - Esto se puede traducir como, "techadas" o, "chozas de jardin" o, "tienda de campanas." Esto se refiere algo pequeno, refugio temporero, como los Judios hacian de las ramas de los arboles durante la fiesta anual Judia.
+  * **refugios**  - Esto se puede traducir como, "techadas" o, "chozas de jardin" o, "tienda de campanas." Esto se refiere algo pequeno, refugio temporero, como los Judios hacian de las ramas de los arboles durante la fiesta anual Judia.
   * **did not know what he was saying**  - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-  * **no sabia lo que estaba diciendo** - Esto es, "estaba hablando sin conocimiento de lo que estaba pasando**" o ,** hablo sin pensar claro porque el estaba bien emocianado."
+  * **no sabia lo que estaba diciendo**  - Esto es, "estaba hablando sin conocimiento de lo que estaba pasando**" o ,**  hablo sin pensar claro porque el estaba bien emocianado."
 **[[:es-419:obs:notes:frames:36-03|<<]] | [[:es-419:obs:notes:36|Up]] | [[:es-419:obs:notes:frames:36-05|>>]]**
