@@ -1,4 +1,4 @@
-===== The Leaders Were Jealous [37-11] =====
+===== The Leaders Were Jealous [37-11] Los líderes estaban celosos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-11.jpg?nolink&}}
 
@@ -6,23 +6,20 @@ But the **religious leaders** of the **Jews** were **jealous**, so they **gather
 
 Pero, los líderes religiosos de los Judios estaban celosos, así, ellos se juntaron para hacer planes cómo ellos podrían matar a Jesús y a Lázaro.
 
+===== Términos Importantes =====
 
-
-=====Términos Importantes===== 
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:kt:jesus]]** 
-  * **[[:es-419:obe:other:lazarus]]**
-
-
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
 ===== Translation Notes: =====
 
   * **jealous**  - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
-  * **celosos** - Estos es, "celosos del poder de Jesus y popularidad" o, celosos que muchos Judios creian en Jesus."
+  * **celosos**  - Estos es, "celosos del poder de Jesus y popularidad" o, celosos que muchos Judios creian en Jesus."
   * **gathered together**  - That is, "met together" or, "joined together." This was a not a casual meeting, but a meeting for a specific purpose–to plan how to kill Jesus.
-  * **Se reunieron** - Esto es, "se reunieron" o, "se unieron." Esto no era una reunion casual, pero una reunion con un proposito especifico-para planificar como matar a Jesus.
+  * **Se reunieron**  - Esto es, "se reunieron" o, "se unieron." Esto no era una reunion casual, pero una reunion con un proposito especifico-para planificar como matar a Jesus.
   * //A Bible story from//  - These references may be slightly different in some Bible translations
-  * ** Una historia de la Biblia** - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
- //Una historia de la Biblia de: Juan 11:1-46//
+  * **Una historia de la Biblia**  - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
+//Una historia de la Biblia de: Juan 11:1-46//
 
 **[[:es-419:obs:notes:frames:37-10|<<]] | [[:es-419:obs:notes:37|Up]] | [[:es-419:obs:notes:frames:38-01|>>]]**
