@@ -1,4 +1,4 @@
-===== The Small Debt [29-05] =====
+===== The Small Debt [29-05] La pequeña deuda =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?nolink&}}
 
@@ -6,10 +6,9 @@
 
 “Pero cuando el siervo salió de la presencia del rey, se encontró con un consiervo que le debía una deuda por valor de cuatro meses de salario. El siervo tomó su siervo y le dijo: '''¡Págame el dinero que me debes!'”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-
-  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
