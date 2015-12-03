@@ -1,4 +1,4 @@
-===== Keep the Secret [36-07] =====
+===== Keep the Secret [36-07] Guarden el secreto =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
@@ -6,19 +6,16 @@
 
 Jesús y los tres discípulos bajaron de la montaña. Entonces, Jesús les dijo, “No digan esto a nadie todavía acerca de lo que sucedió aquí. Pronto moriré y luego volveré a la vida. Después de esto, pueden decirlo a la gente.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:life]]**
-
- 
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una historia de la Biblia// - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.   
-
+  * //Una historia de la Biblia//  - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
 //Una historia de la Biblia de: Mateo 17:1-9; Marcos:2-8; Lucas 9:28-36//
 
 **[[:es-419:obs:notes:frames:36-06|<<]] | [[:es-419:obs:notes:36|Up]] | [[:es-419:obs:notes:frames:37-01|>>]]**
