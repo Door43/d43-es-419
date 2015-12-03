@@ -1,4 +1,4 @@
-===== The Jewish Traveler [27-04] =====
+===== The Jewish Traveler [27-04] El judío viajero =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
@@ -6,20 +6,20 @@
 
 Jesús respondió al experto de la ley por contar una historia. “Había un hombre judío que viajaba por el camino de Jerusalén a Jericó.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:jew]] **
-  * **[[:es-419:obe:other:jerusalem]]**
-  * **[[:es-419:obe:other:jericho]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:other:jericho|Jericho]]**
 ===== Translation Notes: =====
 
   * **(The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)**
   * **(La nube como marco alrededor de esta imagen indica que Jesus esta diciendo una historia, y no necesariamente explicando un evento.)**
   * **law expert**  - See how you translated this term in **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
-  * **experto de la ley **- Vea como usted  traducio este termino en **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
+  * **experto de la ley **- Vea como usted traducio este termino en **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
   * **from Jerusalem to Jericho**  - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-  * **de Jerusalen a la ciudad de Jerico** - En algunos idiomas tu puedes traducir esto como, "de la ciudad de Jerusalen hasta la ciudad de Jerico o, "de la ciudad de Jerusalen a ciudad de Jerico."
+  * **de Jerusalen a la ciudad de Jerico**  - En algunos idiomas tu puedes traducir esto como, "de la ciudad de Jerusalen hasta la ciudad de Jerico o, "de la ciudad de Jerusalen a ciudad de Jerico."
 **[[:es-419:obs:notes:frames:27-03|<<]] | [[:es-419:obs:notes:27|Up]] | [[:es-419:obs:notes:frames:27-05|>>]]**
+
 ~~DISCUSSION~~
