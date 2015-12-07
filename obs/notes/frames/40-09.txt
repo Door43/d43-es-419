@@ -1,4 +1,4 @@
-===== The Burial of Jesus [40-09] =====
+===== The Burial of Jesus [40-09] El Entierro de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
@@ -6,23 +6,22 @@ Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was
 
 Entonces, José y Nicodemo, dos líderes de los Judios que creían que Jesús era el Mesías, pidieron de Pilato el cuerpo de Jesús. Ellos envolvieron su cuerpo en tela y lo colocó en una tumba cortada en la roca. Entonces, ellos arrollaron una piedra grande en frente del sepulcro para bloquear la abertura.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:believe]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:other:pilate]]**
-  * **[[:es-419:obe:other:tomb]]**
- 
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
+  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
 ===== Translation Notes: =====
 
   * **Joseph**  - This was not Mary's husband. It was another man named Joseph.
   * **Jose **- Este no era el esposo de Maria. Era otro hombre llamado Jose.
   * **asked Pilate for Jesus' body**  - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
-  * **pregunto a Pilato por el cuerpo de Jesus** - Esto es,  "pregunto a Pilato que le permitiera a ellos a sacar el cuerpo de Jesus bajado de la cruz."
+  * **pregunto a Pilato por el cuerpo de Jesus**  - Esto es, "pregunto a Pilato que le permitiera a ellos a sacar el cuerpo de Jesus bajado de la cruz."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una historia de la Biblia// - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
- //Una historia de la Biblia de: Mateo 27:27-61; Marcos 15:16-47; Lucas 23:26-56; Juan 19:17-42//
+  * //Una historia de la Biblia//  - Estas referencias pueden ser diferentes en algunas traducciones de la Biblia.
+//Una historia de la Biblia de: Mateo 27:27-61; Marcos 15:16-47; Lucas 23:26-56; Juan 19:17-42//
 
 **[[:es-419:obs:notes:frames:40-08|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:41-01|>>]]**
