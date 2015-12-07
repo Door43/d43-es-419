@@ -1,4 +1,4 @@
-===== Jesus Carried His Cross [40-01] =====
+===== Jesus Carried His Cross [40-01] Jesús Cargó su Cruz =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
@@ -6,17 +6,16 @@ After the soldiers **mocked Jesus**, they **led him away to crucify him**. They 
 
 Después de burlarse ​de Jesús los soldados, le llevaron para cucificarlo. Le forzaron para que llevara la cruz en que moriría.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:mock]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:crucify]]**
-  * **[[:es-419:obe:kt:cross]]**
- 
+  * **[[:es-419:obe:other:mock|mock, ridicule (burla/mofa, ridículo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:crucify|crucify (crucificar)]]**
+  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
 ===== Translation Notes: =====
 
   * **led him away**  - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **Lo llevaron** - Esto es, "lo forzaron a que fuera con ellos." Esto tambien se puede traducir como, "se lo llevaron."
+  * **Lo llevaron**  - Esto es, "lo forzaron a que fuera con ellos." Esto tambien se puede traducir como, "se lo llevaron."
   * **to crucify him**  - That is, "to kill him on a cross."
-  * **para crucificarlo** - Esto es. "para matarlo en la cruz."
+  * **para crucificarlo**  - Esto es. "para matarlo en la cruz."
 **[[:es-419:obs:notes:frames:39-12|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-02|>>]]**
