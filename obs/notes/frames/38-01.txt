@@ -1,4 +1,4 @@
-===== The Passover [38-01] =====
+===== The Passover [38-01]  La Pascua =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
@@ -6,20 +6,18 @@ Every year, the **Jews** celebrated the **Passover**. This was a celebration of 
 
 Cada año, los Judios celebaron la Pascua. Esta fue una celebración de cómo Dios había salvado a sus antespasados en Egipto mucho siglos antes. Más o menos tres años después de empezar su ministerio público de predicar y enseñar, Jesús dijo a sus discípulos que él quería celebrar esta Pascua con ellos en Jerusalen, y que él sería matado allá.
 
+===== Términos Importantes =====
 
- =====Términos Importantes===== 
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:kt:passover]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:save]]**
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:other:egypt]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:preach]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:other:jerusalem]]**
- 
-
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:passover|Passover (Pascua)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:save|save (salvar)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:egypt|Egypt, Egyptian (Egipto, egipcio)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:preach|preach (predicar)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
 ===== Translation Notes: =====
 
   * **many centuries earlier**  - That is, "hundreds of years earlier" or, "a very long time before."
