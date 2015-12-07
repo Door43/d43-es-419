@@ -1,4 +1,4 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== Thirty Pieces of Silver [38-03] Treinta Monedas de Plata =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
@@ -6,19 +6,17 @@ The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver c
 
 Los líderes de los Judios, liderado por el sumo sacerdote, pagaron a Judas treinta monedas de plata por traicionar a Jesús. Esto sucedió cómo los profetas habían profetizado. Judas consintió, recibió el dinero, y se fue. El empezó de buscar una oportunidad para ayudarles arrestar a Jesús.
 
+===== Términos Importantes =====
 
-=====Términos Importantes===== 
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:judasiscariot]]**
-  * **[[:es-419:obe:kt:betray]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:prophet]]**
- 
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
+  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
 ===== Translation Notes: =====
 
   * **thirty silver coins**  - Each of these coins were worth about four days' wages.
   * **treinta monedas de plata **- cada una de estas monedas tenian un valor de cuatro dias de salario.
-
 **[[:es-419:obs:notes:frames:38-02|<<]] | [[:es-419:obs:notes:38|Up]] | [[:es-419:obs:notes:frames:38-04|>>]]**
