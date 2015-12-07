@@ -1,4 +1,4 @@
-===== Peter's Promise [38-10] =====
+===== Peter's Promise [38-10]  La Promesa de Pedro =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
@@ -6,13 +6,12 @@
 
 Entonces, Pedro dijo a Jesús, “¡Aun si debo morir, nunca le niegue a Ud.!” Todos los otros discípulos dijeron lo mismo.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:disciple]]**
-
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
 ===== Translation Notes: =====
 
   * **deny you**  - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
