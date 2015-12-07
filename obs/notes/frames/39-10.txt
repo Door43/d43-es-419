@@ -1,4 +1,4 @@
-===== What Is Truth? [39-10] =====
+===== What Is Truth? [39-10]  ¿Qué es la Verdad? =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
@@ -6,29 +6,26 @@ Jesus answered, “**You have said so**, but **my kingdom is not an earthly king
 
 Jesús le contestó, “Ud. lo ha dicho, pero mi reino no es un reino terrenal. Si fuera, mis siervos pelerarían por mí. He venido a la tierra para decir la verdad acerca de Dios. Cada persona que ama la verdad me escucha. “Pilato dijo, “Qué es la verdad?”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:kingdomofgod]]**
-  * **[[:es-419:obe:other:kingdom]]**
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:kt:true]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:love]]**
-  * **[[:es-419:obe:other:pilate]]**
-  
-
- 
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
+  * **[[:es-419:obe:other:kingdom|kingdom (reino)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:true|true, truth (verdad, verdadero)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
 ===== Translation Notes: =====
 
   * **You have said so**  - That is, "You have spoken correctly."
-  * **Tu lo has dicho** - Esto es ,"Tu has hablado correctamente."
+  * **Tu lo has dicho**  - Esto es ,"Tu has hablado correctamente."
   * **my kingdom is not an earthly kingdom**  - That is, "my kingdom is not like earthly kingdoms."
-  * **mi reino no es un reino terrenal** - Esto es, "mi reino no es como los reinos terrenales."
+  * **mi reino no es un reino terrenal**  - Esto es, "mi reino no es como los reinos terrenales."
   * **my servants would fight for me**  - That is, "my disciples would fight to protect me" so that I could establish my kingdom.
-  * **mis siervos lucharian por mi** - Esto, "mis discipulos lucharian para protegerme" asi yo puedo establer mi reino.
+  * **mis siervos lucharian por mi**  - Esto, "mis discipulos lucharian para protegerme" asi yo puedo establer mi reino.
   * **listens to me**  - This could be translated as, "hears my teaching and obeys me." It includes not just hearing Jesus' words, but also doing what he says.
-  * **escuchame** - Esto puede ser traducido como, "oye mis ensenanzas y obedeceme." Esto incluye no solo escuchar las palabras de Jesus, pero tambien hacer lo que el dice.
+  * **escuchame**  - Esto puede ser traducido como, "oye mis ensenanzas y obedeceme." Esto incluye no solo escuchar las palabras de Jesus, pero tambien hacer lo que el dice.
   * **What is truth?**  - that is, "Can anyone know what is true?"
-  * **Cual es la verdad?** - esto es, "Alguien sabe lo que es verdad?"
+  * **Cual es la verdad?**  - esto es, "Alguien sabe lo que es verdad?"
 **[[:es-419:obs:notes:frames:39-09|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-11|>>]]**
