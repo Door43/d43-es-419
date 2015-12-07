@@ -1,4 +1,4 @@
-===== Judas Made a Deal [38-02] =====
+===== Judas Made a Deal [38-02] Judas Hace un Trato =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?nolink&}}
 
@@ -6,24 +6,20 @@ One of **Jesus' disciples** was a man named **Judas**. Judas was **in charge of 
 
 Uno de los discípulos de Jesús era un hombre que se llamaba Judas. Judas era encargado de la bolsa de dinero de los apóstoles, pero él amaba el dinero y agarró dinero de la bolsa con frecuencia. Después de llegar Jesús y sus discípulos a Jerusalén, Judas fue a los líderes de los Judios y les ofreció entregarles a Jesús por dinero. El sabía que los líderes de los Judios negaron que Jesús fuera el Mesías y que ellos estaba haciendo planes para matarle.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====  
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:other:judasiscariot]]**
-  * **[[:es-419:obe:kt:apostle]]**
-  * **[[:es-419:obe:other:jerusalem]]**
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:betray]]**
-  * **[[:es-419:obe:kt:christ]]**
- 
-
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
+  * **[[:es-419:obe:kt:apostle|apostle, apostleship (apóstol, apostolado)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
 ===== Translation Notes: =====
 
   * **in charge of the apostles' moneybag**  - That is, "responsible to hold the apostles' money" or, "responsible to hold the bag that had the disciples' money in it and to distribute funds from it."
-  * ** encargado de la bolsa de dinero **- Esto es, "responsable de mantener el dinero de los 'apostoles" o, responsable de mantener la bolsa que tenia el dinero de los discipulos y distribuir los "fondos,"
+  * **encargado de la bolsa de dinero **- Esto es, "responsable de mantener el dinero de los 'apostoles" o, responsable de mantener la bolsa que tenia el dinero de los discipulos y distribuir los "fondos,"
   * **loved money**  - That is, "highly valued money" or, "wanted money." Some languages would not use the same word that can be used for "loved people."
   * **el amor al dinero **- Esto es, "altamante valoraba el dinero" o, "queria dinero". Algunos idiomas no pueden usar la misma palabra que la palabra para "gente amorosa."
-
 **[[:es-419:obs:notes:frames:38-01|<<]] | [[:es-419:obs:notes:38|Up]] | [[:es-419:obs:notes:frames:38-03|>>]]**
