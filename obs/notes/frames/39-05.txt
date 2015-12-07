@@ -1,4 +1,4 @@
-===== They Mocked Jesus [39-05] =====
+===== They Mocked Jesus [39-05]  Ellos se Burlaron de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
@@ -6,18 +6,17 @@ The **Jewish leaders** all answered the **high priest**, “He deserves to **die
 
 Todos los líderes religiosos dijeron al sumo sacerdote, “¡El merece la muerte!” Entonces, ellos vendaron sus ojos, escupieron en él, le pegaron, y se burlaron de él.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:mock]]**
- 
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:mock|mock, ridicule (burla/mofa, ridículo)]]**
 ===== Translation Notes: =====
 
   * **they blindfolded Jesus**  - That is. "they covered Jesus' eyes so that he could not see."
-  * **ellos vendaron a Jesus** - Esto es. "ellos cubrieron los ojos de Jesus asi el no podia ver."
+  * **ellos vendaron a Jesus**  - Esto es. "ellos cubrieron los ojos de Jesus asi el no podia ver."
   * **spit on him**  - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-  * **escupieron a el** - Esto tambien puede ser traducido como, "lo escupieron para insultarlo" o, "lo escupieron para decir que el era inutil." Esta era una forma  de mostrar despresio a alguien.
+  * **escupieron a el**  - Esto tambien puede ser traducido como, "lo escupieron para insultarlo" o, "lo escupieron para decir que el era inutil." Esta era una forma de mostrar despresio a alguien.
 **[[:es-419:obs:notes:frames:39-04|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-06|>>]]**
