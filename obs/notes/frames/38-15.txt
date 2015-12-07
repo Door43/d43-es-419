@@ -1,4 +1,4 @@
-===== Peter Fought for Jesus [38-15] =====
+===== Peter Fought for Jesus [38-15] Pedro Peleó por Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?nolink&}}
 
@@ -6,29 +6,27 @@
 
 Mientras los soldados arrestaron a Jesús, Pedro sacó su espada y cortó la oreja del siervo del sumo sacerdote. Jesús dijo, “¡Guarda tu espada! Yo podría pedir de mi Padre un ejercito de ángeles para defenderme. Pero tengo que obedecer a mi Padre.” Entonces, Jesús sanó la oreja del hombre. Después de ser arrestado Jesús, todos sus discípulos se escaparon.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:other:father]]**
-  * **[[:es-419:obe:kt:angel]]**
-  * **[[:es-419:obe:other:obey]]**
-  * **[[:es-419:obe:other:heal]]**
-  * **[[:es-419:obe:kt:disciple]]**
-
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:other:father|father, forefather (padre, antepasado)]]**
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
 ===== Translation Notes: =====
 
   * **As the soldiers arrested Jesus**  - That is, "While the soldiers were arresting Jesus."
-  * **Como los soldados arrestaron a Jesus** - Esto es, Mientras los soldados arrestaban a Jesus."
+  * **Como los soldados arrestaron a Jesus**  - Esto es, Mientras los soldados arrestaban a Jesus."
   * **pulled out his sword**  - That is, "pulled out his sword from the place where he was carrying it."
   * **Saco la espada **- Esto es, "saco la espada del sitio donde la estaba cargando."
   * **I must obey my Father**  - That is, "I won't do that because I must obey my Father's will and allow myself to be arrested."
   * **Yo debo obedecer mi Padre **- Esto es, "No voy hacer eso porque yo debo obedecer la voluntad de mi Padre y permitir ser arrestado."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una  historia de la Biblia// - Esta referencias pueden ser diferentes  an algunas traducciones de la Biblia.
- //Una historia de la Biblia de: Mateo 26:14-56; Marcos 14:10-50; Lucas 22:1-53; Juan 12:6; 18:1-11//
+  * //Una historia de la Biblia//  - Esta referencias pueden ser diferentes an algunas traducciones de la Biblia.
+//Una historia de la Biblia de: Mateo 26:14-56; Marcos 14:10-50; Lucas 22:1-53; Juan 12:6; 18:1-11//
 
 **[[:es-419:obs:notes:frames:38-14|<<]] | [[:es-419:obs:notes:38|Up]] | [[:es-419:obs:notes:frames:39-01|>>]]**
