@@ -1,4 +1,4 @@
-===== Your Will Be Done [38-12] =====
+===== Your Will Be Done [38-12] Tu Voluntad Será Hecha =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
@@ -6,18 +6,17 @@
 
 Jesús oró tres veces, “Padre mío, si es posible, por favor, deje que no tengo que tomar esta copa de sufrimiento. Pero si no hay otra manera para que el pecado de la gente sea perdonado, entonces, que tu voluntad sea hecha.” Jesús estaba muy agitado y su sudor fue como gotas de sangre. Dios envió un ángel para fortalecerle.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:pray]]**
-  * **[[:es-419:obe:kt:godthefather]]**
-  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
   * **[[:es-419:obe:kt:sin|sins]]**
-  * **[[:es-419:obe:kt:forgive]]**
-  * **[[:es-419:obe:kt:blood]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:angel]]**
- 
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:kt:blood|blood (sangre)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
 ===== Translation Notes: =====
 
   * **drink this cup of suffering**  - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
