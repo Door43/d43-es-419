@@ -1,4 +1,4 @@
-===== Peter Denied Jesus [39-07] =====
+===== Peter Denied Jesus [39-07]  Pedro Negó a Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-07.jpg?nolink&}}
 
@@ -6,20 +6,18 @@ Then **Peter vowed**, saying, “**May God curse me if I know this man**!” Imm
 
 Entonces, Pedro juró, diciendo, “¡Dios me maldiga si conozco a este hombre!” Inmediatamente, un gallo cantó, y Jesús hizo la vuelta y miró a Pedro.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:curse]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:curse|curse, cursed (maldición, maldito)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
   * **vowed**  - That is, "said emphatically" or, "said very strongly."
   * **juro **- Esto es, "dijo enfaticamente" o, "dijo fuertemente."
   * **May God curse me if I know this man**  - This is a curse that means, "May God cause harm to me if what you say is true" or, "May God punish me if I am lying to you!" In this way Peter was saying very strongly that he did not know Jesus. He also referred to Jesus as, "this man" to make it sound like he did not know him.
-  * **Que Dios me maldiga si yo conozco este hombre **- Esta era una maldicion que significa, "Que Dios me cause dano a mi si lo que tu dices es cierto" o, Que Dios me castigue  si yo estoy mintiendo a ti!."Es esta forma Pedro estaba diciendo fuertemente que el no conocia a Jesus.  El tambien refirio a Jesus como, "este hombre" para hacer que suene que no conocia a Jesus.
+  * **Que Dios me maldiga si yo conozco este hombre **- Esta era una maldicion que significa, "Que Dios me cause dano a mi si lo que tu dices es cierto" o, Que Dios me castigue si yo estoy mintiendo a ti!."Es esta forma Pedro estaba diciendo fuertemente que el no conocia a Jesus. El tambien refirio a Jesus como, "este hombre" para hacer que suene que no conocia a Jesus.
   * **a rooster crowed**  - "Crowing" is the loud sound that a rooster makes. Compare how you translated this in **[[:es-419:obs:notes:frames:38-09|[38-09]]]**.
   * **el gallo que canto **- "Canto" es un sonido ruidoso que el gallo hace. Compara como tu traducistes esto en **[[:es-419:obs:notes:frames:38-09|[38-09]]]**.
- 
 **[[:es-419:obs:notes:frames:39-06|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-08|>>]]**
