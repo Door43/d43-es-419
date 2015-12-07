@@ -1,4 +1,4 @@
-===== Jesus Was Nailed to the Cross [40-02] =====
+===== Jesus Was Nailed to the Cross [40-02]  Jesús fue Clavado a la Cruz =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-02.jpg?nolink&}}
 
@@ -6,20 +6,18 @@ The soldiers brought **Jesus** to a place called “**the Skull**” and nailed 
 
 Los soldados le llevaron a Jesús a un lugar que se llamaba “el cráneo” y clavaron sus manos y sus pies a la cruz. Pero Jesús dijo, “Padre, perdóneles, porque no saben lo que están haciendo.” Pilato mandó que escribieran, “Rey de los Judios” en una señal y la puiseran en la cruz arriba de la cabeza de Jesús.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:cross]]**
-  * **[[:es-419:obe:kt:godthefather]]**
-  * **[[:es-419:obe:kt:forgive]]**
-  * **[[:es-419:obe:other:pilate]]**
-  * **[[:es-419:obe:kt:kingofthejews]]**
- 
- 
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
+  * **[[:es-419:obe:kt:kingofthejews|King of the Jews (rey de los judíos)]]**
 ===== Translation Notes: =====
 
   * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
-  * **el craneo** - Una colina cerca de Jerusalen con una blanca, parte superior rocosa en forma como la parte de un craneo.
+  * **el craneo**  - Una colina cerca de Jerusalen con una blanca, parte superior rocosa en forma como la parte de un craneo.
   * **forgive them, because they do not know what they are doing**  - That is, "they do not understand the meaning of what they are doing, so please forgive them." The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God.
-  * **perdonalos, porque no saben lo que estan haciendo** - Esto es , "ellos no entendian el significado de lo que estaban haciendo, asi que perdonaslo."  Los soldados creyeron que Jesus era solo un criminal que merecia morir. Ellos no entendian que el era el Hijo de Dios.
+  * **perdonalos, porque no saben lo que estan haciendo**  - Esto es , "ellos no entendian el significado de lo que estaban haciendo, asi que perdonaslo." Los soldados creyeron que Jesus era solo un criminal que merecia morir. Ellos no entendian que el era el Hijo de Dios.
 **[[:es-419:obs:notes:frames:40-01|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-03|>>]]**
