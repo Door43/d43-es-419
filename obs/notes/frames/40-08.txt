@@ -1,4 +1,4 @@
-===== The Soldier's Testimony [40-08] =====
+===== The Soldier's Testimony [40-08]  El Testimonio del Soldado =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
@@ -6,19 +6,19 @@
 
 Por su muerte, Jesús abrió el camino para la gente para llegar a Dios. Cuando el soldado que estaba guardando a Jesús vio todo que sucedió, dijo, “Ciertamente, este hombre era inocente. “El era el Hijo de Dios.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:innocent]]**
-  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:innocent|innocent (inocente)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
 ===== Translation Notes: =====
 
   * **Through his death**  - That is, "By means of his death" or, "By dying."
-  * **A traves de su muerte** - Esto es, "Por medio de su muerte" o, "Al morir."
+  * **A traves de su muerte**  - Esto es, "Por medio de su muerte" o, "Al morir."
   * **opened a way**  - That is, "made it possible."
-  * **abrio el camino** - Esto es, "lo hizo posible."
+  * **abrio el camino**  - Esto es, "lo hizo posible."
   * **come to God**  - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
-  * **ven a Dios** - Esto es,"ven cerca de Dios" o, "acercate a Dios", o, "aproximate a Dios" o, "conoce a Dios personalmente."La ruptura de la cortina mostro que era una barrera entre Dios y la gente fue removida.
+  * **ven a Dios**  - Esto es,"ven cerca de Dios" o, "acercate a Dios", o, "aproximate a Dios" o, "conoce a Dios personalmente."La ruptura de la cortina mostro que era una barrera entre Dios y la gente fue removida.
 **[[:es-419:obs:notes:frames:40-07|<<]] | [[:es-419:obs:notes:40|Up]] | [[:es-419:obs:notes:frames:40-09|>>]]**
