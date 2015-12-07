@@ -1,4 +1,4 @@
-===== The Betrayer [38-06] =====
+===== The Betrayer [38-06]  El Traidor =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink&}}
 
@@ -6,12 +6,12 @@ Then **Jesus** said to the **disciples**, “One of you will **betray** me.” T
 
 Entonces, Jesús dijo a los discípulos, “Uno de Uds. me va a traicionar.” Los discípulos estuvieron atónitos, y le preguntaron quién haría tal cosa. Jesús dijo, “La persona a quien yo doy este pedazo de pan es el traicionero.” Entonces, él dio el pan a Judas.
 
+===== Términos Importantes =====
 
-=====Términos Importantes===== 
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:betray]]**
-  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
 ===== Translation Notes: =====
 
   * **give this piece of bread**  - That is, "hand this piece of bread."
