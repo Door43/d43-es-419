@@ -1,4 +1,4 @@
-===== The House of the High Priest [39-01] =====
+===== The House of the High Priest [39-01]  La Casa del Sumo Sacerdote =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
@@ -6,17 +6,15 @@ It was now **the middle of the night**. The soldiers led **Jesus** to the house 
 
 Era la media noche. Los soldados llevaron a Jesús a la casa del sumo sacerdote para que el sumo sacerdote pudiera hacerle preguntas. Pedro les siguió de lejos. Cuando Jesús fue llevado a la casa, Pedro quedó afuera y se calentó por un fuego.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:other:peter]]**
- 
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
 ===== Translation Notes: =====
 
   * **the middle of the night**  - This expression means, "halfway through the night" or, "very late at night.
   * **el medio de la noche **- Esta expresion significa ,"a media noche" o, bien tarde en la noche.
   * **to question him**  - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
-  * **para hacerle preguntas** - Esto es, "para hacerle preguntas para poder encontrar algo que pudieran usar para acusar a Jesus de hacer el mal."
+  * **para hacerle preguntas**  - Esto es, "para hacerle preguntas para poder encontrar algo que pudieran usar para acusar a Jesus de hacer el mal."
 **[[:es-419:obs:notes:frames:38-15|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-02|>>]]**
