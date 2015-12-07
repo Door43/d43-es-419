@@ -1,4 +1,4 @@
-===== Peter and the Servant Girl [39-06] =====
+===== Peter and the Servant Girl [39-06]  Pedro y la Joven Sirvienta =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
@@ -6,21 +6,18 @@ As **Peter** was waiting outside the house, a **servant girl** saw him and said 
 
 Mientras Pedro estaba esperando afuera de la casa, una sierva joven lo vio y le dijo, “¡Ud. también, estuvo con Jesús!” Pedro lo negó. Más tarde, otra joven dijo la misma cosa, y Pedro lo negó otra vez. Finalmente, la gente dijo, “Sabemos que Ud. estuvo con Jesús porque ambos son de Galilea.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:galilee]]**
-  
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
 ===== Translation Notes: =====
 
   * **denied it**  - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
   * **lo nego **- Esto se puede traducir como, "dijo que no era cierto' o, "dijo que el no estaba con Jesus" o, "dijo 'No. Eso no es cierto."
   * **Peter denied it again**  - This could be translated as, "Peter denied knowing Jesus a second time" or, "again Peter said he had not been with Jesus."
-  * **Pedro lo niega otra vez** - Esto puede ser traducido como, "Pedro niega conociendo a Jesus una segunda vez." o, otra vez Pedro niega que el no ha estado con Jesus."
-  * ** are from Galilee**  - This could also be translated as, "are Galileans." The people could tell from the way Jesus and Peter talked that they came from the region of Galilee.
-  * **son de Galilea** - Esto puede tambien traducirse como, " son Galileos." Esta gente puede decir por la forma Jesus y Pedro hablaron que ellos vinieron de la region de Galilea.
-  
-
+  * **Pedro lo niega otra vez**  - Esto puede ser traducido como, "Pedro niega conociendo a Jesus una segunda vez." o, otra vez Pedro niega que el no ha estado con Jesus."
+  * **are from Galilee**  - This could also be translated as, "are Galileans." The people could tell from the way Jesus and Peter talked that they came from the region of Galilee.
+  * **son de Galilea**  - Esto puede tambien traducirse como, " son Galileos." Esta gente puede decir por la forma Jesus y Pedro hablaron que ellos vinieron de la region de Galilea.
 **[[:es-419:obs:notes:frames:39-05|<<]] | [[:es-419:obs:notes:39|Up]] | [[:es-419:obs:notes:frames:39-07|>>]]**
