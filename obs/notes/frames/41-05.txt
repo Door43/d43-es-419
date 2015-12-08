@@ -1,4 +1,4 @@
-===== Jesus Is Risen [41-05] =====
+===== Jesus Is Risen [41-05]  Jesús Ha Resucitado =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
@@ -6,18 +6,17 @@ When the women arrived at the tomb, the **angel** told them, “**Do not be afra
 
 Cuando las mujeres llegaron al sepúlcro, el ángel les dijo, “No tengan miedo. Jesús no está aquí. ¡Ha resucitado de la muerte, justo como él dijo!
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:angel]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:raise]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:other:tomb]]**
-  
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
 ===== Translation Notes: =====
 
   * **Do not be afraid**  - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **No tengan miedo** - Esto es, "Deja de tener miedo." Un angel brillando como un relampago  era una vista aterradora!
+  * **No tengan miedo**  - Esto es, "Deja de tener miedo." Un angel brillando como un relampago era una vista aterradora!
   * **He has risen from the dead**  - This could be translated as, "He has come back to life."
-  * **El ha resucitado de la muerte** - Esto tambien se puede traducir como, "El ha vuelto a la vida."
+  * **El ha resucitado de la muerte**  - Esto tambien se puede traducir como, "El ha vuelto a la vida."
 **[[:es-419:obs:notes:frames:41-04|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-06|>>]]**
