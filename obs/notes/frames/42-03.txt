@@ -1,4 +1,4 @@
-===== Jesus Explained the Prophets [42-03] =====
+===== Jesus Explained the Prophets [42-03] Jesús Explicó los Profetas =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-03.jpg?nolink&}}
 
@@ -6,19 +6,18 @@ Then **Jesus** explained to them what **God’s word** said about the **Messiah*
 
 Entonces, Jesús les explicó de qué dice la palabra de Dios acerca del Mesías. El les recordó que los profetas dijeron que el Mesías sufriría y ser matado, pero se levantaría otra vez en el tercer día. Cuando llegaron al pueblo dónde los dos hombres iban a quedar, ya era casi la anochecer.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:wordofgod]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:prophet]]**
-  * **[[:es-419:obe:kt:suffer]]**
-  * **[[:es-419:obe:kt:raise]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
 ===== Translation Notes: =====
 
   * **on the third day**  - Some languages may prefer to say, "on the third day after his death."
   * **en el tercer dia **- Algunos idiomas prefieren decir, "en el tercer dia despues de su muerte."
   * **it was almost evening**  - This can also be translated as, "the day was ending" or, "the sun was going down" or, "it was starting to get dark."
-  * **era casi de noche** - Esto tambien puede ser traducido como, "el dia estaba terminando" o, "el sol se estaba poniendo" o, "estaba empezando a ponerse oscuro."
+  * **era casi de noche**  - Esto tambien puede ser traducido como, "el dia estaba terminando" o, "el sol se estaba poniendo" o, "estaba empezando a ponerse oscuro."
 **[[:es-419:obs:notes:frames:42-02|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-04|>>]]**
