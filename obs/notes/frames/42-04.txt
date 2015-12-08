@@ -1,4 +1,4 @@
-===== Breaking the Bread [42-04] =====
+===== Breaking the Bread [42-04] Partiendo el Pan =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
@@ -6,13 +6,12 @@ The two men invited **Jesus** to stay with them, so he did. When they were ready
 
 Los dos hombres le invitaron a Jesús que quedara con ellos, así lo hizo. Cuando estuvieron listos para la cena, Jesús levantó un pan, dio gracias a Dios por el, y entonces, lo partió. De repente, ellos reconocieron que era Jesúa. Pero al mismo momento, él desapareció de su vista.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:god]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
 ===== Translation Notes: =====
 
   * **he disappeared from their sight**  - This could also be translated as, "he was gone" or, "he was no longer there."
-  * **el se desaparecio de su vista** - Esto puede ser traducido como, "el se habia ido" o, "el ya no estaba alli"
+  * **el se desaparecio de su vista**  - Esto puede ser traducido como, "el se habia ido" o, "el ya no estaba alli"
 **[[:es-419:obs:notes:frames:42-03|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-05|>>]]**
