@@ -1,4 +1,4 @@
-===== Jesus Appeared to the Women [41-08] =====
+===== Jesus Appeared to the Women [41-08] Jesús Apareció a las Mujeres =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-08.jpg?nolink&}}
 
@@ -6,19 +6,18 @@ As the women were on their way to tell the **disciples** the good news, **Jesus*
 
 Mientras las mujeres estuvieron en el camino para decir a los discíplulos las buenas nuevas, Jesús les apareció, y ellas le adoraron. Jesús dijo, “No tengan miedo. Vayan y digan a mis discípulos que vayan a Galilea. Ellos me verán allá.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:worship]]**
-  * **[[:es-419:obe:other:galilee]]**
-  
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
 ===== Translation Notes: =====
 
   * **will see me**  - That is, "will meet me" or, "can meet with me."
-  * **ellos me veran** - Esto es, "pueden reunirse conmigo."
+  * **ellos me veran**  - Esto es, "pueden reunirse conmigo."
   * //A Bible story from//  - These references may be slightly different in some languages.
-  * //Una historia de la Biblia// - Estas referencias pueden ser diferentes en algunos idiomas.
- //Una historia de la Biblia de: Mateo 27:62-28:15; Marcos 16:1-11; Lucas 24:1-12; Juan 20:1-18//
+  * //Una historia de la Biblia//  - Estas referencias pueden ser diferentes en algunos idiomas.
+//Una historia de la Biblia de: Mateo 27:62-28:15; Marcos 16:1-11; Lucas 24:1-12; Juan 20:1-18//
 
 **[[:es-419:obs:notes:frames:41-07|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:42-01|>>]]**
