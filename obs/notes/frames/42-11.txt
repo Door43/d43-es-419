@@ -1,4 +1,4 @@
-===== Jesus Went to Heaven [42-11] =====
+===== Jesus Went to Heaven [42-11]  Jesús fue al Cielo =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-11.jpg?nolink&}}
 
@@ -6,28 +6,26 @@ Forty days after **Jesus** rose from the dead, he told his **disciples**, “Sta
 
 Cuarenta días después de resucitar Jesús de la muerte, él dijo a sus discípulos, “Quédense en Jerusalen hasta que mi Padre les de poder cuando el Espíritu Santo venga sobre Uds.” Entonces, Jesús subió al cielo, y una nube le escondió de su vista. Jesús se sentó a la diestra de Dios para reinar sobre todas las cosas.
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:other:jerusalem]]**
-  * **[[:es-419:obe:kt:godthefather]]**
-  * **[[:es-419:obe:kt:power]]**
-  * **[[:es-419:obe:kt:holyspirit]]**
-  * **[[:es-419:obe:kt:heaven]]**
-  * **[[:es-419:obe:kt:god]]**
- 
- 
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:power|power (poder)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
 ===== Translation Notes: =====
 
   * **comes on you**  - That is, "comes down upon you" or, "comes onto you."
-  * **viene sobre ti** - Esto es, " viene sobre ti" o, "desciende sobre ti."
+  * **viene sobre ti**  - Esto es, " viene sobre ti" o, "desciende sobre ti."
   * **a cloud hid him from their sight**  - This could also be translated as, "he disappeared into a cloud."
-  * **una nube lo escondio de su vista** - Esto tambien puede traducirce como, "el se desaparecio en una nube."
+  * **una nube lo escondio de su vista**  - Esto tambien puede traducirce como, "el se desaparecio en una nube."
   * **over all things**  - That is, "over everything."
-  * **sobre todas las cosas** - Esto es, "sobre todo."
+  * **sobre todas las cosas**  - Esto es, "sobre todo."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-  * //Una historia de la Biblia// - Estas referencias puede ser diferentes en algunas traduciones de la Biblia.
+  * //Una historia de la Biblia//  - Estas referencias puede ser diferentes en algunas traduciones de la Biblia.
 //Una historia de la Biblia de: Mateo 28:16-20; Marcos 16:12-20; Lucas 24:13-53; Juan 20:19-23; Hechos 1:1-11//
 
 **[[:es-419:obs:notes:frames:42-10|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:43-01|>>]]**
