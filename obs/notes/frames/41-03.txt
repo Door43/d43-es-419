@@ -1,4 +1,4 @@
-===== The Women [41-03] =====
+===== The Women [41-03] Las mujeres =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
@@ -6,17 +6,16 @@ The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were no
 
 El día después de ser enterrado Jesús fue un día sábado, y los Judios no estaban premitidos que fueran a la tumba en aquel día. Así, muy temprano en la mañana después del sábado, varias mujeres se prepararon para ir a la tumba de Jesús para poner especias en su cuerpo.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:sabbath]]**
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:other:tomb]]**
-  
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:sabbath|Sabbath (sábado)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
 ===== Translation Notes: =====
 
   * **the Jews were not permitted**  - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **los Judios no estaban permitidos** - Las reglas en el dia de Reposo  no permitian a un Judio caminar muy lejos o hacer cualquier tipo de trabajo.
+  * **los Judios no estaban permitidos**  - Las reglas en el dia de Reposo no permitian a un Judio caminar muy lejos o hacer cualquier tipo de trabajo.
   * **burial spices**  - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-  * **especias del entierro** - Esto se refiere a especias aromaticas que eran puestas en el cuerpo muerto para cubrir el mal olor. Esto tambien puede ser traducido como, "especies de olor dulce" o, "aceites de olor dulce o,  "plantas de olor dulce."
+  * **especias del entierro**  - Esto se refiere a especias aromaticas que eran puestas en el cuerpo muerto para cubrir el mal olor. Esto tambien puede ser traducido como, "especies de olor dulce" o, "aceites de olor dulce o, "plantas de olor dulce."
 **[[:es-419:obs:notes:frames:41-02|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-04|>>]]**
