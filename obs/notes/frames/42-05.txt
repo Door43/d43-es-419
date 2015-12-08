@@ -1,4 +1,4 @@
-===== Jesus Is Alive [42-05] =====
+===== Jesus Is Alive [42-05]  Jesús está Vivo =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
@@ -6,14 +6,13 @@ The two men said to each other, “That was **Jesus**! That is why **our hearts 
 
 Los dos hombres dijeron uno al otro, “¡Aquel fue Jesús!” ¡Por esto nuestros corazones estaban quemando cuando él explicó la palabra de Dios a nosotros!” Inmediatamente, ellos volvieron a Jerusalen. Cuando llegaron, dijeron a los discípulos, “¡Jesús está vivo! ¡Lo hemos visto!”
 
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:wordofgod]]**
-  * **[[:es-419:obe:other:jerusalem]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:life]]**
-
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
 ===== Translation Notes: =====
 
   * **our hearts were burning**  - That is, "we were getting excited" or, "we were beginning to hope" or, "we felt joy." Some languages have ways of expressing it such as, "our hearts were stirred" or, "our hearts were warmed." If you use an expression that refers to the heart burning, make sure it does not indicate that they were upset or angry.
