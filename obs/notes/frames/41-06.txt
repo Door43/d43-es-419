@@ -1,4 +1,4 @@
-===== Tell the Disciples [41-06] =====
+===== Tell the Disciples [41-06] Díganle a los Discípulos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-06.jpg?nolink&}}
 
@@ -6,17 +6,16 @@ Then the **angel** told the women, “Go and tell the **disciples**, '**Jesus** 
 
 Entonces, el ángel dijo a las mujeres, “Vayan y digan a los discípulos. 'Jesús ha resucitado de de la muerte e irá a Galilea antes de Uds.'”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:angel]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:raise]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:other:Galilee]]**
- 
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
 ===== Translation Notes: =====
 
   * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
-  * **el ira a Galilea delante de ti** - Esto es, "el se reunira con ustedes en Galilea" o, "el estara en Galilea cuando ustedes lleguen ahi."
+  * **el ira a Galilea delante de ti**  - Esto es, "el se reunira con ustedes en Galilea" o, "el estara en Galilea cuando ustedes lleguen ahi."
 **[[:es-419:obs:notes:frames:41-05|<<]] | [[:es-419:obs:notes:41|Up]] | [[:es-419:obs:notes:frames:41-07|>>]]**
