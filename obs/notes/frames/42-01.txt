@@ -1,4 +1,4 @@
-===== The Two Disciples [42-01] =====
+===== The Two Disciples [42-01]  Los Dos Discípulos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
@@ -6,14 +6,14 @@ On the day that **Jesus** was **raised** from the dead, two of his **disciples**
 
 En el día que Jesús resucitó de la muerte, dos de sus discípulos estuvieron yendo a un pueblo cercano. Mientras ellos caminaron, hablaron acerca de qué sucedió a Jesús. Había esperado que él era el Mesías, pero entonces fue matado. Ahora las mujeres dijeron que estuvo vivo otra vez. Ellos no sabían qué creer.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:raise]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:life]]**
-  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
