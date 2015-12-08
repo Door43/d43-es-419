@@ -1,4 +1,4 @@
-===== Jesus Opened their Minds [42-07] =====
+===== Jesus Opened their Minds [42-07]  Jesús Abrió sus Mentes =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-07.jpg?nolink&}}
 
@@ -6,15 +6,15 @@
 
 Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra de Dios debe ser cumpldo.” Entonces, él abrió sus mentes para que pudieran entender la palabra de Dios. El dijo, “Fue escrito hace muchos años que el Mesías sufriría, moriría, y levantaría de la muerte en el tercer día.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:wordofgod]]**
-  * **[[:es-419:obe:kt/fulfill]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:suffer]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
+  * **[[:es-419:obe:kt:fulfill|fulfill (cumplir)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
 ===== Translation Notes: =====
 
   * **must be fulfilled**  - This can be translated as, "must happen."
@@ -22,5 +22,5 @@ Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra 
   * **opened their minds so that they could understand**  - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
   * **abrio sus mentes para que pudieran entender **- Esto tambien se puede traducir como, "causo que ellos sean capaces de entender" o, "hizo que ellos sean capaces de comprender."
   * **on the third day**  - That is, "after three days" or, "three days later."
-  * **en el tercer dia **- Esto es, "despues de tres dias" o, tres dias despues." 
+  * **en el tercer dia **- Esto es, "despues de tres dias" o, tres dias despues."
 **[[:es-419:obs:notes:frames:42-06|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-08|>>]]**
