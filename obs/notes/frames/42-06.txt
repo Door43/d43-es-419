@@ -1,4 +1,4 @@
-===== Jesus Appeared to the Disciples [42-06] =====
+===== Jesus Appeared to the Disciples [42-06]  Jesús Apareció a los Discípulos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-06.jpg?nolink&}}
 
@@ -6,12 +6,11 @@ As the **disciples** were talking, **Jesus** suddenly appeared in the room with 
 
 Mientras los discípulos estaban hablando, Jesús apareció de repente en el aposento con ellos y les dijo, “¡Paz a Uds.!” Los discípulos pensaron que fue un fantasma, pero Jesús dijo, “¿Por qué tienen meido y están dudando? Miren mis manos y mis pies. Los fantasmas no tienen cuerpos como yo.” Para probar que no fuera un fantasma, él pidió por algo qué comer. Ellos le dieron un pedazo de pescado asado, y él lo comió.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:peace]]**
-  
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
 ===== Translation Notes: =====
 
   * **Peace to you**  - This may also be translated as, "May you have peace" or, "Be at peace."
@@ -19,6 +18,6 @@ Mientras los discípulos estaban hablando, Jesús apareció de repente en el apo
   * **ghost**  - This refers to the spirit of a dead person.
   * **fantasma **- Esto se refiere al espiritu de una persona muerta.
   * **doubting**  - That is, "doubting that I am alive and here with you."
-  * **dudando** - Esto es, "dudando que Yo no estoy vivo y aqui contigo."
+  * **dudando**  - Esto es, "dudando que Yo no estoy vivo y aqui contigo."
   * **To prove**  - That is, "to demonstrate to them."
 **[[:es-419:obs:notes:frames:42-05|<<]] | [[:es-419:obs:notes:42|Up]] | [[:es-419:obs:notes:frames:42-07|>>]]**
