@@ -1,4 +1,4 @@
-===== The Ethiopian Read Isaiah [45-08] / El Etiope Leyo Isaias [45-08] =====
+===== The Ethiopian Read Isaiah [45-08] / El Etíope Leía Isaías [45-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
@@ -6,22 +6,20 @@ When Philip **approached the chariot**, he heard the **Ethiopian** reading from 
 
 Cuando Felipe se acercó al carruaje, él oyó al Etíope leyendo de lo que el profeta Isaías escribió. El hombre leyó, “Ellos le llevaron como un cordero para ser matado, y como un cordero está callado, él no dijo una palabra. Ellos le trataron injustamente y no le respetaban. Ellos quitaro la vida de sí.”
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:chariot]]**
-  * **[[:es-419:obe:other:isaiah]]**
-  * **[[:es-419:obe:kt:lamb]]**
-  * **[[:es-419:obe:kt:life]]**
- 
-  
-  
+  * **[[:es-419:obe:other:chariot|chariot (carruaje)]]**
+  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
+  * **[[:es-419:obe:kt:lamb|lamb, Lamb of God (cordero, cordero de Dios)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
 ===== Translation Notes: =====
 
   * **Ethiopian**  - That is, a person from the country of Ethiopia. See note on **[[:es-419:obs:notes:frames:45-07|[45-07]]]**.
-  * **Etiope - ** Esto es, una persona del pais de Etiopia. Vea nota en **[[:es-419:obs:notes:frames:45-07|[45-07]]]**.
+  * **Etiope - **  Esto es, una persona del pais de Etiopia. Vea nota en **[[:es-419:obs:notes:frames:45-07|[45-07]]]**.
   * **approached the chariot**  - That is, "got close to the chariot" or, "came near to the chariot."
-  * **se acerco a la carroza - ** Esto es, "Se acerco a la carroza" o, vino cerca de la carroza."
+  * **se acerco a la carroza - **  Esto es, "Se acerco a la carroza" o, vino cerca de la carroza."
   * **as a lamb is silent**  - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-  * **como ****el cordero es silecioso**** - ** Esto tambien puede ser traducido como, "como un cordero que es silencioso incluso cuando esta a punto de ser asesinado."
+  * **como ****el cordero es silecioso****
+ - **  Esto tambien puede ser traducido como, "como un cordero que es silencioso incluso cuando esta a punto de ser asesinado."
 
 **[[:es-419:obs:notes:frames:45-07|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-09|>>]]**
