@@ -1,4 +1,4 @@
-===== The Power of Jesus [44-04] / El Poder de Jesus =====
+===== The Power of Jesus [44-04] / El Poder de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&}}
 
@@ -6,14 +6,13 @@ A crowd of people quickly came to see the man who was **healed**. **Peter** said
 
 La muchedumbre vino rapidamente para ver al hombre sanado. Pedro les dijo, “¿Por qué están aombrados que este hombre fue sanado?”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:heal]]**
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:power]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:faith]]**
-  
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:power|power (poder)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:faith|faith (fe)]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
