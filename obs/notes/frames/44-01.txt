@@ -1,4 +1,4 @@
-===== The Crippled Man [44-01] / El Paralitico =====
+===== The Crippled Man [44-01] / El Paralítico =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&}}
 
@@ -6,13 +6,12 @@
 
 Un día, Pedro y Juan estuvieron yendo al Templo. Minetras se acercaron a la puerta del Templo, vieron a un paralítico que estaba mendigando por dinero.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:johntheapostle]]**
-  * **[[:es-419:obe:kt:temple]]**
-  * **[[:es-419:obe:other:beg]]**
-  
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:johntheapostle|John (the apostle) (Juan, el apóstol)]]**
+  * **[[:es-419:obe:kt:temple|temple (templo)]]**
+  * **[[:es-419:obe:other:beg|beg, beggar (mendigar, mendigo)]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
