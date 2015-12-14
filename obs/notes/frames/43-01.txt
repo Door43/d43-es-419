@@ -1,4 +1,4 @@
-===== The Disciples in Jerusalem [43-01] / Los Discipulos en Jerusalem =====
+===== The Disciples in Jerusalem [43-01] / Los Discípulos en Jerusalén =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?nolink&}}
 
@@ -6,15 +6,14 @@ After **Jesus returned to heaven**, the **disciples stayed in Jerusalem** as Jes
 
 Después de volver al cielo Jesús, los discípulos quedaban en Jesursalen como Jesús les había mandado. Los creyentes estaban constantemente juntos para orar.
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:heaven]]**
-  * **[[:es-419:obe:kt:disciple]]**
-  * **[[:es-419:obe:other:jerusalem]]**
-  * **[[:es-419:obe:kt:believer]]**
-  * **[[:es-419:obe:other:pray]]**
-  
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
+  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
 ===== Translation Notes: =====
 
   * **returned to heaven**  - That is, "went back to heaven."
