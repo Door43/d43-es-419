@@ -1,4 +1,4 @@
-===== Saul Became Blind [46-03] / Saul Quedo Ciego =====
+===== Saul Became Blind [46-03] / Saúl Quedó Ciego =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
@@ -6,10 +6,9 @@ When **Saul** got up, he could not see. His friends had to lead him into Damascu
 
 Cuando Saulo se levantó, él no pudo ver. Sus amigos tuvieron que guiarle a Damasco. Saulo no comió ni bebió nada por tres días.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:paul]]**
- 
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
