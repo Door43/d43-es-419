@@ -1,22 +1,21 @@
-===== Repent and Be Baptized [43-11] / Arrepentirse y Ser Bautizado =====
+===== Repent and Be Baptized [43-11] / Arrepientanse y Bauticense =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?nolink&}}
 
 **Peter** answered them, “Every one of you should **repent** and be **baptized in the name of Jesus Christ** so that **God** will **forgive** your **sins**. Then he will also give you the **gift of the Holy Spirit**.”
 
 **Pedro** les contestó, “Cada uno de Uds. debería **arrepentirse** y ser **bautizado en el nombre de Jesucristo ** para que **Dios ** les **perdone ** los **pecados**.”
+===== Términos Importantes =====
 
- =====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:kt:repent]]**
-  * **[[:es-419:obe:kt:baptize]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:forgive]]**
-  * **[[:es-419:obe:kt:sin]]**
-  * **[[:es-419:obe:kt:holyspirit]]**
-
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
+  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
 ===== Translation Notes: =====
 
   * **in the name of**  - This phrase means both, "by the authority of" and, "under the authority of." Consider translating the word "name" literally if it will be understood in this way in your language.
