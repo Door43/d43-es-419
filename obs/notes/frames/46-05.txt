@@ -1,4 +1,4 @@
-===== Ananias Baptized Saul [46-05] / Ananias Bautizo a Saul =====
+===== Ananias Baptized Saul [46-05] / Ananías Bautizó a Saulo =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-05.jpg?nolink&}}
 
@@ -6,19 +6,18 @@ So Ananias went to **Saul**, placed his hands on him, and said, “**Jesus**, wh
 
 Así, Ananías fue donde Saulo, puso sus manos sobre él, y dijo, “Jesús, quien apareció a Ud. en el camino, me envió a Ud. para que pueda recuperar su vista y ser llenado del Espíritu Santo.” Saulo, inmediatamente, pudo ver otra vez, y Ananías le bautizó. Entonces, Saulo comió una comida y su fuerza se le devolvió.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:paul]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:holyspirit]]**
-  * **[[:es-419:obe:kt:baptize]]**
- 
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
+  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
 ===== Translation Notes: =====
 
   * **here**  - That is, "to Damascus."
-  * **aqui - ** Esto es, "para Damasco."
+  * **aqui - **  Esto es, "para Damasco."
   * **regain your sight**  - This could also be translated as, "be able to see again."
   * **recupero su vista -**  Esto tambien puede ser traducido como, "poder ver otra vez."
   * **his strength returned**  - This could also be translated as, "he became strong again" or, "he felt better."
-  * **su fuerza regreso - ** Esto tambien se puede traducir como, "el volvio hacer fuerte otra vez" o, se sintio mejor."
+  * **su fuerza regreso - **  Esto tambien se puede traducir como, "el volvio hacer fuerte otra vez" o, se sintio mejor."
 **[[:es-419:obs:notes:frames:46-04|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-06|>>]]**
