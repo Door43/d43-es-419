@@ -1,4 +1,4 @@
-===== Stephen's Prayer [45-05] / Oracion de Esteban =====
+===== Stephen's Prayer [45-05] / Oración de Esteban =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
@@ -6,15 +6,14 @@
 
 Mientras Esteban estuvo muriéndose, él gritó, “Jesús, recibe mi espíritu.” Entonces, él cayó a rodillas y gritó otra vez, “Señor, no cuenta este pecado contra ellos.” Entonces, él se murió.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:receive]]**
-  * **[[:es-419:obe:kt:spirit]]**
-  * **[[:es-419:obe:kt:lord]]**
-  * **[[:es-419:obe:kt:sin]]**
-  * **[[:es-419:obe:kt:death]]**
-  
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:receive|receive (recibir)]]**
+  * **[[:es-419:obe:kt:spirit|spirit, spiritual (espíritu, espiritual)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
 ===== Translation Notes: =====
 
   * **As Stephen was dying**  - That is, "Just before Stephen died."
@@ -22,5 +21,5 @@ Mientras Esteban estuvo muriéndose, él gritó, “Jesús, recibe mi espíritu.
   * **cried out**  - That is, "called out in a loud voice" or, "said very loudly."
   * **clamo - **  Esto es, "llamo en una voz alta" o, "dijo bien alto**."**
   * **do no count this sin against them**  - That is, "do not consider them guilty of the sin of killing me."
-  * **//**no cuente este pecado contra de ellos -**//**//Esto es, "no los consideres culpable del pecado de matarme."//
+  * **//**no cuente este pecado contra de ellos -** // **//Esto es, "no los consideres culpable del pecado de matarme."//
 **[[:es-419:obs:notes:frames:45-04|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-06|>>]]**
