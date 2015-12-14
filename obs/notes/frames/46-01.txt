@@ -1,4 +1,4 @@
-===== Saul Arrested the Believers [46-01] Saul Arresto a los Creyentes =====
+===== Saul Arrested the Believers [46-01] Saul Arrestó a los Creyentes =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
@@ -6,20 +6,19 @@
 
 Saulo era un hombre joven que guardaba las túnicas de los hombres que mataron a Estaban. No creía en Jesús y así, él perseguía a los creyentes. El fue de casa a casa en Jerusalen para arrestar a ambos hombres y mujeres y ponerlos en la carcel. El sumo sacerdote le dio a Saulo permiso para ir a la ciudad de Damasco para arrestar a los Cristianos allá y traerlos a Jerusalen.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other/paul]]**
-  * **[[:es-419:obe:kt/believe]]**
-  * **[[:es-419:obe:kt/Jesus]]**
-  * **[[:es-419:obe:other/persecute]]**
-  * **[[:es-419:obe:kt/believer]]**
-  * **[[:es-419:obe:other/Jerusalem]]**
-  * **[[:es-419:obe:kt/highpriest]]**
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:persecute|persecute, persecution (perseguir, persecución)]]**
+  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
+  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
 ===== Translation Notes: =====
 
   * **guarded the robes of the men who killed Stephen**  - See **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
-  * **guardo las tunicas de los hombres que mataron a Esteban** - Vea **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
+  * **guardo las tunicas de los hombres que mataron a Esteban**  - Vea **[[:es-419:obs:notes:frames:45-06|[45-06]]]**.
   * **Damascus**  - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
   * **Damasco -**  Damasco es ahora la capital del pais de Siria. Durante el tiempo de Saul, habia una ciudad que pertenecia al Imperio Romano. La mayoria de la gente no eran Judios, pero habian algunos Judios y algunos que eran Cristianos que vivian ahi.
-
 **[[:es-419:obs:notes:frames:45-13|<<]] | [[:es-419:obs:notes:46|Up]] | [[:es-419:obs:notes:frames:46-02|>>]]**
