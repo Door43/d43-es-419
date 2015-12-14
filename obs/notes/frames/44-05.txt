@@ -1,4 +1,4 @@
-===== Peter Preached [44-05] / Pedro Predica =====
+===== Peter Preached [44-05] / Pedro Predicó =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&}}
 
@@ -6,24 +6,20 @@
 
 “Uds. son los que dijeron al gobernador Romano que matara a Jesús. Uds. mataron al autor de la vida, pero Dios le levantó de la muerte. Aunque Uds. no entendieron lo que estaban haciendo, Dios usó sus acciones para cumplir las profecías que el Mesías sufriría y moriría. Así ahora, arrepiéntanse y vuelvan a Dios para que sus pecados sean lavados.”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:rome]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:life]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:raise]]**
-  * **[[:es-419:obe:kt:death]]**
-  * **[[:es-419:obe:kt:fulfill]]**
-  * **[[:es-419:obe:kt:prophet]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:suffer]]**
-  * **[[:es-419:obe:kt:repent]]**
-  * **[[:es-419:obe:kt:sin]]**
- 
- 
- 
- 
+  * **[[:es-419:obe:other:rome|Rome, Roman (Roma, romano)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:fulfill|fulfill (cumplir)]]**
+  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
+  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
 ===== Translation Notes: =====
 
   * (Peter continues to preach to the crowd.)
@@ -34,5 +30,5 @@
   * **turn to God**  - That is, "decide to obey God.
   * **vuelvan a Dios **- Esto es, "decidir obedecer a Dios.
   * **your sin will be washed away**  - This could be translated as, "God will wash away your sins" or, "God will take away your sins and make you clean." This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
-  * **sus pecados seran lavados**  - Esto puede ser traducido como, "Dios lavará tus pecados" o, " Dios te quitará tus pecados y te  hara limpio."  Esto esta hablando acerca de que Dios remueve los pecados de la gente purificandolos con su Espíritu. Esto no quiere decir un baño físico.
+  * **sus pecados seran lavados**  - Esto puede ser traducido como, "Dios lavará tus pecados" o, " Dios te quitará tus pecados y te hara limpio." Esto esta hablando acerca de que Dios remueve los pecados de la gente purificandolos con su Espíritu. Esto no quiere decir un baño físico.
 **[[:es-419:obs:notes:frames:44-04|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:44-06|>>]]**
