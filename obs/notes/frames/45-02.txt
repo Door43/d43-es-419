@@ -1,4 +1,4 @@
-===== Stephen's Arrest [45-02] / Detención de Esteban =====
+===== Stephen's Arrest [45-02] / Arresto de Esteban =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
@@ -6,20 +6,18 @@
 
 Un día, cuando Esteban estaba enseñando acerca de Jesús, algunos Judios que no creyeron en Jesús empezaron a discutir con Esteban. Ellos se pusieron enojados y mintieron acerca de Esteban a los líders religiosos. Ellso dijeron, “¡Le hemos oír decir cosas malas acerca de Moises y Dios!” Así, los líderes religiosos echaron mano a Esteban y le trajeron al sumo sacerdote y a los otros líderes de los Judios, donde más testigos falsos mintieron acerca de Esteban.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:kt:evil]]**
-  * **[[:es-419:obe:other:moses]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:kt:witness]]**
-  
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:kt:evil|evil, wicked, wickedness (mal, malvado, maldad)]]**
+  * **[[:es-419:obe:other:moses|Moses (Moisés)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:kt:witness|witness, eyewitness (testigo, testigo ocular)]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Un dia - **  Esta frase introduce un evento que ocurrio en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar para contar una historia verdadera.   
-
+  * **Un dia - **  Esta frase introduce un evento que ocurrio en el pasado, pero no establece el tiempo especifico. Muchos idiomas tienen una forma similar para contar una historia verdadera.
 **[[:es-419:obs:notes:frames:45-01|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-03|>>]]**
