@@ -1,4 +1,4 @@
-===== Before the Jewish Leaders [44-07] / Frente a los Lideres Judios =====
+===== Before the Jewish Leaders [44-07] / Frente a los Líderes Judíos =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
@@ -6,14 +6,13 @@ The next day, the **Jewish leaders** brought **Peter** and **John** to the **hig
 
 El próximo día, los líderes Judios trajeron a Pedro y a Juan al sumo sacerdote y a los otros líderes religiosos. Ellos preguntaron a Pedro y a Juan, “¿Por qué poder han sanado a este hombre paralítico?”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:johntheapostle]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:kt:power]]**
- 
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:johntheapostle|John (the apostle) (Juan, el apóstol)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:kt:power|power (poder)]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
