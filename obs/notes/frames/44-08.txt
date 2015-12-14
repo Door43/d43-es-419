@@ -1,4 +1,4 @@
-===== No Other Way but Jesus [44-08] /No Otra Manera que Jesús =====
+===== No Other Way but Jesus [44-08] /No hay Otro Camino que Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&}}
 
@@ -6,19 +6,18 @@
 
 Pedro les contestó, “Este hombre parado ante Uds. fue sanado por el poder de Jesús el Mesías. ¡Uds. crucificaron a Jesús, pero Dios le levantó a la vida otra vez! Uds. le rechazaron, pero no hay otra manera de ser salvados excepto por el poder de Jesús!”
 
+===== Términos Importantes =====
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:heal]]**
-  * **[[:es-419:obe:kt:power]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:christ]]**
-  * **[[:es-419:obe:kt:crucify]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:raise]]**
-  * **[[:es-419:obe:kt:life]]**
-  * **[[:es-419:obe:kt:save]]**
- 
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
+  * **[[:es-419:obe:kt:power|power (poder)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:crucify|crucify (crucificar)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
+  * **[[:es-419:obe:kt:save|save (salvar)]]**
 ===== Translation Notes: =====
 
   * **healed**  - That is, "well" or, "whole" or, "strong."
