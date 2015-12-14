@@ -1,4 +1,4 @@
-===== Philip Preached about Jesus [45-10] / Felipe Predico sobre Jesus =====
+===== Philip Preached about Jesus [45-10] / Felipe Predicaba sobre Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-10.jpg?nolink&}}
 
@@ -6,15 +6,14 @@ Philip explained to the Ethiopian man that **Isaiah** was writing about **Jesus*
 
 Felipe explicó al Etíope que Isaías estuvo escribiendo acerca de Jesús. Felipe también, usó otras escrituras para contarle las buenas nuevas acerca de Jesús.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:isaiah]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:wordofgod]]**
-  * **[[:es-419:obe:kt:goodnews]]**
- 
+  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
+  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
-  * //(No hay  notas para este marco.)//
+  * //(No hay notas para este marco.)//
 **[[:es-419:obs:notes:frames:45-09|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:45-11|>>]]**
