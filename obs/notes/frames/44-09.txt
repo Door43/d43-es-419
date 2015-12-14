@@ -1,4 +1,4 @@
-===== The Disciples Were Released [44-09] / Los Discipulos Fueron Liberados =====
+===== The Disciples Were Released [44-09] / Los Discípulos Fueron Liberados =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
@@ -6,13 +6,12 @@ The **leaders were shocked** that **Peter** and **John** spoke so boldly because
 
 Los líderes estaban asombrados que Pedro y Juan hablaron tan valientemente porque pudieron ver que estos hombres eran hombres ordinarios que no estaban educados. Pero ellos recordaron que estos hombres habían estado con Jesús. Después de amanezar a Pedro y a Juan , los soltaron.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:other:peter]]**
-  * **[[:es-419:obe:other:johntheapostle]]**
-  * **[[:es-419:obe:kt:jesus]]**
- 
+  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:other:johntheapostle|John (the apostle) (Juan, el apóstol)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
   * **were shocked**  - That is, "were very surprised" or, "were amazed."
@@ -26,11 +25,11 @@ Los líderes estaban asombrados que Pedro y Juan hablaron tan valientemente porq
   * **had been with Jesus**  - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
   * **habian estado con Jesús**  - Esto tambien puede ser traducido como, "habian pasado tiempo con Jesús" o, "habian sido enseñados por Jesús."
   * **After they threatened**  - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **despues  ellos amenazaron**  - Los lideres dijeron que ellos castigarian a Pedro y a John si ellos seguian ensenandole a la gente sobre Jesús."
+  * **despues ellos amenazaron**  - Los lideres dijeron que ellos castigarian a Pedro y a John si ellos seguian ensenandole a la gente sobre Jesús."
   * **let them go**  - That is, "allowed them to leave."
   * **dejarlos ir **- Esto es, "permitirles irse."
- //A Bible story from//  - These references may be slightly different in some Bible translations.
+//A Bible story from//  - These references may be slightly different in some Bible translations.
 
- //Una historia de la Biblia: Hechos 3:1-4:22//
-   
+//Una historia de la Biblia: Hechos 3:1-4:22//
+
 **[[:es-419:obs:notes:frames:44-08|<<]] | [[:es-419:obs:notes:44|Up]] | [[:es-419:obs:notes:frames:45-01|>>]]**
