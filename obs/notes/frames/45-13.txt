@@ -1,4 +1,4 @@
-===== The Ethiopian Went Home [45-13] / El Etiope Se Fue a Casa =====
+===== The Ethiopian Went Home [45-13] / El Etíope Se Fue a Casa =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
@@ -6,14 +6,13 @@ The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
 
 El Etíope siguió viajando hacia su hogar, contento que conocía a Jesús.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:kt/Jesus]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
-  * //A Bible story from  - These references may be slightly different in some Bible translations.//
-  * //Una historia de la Biblia -   Estas referencias pueden ser un poco diferentes en algunas traducciones Biblicas//
-
- //Una historia de la Biblia :////Hechos//// 6:8-8:5; 8:26-40//
+  * //A Bible story from - These references may be slightly different in some Bible translations.//
+  * //Una historia de la Biblia - Estas referencias pueden ser un poco diferentes en algunas traducciones Biblicas//
+//Una historia de la Biblia :////Hechos//// 6:8-8:5; 8:26-40//
 
 **[[:es-419:obs:notes:frames:45-12|<<]] | [[:es-419:obs:notes:45|Up]] | [[:es-419:obs:notes:frames:46-01|>>]]**
