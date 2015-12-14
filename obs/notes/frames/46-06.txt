@@ -1,4 +1,4 @@
-===== Saul Preached about Jesus [46-06] / Saul Predico acerca de Jesus =====
+===== Saul Preached about Jesus [46-06] / Saulo Predicó acerca de Jesús =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
@@ -6,16 +6,15 @@
 
 Inmediatamente, Saulo empezó a predicar a los Judios en Damasco, diciendo, “¡Jesús es el Hijo de Dios!” Los Judios estaban atónitos que el hombre que había tratado de destruir a los creyentes, ahora también, creía en Jesús! Saulo razonaba con los Judios, comprobando que Jesús era el Mesías.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:paul]]**
-  * **[[:es-419:obe:other:preach]]**
-  * **[[:es-419:obe:other:jew]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:sonofgod]]**
-  * **[[:es-419:obe:kt:believer]]**
-  * **[[:es-419:obe:kt:christ|]]**
-  
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:other:preach|preach (predicar)]]**
+  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
+  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
 ===== Translation Notes: =====
 
   * **Right away**  - This can also be translated as, "Immediately" or, "Then."
