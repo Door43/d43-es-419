@@ -1,4 +1,4 @@
-===== Remain Faithful [50-04] Queden Fieles [50-04] =====
+===== Remain Faithful [50-04] Permanezcan Fieles [50-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
@@ -6,26 +6,27 @@
 
 Jesús también, dijo, “Un siervo no es mayor que su señor. Justo como las autoridades de este mundo me han odiado, ellos les torturán y matarán a Uds. por mí. Aunque en este mundo Uds. sufrirán, sean animados porque he vencido a Satanás, él que reina sobre este mundo. Si quieren quedar fieles a mí hasta el fin, entonces, Dios les salvará!””
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/Jesus]]**
-  * **[[:es-419:obe:other/servant]]**
-  * **[[:es-419:obe:kt/lord]]**
-  * **[[:es-419:obe:kt/suffer]]**
-  * **[[:es-419:obe:kt/satan]]**
-  * **[[:es-419:obe:kt/faithful]]**
-  * **[[:es-419:obe:kt/save]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
+  * **[[:es-419:obe:kt:faithful|faithful, faithfulness (fiel, fidelidad)]]**
+  * **[[:es-419:obe:kt:save|save (salvar)]]**
 ===== Translation Notes: =====
 
   * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
-  * **no mayor que - ** Eso es, "no mas importante que" o, en este caso, "no tratado mejor que."
+  * **no mayor que - **  Eso es, "no mas importante que" o, en este caso, "no tratado mejor que."
   * **because of me**  - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
   * **por mi - **//Eso es, "porque tu me obedeciste" o, "porque tu le enseñas a la gente de mi" o, "porque tu me perteneces." //
   * **in this world**  - This could also be translated as, "in this lifetime."
   * **en este mundo -**  Esto tambien puede ser traducido como, "en esta vida."
   * **remain faithful to me**  - That is, "Keep obeying me."
-  * **permanecer fiel a mi - ** Eso es, "Sige obedeciendo me."
+  * **permanecer fiel a mi - **  Eso es, "Sige obedeciendo me."
   * **to the end**  - That is, "to the end of your life."
   * **hasta el final -**  Eso es, "hasta el final de tu vida."
   * **will save you**  - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-  * **te va a salvar - ** Esto se refiere a salvacion spiritual más que liberacíon físico de daño. Ya fue expresado que muchos creyientes van a ser matados o tortudados.
+  * **te va a salvar - **  Esto se refiere a salvacion spiritual más que liberacíon físico de daño. Ya fue expresado que muchos creyientes van a ser matados o tortudados.
 **[[:es-419:obs:notes:frames:50-03|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-05|>>]]**
