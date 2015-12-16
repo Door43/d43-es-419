@@ -1,4 +1,4 @@
-===== Evil People Will Be Judged [50-10]Las personas Malas seran Juzgadas [50-10] =====
+===== Evil People Will Be Judged [50-10]Las personas Malvadas serán Juzgadas [50-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?nolink&}}
 
@@ -6,23 +6,22 @@
 
 “Cuando el mundo se acaba, los ángeles recolectarán junto a todas las personas que pertenecen al diablo y las echarán al fuego furioso, donde ellos llorarán y rechinarán los dientes en sufrimiento terrible. Entonces, los justos brillarán como el sol en el reino de Dios su Padre.”
 
-=====Términos Importantes=====
+===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt/angel]]**
-  * **[[:es-419:obe:kt/satan]]**
-  * **[[:es-419:obe:kt/suffer]]**
-  * **[[:es-419:obe:kt/righteous]]**
-  * **[[:es-419:obe:kt/kingdomofgod]]**
-  * **[[:es-419:obe:kt/godthefather]]**
+  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
+  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
+  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
+  * **[[:es-419:obe:kt:righteous|righteous, righteousness (justo, honradez)]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
+  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
 ===== Translation Notes: =====
 
   * **who belong to the devil**  - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
-  * **quien pertenece al diablo - ** Esto tambien puede ser traducido como, "quien obedece al diablo" o, "quien son governados por el diablo." Esto se refiere a aquellos quien no cre en Jesús pero siguen los modos malos de el diablo.
+  * **quien pertenece al diablo - **  Esto tambien puede ser traducido como, "quien obedece al diablo" o, "quien son governados por el diablo." Esto se refiere a aquellos quien no cre en Jesús pero siguen los modos malos de el diablo.
   * **a raging fire**  - That is, "a very hot, burning fire" or, "a large, very hot fire."
-  * **un fuego furious - ** Eso es, "una muy caliente, fuego en llamas" o, "una grande, muy caliente fuego."
+  * **un fuego furious - **  Eso es, "una muy caliente, fuego en llamas" o, "una grande, muy caliente fuego."
   * **the righteous ones**  - This refers to the people who belong to the Messiah. See **[[:es-419:obs:notes:frames:50-08|[50-08]]]**.
   * **los justos -**  Esto se refiere a la gente quien pertenece a el Mesías. Ve [50-08].
   * **shine like the sun**  - This could also be translated as, "be glorious like the sun" or, "show pure goodness as the sun shows bright light."
-  * **brilla como el sol - ** Esto tambien puede ser traducido como, "ser glorioso como el sol" o, "enseñar bondad pura como el sol enseña luz radiante."
- 
+  * **brilla como el sol - **  Esto tambien puede ser traducido como, "ser glorioso como el sol" o, "enseñar bondad pura como el sol enseña luz radiante."
 **[[:es-419:obs:notes:frames:50-09|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-11|>>]]**
