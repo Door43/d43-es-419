@@ -1,0 +1,24 @@
+====== Welcome to translationAcademy ======
+
+The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
+
+===== Overview of translationAcademy =====
+
+translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
+
+  * [[:en:ta:vol1:intro:toc_intro|Introduction]] - Introduces unfoldingWord and translationAcademy.
+  * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - Teaches translation theory and answers many practical translation questions.
+  * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] - Teaches checking theory and answers many practical checking questions.
+  * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - Contains tutorials on how to use the various technology tools that we have created.
+  * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
+
+==== translationAcademy Workbench ====
+
+We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
+
+Ready to begin?
+
+  * Go to the [[:en:ta:workbench|translationAcademy Workbench]] page to read about the status of your materials.
+  * Go to the [[:en:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
+
+If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond!
