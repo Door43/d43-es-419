@@ -1,4 +1,4 @@
-===== The Good News Spreads [47-13] / Las Buenas Noticias se Esparcen =====
+===== The Good News Spreads [47-13] / Las Buenas Noticias se Esparcieron =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
@@ -6,15 +6,14 @@ The next day **the leaders of the city** released **Paul** and **Silas** from pr
 
 El próximo día los líderes de la ciudad soltaron a Pablo y a Sílas de la carcel y les pidieron que fueran de Filípos. Pablo y Silas visitaron a Lídia y algunos otros amigos entonces, se fueron de la ciudad. Las buenas nuevas acerca de Jesús siguió extendiendose, y la iglesia siguió creciendo.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:paul]]**
-  * **[[:es-419:obe:other:silas]]**
-  * **[[:es-419:obe:other:philippi]]**
-  * **[[:es-419:obe:kt:goodnews]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:church]]**
- 
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:other:silas|Silas, Silvanus (Silas, Silvanus)]]**
+  * **[[:es-419:obe:other:philippi|Philippi (Filipos)]]**
+  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:church|church, Church (iglesia, Iglesia)]]**
 ===== Translation Notes: =====
 
   * **the leaders of the city**  - This refers to, "the officials of the city" or, "the authorities of the city."
