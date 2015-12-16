@@ -1,4 +1,4 @@
-===== Jesus Died in Our Place [49-10]Jesus murio en nuestro Lugar [49-10] =====
+===== Jesus Died in Our Place [49-10]  Jesús murio en nuestro lugar [49-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-10.jpg?nolink&}}
 
@@ -6,18 +6,16 @@
 
 Por su pecado, Ud. está culpable y merece morir. Dios debería estar enojado con Ud., pero él derramó su enojo en Jesús en vez de en Ud. Cuando Jesús murió en la cruz, él recibió su castigo.
 
+===== Términos Importantes =====
 
-
-
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/sin]]**
-  * **[[:es-419:obe:kt/guilt]]**
-  * **[[:es-419:obe:kt/death]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/Jesus]]**
-  * **[[:es-419:obe:kt/cross]]**
-  * **[[:es-419:obe:kt/receive]]**
-  * **[[:es-419:obe:other/punish]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:guilt|guilt, guilty (culpa, culpable)]]**
+  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
+  * **[[:es-419:obe:kt:receive|receive (recibir)]]**
+  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
 ===== Translation Notes: =====
 
   * **Because of your sin**  - This can also be translated as, "Because you have sinned." To make it clear that this is talking about all people, for some languages it may be more clear to translate this as, "Because all people have sinned, they are guilty. They deserve death."
@@ -28,4 +26,4 @@ Por su pecado, Ud. está culpable y merece morir. Dios debería estar enojado co
   * **descargar su indignación **-Eso es, "dirigir su enfado a" o, 'poner su enfado en" o "su enfado fue unicamente con"
   * **received your punishment**  - This could also be translated as, "was punished instead of you" or, "was punished for your sin." To make it clear that this applies to everyone, it could also be translated as, "was punished for everyone's sin."
   * **reciviras tu castigo **- Esto puede ser traducido como, "fue castigado en tu lugar" o, "fue castigado por tus pecados." Para hacer esto mas claro esto se aplica para todos, esto puede ser traducido como, "fue castigado por los pecados de todos."
- **[[:es-419:obs:notes:frames:49-09|<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-11|>>]]**
+**[[:es-419:obs:notes:frames:49-09|<]] | [[:es-419:obs:notes:49|Up]] | [[:es-419:obs:notes:frames:49-11|>>]]**
