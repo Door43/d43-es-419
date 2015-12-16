@@ -1,4 +1,4 @@
-===== able of Contents - Translation Manual =====
+===== Table of Contents - Translation Manual =====
 
 This module answers the question: What is in the translation manual?
 
