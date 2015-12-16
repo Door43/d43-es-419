@@ -1,4 +1,4 @@
-===== God's People [48-07] =====
+===== God's People [48-07]    La gente de Dios =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-07.jpg?nolink&}}
 
@@ -6,22 +6,21 @@
 
 Dios dijo a Abrahám, “Todos los grupos de personas de la tierra serán bendecidos por tí.” Jesús era un descendiente de Abrahám. Todos los grupos de personas son bendecidos por él, porque cada persona que cree en Jesús es salvada del pecado, y llega a ser un decendiente espiritual de Abrahám.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:abraham]]**
-  * **[[:es-419:obe:other:peoplegroup]]**
-  * **[[:es-419:obe:kt:bless]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:other:descendant]]**
-  * **[[:es-419:obe:kt:believe]]**
-  * **[[:es-419:obe:kt:save]]**
-  * **[[:es-419:obe:kt:spirit]]**
- 
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:abraham|Abraham, Abram (Abraham, Abram)]]**
+  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
+  * **[[:es-419:obe:kt:bless|bless, blessed, blessing (bendecir, bendecido, bendición)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:descendant|descendant (descendiente)]]**
+  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:save|save (salvar)]]**
+  * **[[:es-419:obe:kt:spirit|spirit, spiritual (espíritu, espiritual)]]**
 ===== Translation Notes: =====
 
   * **all the people groups of the earth**  - This could also be translated as, "people from all different parts of the world."
-  * **todos los grupos de gente en la tierra** - Esto puede ser tambien traducido como, "gente de todas partes del mundo."
+  * **todos los grupos de gente en la tierra**  - Esto puede ser tambien traducido como, "gente de todas partes del mundo."
   * **a spiritual descendant of Abraham**  - That is, "spiritually related to Abraham, and one of God's people."
   * **un descendiente espiritual de Abraham **- Esto es, "espiritualmente relacionado con Abraham, y uno de la gente de Dios."
 **[[:es-419:obs:notes:frames:48-06|<<]] | [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-08|>>]]**
