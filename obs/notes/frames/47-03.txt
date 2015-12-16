@@ -1,4 +1,4 @@
-===== The Slave Girl [47-03] /La Esclava =====
+===== The Slave Girl [47-03] /La Niña Esclava =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
@@ -6,20 +6,19 @@
 
 Pablo y Silas muy a menudo se reunían con la gente al lugar de oración. Cada día mientras caminaron para allá, una niña esclava endemoniada les siguió. Por medio de este demonio ella predecía el futuro para la gente, así, ella ganó mucho dinero para sus señores como una adivina.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:paul]]**
-  * **[[:es-419:obe:other:silas]]**
-  * **[[:es-419:obe:other:pray]]**
-  * **[[:es-419:obe:other:servant]]**
-  * **[[:es-419:obe:kt:demonpossessed]]**
-  * **[[:es-419:obe:kt:demon]]**
-  * **[[:es-419:obe:kt:lord]]**
-
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:other:silas|Silas, Silvanus (Silas, Silvanus)]]**
+  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:demonpossessed|demon-possessed (poseído por el demonio)]]**
+  * **[[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit (demonio, espíritu maligno, espíritu inmundo)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
 ===== Translation Notes: =====
 
   * **her masters**  - In this case, this could also be translated as, "her owners."
-  * **sus amos - ** En este caso, esto se puede traducir como, "sus propietarios."
+  * **sus amos - **  En este caso, esto se puede traducir como, "sus propietarios."
   * **as a fortuneteller**  - That is, "as someone who told people what would happen to them in the future."
-  * **como una adivinadora - ** Esto es, "como alguien que le dijo a la gente lo que les iba a suceder a ellos en el futuro."
+  * **como una adivinadora - **  Esto es, "como alguien que le dijo a la gente lo que les iba a suceder a ellos en el futuro."
 **[[:es-419:obs:notes:frames:47-02|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-04|>>]]**
