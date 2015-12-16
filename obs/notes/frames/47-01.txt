@@ -1,4 +1,4 @@
-===== Paul and Silas in Philippi [47-01] / Pablo y Silas en Philippi =====
+===== Paul and Silas in Philippi [47-01] / Pablo y Silas en Filiipo =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?nolink&}}
 
@@ -6,19 +6,17 @@ As Saul traveled throughout the **Roman Empire**, **he began to use his Roman na
 
 Mientras Saulo viajaba por todo el Imperio Romano, él empezó a usar usar su nombre Romano, “Pablo.” Pablo y su amigo Silas fueron a la ciudad de Filípos para proclamar las buenas nuevas acerca de Jesús. Ellos fueron a un lugar cerca al río afuera de la ciudad donde la gente se reunía para orar. Allí se conocieron a una mujer que se llamaba Lídia que era un mercader. Ella amaba y adoraba a Dios.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:rome]]**
-  * **[[:es-419:obe:other:paul]]**
-  * **[[:es-419:obe:other:silas]]**
-  * **[[:es-419:obe:other:philippi]]**
-  * **[[:es-419:obe:kt:goodnews]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:love]]**
-  * **[[:es-419:obe:kt:worship]]**
-  * **[[:es-419:obe:kt:god]]**
-
-  
+  * **[[:es-419:obe:other:rome|Rome, Roman (Roma, romano)]]**
+  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
+  * **[[:es-419:obe:other:silas|Silas, Silvanus (Silas, Silvanus)]]**
+  * **[[:es-419:obe:other:philippi|Philippi (Filipos)]]**
+  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
 ===== Translation Notes: =====
 
   * **proclaim**  - That is, "teach" or, "preach."
