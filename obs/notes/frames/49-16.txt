@@ -1,4 +1,4 @@
-===== Sins Are Forgiven [49-16] Pecados son Perdonados [49-16] =====
+===== Sins Are Forgiven [49-16] Los Pecados son Perdonados [49-16] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-16.jpg?nolink&}}
 
@@ -6,12 +6,13 @@ If you are a **Christian**, **God** has **forgiven** your **sins** because of wh
 
 Si Ud. es un Cristiano, Dios le ha perdonado sus pecados por lo que Jesús hizo. Ahiora, Dios le considera como un amigo cercano en vez de un enemigo.
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/christian]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/forgive]]**
-  * **[[:es-419:obe:kt/sin]]**
-  * **[[:es-419:obe:kt/Jesus]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
 ===== Translation Notes: =====
 
   * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
