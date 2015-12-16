@@ -1,4 +1,4 @@
-===== The Field Is the World [50-08]El Campo representa el Mundo [50-08] =====
+===== The Field Is the World [50-08]El Campo es el Mundo [50-08] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?nolink&}}
 
@@ -6,12 +6,13 @@ The **disciples** did not understand the meaning of the story, so they asked **J
 
 Los discípulos no entendieron el sentir de la historia, así, ellos preguntaron a Jesús para que les explcara. Jesús dijo, “El hombre que sembró la semilla buena representa al Mesías. El campo representa el mundo. La semilla buena representa la gente del reino de Dios.”
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/disciple]]**
-  * **[[:es-419:obe:kt/Jesus]]**
-  * **[[:es-419:obe:kt/good]]**
-  * **[[:es-419:obe:kt/christ]]**
-  * **[[:es-419:obe:kt/kingdomofgod]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:good|good, goodness (bueno, bondad)]]**
+  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
 ===== Translation Notes: =====
 
   * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
