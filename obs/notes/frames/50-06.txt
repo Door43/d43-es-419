@@ -1,4 +1,4 @@
-===== The Weeds [50-06]La Cizaña [50-06] =====
+===== The Weeds [50-06]   Las malas hierbas [50-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
@@ -6,14 +6,15 @@
 
 “Cuando las semillas se brotaron, los siervos del hombre le dijeron, '¡Señor, Ud. sembró semilla buena en aquel campo. ¿Por qué hay cizaña en el? 'Un enemigo debe haberlas sembrado.'”
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other/servant]]**
-  * **[[:es-419:obe:kt/lord]]**
-  * **[[:es-419:obe:kt/good]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
+  * **[[:es-419:obe:kt:good|good, goodness (bueno, bondad)]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
   * **(Jesús continua a contar la historia.)**
   * **An enemy must have planted them**  - If possible, translate this in a way that indicates that the speaker did not see this happen.
-  * **Un enemigo debe haber las sembrado - ** Si es posible, traduce esto en un modo que indica que el locutor no vio esto pasar.
+  * **Un enemigo debe haber las sembrado - **  Si es posible, traduce esto en un modo que indica que el locutor no vio esto pasar.
 **[[:es-419:obs:notes:frames:50-05|<<]] | [[:es-419:obs:notes:50|Up]] | [[:es-419:obs:notes:frames:50-07|>>]]**
