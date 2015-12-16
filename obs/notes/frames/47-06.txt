@@ -1,4 +1,4 @@
-===== The People Were Angry [47-06] / La Gente se Enojo =====
+===== The People Were Angry [47-06] / La Gente estaba Enojada =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
@@ -6,16 +6,15 @@ The men who owned the **slave girl** became very angry! They realized that **wit
 
 ¡Los dueños de la niña esclava se pusieron muy enojados! Ellos se dieron cuenta que sin el demonio, la niña esclava no podría adivinar el futuro. Esto quería decir que la gente ya no pagaría a los dueños dinero para que ella les dijera lo que pasaría con ellos.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:other:servant]]**
- 
+  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
 ===== Translation Notes: =====
 
   * **without the demon**  - That is, "without the power from the demon" or, "now that she did not have the demon."
   * **sin el demonio -**  Esto es, "sin el poder del demonio" o, "ahora que ya ella no tiene el demonio."
   * **the future**  - That is, "what would happen to them in the future."
-  * **el futuro - ** Esto es, "lo que les pasara a ellos en el futuro."
+  * **el futuro - **  Esto es, "lo que les pasara a ellos en el futuro."
   * **This meant that**  - This could also be translated as, "Because of this" or, "Therefore."
-  * **Esto significaba que**  - Esto tambien se puede**** traducir como, "Debido a esto" o, "Por lo tanto."
+  * **Esto significaba que**  - Esto tambien se puede traducir como, "Debido a esto" o, "Por lo tanto."
 **[[:es-419:obs:notes:frames:47-05|<<]] | [[:es-419:obs:notes:47|Up]] | [[:es-419:obs:notes:frames:47-07|>>]]**
