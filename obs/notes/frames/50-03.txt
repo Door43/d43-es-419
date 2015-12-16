@@ -1,4 +1,4 @@
-===== The Fields Are Ripe [50-03]Los Campos estan listos [50-03] =====
+===== The Fields Are Ripe [50-03]Los Campos estan maduros [50-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?nolink&}}
 
@@ -6,21 +6,22 @@ Many **people groups** still have not heard about **Jesus**. Before he returned 
 
 Muchos grupos de personas todavía no han escuchado acerca de Jesús. Antes de volver al cielo, Jesús dijo a los Cristianos que proclamaren las buenas nuevas a la gente que nunca haya escuchado. El dijo, “¡Vayan y hagan discípulos de todos los grupos de gente!” y, “¡Los campos están listos para la cosecha!”
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:other/peoplegroup]]**
-  * **[[:es-419:obe:kt/Jesus]]**
-  * **[[:es-419:obe:kt/heaven]]**
-  * **[[:es-419:obe:kt/christian]]**
-  * **[[:es-419:obe:kt/goodnews]]**
-  * **[[:es-419:obe:kt/disciple]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
+  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
+  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
+  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
 ===== Translation Notes: =====
 
   * **make disciples**  - This has the meaning, "help people to become my disciples."
-  * **haz discípulos - ** Esto tiene el significado, "ayuda gente que se conviertan mis discípulos."
+  * **haz discípulos - **  Esto tiene el significado, "ayuda gente que se conviertan mis discípulos."
   * **The fields are ripe for harvest**  - This could also be translated as, "They are ready to be brought to God like fields that are ripe for harvest" or, "They are ready to be gathered and brought to God like fields whose crops are ripe and ready to be gathered."
   * **Los campos estan maduros para la cosecha -**  Esto tambien puede ser traducido, "Ellos estan listos para ser traídos a Dios como campos que estan maduros para la cosecha" o, "Ellos estan listos para ser juntados y traídos a Dios como campos que sus cultivos estan maduros y listos para ser juntados."
   * **The fields**  - In this expression, "The fields" represents the people in the world.
-  * **Los campos - ** En esta expresión, "Los campos" representa la gente en el mundo.
+  * **Los campos - **  En esta expresión, "Los campos" representa la gente en el mundo.
   * **ripe**  - "Ripe" here represents being ready to believe in Jesus.
   * **maduro - **"Maduro" aqui representa estar listo para creer en Jesús.
   * **harvest**  - "Harvest" here represents the work of bringing people to God by teaching them about Jesus.
