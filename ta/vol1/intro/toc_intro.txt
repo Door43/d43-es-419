@@ -4,7 +4,7 @@ This module answers the question: What is in the Introduction?
 
 ==== Introduction ====
 
-  - [[:en:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
+  - [[:es-419:ta:vol1:intro:ta_intro|Introduction to translationAcademy]]
   - [[:en:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
   - [[:en:ta:vol1:intro:statement_of_faith|Statement of Faith]]
   - [[:en:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
