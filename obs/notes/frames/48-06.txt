@@ -1,4 +1,4 @@
-===== The Great High Priest [48-06] =====
+===== The Great High Priest [48-06]  El Gran Sumo Sacerdote =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-06.jpg?nolink&}}
 
@@ -6,21 +6,19 @@ For hundreds of years, **priests** continually offered **sacrifices** to **God**
 
 Por centanares de años, los sacerdotes han ofrecido sacrificios a Dios por la gente para mostrar el castigo que ellos merecieron por sus pecados. Pero estos sacrificios no podrían quitar su pecado. Jesús es el Sumo Sacerdote Grande. No como los otros sacerdotes, él se ofreció como el único sacrificio que puede quitar el pecado de toda la gente del mundo. Jesús era el sumo sacerdote perfecto porque él llevó el castigo para cada pecado que alguien ha cometido.
 
+===== Términos Importantes =====
 
-===== Términos Importantes=====
-  * **[[:es-419:obe:kt:priest]]**
-  * **[[:es-419:obe:other:sacrifice]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:sin]]**
-  * **[[:es-419:obe:kt:jesus]]**
-  * **[[:es-419:obe:kt:highpriest]]**
-  * **[[:es-419:obe:other:punish]]**
-  
+  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
+  * **[[:es-419:obe:other:sacrifice|sacrifice, offering (sacrificio, ofrenda)]]**
+  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
+  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
 ===== Translation Notes: =====
 
   * **he offered himself**  - This could also be translated as, "Jesus allowed himself to be killed."
-  * **el se ofrecio a si mismo** - Esto tambien puede ser traducido como, "Jesus permitio que a el lo mataran."
+  * **el se ofrecio a si mismo**  - Esto tambien puede ser traducido como, "Jesus permitio que a el lo mataran."
   * **took the punishment**  - That is, "received the punishment in his own body."
-  * ** tomo el castigo** - Esto es, "recibio el castigo en su propio cuerpo."
-
+  * **tomo el castigo**  - Esto es, "recibio el castigo en su propio cuerpo."
 **[[:es-419:obs:notes:frames:48-05|<<]] [[:es-419:obs:notes:48|Up]] | [[:es-419:obs:notes:frames:48-07|>>]]**
