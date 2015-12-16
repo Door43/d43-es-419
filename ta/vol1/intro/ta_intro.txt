@@ -1,0 +1,21 @@
+===== Introduction to translationAcademy =====
+
+This module answers the question: What is translationAcademy?
+
+==== Welcome to translationAcademy ====
+
+The “translationAcademy” is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of Biblical content into their own language. translationAcademy is designed to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure.
+
+translationAcademy contains the following sections:
+
+  * [[:en:ta:vol1:intro:toc_intro|Introduction]] - introduces the unfoldingWord project
+  * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - explains the basics of translation theory and practical translation helps
+  * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] - explains the basics of checking theory and best practices
+  * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - explains how to use the different technology tools
+  * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - answer the question "what next?"
+
+Each manual is separated into two volumes. Volume 1 of each manual covers the basics of that subject while volume 2 goes more in depth. In general, if a module is needed to translate and publish Open Bible Stories, then it is included in volume 1, if not, then it is included in volume 2.
+
+Next we recommend you learn about:
+
+  * [[:en:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
