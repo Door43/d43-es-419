@@ -1,0 +1,31 @@
+====== Yahweh (Jehová) ======
+
+===== Facts: =====
+
+This is God's name that he told to Moses at the burning bush. God said that this was his name forever.
+
+  * The name "Yahweh" comes from the ancient Hebrew verb "to be" and means "he is" or "he who is" or "he who causes to be."
+  * This name reveals that God is eternal and self-existent. He did not need anyone to create him or to give him life. It also means that he is always present.
+  * When God introduced this name to Moses, God also referred to himself as “I am.”
+  * Many Bible versions in major languages such as English, French, and Spanish have used an equivalent of "the LORD" to represent "Yahweh," as in the phrase, "I am the LORD your God" and in many other contexts.
+  * In the New Testament, God is referred to as "Lord" or "God." The term "Yahweh" is not used there, except for when Jesus uses "I am."
+
+===== Translation Suggestions: =====
+
+  * Translators may want to translate references to Yahweh in the Old Testament with phrases such as, "I am Yahweh, the Lord your God" and "Yahweh, who is the Lord God." This would show that "Lord" in the New Testament often refers to Yahweh in the Old Testament.
+  * This term could be translated by a word that means "I am."
+
+(See also: [[:es-419:obe:kt:god|God]], Lord)
+
+===== Bible References: =====
+
+{{topic>:en:bible?yahweh&nocomments&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:es-419:obs:notes:frames:09-14|[09-14]]]** God said, "I AM WHO I AM. Tell them, 'I AM has sent me to you.' Also tell them, 'I am **Yahweh**, the God of your ancestors Abraham, Isaac, and Jacob. This is my name forever.'"
+  * **[[:es-419:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am **Yahweh**, your God, who saved you from slavery in Egypt. Do not worship other gods."
+  * **[[:es-419:obs:notes:frames:13-05|[13-05]]]**"Do not make idols or worship them, for I, **Yahweh**, am a jealous God."
+  * **[[:es-419:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of **Yahweh**, the true God.
+  * **[[:es-419:obs:notes:frames:19-10|[19-10]]]** Then Elijah prayed, "O **Yahweh**, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant."
+~~DISCUSSION~~{{tag>publish ktobs}}
