@@ -1,0 +1,39 @@
+====== Joshua (Josué) ======
+
+===== Facts: =====
+
+There were several Israelite men named Joshua in the Bible. The most well-known is Joshua son of Nun who was Moses' helper and who later became an important leader of God's people.
+
+  * Joshua was one of the twelve spies whom Moses sent to explore the Promised Land.
+  * Along with Caleb, Joshua showed his courage and trust in God when he encouraged the Israelites to obey God's command to enter the Promised Land and defeat the Canaanites.
+  * Many years later, after Moses died, God appointed Joshua to lead the people of Israel into the Promised Land.
+  * In the first and most famous battle against the Canaanites, Joshua led the Israelites to defeat the city of Jericho, as God had told him to do.
+  * The Old Testament book of Joshua was written about the events that happened during Joshua's leadership, including the conquest of the Promised Land and the division of the land for the tribes of Israel.
+  * A different man named Joshua is mentioned in the Old Testament books of Haggai and Zechariah. This Joshua was a high priest who helped rebuild the walls of Jerusalem. He was the son of Jozadak.
+  
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[en:obe:other:moses]], [[en:obe:kt:promisedland]], [[:es-419:obe:other:Jericho]], [[:es-419:obe:other:Canaan]])
+ 
+===== Bible References: =====
+
+{{topic>:en:bible?joshua&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:es-419:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like.
+  ***[[:es-419:obs:notes:frames:14-06|[14-06]]]**  Immediately Caleb and **Joshua**, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  ***[[:es-419:obs:notes:frames:14-08|[14-08]]]** Except for **Joshua** and Caleb, everyone who is twenty years old or older will die there and never enter the Promised Land."
+  ***[[:es-419:obs:notes:frames:14-14|[14-14]]]** Moses was now very old, so God chose **Joshua** to help him lead the people.  
+  ***[[:es-419:obs:notes:frames:14-15|[14-15]]]** **Joshua** was a good leader because he trusted and obeyed God. 
+  ***[[:es-419:obs:notes:frames:15-03|[15-03]]]** After the people crossed the Jordan River, God told **Joshua** how to attack the powerful city of Jericho. 
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~
