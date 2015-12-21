@@ -4,11 +4,20 @@
 
 ===== Definition: =====
 
-Text
-  * bullet
-  * bullet
+Abiathar was a high priest for the nation of Israel during the time of King David and King Solomon.
 
-(See also: other)
+Abiatar era un alto sacerdote para la nación de Israel durante el tiempo del rey David y rey Salomón.
+
+  * Abiathar served alongside of the priest, Zadok.
+  * Abiatar sirvió junto al sacerdote, Zadok.
+  * When King Saul massacred the priests, Abiathar escaped and went to David in the wilderness.
+  * Cuando el rey Saúl masacró los sacerdotes, Abiatar escapó y fue a donde David en el desierto.
+  * After David's death, Abiathar turned against Solomon by helping Adonijah in his attempt to take away Solomon's kingship.
+  * Después de la muerte de David, Abiatar turnó contra Salomón ayudando a Adonías en su intento de tomar la monarquía de Salomón.
+  * Because of this, Solomon removed Abiathar from the priesthood.
+  * Por esto, Salomón removió a Abiatar del sacerdocio.
+
+(See also: [[:es-419:obe:other:zadok|Zadok]], [[:es-419:obe:other:saul|Saul (OT)]], [[:es-419:obe:other:david|David]], [[:es-419:obe:other:solomon|Solomon]], [[:es-419:obe:other:adonijah|Adonijah]])
 
 ===== Bible References: =====
 
