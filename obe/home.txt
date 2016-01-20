@@ -1,11 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete list of Important Terms - Latin American Spanish ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:es-419:obe:kt:home|Key Terms]]
-  * [[:es-419:obe:other:home|Other Terms]]
+  * [[:es-419:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:es-419:obe:other:home|List of the Other Terms in the OBE Directory]]
 
+==== All Terms in the OBE: ====
 
-==== All terms from both lists: ====
-
-{{pagequery>ns:es-419:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+<nspages es-419:obe -r -title -exclude:home -textPages="">
