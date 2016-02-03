@@ -1,14 +1,50 @@
 
 ----
 
-~~NOCACHE~~ **Door43**
+~~NOCACHE~~ **Door43 **
 
-   * [[:es-419:home|Door43 (es-419)]]
-  * [[:en:license|Licencia]]
+   * [[:es-419:home|Home (es-419)]]
+
+**Help**
+
+  * [[:es-419:ta|translationAcademy]]
+  * [[:es-419:get-started|How to Get Started]]
+  * [[:es-419:obs:help|Open Bible Stories Help]]
 
 **Recursos**
 
-  * [[:es-419:obs|Historias Bíblicas Libres (es-419)]]
+  *  [[:es-419:obs|Open Bible Stories]]
+      * [[es-419:obs:notes|translationNotes]]
+      * [[es-419:obs:notes:questions:home|translationQuestions]]
+      * [[es-419:obe:home|translationWords]]
+  *  [[es-419:bible:intro|Bible]]
+      * [[es-419:ulb:ep:home|Unlocked Literal Bible]]
+      * [[es-419:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[es-419:bible:notes:home|translationNotes]]
+      * [[es-419:bible:questions:comprehension:home|translationQuestions]]
+      * [[es-419:obe:home|translationWords]]
+  * [[es-419:lexicon|Open Bible Lexicon]]
+  *  [[es-419:library|Open Christian Library]]
+      * [[es-419:pet|Plain English Translation]]
+      * [[es-419:library:t4t:home|Translation for Translators]]
+  * [[es-419:ta|translationAcademy]]
+      * [[es-419:ta:vol1:intro:toc_intro|Introduction]]
+      * [[es-419:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[es-419:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[es-419:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[es-419:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+**About Door43**
+
+  * [[es-419:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[es-419:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[es-419:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[es-419:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Descargas**
 
