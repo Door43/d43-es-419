@@ -2,16 +2,29 @@
 
 The “translationAcademy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
 
-===== Overview of translationAcademy =====
+===== Bienvenido a la Academia de traducción =====
 
+La “Academia de traducción” propone habilitar a cualquiera y a todos a aprender lo esencial de cómo traducir la Biblia a su lenguaje o ayudar a alguien que lo desee hacer. Esta propuesto a ser altamente flexible, puede ser anticipado o justo a tiempo (o ambos, como se necesite o fuera necesario), vocalizar, y altamente visual en formatos de videos móviles de la red cibernética o fuera de ella.
+
+===== Overview of translationAcademy =====
 
 translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
 
-  * [[:es-419:ta:vol1:intro:toc_intro|Introduction]] - Introduces unfoldingWord and translationAcademy.
+  * [[:en:ta:vol1:intro:toc_intro|Introduction]] - Introduces unfoldingWord and translationAcademy.
   * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - Teaches translation theory and answers many practical translation questions.
   * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] - Teaches checking theory and answers many practical checking questions.
   * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - Contains tutorials on how to use the various technology tools that we have created.
   * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
+
+===== Asumo de Academia de traducción =====
+
+Academia de traducción ha sido creada con una introducción y cuatro manuales para ayudar contestar preguntas respecto a traducción, cotejo (verificación), tecnología y proceso.
+
+  * **Introducción**  – Introduce relatando la Palabra y Academia de traducción.
+  * **Manual de Traducción **– Enseña teorías de traducción y contesta muchas preguntas prácticas de la traducción.
+  * **Manual de Cotejo ** (Verificación) – Enseña teorías de cotejo y contesta muchas preguntas prácticas de cotejo (verificación).
+  * **Manual de Tecnología **– Contiene tutorías en cómo utilizar las diferentes herramientas tecnológicas que hemos creado.
+  * **Manual de Proceso **– Proporciona una guía paso-por-paso atreves de las etapas de inicio, traducción, cotejo, publicación and distribución.
 
 ==== translationAcademy Workbench ====
 
@@ -23,3 +36,14 @@ Ready to begin?
   * Go to the [[:en:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
 
 If you are new to translationAcademy, you may also want to take a look at the Translation Manual to learn the basics of translation, checking, and beyond!
+
+===== Banquillo de la Academia de traducción =====
+
+Necesitamos “Domain Experts” (Expertos de Dominios Cibernéticos) para comenzar a identificar los módulos que sean necesarios en cada área de enfoque y luego en la en la creación del contenido didáctico y (próximamente) grabación de los videos de enseñanza.
+
+¿Preparado para comenzar?
+
+  * Ve a la página del **Banquillo de la Academia de traducción ** para leer sobre el estatus de sus materiales.
+  * Ve a la página de **Como Agregar Mi Información ** para aprender como añadir su información.
+
+¡Si eres nuevo en Academia de traducción, usted podría desear revisar el Manual de Traducción para aprender lo esencial de traducción, cotejo y demás!
