@@ -22,10 +22,9 @@ Academia de traducción ha sido creada con una introducción y cuatro manuales p
 
   * **Introducción**  – Introduce relatando la Palabra y Academia de traducción.
   * **Manual de Traducción **– Enseña teorías de traducción y contesta muchas preguntas prácticas de la traducción.
-  * **Manual de Cotejo ** (Verificación) – Enseña teorías de cotejo y contesta muchas preguntas prácticas de cotejo (verificación).
+  * **Manual de Cotejo **  (Verificación) – Enseña teorías de cotejo y contesta muchas preguntas prácticas de cotejo (verificación).
   * **Manual de Tecnología **– Contiene tutorías en cómo utilizar las diferentes herramientas tecnológicas que hemos creado.
   * **Manual de Proceso **– Proporciona una guía paso-por-paso atreves de las etapas de inicio, traducción, cotejo, publicación and distribución.
-
 ==== translationAcademy Workbench ====
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos.
@@ -43,7 +42,7 @@ Necesitamos “Domain Experts” (Expertos de Dominios Cibernéticos) para comen
 
 ¿Preparado para comenzar?
 
-  * Ve a la página del **Banquillo de la Academia de traducción ** para leer sobre el estatus de sus materiales.
-  * Ve a la página de **Como Agregar Mi Información ** para aprender como añadir su información.
+  * Ve a la página del **Banquillo de la Academia de traducción **  para leer sobre el estatus de sus materiales.
+  * Ve a la página de **Como Agregar Mi Información **  para aprender como añadir su información.
 
 ¡Si eres nuevo en Academia de traducción, usted podría desear revisar el Manual de Traducción para aprender lo esencial de traducción, cotejo y demás!
