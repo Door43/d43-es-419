@@ -1,0 +1,77 @@
+===== unfoldingWord Project =====
+
+This section explains:
+
+  * [[#why|Why]] the unfoldingWord project exists and why we do what we do
+  * [[#how|How]] we go about trying to accomplish that goal
+  * [[#what|What]] we do to meet that goal
+
+There is also a [[:en:ta:intro:map|translation roadmap]] that will help you navigate through the translation and checking process.
+
+==== Why ====
+
+Jesus commanded his disciples to make disciples of EVERY people group:
+
+<blockquote>"Then Jesus came to them and said, 'All authority in heaven and on earth has been given to me. Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.'” -Matthew 28:18-20 (NIV)</blockquote>
+
+We have the promise that one day representatives from EVERY language will be in heaven:
+
+<blockquote>“After this I looked, and there before me was a great multitude that no one could count, from every nation, tribe, people and language, standing before the throne and before the Lamb.” -Revelation 7:9 (NIV)</blockquote>
+
+Having the WORD OF GOD in one's heart language is so important:
+
+<blockquote>"So faith comes from hearing, and hearing through the word of Christ." -Romans 10:17 (ESV)</blockquote>
+
+Why do we do what we do?
+
+The unfoldingWord project exists because every people group deserves to have the Word of God in their language. To this end we seek to make disciples of all nations by helping to provide **unrestricted biblical content in every language of the world**.
+
+==== How ====
+
+How do we accomplish our goal of **unrestricted biblical content in every language**?
+
+  * [[:en:ta:intro:uw|The unfoldingWord Network]] - By partnering with other like-minded organizations
+
+      *  [[:en:ta:intro:statement-of-faith|Statement of Faith]]
+ - By working with people and organizations who have the same beliefs
+      *  [[:en:ta:intro:translation-guidelines|Translation Guidelines]]
+ - By using a common translation theory and practice
+      *  [[:en:ta:intro:license|Open License]]
+ - By releasing everything we create under an open license
+  * [[:en:ta:intro:glstrategy|Gateway Languages Strategy]] - By empowering local believers to translate from a language they know
+      *  [[:en:ta:intro:content|What Needs To Be Translated]]
+ - So only what is needed is translated
+
+==== What ====
+
+What do we do?
+
+  * **Open-licensed content**
+ - We create and make available for translation free and open biblical content
+      *  [[:en:ta:intro:obs-project|Open Bible Stories]]
+ - a chronological mini-Bible comprising 50 key stories of the Bible, from Creation to Revelation, for evangelism and discipleship, in print, audio, and video
+      *  [[:en:ta:intro:bible-project|the Bible]]
+ - the only inspired, inerrant, sufficient, authoritative Word of God made available under an open license for unrestricted translation, use, and distribution
+
+  * **Tools**
+ - We create translation, checking, and distribution tools (all of these tools are explained in more detail in the [[:en:ta:tech|Technology Manual]])
+      *  [[:en:ta:workbench:tech:door43|Door43]]
+ - an online translation platform where people can collaborate on translation and checking, also the content management system for unfoldingWord
+      *  [[:en:ta:workbench:tech:ts|translationStudio]]
+ - a mobile app where translators can do offline translating
+      *  [[:en:ta:workbench:tech:tk|translationKeyboard]]
+ - a mobile app where users can create custom keyboards for languages not supported by their mobile device
+      *  [[:en:ta:workbench:tech:uw|unfoldingWord app]]
+ - a mobile app where checked unfoldingWord translations are published and distributed
+      *  [[:en:ta:workbench:tech:dpe|Digital Publishing Engine]]
+ - a system of pushing checked translations to the unfoldingWord website and app and creating print-ready documents of the content
+      *  [[:en:ta:workbench:tech:audio|Audio Recording]]
+ - a list of recommendations for audio recording equipment, software, and recording procedures
+      *  [[:en:ta:workbench:tech:video|Video Render Engine]]
+ - an automatic video render system that takes audio recordings and merges them we video clips to create custom videos for certain projects
+
+  * **Helps** - We create resources that assist and train translators and checkers
+      * translationNotes - linguistic, cultural, and exegetical helps created for translators. They exist for [[:en:obs:notes|Open Bible Stories]] and for [[:en:bible:notes:home|the Bible]].
+      * Comprehension Questions - questions for each chunk of text that the translators and checkers can ask to help insure that the translation is being understood correctly. Available for [[:en:obs:notes:questions:home|Open Bible Stories]] and for [[:en:bible:questions:comprehension:home|the Bible]].
+      *  [[:en:obe:home|Open Bible Encyclopedia]]
+ - a list of important Biblical terms with a short explanation, cross references, and translation aids
