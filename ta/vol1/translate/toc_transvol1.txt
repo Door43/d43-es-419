@@ -1,0 +1,76 @@
+===== Table of Contents - Translation Manual Volume 1 =====
+
+This module answers the question: What is in Volume 1 of the translation manual?
+
+==== Translation Manual Volume 1 ====
+
+=== Introduction ===
+
+  - [[:en:ta:vol1:translate:translate_manual|Introduction to Translation Manual]]
+  - [[:en:ta:vol1:translate:translate_terms|Terms to Know]]
+  - [[:en:ta:vol1:translate:translate_whatis|What is Translation]]
+  - [[:en:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+
+=== Defining a Good Translation ===
+
+  -  [[:en:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+      - [[:en:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
+      - [[:en:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
+      - [[:en:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+      - [[:en:ta:vol1:translate:guidelines_church_approved|Create Church-Approved Translations]]
+
+=== Meaning-Based Translation ===
+
+  -  [[:en:ta:vol1:translate:translate_process|The Translation Process]]
+      - [[:en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+      - [[:en:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+  -  [[:en:ta:vol1:translate:translate_fandm|Form and Meaning]]
+      - [[:en:ta:vol1:translate:translate_form|The Importance of Form]]
+      - [[:en:ta:vol1:translate:translate_levels|Levels of Meaning]]
+  -  [[:en:ta:vol1:translate:translate_literal|Literal Translations]]
+      - [[:en:ta:vol1:translate:translate_wforw|Word for Word Substitution]]
+      - [[:en:ta:vol1:translate:translate_problem|Problems with Literal Translations]]
+  -  [[:en:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+      - [[:en:ta:vol1:translate:translate_tform|Translate for Meaning]]
+
+=== Before Translating ===
+
+  -  [[:en:ta:vol1:translate:choose_team|Choosing a Translation Team]]
+      - [[:en:ta:vol1:translate:qualifications|Translator Qualifications]]
+  -  [[:en:ta:vol1:translate:translate_source_text|Choosing a Source Text]]
+      - [[:en:ta:vol1:translate:translate_source_licensing|Copyrights, Licensing, and Source Texts]]
+      - [[:en:ta:vol1:translate:translate_source_version|Source Texts and Version Numbers]]
+      - [[:en:ta:vol1:translate:translate_original|translate_original]]
+      - [[:en:ta:vol1:translate:translate_manuscripts|translate_manuscripts]]
+      - [[:en:ta:vol1:translate:translate_textvariants|translate_textvariants]]
+  - [[:en:ta:vol1:translate:translate_alphabet|Alphabet/Orthography]]
+  - [[:en:ta:vol1:translate:writing_decisions|Decisions for Writing Your Language]]
+
+=== How to Start Translating ===
+
+  - [[:en:ta:vol1:translate:translate_what|What to Start Translating]]
+  - [[:en:ta:vol1:translate:first_draft|Make a First Draft]]
+  - [[:en:ta:vol1:translate:resources_intro|Introduction to Resources]]
+  -  [[:en:ta:vol1:translate:translate_help|Help with Translating]]
+      - [[:en:ta:vol1:translate:resources_types|Translation Notes]]
+      - [[:en:ta:vol1:translate:resources_links|Links in the Notes]]
+
+=== Just-in-Time Learning Part 1 ===
+
+  -  [[:en:ta:vol1:translate:translate_unknown|Translate Unknowns]]
+      - [[:en:ta:vol1:translate:translate_names|Translate Names]]
+  -  [[:en:ta:vol1:translate:figs_intro|Figures of Speech]]
+      - [[:en:ta:vol1:translate:figs_metaphor|Metaphor]]
+      - [[:en:ta:vol1:translate:figs_simile|Simile]]
+      - [[:en:ta:vol1:translate:figs_rquestion|Rhetorical Question]]
+      - [[:en:ta:vol1:translate:figs_idiom|Idiom]]
+      - [[:en:ta:vol1:translate:figs_irony|Irony]]
+  - [[:en:ta:vol1:translate:figs_order|Word Order]]
+  -  [[:en:ta:vol1:translate:figs_you|Forms of You]]
+      - [[:en:ta:vol1:translate:figs_youdual|Forms of 'You' - Dual/Plural]]
+      - [[:en:ta:vol1:translate:figs_yousingular|Forms of 'You' - Singular]]
+  -  [[:en:ta:vol1:translate:figs_explicit|Explicit and Implicit]]
+      - [[:en:ta:vol1:translate:figs_explicitinfo|Making Implicit Information Explicit]]
+  - [[:en:ta:vol1:translate:figs_hypo|Hypothetical Situations]]
+  - [[:en:ta:vol1:translate:figs_events|Order of Events]]
+  - [[:en:ta:vol1:translate:figs_parables|Parables]]
