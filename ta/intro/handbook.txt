@@ -1,0 +1,59 @@
+===== translationAcademy Handbook =====
+
+  *  [[:en:ta:intro|Start Here]]
+      * [[:en:ta:intro:why|Why we do it]]
+      *  [[:en:ta:intro:how|How we do it]]
+        * [[:en:ta:intro:uw|the unfoldingWord Network]]
+        * [[:en:ta:intro:statement-of-faith|Statement of Faith]]
+        * [[:en:ta:intro:translation-guidelines|Translation Guidelines]]
+        * [[:en:ta:intro:license|Open License]]
+        * [[:en:ta:intro:glstrategy|Gateway Languages Strategy]]
+        * [[:en:ta:intro:content|What Needs To Be Translated]]
+      *  [[:en:ta:intro:what|What we do]]
+        * [[:en:ta:intro:projects|Open-licensed Content]]
+        * [[:en:ta:intro:tools|Tools]]
+        * [[:en:ta:intro:helps|Helps]]
+      * [[:en:ta:intro:glossary|Glossary]]
+      * [[:en:ta:intro:map|Translation and Checking Roadmap]]
+
+  * [[:en:ta:vol1:translate:translate_manual|Translation Manual]]      * Translation
+        * [[:en:ta:vol1:translate:translate_whatis|What is Translation]]
+        * [[:en:ta:vol1:translate:translate_why|Why We Translate the Bible]]
+        * [[:en:ta:vol1:translate:translate_terms|Terms to Know]]
+        * [[:en:ta:vol1:translate:translate_process|The Translation Process]]
+        * [[:en:ta:vol1:translate:translate_discover|Discover the Meaning of the Text]]
+        * [[:en:ta:vol1:translate:translate_retell|Re-telling the Meaning]]
+        * [[:en:ta:vol1:translate:translate_form|The Importance of Form]]
+        * [[:en:ta:vol1:translate:translate_tform|Translate for Meaning]]
+        * [[:en:ta:vol1:translate:translate_literal|Literal Translations]]
+        * [[:en:ta:vol1:translate:translate_dynamic|Meaning-Based Translations]]
+        *  [[:en:ta:vol1:translate:guidelines_intro|The Qualities of a Good Translation]]
+          * [[:en:ta:vol1:translate:guidelines_clear|Create Clear Translations]]
+          * [[:en:ta:vol1:translate:guidelines_accurate|Create Accurate Translations]]
+          * [[:en:ta:vol1:translate:guidelines_natural|Create Natural Translations]]
+          * [[:en:ta:vol2:translate:guidelines_equal|Equal Translations]]
+      *  [[:en:ta:vol1:translate:translate_source_version|How to Update a Previous Version of Open Bible Stories]]
+        * [[https://door43.org/obs-diffs/ver_1-to-ver_3.html|Version 1 to Version 3]]
+        * [[https://door43.org/obs-diffs/ver_2-to-ver_3.html|Version 2 to Version 3]]
+        * [[https://door43.org/en/obs/change-log|Updates in Version 3]]
+      * How to translate the source text in Door43
+        * Open Bible Stories
+          * [[:en:ta:vol1:tech:d43_translateobs|Translate the Open Bible Stories]]
+        * Bible
+      * How to translate the source text in translationStudio
+        * Open Bible Stories
+        * Bible
+
+  *  [[:en:ta:check|Checking Manual]]
+      * [[:en:ta:workbench:check:level1|Level 1]]
+      * [[:en:ta:workbench:check:level2|Level 2]]
+      * [[:en:ta:workbench:check:level3|Level 3]]
+
+  *  [[:en:ta:tech|Technology Manual]]
+      * Vol1 [[:en:ta:workbench:tech:door43|Door43]]
+      * Vol1 [[:en:ta:workbench:tech:ts|translationStudio]]
+      * Vol1 [[:en:ta:workbench:tech:tk|translationKeyboard]]
+      * Vol1 [[:en:ta:workbench:tech:uw|unfoldingWord app]]
+      * Vol2 [[:en:ta:workbench:tech:dpe|Digital Publishing Engine]]
+      * Vol2 [[:en:ta:workbench:tech:audio|Audio Recording]]
+      * Vol2 [[:en:ta:workbench:tech:video|Video Render Engine]]
