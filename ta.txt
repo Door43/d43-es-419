@@ -11,7 +11,7 @@ La “Academia de traducción” propone habilitar a cualquiera y a todos a apre
 translationAcademy has been created with an introduction and four manuals to help answer questions pertaining to translation, checking, technical, and process.
 
   * [[:es-419:ta:vol1:intro:toc_intro|Introduction]] - Introduces unfoldingWord and translationAcademy.
-  * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - Teaches translation theory and answers many practical translation questions.
+  * [[:es-419:ta:vol1:translate:toc_transvol1_2 |Translation Manual]] - Teaches translation theory and answers many practical translation questions.
   * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] - Teaches checking theory and answers many practical checking questions.
   * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - Contains tutorials on how to use the various technology tools that we have created.
   * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]] - Provides a step-by-step guide through the setup, translation, checking, publishing, and distribution phases.
