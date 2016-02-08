@@ -8,7 +8,7 @@ The “translationAcademy” is intended to enable anyone, anywhere to equip the
 
 translationAcademy contains the following sections:
 
-  * [[:en:ta:vol1:intro:toc_intro|Introduction]] - introduces the unfoldingWord project
+  * [[:es-419:ta:vol1:intro:toc_intro|Introduction]] - introduces the unfoldingWord project
   * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]] - explains the basics of translation theory and practical translation helps
   * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]] - explains the basics of checking theory and best practices
   * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]] - explains how to use the different technology tools
