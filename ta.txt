@@ -20,8 +20,8 @@ translationAcademy has been created with an introduction and four manuals to hel
 
 Academia de traducción ha sido creada con una introducción y cuatro manuales para ayudar contestar preguntas respecto a traducción, cotejo (verificación), tecnología y proceso.
 
-  * **Introducción**  – Introduce relatando la Palabra y Academia de traducción.
-  * **Manual de Traducción **– Enseña teorías de traducción y contesta muchas preguntas prácticas de la traducción.
+  * [[:es-419:ta:vol1:intro:toc_intro|Introduction]] – Introduce relatando la Palabra y Academia de traducción.
+  * [[:es-419:ta:vol1:translate:toc_transvol1_2 |Translation Manual]] Enseña teorías de traducción y contesta muchas preguntas prácticas de la traducción.
   * **Manual de Cotejo **  (Verificación) – Enseña teorías de cotejo y contesta muchas preguntas prácticas de cotejo (verificación).
   * **Manual de Tecnología **– Contiene tutorías en cómo utilizar las diferentes herramientas tecnológicas que hemos creado.
   * **Manual de Proceso **– Proporciona una guía paso-por-paso atreves de las etapas de inicio, traducción, cotejo, publicación and distribución.
