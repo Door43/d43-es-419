@@ -17,7 +17,17 @@
       * [[es-419:obs:notes|translationNotes]]
       * [[es-419:obs:notes:questions:home|translationQuestions]]
       * [[es-419:obe:home|translationWords]]
-  *  [[es-419:bible:intro|Bible]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[es-419:bible:intro|Bible (es-419)]]
       * [[es-419:ulb:ep:home|Unlocked Literal Bible]]
       * [[es-419:udb:ep:home|Unlocked Dynamic Bible]]
       * [[es-419:bible:notes:home|translationNotes]]
@@ -42,7 +52,7 @@
 
 **Door43 Development**
 
-  * [[es-419:dev|Development Projects]]
+  * [[en:dev|Development Projects]]
 
 ~~NOCACHE~~
 
