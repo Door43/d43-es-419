@@ -30,8 +30,8 @@ El termino " adopción " se refiere al proceso o la acción de alguien legal o f
 
 ===== Bible References: =====
 
-{{topic>:en:bible?adoption&nocomments}}~~DISCUSSION~~
+{{topic>:en:bible?adoption&nocomments}}~~DISCUSSION~~DISCUCIÓN
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>publish}N
