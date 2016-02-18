@@ -4,9 +4,11 @@
 
 En **el sexto día** de la creación, **Dios dijo**, "¡Que sea hecha t**oda clase de animales** **de la tierra**!" Y sucedió justo como Dios dijo. Algunos fueron **animales de granja**, algunos se **arrastraban sobre la tierra**, y algunos eran **salvajes**. Y Dios vió que **era bueno.**
 
-=====Términos Importantes===== 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/good]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
+
 ==== Translation Notes: ====
 
   * **the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
