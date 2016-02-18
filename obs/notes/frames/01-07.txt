@@ -4,10 +4,12 @@
 
 En el **quinto día**, **Dios habló** e **hizo todo lo que nada en el agua** y **todas las aves.** Dios vió que **era bueno**, y El l**os bendijo**.
 
-=====Términos Importantes=====   
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/good]]**
-  * **[[:es-419:obe:kt/bless]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
+  * **[[:es-419:obe:kt:bless|Bendecir, bendecido, bendición]]**
+
 ==== Translation Notes: ====
 
   * **the fifth day**  - God continues his orderly progression of creation that he started during the previous four days.
