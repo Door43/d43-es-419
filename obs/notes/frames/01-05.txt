@@ -4,9 +4,11 @@
 
 Entonces **Dios dijo, "Dejad que la tierra produzca​ toda clase** de árboles y plantas." Y esto fue lo que sucedió. Dios vió que lo que había **creado era bueno**.
 
-=====Términos Importantes=====   
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:kt:good]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:good|bueno, bondad]]**
+
 ==== Translation Notes: ====
 
   * **God said**  - God created all vegetation by speaking a command.
