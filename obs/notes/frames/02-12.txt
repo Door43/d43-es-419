@@ -4,15 +4,16 @@
 
 Entonces ** Dios ** dijo, "Ahora que los seres humanos han llegado ** a ser como nosotros al conocer el bien y el mal, ** a ellos no será permitido que coman de la ** fruta ** del ** árbol de la vida ** y vivir para siempre." Entonces, Dios envió a Adán y a Eva fuera del hermoso jardín. Dios puso ** ángeles ** poderosos a la entrada del jardín para no permitir que nadie comiera de la fruta del árbol de vida.
 
-=====Términos Importantes===== 
+===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/good]]**
-  * **[[:es-419:obe:kt/evil]]**
-  * **[[:es-419:obe:kt/life]]**
-  * **[[:es-419:obe:other/adam]]**
-  * **[[:es-419:obe:other/eve]]**
-  * **[[:es-419:obe:kt/angel]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
+  * **[[:es-419:obe:kt:evil|Mal, malvado, maldad]]**
+  * **[[:es-419:obe:kt:life|Vida, vive, viviente, vivo]]**
+  * **[[:es-419:obe:other:adam|Adán]]**
+  * **[[:es-419:obe:other:eve|Eva]]**
+  * **[[:es-419:obe:kt:angel|Ángel]]**
+
 ===== Translation Notes: =====
 
   * **like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, "because now they knew both good and evil."
