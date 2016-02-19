@@ -4,11 +4,12 @@
 
 Cuando **el séptimo día** llegó, **Dios** había **terminado su trabajo**. Entonces **Dios descansó**de todo lo que había estado haciendo. El **bendijo** **el séptimo día ** y lo **hizo santo**, porque en este día El descansó de su trabajo. Así fue como Dios creó **el universo** y todo lo que esta en él.
 
-=====Términos Importantes=====
- 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/bless]]**
-  * **[[:es-419:obe:kt/holy]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:bless|Bendecir, bendecido, bendición]]**
+  * **[[:es-419:obe:kt:holy|Santo, santidad]]**
+
 ==== Translation Notes: ====
 
   * **the seventh day**  - The next day after the six days of creation were completed.
