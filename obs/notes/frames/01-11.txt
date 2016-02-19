@@ -4,14 +4,15 @@
 
 **En el medio** del **huerto**, Dios plantó dos árboles — el **árbol de la vida** y el **árbol del conocimiento del bien y mal.** Dios le dijo a Adán que podría comer de cualquier árbol del huerto menos del árbol del conocimiento del bien y el mal. Si el comía de este árbol, él **moriría.**
 
-=====Términos Importantes=====
- 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/life]]**
-  * **[[:es-419:obe:kt/good]]** 
-  * **[[:es-419:obe:kt/evil]]**
-  * **[[:es-419:obe:other/adam]]**
-  * **[[:es-419:obe:kt/death]]**  
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:life|Vida, vive, viviente, vivo]]**
+  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
+  * **[[:es-419:obe:kt:evil|Mal, malvado, maldad]]**
+  * **[[:es-419:obe:other:adam|Adán]]**
+  * **[[:es-419:obe:kt:death|Muerte, morir, muerto]]**
+
 ==== Translation Notes: ====
 
   * **in the middle**  - The central location emphasizes the importance of the two trees.
