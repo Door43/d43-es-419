@@ -1,23 +1,17 @@
-===== God Cursed the Man/Dios Maldijo al Hombre [02-11] *F =====
+===== Dios maldijo al hombre [02-11]  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&}}
 
-**God** said to the man, “You listened to your wife and **disobeyed** me. Now the **ground is cursed**, and you will need to work hard to grow food. Then **you will die**, and your body will **return to dirt**.” The man named his wife **Eve**, **which means** “**life-giver**,” because she would become the **mother of all people**. And God clothed **Adam** and Eve with animal skins.
+**Dios ** dijo al hombre, "Tú escuchaste a tu esposa y me **desobedeciste**. Ahora la **tierra está maldita**, y tú trabajarás duro para cultivar la comida. Luego **tú morirás ** y tu cuerpo **volverá a la tierra**." El hombre nombró a su esposa **Eva**, **que quiere decir "dadora de vida,"** porque ella llegará a ser la **madre de toda la gente**. Y Dios vistió a **Adán** y a Eva con piel de animales.
+===== Términos Importantes =====
 
-Dios dijo al hombre, "Tú escuchaste a tu esposa y me desobedeciste. Ahora la tierra está maldita, y tú trabajarás duro para cultivar la comida. Luego tú morirás y tu cuerpo volverá a la tierra." El hombre nombró a su esposa Eva, que quiere decir "dadora de vida," porque ella llegará a ser la madre de toda la gente. Y Dios vistió a Adán y a Eva con piel de animales.
-
-
-
- 
-=====Términos Importantes=====
- 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/disobey]]**
-  * **[[:es-419:obe:kt/curse]]**
-  * **[[:es-419:obe:kt/death]]**
-  * **[[:es-419:obe:other/eve]]**
-  * **[[:es-419:obe:other/adam]]**
-==== Translation Notes: ====
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:disobey|Desobedecer, desobediente, desobediencia]]**
+  * **[[:es-419:obe:kt:curse|Maldición, maldito]]**
+  * **[[:es-419:obe:kt:death|Muerte, morir, muerto]]**
+  * **[[:es-419:obe:other:eve|Eva]]**
+  * **[[:es-419:obe:other:adam|Adán]]**
+==== Notas de Traducción: ====
 
   * **ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
   * **la tierra está maldita**  - Como un castigo por la desobediencia de Adán, la tierra no será más fructífera. Adán tendría que trabajar más fuerte para cosechar suficiente comida para comer.
