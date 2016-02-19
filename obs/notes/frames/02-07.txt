@@ -4,9 +4,11 @@
 
 Entonces el hombre y su esposa escucharon el sonido de **Dios caminando** por el jardín. Ambos se escondieron de Dios. Entonces, Dios llamó al hombre, "**¿Dónde estás?**" **Adán** le respondió, "Te escuché caminando en el jardín, y tuve miedo, porque estaba desnudo. Por eso, me escondí."
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/adam]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:adam|Adán]]**
+
 ==== Translation Notes: ====
 
   * **God walking**  - It seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like. If it is possible, it is best to use the same word that would be used to talk about a person walking.
