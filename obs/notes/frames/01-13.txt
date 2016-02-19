@@ -4,9 +4,11 @@
 
 Entonces, **Dios ** hizo que **Adán** cayera en **un sueño profundo**. Entonces Dios **tomó una de las costillas de Adán ** y de ella hizo **una mujer** y **se la trajo a él.**
 
-=====Términos Importantes=====
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/adam]]**
+===== Términos Importantes =====
+
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:other:adam|Adán]]**
+
 ==== Translation Notes: ====
 
   * **a deep sleep**  - This was a deeper sleep than normal.
