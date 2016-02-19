@@ -4,11 +4,12 @@
 
 **Dios hizo** al hombre y a la mujer **a su propia imagen**. El **los bendijo** y les dijo, "¡Tengan muchos hijos y nietos y llenen la tierra!" Y Dios vió que todo lo que había hecho era **muy bueno**, y estaba muy satisfecho con todo ello. Todo esto sucedió en el sexto día de la **creación**.
 
-=====Términos Importantes=====
+===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/bless]]**
-  * **[[:es-419:obe:kt/good]]**
+  * **[[:es-419:obe:kt:god|Dios]]**
+  * **[[:es-419:obe:kt:bless|Bendecir, bendecido, bendición]]**
+  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
+
 ==== Translation Notes: ====
 
   * **God made**  - God formed the man and the woman in a very personal way.
