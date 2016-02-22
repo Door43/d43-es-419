@@ -4,9 +4,10 @@
 
 **Noé esperó otra semana ** y envió la paloma por tercera vez. Esta vez, encontró un lugar para descansar y no volvió. ¡El agua se estaba secando!
 
-=====Términos Importantes=====
+===== Términos Importantes =====
 
-  * **[[:es-419:obe:other/noah]] **
+  * **[[:es-419:obe:other:noah|Noé]]**
+
 ===== Translation Note: Notas de Traducción: =====
 
   * **waited another week**  - You could say, "waited seven more days." The word "waited" shows that Noah was allowing time for the floodwaters to go down before sending out the dove again.
