@@ -11,6 +11,6 @@
 
 ===== Notas de Traducción: =====
 
-//(There are no notes for this frame.) (No existen notas en este marco.)//
+// (No existen notas en este marco.)//
 
 **[[:es-419:obs:notes:frames:03-04|<<]] | [[:es-419:obs:notes:03|Up]] | [[:es-419:obs:notes:frames:03-06|>>]]**
