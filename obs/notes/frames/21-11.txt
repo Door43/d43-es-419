@@ -7,10 +7,10 @@ The **prophet Isaiah** also **prophesied** that the **Messiah** would be **hated
 El **profeta Isaías** también, profetizó que el **Mesías** sería **odiado sin razón** y **rechazado**. Otros profetas **predicho** que los que mataron al Mesías **apostarían por su ropa** y que un amigo iba a** traicionar**. El profeta **Zacarías ** predijo que el amigo se pagaría** treinta monedas de plata** como pago por traicionar al Mesías.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:isaiah]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:betray]]**
 ==== Translation Notes: ====
 
   * **hated without reason and rejected**  - This could be translated as, "hated and rejected, even though he had done nothing wrong" or "…even though he was innocent."
