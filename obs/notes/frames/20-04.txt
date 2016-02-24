@@ -7,11 +7,11 @@ Then the **Assyrians** brought **foreigners** to live in the land where the **ki
 Entonces, los **Asirios** trajeron los **extranjeros** para vivir en la tierra donde el **reino de Israe**l había sido. Los extranjeros reconstruyeron las ciudades destruídas y se casaron con las Israelitas que se quedaron allí. Los **descendientes** de los** Israelitas** que se casaron con los extranjeros fueron llamados los **Samaritanos**.
 ===== Términos Importantes: =====
 
-  * **[[:es-419:obe:other:assyria|Assyria, Assyrian, Assyrian Empire (Asiria, Asirio, Imperio Asirio)]]**
-  * **[[:es-419:obe:other:kingdomofisrael|kingdom of Israel (reino de Israel)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]]**
-  * **[[:es-419:obe:other:descendant|descendant (descendiente)]]**
-  * **[[:es-419:obe:other:samaria|Samaria, Samaritan (Samaria, samaritano)]]**
+  * **[[:es-419:obe:other:assyria]]**
+  * **[[:es-419:obe:other:kingdomofisrael]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:other:samaria]]**
 ==== Translation Notes: ====
 
   * **foreigners**  - This refers to people who were not Israelites.
