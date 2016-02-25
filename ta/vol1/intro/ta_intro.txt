@@ -24,7 +24,7 @@ Next we recommend you learn about:
 
   * [[:en:ta:vol1:intro:uw_intro|The unfoldingWord Project]]
 
-**Bienvenidos a Academia de Traducción**
+==== Bienvenidos a Academia de Traducción ====
 
 La “Academia de traducción” propone habilitar a cualquiera, en cualquier lugar a tener las herramientas de traducción para lograr traducciones de alta calidad de contenido Bíblico a sus respectivos lenguajes. Academia de traducción está diseñada para ser altamente flexible y ágil. Puede ser utilizada en un modo sistemático, de alcance de avanzada o puede ser utilizado para aprendizaje a tiempo (o ambos, como fuera necesario). Es de estructura modular (en módulos).
 
@@ -35,7 +35,7 @@ Academia de traducción contiene los siguientes segmentos:
   * **Manual de Cotejo**  (Verificación) – explica las teorías (esenciales) básicas del cotejo (o verificaciones) y sus mejores prácticas.
   * **Manual de Tecnología**  – explica cómo utilizar las diferentes herramientas de la tecnología.
   * **Manual de Proceso**  - contesta la pregunta, ¿Que es lo proximo?
-Cada manual está separado en dos (2) tomos. Tomo 1 de cada manual cubre lo esencial del tema mientras el tomo 2 abarca aun más profundo. En general, si un modulo es necesitado para traducir y publicar Historias Bíblicas Abiertas, entonces  será incluido en el tomo 1, sino, será incluido en el tomo 2.
+Cada manual está separado en dos (2) tomos. Tomo 1 de cada manual cubre lo esencial del tema mientras el tomo 2 abarca aun más profundo. En general, si un modulo es necesitado para traducir y publicar Historias Bíblicas Abiertas, entonces será incluido en el tomo 1, sino, será incluido en el tomo 2.
 
 Próximo – recomendamos que aprendas sobre:
 
