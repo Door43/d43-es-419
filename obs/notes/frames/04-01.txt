@@ -11,7 +11,7 @@ Muchos años después del diluvio, había mucha gente otra vez en el mundo, y to
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **many years after the flood**  - Many generations had passed since the end of the flood.
