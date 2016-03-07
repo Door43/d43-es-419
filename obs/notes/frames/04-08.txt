@@ -8,14 +8,14 @@ Muchos años pasaron, pero **Abram** y **Saraí**todavía no tenían a un **//hi
 
 =====Términos Importantes:=====
 
-  * **[[:es-419:obe:other/Abraham]]**
-  * **[[:es-419:obe:other/sarah]]**
-  * **[[:es-419:obe:kt/son]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/promise]]**
-  * **[[:es-419:obe:other/descendant]]**
-  * **[[:es-419:obe:kt/believe]]**
-  * **[[:es-419:obe:kt/righteous]]**
+  * **[[:es-419:obe:other:Abraham]]**
+  * **[[:es-419:obe:other:sarah]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:righteous]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **Many years**  - Several years had passed since God had first promised that Abram would have a son.
