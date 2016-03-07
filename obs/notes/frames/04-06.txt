@@ -10,11 +10,11 @@ Cuando **Abram** llegó a **Canaan, Dios** le dijo, "Mira todo lo que está alre
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:other/canaan]]  **
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/descendant]]**
-  * **[[:es-419:obe:kt/inherit]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:canaan]]  **
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:kt:inherit]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
