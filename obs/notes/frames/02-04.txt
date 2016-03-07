@@ -6,11 +6,11 @@ La serpiente respondió a la mujer, “¡Eso no es **verdad**! No **morirás**. 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:true|Verdad, verdadero]]**
-  * **[[:es-419:obe:kt:death|Muerte, morir, muerto]]**
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
-  * **[[:es-419:obe:kt:evil|Mal, malvado, maldad]]**
+  * **[[:es-419:obe:kt:true]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:good]]**
+  * **[[:es-419:obe:kt:evil]]**
 
 ==== Notas de Traducción: ====
 
