@@ -8,13 +8,12 @@ Entonces**, Dios** hizo un **pacto ** con Abram. Un pacto es un acuerdo entre do
 
    
 =====Términos Importantes:=====   
-
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/covenant]]**
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:kt/son]]**
-  * **[[:es-419:obe:other/canaan]]**
-  * **[[:es-419:obe:other/descendant]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:covenant]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:descendant]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
