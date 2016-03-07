@@ -8,10 +8,10 @@ Cuando** Abraham ** era muy viejo, su** hijo**, **Isaac**, había crecido un hom
 
   
 =====Términos Importantes:=====
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:kt/son]]**
-  * **[[:es-419:obe:other/isaac]]**
-  * **[[:es-419:obe:other/servant]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:other:isaac]]**
+  * **[[:es-419:obe:other:servant]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **sent one of his servants back**  – This could be translated as, "told one of his servants to go back." The word "back" means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
