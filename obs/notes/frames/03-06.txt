@@ -6,9 +6,9 @@
 
 ===== Términos Importantes: =====
 
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:other:noah|Noé]]**
-  * **[[:es-419:obe:other:sacrifice|Sacrificio, ofrenda]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:noah]]**
+  * **[[:es-419:obe:other:sacrifice]]**
 
 ===== Notas de Traducción: =====
 
