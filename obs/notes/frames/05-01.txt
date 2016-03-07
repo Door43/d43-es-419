@@ -9,12 +9,12 @@ Diez años después de que Abram y Saraí llegaron a Canaan, todavía no tenían
 
 =====Términos Importantes:=====
 
-  * **[[:es-419:obe:other/abraham)]]**
-  * **[[:es-419:obe:other/sarah]]**
-  * **[[:es-419:obe:other/canaan]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/servant]]**
-  * **[[:es-419:obe:other/hagar]]**
+  * **[[:es-419:obe:other:abraham)]]**
+  * **[[:es-419:obe:other:sarah]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:hagar]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **still did not have a child**  - Without a child, Abram had no descendants to become a great nation.
