@@ -11,10 +11,10 @@ Cientos de años después, Dios habló a un hombre llamado Abram.  Dios le dijo,
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:kt/bless]]  **
-  * **[[:es-419:obe:kt/curse]]  **
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:kt:bless]]  **
+  * **[[:es-419:obe:kt:curse]]  **
 ===== Translation Notes: Notas de Traducción =====
 
   * **Hundreds of years later**  – This could be translated as, "many generations after the people split into different language groups at Babel." or, "a long time after that happened."
