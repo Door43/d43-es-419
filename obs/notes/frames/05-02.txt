@@ -9,11 +9,12 @@ Entonces, Abram se casó con Agar. Agar dio a luz a un hijo, y Abram le llamó I
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:other/hagar]]**
-  * **[[:es-419:obe:other/Ishmael]]**
-  * **[[:es-419:obe:other/sarah]]**
-  * **[[:es-419:obe:kt/god]]**
+
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:hagar]]**
+  * **[[:es-419:obe:other:Ishmael]]**
+  * **[[:es-419:obe:other:sarah]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **married**  - Hagar became Abram's concubine–a "second wife" of lower status. Hagar was still Sarai's servant.
