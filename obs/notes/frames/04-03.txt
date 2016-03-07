@@ -9,7 +9,7 @@ Entonces,  ** Dios cambió su idioma  ** a  ** muchos idiomas diferentes  ** y  
 
 =====Términos Importantes=====
 
-  * **[[:es-419:obe:kt/god]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **changed their language**  – In an instant, God miraculously gave them different languages to speak so that suddenly they were no longer able to understand each other.
