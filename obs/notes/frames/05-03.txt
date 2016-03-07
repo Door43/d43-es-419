@@ -10,12 +10,12 @@ Dios le dijo, “Yo soy el Dios Todopoderoso. Haré un pacto contigo.” Entonce
   
   
 ===== Términos Importantes: =====
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/covenant]]**
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:other/descendant]]**
-  * **[[:es-419:obe:other/canaan]]**
-  * **[[:es-419:obe:kt/circumcise]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:covenant]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:kt:circumcise]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **father of many nations**  - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
