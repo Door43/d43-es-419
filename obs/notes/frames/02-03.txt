@@ -6,10 +6,10 @@ La mujer le contestó, "**Dios** nos dijo que podríamos comer la **fruta ** de 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|Dios]]**
-  * **[[:es-419:obe:kt:good|Bueno, bondad]]**
-  * **[[:es-419:obe:kt:evil|Mal, malvado, maldad]]**
-  * **[[:es-419:obe:kt:death|Muerte, morir, muerto]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:good]]**
+  * **[[:es-419:obe:kt:evil]]**
+  * **[[:es-419:obe:kt:death]]**
 
 ==== Notas de Traducción: ====
 
