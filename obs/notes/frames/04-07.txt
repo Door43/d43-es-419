@@ -9,11 +9,11 @@ Un día, **Abram** conoció a **Melquisedec,** el **sacerdote** del **Dios Más 
 
 =====Términos Importantes =====
 
-  * **[[:es-419:obe:other/abraham]]**
-  * **[[:es-419:obe:kt/priest]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:kt/bless]]**
-  * **[[:es-419:obe:kt/heaven]]**
+  * **[[:es-419:obe:other:proud]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:evil]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
