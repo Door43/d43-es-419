@@ -8,16 +8,16 @@ Pero **Esaú** ya había** perdonado ** a **Jacobo**, y estaban contentos por ve
 
  
   =====Términos Importantes=====
-  * **[[:es-419:obe:other/esau]]**
-  * **[[:es-419:obe:kt/forgive]]**
-  * **[[:es-419:obe:other/jacob]]**
-  * **[[:es-419:obe:other/peace|peacefully (en paz)]]**
-  * **[[:es-419:obe:other/canaan]]**
-  * **[[:es-419:obe:other/isaac]]**
-  * **[[:es-419:obe:kt/covenant]]**
-  * **[[:es-419:obe:kt/promise]]**
-  * **[[:es-419:obe:kt/god]]**
-  * **[[:es-419:obe:other/abraham]]**
+  * **[[:es-419:obe:other:esau]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:other:jacob]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:other:canaan]]**
+  * **[[:es-419:obe:other:isaac]]**
+  * **[[:es-419:obe:kt:covenant]]**
+  * **[[:es-419:obe:kt:promise]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:abraham]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
