@@ -8,14 +8,14 @@ Algunos creyentes que huyeron de la persecución en Jerusalen se fueron lejos ha
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:persecute|persecute, persecution (perseguir, persecución)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:other:barnabas|Barnabas (Bernabé)]]**
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:kt:church|church, Church (iglesia, Iglesia)]]**
-  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
+  * **[[:es-419:obe:other:persecute]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:barnabas]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:church]]**
+  * **[[:es-419:obe:kt:christian]]**
 ===== Translation Notes: =====
 
   * **city of Antioch**  - This was an ancient city located in what is now the southernmost tip of the modern country of Turkey, near its border with Syria and close to the Mediterranean Sea. It was about 450 miles northwest of Jerusalem.
