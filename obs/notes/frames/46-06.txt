@@ -8,13 +8,13 @@ Inmediatamente, Saulo empezó a predicar a los Judios en Damasco, diciendo, “�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:believer]]**
+  * **[[:es-419:obe:kt:christ]]**
 ===== Translation Notes: =====
 
   * **Right away**  - This can also be translated as, "Immediately" or, "Then."
