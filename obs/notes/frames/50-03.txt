@@ -8,12 +8,12 @@ Muchos grupos de personas todavía no han escuchado acerca de Jesús. Antes de v
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
-  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
-  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:peoplegroup]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:christian]]**
+  * **[[:es-419:obe:kt:goodnews]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **make disciples**  - This has the meaning, "help people to become my disciples."
