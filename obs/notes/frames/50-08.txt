@@ -8,11 +8,11 @@ Los discípulos no entendieron el sentir de la historia, así, ellos preguntaron
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:good|good, goodness (bueno, bondad)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:good]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
 ===== Translation Notes: =====
 
   * **the people of God's kingdom**  - This can also be translated as, "the people who live under God's authority" or, "the people who have submitted to God's rule" or, "the people who will live with God in his Kingdom."
