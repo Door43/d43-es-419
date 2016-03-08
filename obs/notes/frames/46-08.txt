@@ -8,13 +8,13 @@ Saulo fue a Jerusalen para conocer a los dsicípulos, pero ellos tenían miedo d
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
-  * **[[:es-419:obe:other:barnabas|Barnabas (Bernabé)]]**
-  * **[[:es-419:obe:kt:apostle|apostle, apostleship (apóstol, apostolado)]]**
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:believer]]**
+  * **[[:es-419:obe:other:barnabas]]**
+  * **[[:es-419:obe:kt:apostle]]**
+  * **[[:es-419:obe:other:preach]]**
 ===== Translation Notes: =====
 
   * **accepted Saul**  - That is, "believed that Saul also was a believer in Jesus."
