@@ -8,10 +8,10 @@ Así, Ananías fue donde Saulo, puso sus manos sobre él, y dijo, “Jesús, qui
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:baptize]]**
 ===== Translation Notes: =====
 
   * **here**  - That is, "to Damascus."
