@@ -8,15 +8,15 @@ Dios dijo a Abrahám, “Todos los grupos de personas de la tierra serán bendec
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:abraham|Abraham, Abram (Abraham, Abram)]]**
-  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
-  * **[[:es-419:obe:kt:bless|bless, blessed, blessing (bendecir, bendecido, bendición)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:descendant|descendant (descendiente)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:kt:spirit|spirit, spiritual (espíritu, espiritual)]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:other:peoplegroup]]**
+  * **[[:es-419:obe:kt:bless]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:descendant]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:spirit]]**
 ===== Translation Notes: =====
 
   * **all the people groups of the earth**  - This could also be translated as, "people from all different parts of the world."
