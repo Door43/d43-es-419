@@ -8,13 +8,13 @@ Por centanares de años, los sacerdotes han ofrecido sacrificios a Dios por la g
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
-  * **[[:es-419:obe:other:sacrifice|sacrifice, offering (sacrificio, ofrenda)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
+  * **[[:es-419:obe:kt:priest]]**
+  * **[[:es-419:obe:other:sacrifice]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:other:punish]]**
 ===== Translation Notes: =====
 
   * **he offered himself**  - This could also be translated as, "Jesus allowed himself to be killed."
