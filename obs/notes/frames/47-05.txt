@@ -8,10 +8,10 @@ Finalmente un día cuando la niña esclava empezó a gritar, Pablo se volvió ha
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit (demonio, espíritu maligno, espíritu inmundo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:kt:demon]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **one day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
