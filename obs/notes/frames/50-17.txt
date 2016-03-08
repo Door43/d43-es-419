@@ -8,13 +8,13 @@ Jesús y su gente vivrán en la nueva tierra, y él reinará para siempre sobre 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
-  * **[[:es-419:obe:kt:evil|evil, wicked, wickedness (mal, malvado, maldad)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
-  * **[[:es-419:obe:other:peace|peace, peaceful (paz, pacífico)]]**
-  * **[[:es-419:obe:kt:justice|just, justice, justly (justo, justicia, justamente)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:evil]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
+  * **[[:es-419:obe:other:peace]]**
+  * **[[:es-419:obe:kt:justice]]**
 ===== Translation Notes: =====
 
   * **wipe away every tear**  - This could also be translated as, "bring an end to all of our grief" or, "make trouble end" or, "tenderly take away any sadness people have."
