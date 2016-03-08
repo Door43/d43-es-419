@@ -8,10 +8,10 @@ Después de muchos días, los Judios hicieron un plan para matar a Saulo. Ellos 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **the city gates**  - The gates were the only normal way into or out of the walled cities.
