@@ -8,13 +8,13 @@ Jesús también, dijo, “Un siervo no es mayor que su señor. Justo como las au
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
-  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:kt:faithful|faithful, faithfulness (fiel, fidelidad)]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:kt:faithful]]**
+  * **[[:es-419:obe:kt:save]]**
 ===== Translation Notes: =====
 
   * **not greater than**  - That is, "not more important than" or, in this case, "not treated better than."
