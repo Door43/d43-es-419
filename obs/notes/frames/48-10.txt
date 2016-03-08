@@ -12,7 +12,7 @@
   * **[[:es-419:obe:kt:lamb]]**
   * **[[:es-419:obe:kt:believe]]**
   * **[[:es-419:obe:kt:blood]]**
-  * **[[:es-419:obe:kt:sin]**
+  * **[[:es-419:obe:kt:sin]]**
   * **[[:es-419:obe:kt:god]]**
   * **[[:es-419:obe:other:punish]]**
 ===== Translation Notes: =====
