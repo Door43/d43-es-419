@@ -8,16 +8,16 @@ Entonces, los Cristianos que todavía están vivos subirán al cielo y juntarse 
 
 ===== Important Terms: =====
 
-  * **[[:es-419:obs:notes:key-terms:christian|Christians]]**
-  * **[[:es-419:obs:notes:key-terms:life|alive]]**
-  * **[[:es-419:obs:notes:key-terms:raise|rose]]**
-  * **[[:es-419:obs:notes:key-terms:death|dead]]**
-  * **[[:es-419:obs:notes:key-terms:jesus|Jesus]]**
-  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
-  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obs:notes:key-terms:christian]]**
+  * **[[:es-419:obs:notes:key-terms:life]]**
+  * **[[:es-419:obs:notes:key-terms:raise]]**
+  * **[[:es-419:obs:notes:key-terms:death]]**
+  * **[[:es-419:obs:notes:key-terms:jesus]]**
+  * **[[:es-419:obe:kt:christian]]**
+  * **[[:es-419:obe:kt:life]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **still alive**  - That is, "still alive when Jesus returns."
