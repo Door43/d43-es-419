@@ -8,12 +8,12 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
-  * **[[:es-419:obe:kt:righteous|righteous, righteousness (justo, honradez)]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:righteous]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
+  * **[[:es-419:obe:kt:godthefather]]**
 ===== Translation Notes: =====
 
   * **who belong to the devil**  - This could also be translated as, "who obey the devil" or, "who are ruled by the devil." This refers to those who do not believe in Jesus but follow the evil ways of the devil.
