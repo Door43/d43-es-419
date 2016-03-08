@@ -7,14 +7,14 @@
 **Jesús ** es el **cordero ** de la **Pascua**. Era perfecto y sin **pecado ** y fue matado al teimpo de la celebración de la Pascua. Cuando alguien **cree ** en Jesús, la **sangre ** de Jesús paga por el pecado de aquella persona y el **castigo ** de **Dios ** pasa por encima de aquella persona.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:passover|Passover (Pascua)]]**
-  * **[[:es-419:obe:kt:lamb|lamb, Lamb of God (cordero, cordero de Dios)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:kt:blood|blood (sangre)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:punish|punish, punishment (castigar, castigo)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:passover]]**
+  * **[[:es-419:obe:kt:lamb]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:blood]]**
+  * **[[:es-419:obe:kt:sin]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:punish]]**
 ===== Translation Notes: =====
 
   * **our Passover Lamb**  - That is, “the Passover Lamb that was killed for us” or, “the lamb that was killed so that God would pass over us” or, “the lamb that was killed so that God would spare us.”
