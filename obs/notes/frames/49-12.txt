@@ -8,16 +8,16 @@ Las buenas obras no pueden salvarle a Ud. No hay nada que Ud. puede hacer para p
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
-  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:cross]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:life]]**
 ===== Translation Notes: =====
 
   * **Good works cannot save you**  - That is, "Doing good things cannot save you from your sins" or, "You cannot do anything good enough to save yourself from the penalty for your sins."
