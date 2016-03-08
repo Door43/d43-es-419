@@ -8,15 +8,15 @@ Mientras Saulo viajaba por todo el Imperio Romano, él empezó a usar usar su no
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:rome|Rome, Roman (Roma, romano)]]**
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:silas|Silas, Silvanus (Silas, Silvanus)]]**
-  * **[[:es-419:obe:other:philippi|Philippi (Filipos)]]**
-  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:other:rome]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:silas]]**
+  * **[[:es-419:obe:other:philippi]]**
+  * **[[:es-419:obe:kt:goodnews]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: =====
 
   * **proclaim**  - That is, "teach" or, "preach."
