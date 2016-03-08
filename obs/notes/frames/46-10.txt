@@ -8,16 +8,16 @@ Un día, mientras que los Cristianos en Antioquía estaban ayunando y orando, el
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:fast|fast (ayuno)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:kt:church|church, Church (iglesia, Iglesia)]]**
-  * **[[:es-419:obe:other:barnabas|Barnabas (Bernabé)]]**
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
-  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
+  * **[[:es-419:obe:other:fast]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:church]]**
+  * **[[:es-419:obe:other:barnabas]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:goodnews]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:believer]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
