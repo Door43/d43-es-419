@@ -8,11 +8,11 @@ Si Ud. es un Cristiano, Dios le ha perdonado sus pecados por lo que Jesús hizo.
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:christian|Christian (cristiano)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:christian]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **considers you to be**  - That is, "thinks of you as" or, "regards you as" or, "calls you."
