@@ -8,14 +8,14 @@ El carclero tembló mientras llegó a Pablo y a Sílas y preguntó, “¿Qué de
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:paul|Paul, Saul (Pablo, Saulo)]]**
-  * **[[:es-419:obe:other:silas|Silas, Silvanus (Silas, Silvanus)]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
-  * **[[:es-419:obe:kt:goodnews|good news, gospel (buenas nuevas, evangelio)]]**
+  * **[[:es-419:obe:other:paul]]**
+  * **[[:es-419:obe:other:silas]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:goodnews]]**
 ===== Translation Notes: =====
 
   * **to be saved**  - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake
