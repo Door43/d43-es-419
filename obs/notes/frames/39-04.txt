@@ -8,14 +8,14 @@ Jesús dijo, “Yo soy, y Ud. me verá sentado con Dios y viniendo del cielo.”
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:witness|witness, eyewitness (testigo, testigo ocular)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:judge|judge, judgment (juez, juicio)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:witness]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:judge]]**
 ===== Translation Notes: =====
 
   * **I am**  - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:es-419:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
