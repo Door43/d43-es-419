@@ -8,10 +8,10 @@ Adentro de la casa, los líderes de los Judios pusieron a Jesús en juicio. Ello
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:witness|witness, eyewitness (testigo, testigo ocular)]]**
-  * **[[:es-419:obe:kt:guilt|guilt, guilty (culpa, culpable)]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:witness]]**
+  * **[[:es-419:obe:kt:guilt]]**
 ===== Translation Notes =====
 
   * **put Jesus on trial**  - This could be translated as, “had a formal meeting to accuse Jesus of doing something wrong.” Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
