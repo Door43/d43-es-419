@@ -8,10 +8,10 @@ Finalmente, el sumo sacerdote miró directamente a Jesús y dijo, “Díganos, �
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
 ===== Translation Notes: =====
 
   * **Finally**  - That is, "After they were unable to find any evidence against him" or, "After they were unable to prove that he was guilty."
