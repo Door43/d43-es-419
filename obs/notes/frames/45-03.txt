@@ -8,16 +8,16 @@ El sumo sacerdote preguntó a Esteban, “¿Son estas cosas la verdad?” Esteba
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:kt:true|true, truth (verdad, verdadero)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:abraham|Abraham, Abram (Abraham, Abram)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:disobey|disobey, disobedient, disobedience (desobedecer, desobediente, desobediencia)]]**
-  * **[[:es-419:obe:other:rebel|rebel, rebellious (rebelde, rebelde)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:true]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:abraham]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:disobey]]**
+  * **[[:es-419:obe:other:rebel]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:christ]]**
 ===== Translation Notes: =====
 
   * **Are these things true?**  - That is, "Are these accusations against you true?" or, "Are the things these people are saying about you true?" or, "Is it true that you said evil things about Moses and God?"
