@@ -8,9 +8,9 @@ Era la media noche. Los soldados llevaron a Jesús a la casa del sumo sacerdote 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:other:peter]]**
 ===== Translation Notes: =====
 
   * **the middle of the night**  - This expression means, "halfway through the night" or, "very late at night.
