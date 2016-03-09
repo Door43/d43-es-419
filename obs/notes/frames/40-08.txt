@@ -8,11 +8,11 @@ Por su muerte, Jesús abrió el camino para la gente para llegar a Dios. Cuando 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:innocent|innocent (inocente)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:innocent]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
 ===== Translation Notes: =====
 
   * **Through his death**  - That is, "By means of his death" or, "By dying."
