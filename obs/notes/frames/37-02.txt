@@ -8,10 +8,10 @@ Después de cumplir los dos días, Jesús dijo a sus discípulos, “Volvamos a 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:teacher|teacher, Teacher (maestro, maestro)]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:teacher]]**
+  * **[[:es-419:obe:other:lazarus]]**
 ===== Translation Notes: =====
 
   * **Judea**  - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
