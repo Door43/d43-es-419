@@ -8,14 +8,14 @@ Uno de los discípulos de Jesús era un hombre que se llamaba Judas. Judas era e
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
-  * **[[:es-419:obe:kt:apostle|apostle, apostleship (apóstol, apostolado)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:kt:apostle]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:kt:christ]]**
 ===== Translation Notes: =====
 
   * **in charge of the apostles' moneybag**  - That is, "responsible to hold the apostles' money" or, "responsible to hold the bag that had the disciples' money in it and to distribute funds from it."
