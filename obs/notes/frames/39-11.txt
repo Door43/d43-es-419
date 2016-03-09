@@ -8,11 +8,11 @@ Después de hablar con Jesús, Pilato se presentó a la muchedumbre y dijo, “N
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
-  * **[[:es-419:obe:kt:guilt|guilt, guilty (culpa, culpable)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:crucify|crucify (crucificar)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:guilt]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:crucify]]**
 ===== Translation Notes: =====
 
   * **I find no guilt in this man**  - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
