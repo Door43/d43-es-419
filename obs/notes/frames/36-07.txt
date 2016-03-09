@@ -8,10 +8,10 @@ Jesús y los tres discípulos bajaron de la montaña. Entonces, Jesús les dijo,
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:life|life, live, living, alive (vida, vive, viviente, vivo)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:life]]**
 ===== Translation Notes: =====
 
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
