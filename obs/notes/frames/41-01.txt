@@ -8,14 +8,14 @@ Después de crucificar a Jesús los soldados, los líderes Judios que no creyero
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:crucify|crucify (crucificar)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:crucify]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:tomb]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **the unbelieving Jewish leaders**  - That is, "the Jewish leaders who did not believe in Jesus."
