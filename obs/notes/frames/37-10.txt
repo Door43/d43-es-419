@@ -8,11 +8,11 @@ So **Lazarus came out**! He was still wrapped in **grave clothes**. **Jesus** to
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:kt:miracle|miracle, wonder, sign (milagro, maravilla, signo)]]**
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:kt:miracle]]**
 ===== Translation Notes: =====
 
   * **Lazarus came out!**  - Some languages should say, "Lazarus came out of the tomb!"
