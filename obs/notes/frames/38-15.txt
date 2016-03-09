@@ -8,15 +8,15 @@ Mientras los soldados arrestaron a Jesús, Pedro sacó su espada y cortó la ore
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:other:father|father, forefather (padre, antepasado)]]**
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
-  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:other:father]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:other:heal]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **As the soldiers arrested Jesus**  - That is, "While the soldiers were arresting Jesus."
