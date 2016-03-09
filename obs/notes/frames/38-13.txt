@@ -8,10 +8,10 @@ Después de cada tiempo de oración, Jesús volvió a sus discípulos, pero ello
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:betray]]**
 ===== Translation Notes: =====
 
   * **After each time of prayer**  - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:es-419:obs:notes:frames:38-12|[38-12]]]**.
