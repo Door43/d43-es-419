@@ -8,8 +8,8 @@ Jesús se les acercó y empezó a hablar con ellos, pero ellos no le reconociero
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jerusalem]]**
 ===== Translation Notes: =====
 
   * **did not recognize him**  - That is, "did not know that it was Jesus."
