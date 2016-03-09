@@ -8,12 +8,12 @@ Los soldados le llevaron a Jesús a un lugar que se llamaba “el cráneo” y c
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
-  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
-  * **[[:es-419:obe:kt:kingofthejews|King of the Jews (rey de los judíos)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:cross]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:kingofthejews]]**
 ===== Translation Notes: =====
 
   * **the Skull**  - A hill near Jerusalem with a white, rocky top that was shaped somewhat like the top of a skull.
