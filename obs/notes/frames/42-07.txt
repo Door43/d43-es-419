@@ -8,13 +8,13 @@ Jesús dijo, “Les dije que todo que está escrito acerca de mí en la palabra 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:fulfill|fulfill (cumplir)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:fulfill]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:raise]]**
 ===== Translation Notes: =====
 
   * **must be fulfilled**  - This can be translated as, "must happen."
