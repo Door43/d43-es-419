@@ -8,11 +8,11 @@ Entonces, Jesús levantó una copa y dijo, “Tomen esto. Es mi sangre del Nuevo
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:blood|blood (sangre)]]**
-  * **[[:es-419:obe:kt:newcovenant|New Covenant (Nuevo Pacto)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:blood]]**
+  * **[[:es-419:obe:kt:newcovenant]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: =====
 
   * **a cup**  - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
