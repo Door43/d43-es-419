@@ -9,9 +9,9 @@ Los líderes estaban asombrados que Pedro y Juan hablaron tan valientemente porq
 ===== Términos Importantes =====
 
   * **[[:es-419:obe:other:jewishleaders]]**
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:other:johntheapostle|John (the apostle) (Juan, el apóstol)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **were shocked**  - That is, "were very surprised" or, "were amazed."
