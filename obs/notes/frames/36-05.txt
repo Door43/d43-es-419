@@ -8,10 +8,10 @@ Mientras Pedro estuvo hablando, una nube brillante se bajó y les envolvió y un
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **a voice from the cloud said**  - This can also be translated as, "a voice spoke from the cloud saying" or, "God spoke from the cloud and said."
