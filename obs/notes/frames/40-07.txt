@@ -8,12 +8,12 @@ Entonces, Jesús gritó, “¡Está terminado!” Padre, doy mi espíritu en tus
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
-  * **[[:es-419:obe:kt:spirit|spirit, spiritual (espíritu, espiritual)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:temple|temple (templo)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:spirit]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:temple]]**
 ===== Translation Notes: =====
 
   * **It is finished!**  - This could also be translated as, "It is completed" or, "I have finished it" or, "I have completed the work." This means that Jesus' work of salvation was complete.
