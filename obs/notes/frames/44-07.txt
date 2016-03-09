@@ -8,11 +8,11 @@ El próximo día, los líderes Judios trajeron a Pedro y a Juan al sumo sacerdot
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:other:johntheapostle|John (the apostle) (Juan, el apóstol)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:kt:power|power (poder)]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:johntheapostle]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:power]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
