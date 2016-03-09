@@ -8,9 +8,9 @@ La tumba era una cueva con una piedra rodada en frente de su apertura. Cuando Je
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
+  * **[[:es-419:obe:other:tomb]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:death]]**
 ===== Translation Notes: =====
 
   * **he told them**  - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
