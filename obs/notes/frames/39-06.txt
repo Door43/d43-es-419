@@ -8,10 +8,10 @@ Mientras Pedro estaba esperando afuera de la casa, una sierva joven lo vio y le 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:galilee]]**
 ===== Translation Notes: =====
 
   * **denied it**  - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
