@@ -8,12 +8,12 @@ Un día, Jesús recibió un mensaje que Lázaro estaba muy enfermo. Lázaro y su
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:glory|glory, glorious (gloria, glorioso)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:glory]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:love]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
