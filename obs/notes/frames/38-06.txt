@@ -8,10 +8,10 @@ Entonces, Jesús dijo a los discípulos, “Uno de Uds. me va a traicionar.” L
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
 ===== Translation Notes: =====
 
   * **give this piece of bread**  - That is, "hand this piece of bread."
