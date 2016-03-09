@@ -8,10 +8,10 @@ Entonces, Pedro juró, diciendo, “¡Dios me maldiga si conozco a este hombre!�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:kt:curse|curse, cursed (maldición, maldito)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:kt:curse]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **vowed**  - That is, "said emphatically" or, "said very strongly."
