@@ -8,10 +8,10 @@ Entonces, Jesús fue con sus discípulos a un lugar llamado Getsemaní. Jesús d
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
-  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:tempt]]**
 ===== Translation Notes: =====
 
   * **a place called Gethsemane**  - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
