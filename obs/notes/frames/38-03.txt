@@ -8,13 +8,13 @@ Los líderes de los Judios, liderado por el sumo sacerdote, pagaron a Judas trei
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:highpriest|high priest (gran sacerdote)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:highpriest]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:prophet]]**
 ===== Translation Notes: =====
 
   * **thirty silver coins**  - Each of these coins were worth about four days' wages.
