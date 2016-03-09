@@ -8,10 +8,10 @@ Pero, los líderes religiosos de los Judios estaban celosos, así, ellos se junt
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:lazarus]]**
 ===== Translation Notes: =====
 
   * **jealous**  - That is, "jealous of Jesus' power and popularity" or, "jealous that so many Jews were believing in Jesus."
