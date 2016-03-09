@@ -8,12 +8,12 @@ Entonces, Jesús les explicó de qué dice la palabra de Dios acerca del Mesías
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:kt:suffer|suffer, suffering (sufrimiento, sufrir)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:kt:suffer]]**
+  * **[[:es-419:obe:kt:raise]]**
 ===== Translation Notes: =====
 
   * **on the third day**  - Some languages may prefer to say, "on the third day after his death."
