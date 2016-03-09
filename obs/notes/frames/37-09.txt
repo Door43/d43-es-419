@@ -8,11 +8,11 @@ Entonces, Jesús miró al cielo y dijo, “Padre, gracias por escucharme. Se que
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:believe]]**
+  * **[[:es-419:obe:other:lazarus]]**
 ===== Translation Notes: =====
 
   * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
