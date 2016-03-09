@@ -8,10 +8,10 @@ El día después de ser enterrado Jesús fue un día sábado, y los Judios no es
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:sabbath|Sabbath (sábado)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sabbath]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:tomb]]**
 ===== Translation Notes: =====
 
   * **the Jews were not permitted**  - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
