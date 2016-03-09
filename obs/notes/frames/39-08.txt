@@ -8,11 +8,11 @@ Pedro fue y lloró amargamente. Mientras tanto, Judas, el traidor, vio que los l
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:kt:betray]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **cried bitterly**  - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
