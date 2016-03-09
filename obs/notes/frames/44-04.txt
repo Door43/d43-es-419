@@ -8,11 +8,11 @@ La muchedumbre vino rapidamente para ver al hombre sanado. Pedro les dijo, “¿
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:kt:power|power (poder)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:faith|faith (fe)]]**
+  * **[[:es-419:obe:other:heal]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:power]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:faith]]**
 ===== Translation Notes: =====
 
   * //(There are no notes for this frame.)//
