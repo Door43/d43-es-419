@@ -8,8 +8,8 @@ Mientras Jesús oraba, su cara llegó a estar tan brillante come el sol y su rop
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:pray]]**
 ===== Translation Notes: =====
 
   * **whiter **  - That is, "more white."
