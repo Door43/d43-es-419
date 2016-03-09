@@ -8,12 +8,12 @@ Entonces, Moises y el profeta Elías aparecieron. Estos hombres habían vivido e
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:moses|Moses (Moisés)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:elijah|Elijah (Elías)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:other:moses]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:elijah]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:jerusalem]]**
 ===== Translation Notes: =====
 
   * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
