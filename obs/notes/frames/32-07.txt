@@ -7,9 +7,9 @@ The **demons begged Jesus**, “Please **do not send us** out of this region!”
 Los **demonios rogaron ** a **Jesús**, “¡Por favor, no nos envíe fuera de esta región!” Había una manada de cerdos comiendo en una ​colina cercana. Así, los demonios rogaron a Jesús, “Por favor, envíenos en los cerdos!”
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit (demonio, espíritu maligno, espíritu inmundo)]]**
-  * **[[:es-419:obe:other:beg|beg, beggar (mendigar, mendigo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:demon]]**
+  * **[[:es-419:obe:other:beg]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **do not send us**  - That is, "do not make us go."
