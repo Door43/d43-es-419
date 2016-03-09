@@ -8,12 +8,12 @@ Entonces, el ángel dijo a las mujeres, “Vayan y digan a los discípulos. 'Jes
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:galilee]]**
 ===== Translation Notes: =====
 
   * **he will go to Galilee ahead of you **- That is, "he will meet you in Galilee" or, "he will be in Galilee when you get there." "You" here is plural, including the apostles and other disciples.
