@@ -8,15 +8,15 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
-  * **[[:es-419:obe:kt:receive|receive (recibir)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:other:peoplegroup|people group, people (grupo de gente, gente)]]**
-  * **[[:es-419:obe:kt:witness|witness, eyewitness (testigo, testigo ocular)]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:repent]]**
+  * **[[:es-419:obe:kt:receive]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:other:peoplegroup]]**
+  * **[[:es-419:obe:kt:witness]]**
 ===== Translation Notes: =====
 
   * **proclaim**  - That is, "announce" or, "preach."
