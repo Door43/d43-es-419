@@ -8,12 +8,12 @@ Los discípulos de Jesús respondieron, “Señor, si Lázaro duerme, entonces, 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
-  * **[[:es-419:obe:other:lazarus|Lazarus (Lázaro)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:other:lazarus]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:kt:believe]]**
 ===== Translation Notes: =====
 
   * **he will get better**  - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
