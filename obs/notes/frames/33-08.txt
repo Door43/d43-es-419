@@ -5,9 +5,9 @@
 “The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:love]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
