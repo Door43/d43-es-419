@@ -8,12 +8,12 @@ Pilato se puso miedoso que la muchedumbre empezaría a amotinarse, así, él ord
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:pilate|Pilate (Pilato)]]**
-  * **[[:es-419:obe:kt:crucify|crucify (crucificar)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:rome|Rome, Roman (Roma, romano)]]**
-  * **[[:es-419:obe:other:mock|mock, ridicule (burla/mofa, ridículo)]]**
-  * **[[:es-419:obe:kt:kingofthejews|King of the Jews (rey de los judíos)]]**
+  * **[[:es-419:obe:other:pilate]]**
+  * **[[:es-419:obe:kt:crucify]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:rome]]**
+  * **[[:es-419:obe:other:mock]]**
+  * **[[:es-419:obe:kt:kingofthejews]]**
 ===== Translation Notes: =====
 
   * **riot**  - That is, "start doing violent things in their anger."
