@@ -8,13 +8,13 @@ Los líderes de los Judios y la otra gente en la multitud​ se burlaron de Jes�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:other:mock|mock, ridicule (burla/mofa, ridículo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:cross|cross (cruz)]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:kt:believe|believe, believe in, belief (creer, cree en, creencia)]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:other:mock]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:cross]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:believe]]**
 ===== Translation Notes: =====
 
   * **believe you**  - That is, "believe in you" or, "believe that you are the Messiah."
