@@ -8,11 +8,11 @@ Pedro respondió, “¡Aun si los demás le abandonen, yo no lo haré!” Entonc
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
-  * **[[:es-419:obe:kt:faith|faith (fe)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:other:pray]]**
+  * **[[:es-419:obe:kt:faith]]**
 ===== Translation Notes: =====
 
   * **abandon you**  - Check to see how you translated this in **[[:es-419:obs:notes:frames:38-08|[38-08]]]**.
