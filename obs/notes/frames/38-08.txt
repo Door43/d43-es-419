@@ -8,10 +8,10 @@ Después de la cena, Jesús y sus discípulos caminaron al Monte de los Olivos. 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]]**
-  * **[[:es-419:obe:other:sheep|sheep, ram (oveja, carnero)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:shepherd]]**
+  * **[[:es-419:obe:other:sheep]]**
 ===== Translation Notes: =====
 
   * **Mount of Olives**  - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
