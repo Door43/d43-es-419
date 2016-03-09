@@ -8,11 +8,11 @@ Judas vino con los líderes de los Judios, los soldados, y una muchedumbre. Ello
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:judasiscariot|Judas Iscariot (Judas Iscariote)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:teacher|teacher, Teacher (maestro, maestro)]]**
-  * **[[:es-419:obe:kt:betray|betray, betrayer (traicionar, traidor)]]**
+  * **[[:es-419:obe:other:judasiscariot]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:teacher]]**
+  * **[[:es-419:obe:kt:betray]]**
 ===== Translation Notes: =====
 
   * **came to**  - Some languages may prefer to say, "went to."
