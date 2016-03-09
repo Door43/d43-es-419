@@ -8,12 +8,12 @@ Después de volver al cielo Jesús, los discípulos quedaban en Jesursalen como 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:heaven|heaven, sky, heavens, heavenly (paraíso, cielo, cielos, celestial)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:kt:believer|believer (creyente)]]**
-  * **[[:es-419:obe:other:pray|pray, prayer (ora, oración)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:heaven]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:believer]]**
+  * **[[:es-419:obe:other:pray]]**
 ===== Translation Notes: =====
 
   * **returned to heaven**  - That is, "went back to heaven."
