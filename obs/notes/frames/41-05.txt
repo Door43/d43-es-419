@@ -8,11 +8,11 @@ Cuando las mujeres llegaron al sepúlcro, el ángel les dijo, “No tengan miedo
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:raise|raise, rise, risen (resucitar, levantar, resucitado)]]**
-  * **[[:es-419:obe:kt:death|death, die, dead (muerte, morir, muerto)]]**
-  * **[[:es-419:obe:other:tomb|tomb, grave, burial place (tumba, sepulcro, lugar de entierro)]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:raise]]**
+  * **[[:es-419:obe:kt:death]]**
+  * **[[:es-419:obe:other:tomb]]**
 ===== Translation Notes: =====
 
   * **Do not be afraid**  - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
