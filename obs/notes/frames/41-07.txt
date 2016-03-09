@@ -8,8 +8,8 @@ Las mujeres estuvieron llenas de miedo y de gran gozo. Ellas corrieron para dar 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:joy|joy, joyful (gozo, jubiloso)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
+  * **[[:es-419:obe:kt:joy]]**
+  * **[[:es-419:obe:kt:disciple]]**
 ===== Translation Notes: =====
 
   * **full of fear and great joy**  - That is, "experiencing emotions of fear and also great joy."
