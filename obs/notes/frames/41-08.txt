@@ -8,10 +8,10 @@ Mientras las mujeres estuvieron en el camino para decir a los discíplulos las b
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:other:galilee]]**
 ===== Translation Notes: =====
 
   * **will see me**  - That is, "will meet me" or, "can meet with me."
