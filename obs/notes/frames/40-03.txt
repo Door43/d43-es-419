@@ -8,9 +8,9 @@ Los soldados apostaron por la ropa de Jesús. Cuando lo hicieron, cumplieron la 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:fulfill|fulfill (cumplir)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:fulfill]]**
+  * **[[:es-419:obe:kt:prophet]]**
 ===== Translation Notes: =====
 
   * **gambled for Jesus' clothing**  - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
