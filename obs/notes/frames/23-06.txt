@@ -7,11 +7,11 @@ That night, there were some **shepherds** in a nearby field **guarding their flo
 Esa noche, habían unos **pastores** en un campo cercan**o cuidando sus rebaños**. De repente, un **ángel resplandeciente** se les apareció a ellos, y **ellos estaban aterrorizados**. El ángel dijo: “**No temas** porque tengo  buenas noticias para ustedes. “¡**Él Mesías**, **É**l** Maestro**,  ha nacido en **Belén**!”
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:shepherd|shepherd, to shepherd (pastorear, para pastorear)]]**
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
-  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
-  * **[[:es-419:obe:other:bethlehem|Bethlehem (Belén)]]**
+  * **[[:es-419:obe:other:shepherd]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:kt:christ]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:other:bethlehem]]**
 ===== Translation Notes: =====
 
   * **guarding their flocks**  - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
