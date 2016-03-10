@@ -8,9 +8,9 @@ Jesús le respondió: “Está escrito en la palabra de Dios,” La gente no só
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: =====
 
   * **bread**  - Make sure that you use the same word to translate "bread" here as you did in **[[:es-419:obs:notes:frames:25-02|[25-02]]]**.
