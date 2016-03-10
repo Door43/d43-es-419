@@ -8,13 +8,13 @@ Un día, un joven rico se acercó a Jesús y le preguntó: “Maestro bueno, ¿q
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:good|good, goodness (bueno, bondad)]]**
-  * **[[:es-419:obe:kt:teacher|teacher, Teacher (maestro, maestro)]]**
-  * **[[:es-419:obe:kt:eternity|everlasting, eternal, eternity (eterno, eternal, eternidad)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]]**
-  * **[[:es-419:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:good]]**
+  * **[[:es-419:obe:kt:teacher]]**
+  * **[[:es-419:obe:kt:eternity]]**
+  * **[[:es-419:obe:kt:god]]**
+  * **[[:es-419:obe:other:obey]]**
+  * **[[:es-419:obe:kt:lawofmoses]]**
 ===== Translation Notes: =====
 
   * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story
