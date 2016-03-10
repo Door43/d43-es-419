@@ -8,10 +8,10 @@ Pero el joven dijo: “Yo he guardado todas estas leyes desde que era un niño. 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:obey|obey, obedient, obedience (obedece, obediente, obediencia)]] **
-  * **[[:es-419:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:other:obey]] **
+  * **[[:es-419:obe:kt:lawofmoses]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:love]]**
 ===== Translation Notes: =====
 
   * **ever since I was a boy**  - Another way to say this would be, "from the time I was a child until now."
