@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:adultery|adultery, adulterer (adulterio, adúltero)]]**
-  * **[[:es-419:obe:kt:love|love (amor)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:adultery]]**
+  * **[[:es-419:obe:kt:love]]**
 ===== Translation Notes: =====
 
   * **Which ones do I need to obey?**  - That is, "Which laws will be enough for me to receive eternal life?
