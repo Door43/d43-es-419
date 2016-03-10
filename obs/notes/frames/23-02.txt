@@ -7,15 +7,15 @@ The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife*
 El **ángel** le dijo: “**José, no temas de recibir a María como tú esposa**. El bebé que está en ella **es del Espíritu Santo**. Ella dará a luz un hijo. Ponle por nombre **Jesús** (que significa,”**Jehová salva** ”), porque él salvará la gente de sus **pecados** ”.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:angel|angel (ángel)]]**
-  * **[[:es-419:obe:other:josephnt|Joseph (NT) (José NT)]]**
-  * **[[:es-419:obe:other:mary|Mary (María)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:kt:son|son (hijo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:yahweh|Yahweh]]**
-  * **[[:es-419:obe:kt:save|save (salvar)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:angel]]**
+  * **[[:es-419:obe:other:josephnt]]**
+  * **[[:es-419:obe:other:mary]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:kt:son]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:yahweh]]**
+  * **[[:es-419:obe:kt:save]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: =====
 
   * **do not be afraid to take Mary as your wife**  - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
