@@ -7,10 +7,10 @@ The **Persian Empire** was strong but **merciful** to the people it conquered. S
 El** Imperio Persa** era fuerte, pero misericordioso con la gente que conquistaron. Poco después de que **Ciro** se convirtió en rey de los Persas, él dió una orden de que cualquier Judío que quería **regresar a Judá** podía irse de Persia y **regresar** a la ciudad de Jerusalén en Judá. ¡Incluso les dió dinero para reconstruir el **Templo**! Así que, después de setenta años de** exilio**, un pequeño grupo de Judíos **regresó** a la ciudad de **Jerusalén** en Judá.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:mercy|mercy, merciful (misericordia, misericordioso)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:kt:temple|temple (templo)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
+  * **[[:es-419:obe:kt:mercy]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:other:jerusalem]]**
 ==== Translation Notes: ====
 
   * **Persian Empire**  - See how you translated this term in **[[:es-419:obs:notes:frames:20-11|[20-11]]]**.
