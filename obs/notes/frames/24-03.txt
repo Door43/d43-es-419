@@ -8,11 +8,11 @@ Cuando la gente oyó el mensaje de Juan, muchos de ellos se arrepintieron de sus
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]] **
-  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
-  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:other:johnthebaptist]] **
+  * **[[:es-419:obe:kt:repent]]**
+  * **[[:es-419:obe:kt:sin]]**
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
 ===== Translation Notes: =====
 
   * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
