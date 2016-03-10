@@ -8,12 +8,12 @@ Jesús continuó diciendo: “Y durante el tiempo del profeta Eliseo, había muc
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:israel|Israel, Israelites, nation of Israel (Israel, israelitas, nación/pueblo de Israel)]]**
-  * **[[:es-419:obe:other:heal|heal, cure (sanar, curar)]]**
-  * **[[:es-419:obe:other:naaman|Naaman (Naaman)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:israel]]**
+  * **[[:es-419:obe:other:heal]]**
+  * **[[:es-419:obe:other:naaman]]**
+  * **[[:es-419:obe:other:jew]]**
 ===== Translation Notes: =====
 
   * **Elisha**  - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
