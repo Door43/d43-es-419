@@ -8,8 +8,8 @@ Entonces, Jesús pidió al experto de la ley, “¿Qué piensa?” “¿Cuál de
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:mercy|mercy, merciful (misericordia, misericordioso)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:mercy]]**
 ===== Translation Notes: =====
 
   * **law expert**  - That is, "an expert in the Jewish law." See how you translated this term in **[[:es-419:obs:notes:frames:27-01|[27-01]]]**.
