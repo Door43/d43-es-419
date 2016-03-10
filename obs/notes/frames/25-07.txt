@@ -8,12 +8,12 @@ Entonces, Satanás le mostró a Jesús todos los reinos del mundo y toda su glor
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:kt:wordofgod|word of God, word of Yahweh, word of the Lord, scripture (Palabra de Dios, Palabra de Yahvé, Palabra del Señor, escritura)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:kt:lord|lord, master, sir (señor, maestro, caballero)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:kt:wordofgod]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:lord]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes =====
 
   * **In God's word he commands his people, "Worship only the Lord your God and only serve him"**  - This could be written as an indirect quote, "In God's word, he commands us that we must worship and serve only the Lord God, who rules over us."
