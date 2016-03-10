@@ -8,8 +8,8 @@ Al fin del día, los discípulos le dijeron a Jesús: “Ya es tarde y no hay pu
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **Late in the day**  - This could also be translated as, "When it was almost evening."
