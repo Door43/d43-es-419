@@ -8,9 +8,9 @@ Algunos Judios preguntaron a Juan si él era el Mesías. Juan respondió: “Yo 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]] **
-  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:es-419:obe:kt:christ|Christ, Messiah (Cristo, Mesías)]]**
+  * **[[:es-419:obe:other:jew]] **
+  * **[[:es-419:obe:other:johnthebaptist]]**
+  * **[[:es-419:obe:kt:christ]]**
 ===== Translation Notes: =====
 
   * **He is so great**  - This could be translated as, "He is so important."
