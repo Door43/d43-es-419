@@ -8,10 +8,10 @@ Jesús respondió al experto de la ley por contar una historia. “Había un hom
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:other:jericho|Jericho]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:jew]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:other:jericho]]**
 ===== Translation Notes: =====
 
   * **(The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)**
