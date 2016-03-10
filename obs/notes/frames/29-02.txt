@@ -8,9 +8,9 @@ Jesús dijo: “El reino de Dios se parece a un rey que quiso ajustar cuentas co
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:servant]]**
 ===== Translation Notes: =====
 
   * **The kingdom of God is like**  - Another way to say this would be, "God's rule over people is like" or, "The way God rules people can be compared to."
