@@ -8,12 +8,12 @@ Después de superar las tentaciones de Satanás, Jesús volvió en el poder del 
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:power|power (poder)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:other:galilee|Galilee, Galilean (Galilea, galileo)]]**
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:kt:tempt]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:power]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:other:galilee]]**
 ===== Translation Notes: =====
 
   * **After overcoming Satan's temptations, Jesus returned**  - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
