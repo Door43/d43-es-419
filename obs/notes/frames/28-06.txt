@@ -8,9 +8,9 @@ Entonces, Jesús dijo a sus discípulos: “¡Es muy difícil para los ricos que
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:disciple|disciple (discípulo)]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:disciple]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
 ===== Translation Notes: =====
 
   * **enter the kingdom of God**  - This can also be translated as, "become a citizen in God's kingdom."
