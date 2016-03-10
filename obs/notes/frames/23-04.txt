@@ -7,12 +7,12 @@
 **Cuando el tiempo estaba cerca de María para dar a luz**, el **gobierno Romano** dijo a todo el mundo que fuera a la ciudad donde sus antepasados ​​habían vivido **para un censo**. José y María tuvieron que hacer un largo viaje desde dónde vivían en **Nazaret** a **Belén**, ya que su antepasado era **David** cuya ciudad natal era Belén.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:mary|Mary (María)]]**
-  * **[[:es-419:obe:other:rome|Rome, Roman (Roma, romano)]]**
-  * **[[:es-419:obe:other:josephnt|Joseph (NT) (José NT)]]**
-  * **[[:es-419:obe:other:nazareth|Nazareth, Nazarene]]**
-  * **[[:es-419:obe:other:bethlehem|Bethlehem (Belén)]]**
-  * **[[:es-419:obe:other:david|David (David)]]**
+  * **[[:es-419:obe:other:mary]]**
+  * **[[:es-419:obe:other:rome]]**
+  * **[[:es-419:obe:other:josephnt]]**
+  * **[[:es-419:obe:other:nazareth]]**
+  * **[[:es-419:obe:other:bethlehem]]**
+  * **[[:es-419:obe:other:david]]**
 ===== Translation Notes: =====
 
   * **When the time was near for Mary to give birth**  - That is, "When it was near the end of Mary's pregnancy."
