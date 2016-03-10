@@ -8,10 +8,10 @@ Mucha gente vino al desierto para escuchar a John. Él predicó a ellos, diciend
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:johnthebaptist|John (the Baptist)]] **
-  * **[[:es-419:obe:other:preach|preach (predicar)]]**
-  * **[[:es-419:obe:kt:repent|repent, repentance (arrepentir, arrepentimiento)]]**
-  * **[[:es-419:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven (reino de Dios, reino de los cielos)]]**
+  * **[[:es-419:obe:other:johnthebaptist]] **
+  * **[[:es-419:obe:other:preach]]**
+  * **[[:es-419:obe:kt:repent]]**
+  * **[[:es-419:obe:kt:kingdomofgod]]**
 ===== Translation Notes: =====
 
   * **wilderness**  - See how you translated this word in **[[:es-419:obs:notes:frames:24-01|[24-01]]]**.
