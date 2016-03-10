@@ -8,11 +8,11 @@ Entonces, Satanás le mostró a Jesús todos los reinos del mundo y toda su glor
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]] **
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:other:kingdom|kingdom (reino)]]**
-  * **[[:es-419:obe:kt:glory|glory, glorious (gloria, glorioso)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:kt:satan]] **
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:other:kingdom]]**
+  * **[[:es-419:obe:kt:glory]]**
+  * **[[:es-419:obe:kt:worship]]**
 ===== Translation Notes: =====
 
   * **kingdoms of the world**  - This refers to all the greatest cities, countries, and other territories of the world.
