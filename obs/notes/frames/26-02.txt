@@ -8,12 +8,12 @@ Jesús decía: “Dios me ha dado su Espíritu para que yo pueda dar buenas nuev
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:other:nazareth|Nazareth, Nazarene]]**
-  * **[[:es-419:obe:kt:sabbath|Sabbath (sábado)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:kt:prophet|prophet, prophecy, prophesy, seer (profeta, profecía, profetizar, vidente)]]**
-  * **[[:es-419:obe:other:isaiah|Isaiah (Isaías)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:other:nazareth]]**
+  * **[[:es-419:obe:kt:sabbath]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:prophet]]**
+  * **[[:es-419:obe:other:isaiah]]**
 ===== Translation Notes: =====
 
   * **place of worship**  - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
