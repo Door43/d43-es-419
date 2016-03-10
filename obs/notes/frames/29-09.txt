@@ -8,9 +8,9 @@ Entonces,Jesús dijo: “Esto es lo que mi Padre celestial hará con cada uno de
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:godthefather|God the Father, Heavenly Father (Dios el Padre, Padre Celestial)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:godthefather]]**
+  * **[[:es-419:obe:kt:forgive]]**
 ===== Translation Notes: =====
 
   * **Then Jesus said**  - Some languages may add, "to his disciples."
