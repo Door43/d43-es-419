@@ -8,11 +8,11 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:kt:forgive|forgive, forgiveness (perdonar, perdón)]]**
-  * **[[:es-419:obe:other:beg|beg, beggar (mendigar, mendigo)]]**
-  * **[[:es-419:obe:kt:evil|evil, wicked, wickedness (mal, malvado, maldad)]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:kt:forgive]]**
+  * **[[:es-419:obe:other:beg]]**
+  * **[[:es-419:obe:kt:evil]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
