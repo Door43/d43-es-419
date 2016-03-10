@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]] **
-  * **[[:es-419:obe:kt:priest|priest, priesthood (sacerdote, sacerdocio)]]**
-  * **[[:es-419:obe:other:jewishleaders|Jewish leaders, religious leaders (líderes judíos, líderes religiosos)]]**
+  * **[[:es-419:obe:other:jew]] **
+  * **[[:es-419:obe:kt:priest]]**
+  * **[[:es-419:obe:other:jewishleaders]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
