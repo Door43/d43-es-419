@@ -8,8 +8,8 @@ Pedro dijo a Jesús: “Nosotros hemos dejado todo y hemos seguido a usted. ¿Cu
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:peter|Peter, Simon Peter, Cephas (Pedro, Simón Pedro, Cefas)]]**
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
+  * **[[:es-419:obe:other:peter]]**
+  * **[[:es-419:obe:kt:jesus]]**
 ===== Translation Notes: =====
 
   * **left everything**  - That is, "left everything behind" or, "given up everything we owned."
