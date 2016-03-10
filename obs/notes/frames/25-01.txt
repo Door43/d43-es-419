@@ -8,13 +8,13 @@ Inmediatamente después de que Jesús fue bautizado, el Espíritu Santo lo llev�
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:baptize|baptize, baptism (bautizar, bautismo)]]**
-  * **[[:es-419:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord (Espíritu Santo, Espíritu de Dios, Espíritu del Señor)]]**
-  * **[[:es-419:obe:other:fast|fast (ayuno)]]**
-  * **[[:es-419:obe:kt:satan|Satan, devil, evil one (Satanás, diablo, maligno)]]**
-  * **[[:es-419:obe:kt:tempt|tempt, temptation (tentar, tentación)]]**
-  * **[[:es-419:obe:kt:sin|sin, sinful, sinner, sinning (pecado, pecaminoso, pecador, pecando)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:baptize]]**
+  * **[[:es-419:obe:kt:holyspirit]]**
+  * **[[:es-419:obe:other:fast]]**
+  * **[[:es-419:obe:kt:satan]]**
+  * **[[:es-419:obe:kt:tempt]]**
+  * **[[:es-419:obe:kt:sin]]**
 ===== Translation Notes: =====
 
   * **the Holy Spirit led him**  - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
