@@ -8,8 +8,8 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:samaria|Samaria, Samaritan (Samaria, samaritano)]] **
-  * **[[:es-419:obe:other:jew|Jew, Jewish (judío, judío)]]**
+  * **[[:es-419:obe:other:samaria]] **
+  * **[[:es-419:obe:other:jew]]**
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
