@@ -8,12 +8,12 @@ Muchas personas que tenían demonios en ellos fueron traídos a Jesús. Al manda
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit (demonio, espíritu maligno, espíritu inmundo)]] **
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]]**
-  * **[[:es-419:obe:kt:demon|demon, evil spirit, unclean spirit (demonio, espíritu maligno, espíritu inmundo)]]**
-  * **[[:es-419:obe:kt:sonofgod|Son of God, the Son (Hijo de Dios, el Hijo)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
-  * **[[:es-419:obe:kt:god|God (Dios)]]**
+  * **[[:es-419:obe:kt:demon]] **
+  * **[[:es-419:obe:kt:jesus]]**
+  * **[[:es-419:obe:kt:demon]]**
+  * **[[:es-419:obe:kt:sonofgod]]**
+  * **[[:es-419:obe:kt:worship]]**
+  * **[[:es-419:obe:kt:god]]**
 ===== Translation Notes: =====
 
   * **who had demons in them**  - That is, "who were controlled by evil spirits.
