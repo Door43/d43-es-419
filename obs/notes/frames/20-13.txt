@@ -7,10 +7,10 @@ When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the 
 Cuando la gente llegaron a **Jerusalén**, reconstruyeron el **Templo** y la **pared** alrededor de la ciudad. A pesar de que ellos todavía estaban **gobernados por otra gent**e, una vez más vivieron en la **Tierra Prometida ** y adoraban en el **Templo**.
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:jerusalem|Jerusalem (Jerusalén)]]**
-  * **[[:es-419:obe:kt:temple|temple (templo)]]**
-  * **[[:es-419:obe:kt:promisedland|Promised Land (Tierra prometida)]]**
-  * **[[:es-419:obe:kt:worship|worship (adoración)]]**
+  * **[[:es-419:obe:other:jerusalem]]**
+  * **[[:es-419:obe:kt:temple]]**
+  * **[[:es-419:obe:kt:promisedland]]**
+  * **[[:es-419:obe:kt:worship]]**
 ==== Translation Notes: ====
 
   * **the people**  - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
