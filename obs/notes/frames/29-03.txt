@@ -8,9 +8,9 @@
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
-  * **[[:es-419:obe:other:king|king (rey)]]**
-  * **[[:es-419:obe:other:servant|servant, slave, slavery (siervo, esclavo, esclavitud)]]**
+  * **[[:es-419:obe:other:servant]]**
+  * **[[:es-419:obe:other:king]]**
+  * **[[:es-419:obe:other:servant]]**
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
