@@ -8,8 +8,8 @@ Entonces, Jesús escogió a doce hombres que fueron llamados sus apóstoles. Los
 
 ===== Términos Importantes =====
 
-  * **[[:es-419:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus (Jesús, Jesucristo, Cristo Jesús)]] **
-  * **[[:es-419:obe:kt:apostle|apostle, apostleship (apóstol, apostolado)]]**
+  * **[[:es-419:obe:kt:jesus]] **
+  * **[[:es-419:obe:kt:apostle]]**
 ===== Translation Notes: =====
 
   * **learned from him**  - That is, "learned from what he taught them" or, "learned from everything he said and did."
