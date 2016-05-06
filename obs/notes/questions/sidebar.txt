@@ -1,7 +1,7 @@
 [[:es-419:notes:home]]\\
 [[:es-419:obs:notes:questions:home]]
 
-**OBS Translation Questions**
+**Preguntas Comprensivas y Respuestas**
   - [[:es-419:obs:notes:questions:01]]
   - [[:es-419:obs:notes:questions:02]]
   - [[:es-419:obs:notes:questions:03]]
