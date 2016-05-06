@@ -1,4 +1,4 @@
-[[:es-419:notes]]\\
+[[:es-419:obs:notes]]\\
 [[:es-419:obs:notes:questions:home]]
 
 **Preguntas Comprensivas y Respuestas**
