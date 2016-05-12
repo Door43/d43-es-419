@@ -1,7 +1,5 @@
 ===== Historia #30: Jesús Alimenta Cinco Mil Personas =====
-
 ===== Preguntas Comprensivas y Respuestas =====
-
   - ¿A qué envió Jesús a sus discípulos a hacer en los pueblos?
   * //El los envió a predicar y enseñar.// [30-01]
   - ¿Por qué Jesús se llevó a sus apóstoles al otro lado del lago?
@@ -21,4 +19,4 @@
   - ¿Cuántas personas comieron y se satisficieron con la comida?
   * //Cinco mil hombres, sin contar mujeres y niños.// [30-03]
   - ¿Cuánta comida sobró luego de que todos comieran?
-  - //Doce canastas llenas.// [30-09]
+  * //Doce canastas llenas.// [30-09]
