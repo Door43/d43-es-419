@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons.
-
-Aunque **Jacobo** era un hombre viejo, él se mudó a **Egipto** con toda su familia, y todos ellos vivían allá.** Antes que ****Jacobo muriera **, él **bendijo** cada uno de sus hijos.
+**Aunque Jacob era un hombre viejo, él se mudó a ****Egipto** con toda su familia, y todos ellos vivieron allá.** Antes que ****Jacob muriera**, él **bendijo** a cada uno de sus hijos.
 
 =====Términos Importantes=====
   * **[[:es-419:obe:other:jacob]] **
