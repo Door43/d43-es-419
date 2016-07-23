@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-04.jpg?nolink&}}
 
-Después de mucho tiempo, **Abraham** murió, y todas **las promesas que Dios le había hecho a él en el pacto fueron transmitidas** a** Isaac**. Dios había prometido que Abraham tendría **incontables descendientes**, pero la esposa de Isaac, Rebeca, no podía tener hijos.
+Después de mucho tiempo, **Abraham** murió, y todas **las promesas que Dios le había hecho a él en el pacto fueron transmitidas** a** Isaac**. Dios había prometido que Abraham tendría **incontables descendientes**, pero la esposa de Isaac, **Rebeca**, no podía tener hijos.
 
 =====Términos Importantes:=====
   * **[[:es-419:obe:other/Abraham]]**
