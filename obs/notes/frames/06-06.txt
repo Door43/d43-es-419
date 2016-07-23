@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
-**God** told **Rebekah**, “Two nations will come **from the two sons** inside of you. **They will struggle with each other** and **the older son** will **serve the younger one**.”
-
-**Dios ** le dijo a **Rebeca**: “Dos naciones vendrán de los dos** hijos ** dentro de ti. Ellos lucharán entre sí mismos y el **hijo** mayor servirá al menor de ellos.”
+**Dios ** le dijo a **Rebeca**: “Dos naciones vendrán de los dos** hijos ** dentro de ti. **Ellos lucharán uno contra otro** y el **hijo**** mayor** **servirá al menor**.”
 
 =====Términos Importantes=====
   * **[[:es-419:obe:kt/god]]**
