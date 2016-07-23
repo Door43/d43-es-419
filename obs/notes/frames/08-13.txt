@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-When **Joseph's** brothers returned home and told their father, **Jacob**, that Joseph was still alive, he was very happy.
-
-Cuando los hermanos de **José** volvieron a la casa y le dijeron a su padre, **Jacobo**, que** José** estaba todavía vivo, él estuvo muy contento.
+Cuando los hermanos de **José** volvieron a la casa y le dijeron a su padre, **Jacob**, que José todavía estaba vivo, él estaba muy contento.
 
 =====Términos Importantes=====
   * **[[:es-419:obe:other:josephot]]  **
