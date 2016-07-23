@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-15.jpg?nolink&}}
 
-The **covenant promises** that **God** gave to **Abraham** were **passed on to Isaac**, then to **Jacob**, and then to Jacob’s twelve sons and their families. The **descendants** of the twelve sons became the **twelve tribes of Israel**.
-
-Las **promesas del pacto ** que** Dios ** le dió a** Abraham ** fueron pasadas a **Isaac**, entonces a **Jacobo**, y entonces a los doce hijos de Jacobo y a sus familias. Los descendientes de los doce hermanos llegaron a ser **las doce tribus de Israel**.
+Las **promesas del pacto ** que** Dios ** le dio a** Abraham ** fueron **pasadas a** **Isaac**, luego a **Jacob**, y luego a los doce hijos de Jacob y a sus familias. Los **descendientes ** de los doce hijos llegaron a ser **las doce tribus de Israel**.
 
 =====Términos Importantes=====
   * **[[:es-419:obe:kt:covenant]] **
