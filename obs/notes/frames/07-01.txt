@@ -2,10 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**.
-
-A medida que los niños crecieron, **Jacobo** le gustaba quedarse en la casa, pero **Esaú** le gustaba cazar. **Rebeca** amaba a Jacobo, pero **Isaac** amaba a **Esaú**.
-
+A medida que los niños crecieron,** a** **Jacob**** le gustaba quedarse en la casa**, pero **a Esaú le gustaba cazar**. **Rebeca** **amaba a Jacob**, **pero Isaac amaba a ******E**saú**.
 
 =====Términos Importantes=====
   * **[[:es-419:obe:other:jacob]]**
