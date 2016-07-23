@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-03.jpg?nolink&}}
 
-**Rebekah** **agreed** to leave her family and go back with the **servant** to **Isaac's** home. Isaac married her as soon as she arrived.
-
-**Rebeca ** aceptó dejar a su familia y regresar con el **siervo ** de la casa de Isaac. **Isaac ** se casó con ella tan pronto como llegó.
+**Rebeca ** **aceptó** dejar a su familia y regresar con el **siervo ** de la casa de **Isaac**. Isaac** ** se casó con ella tan pronto como llegó.
 
 =====Términos Importantes:===== 
   * **[[:es-419:obe:other/rebekah]]**
