@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-06.jpg?nolink&}}
 
-Immediately **Caleb** and **Joshua**, the other two spies, said, “It is true that the **people of Canaan** are tall and strong, but **we can certainly defeat them**! **God will fight for us**!”
-
-Inmediatamente,** Caleb ** y **Josué, ** los otros dos espías, dijeron, “¡Es verdad que la gente de **Canaán ** está alta y fuerte, **pero nosotros ciertamente** **podemos vencerlos**! !**Dios** **peleará por nosotros**!”
+Inmediatamente,** Caleb ** y **Josué, ** los otros dos espías, dijeron: “¡Es verdad que la **gente de ****Canaán ** es alta y fuerte,** ** pero** nosotros ciertamente** **podemos vencerlos**! ¡**Dios** **peleará por nosotros**!”
 
 =====Términos Importantes =====
   * **[[:es-419:obe:other:caleb]]**
