@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&}}
 
-When **Moses** came down the mountain and saw the **idol**, he was so angry that he **smashed the stones** on which **God** had written the **Ten Commandments**.
-
-Cuando **Moisés** bajó de la montaña y vió el **ídolo**, se puso tan enfadado que aplastó las piedras en que **Dios** había escrito los **Diez Mandamientos.**
+Cuando **Moisés** bajó de la montaña y vio el **ídolo**, él estaba tan enfadado que **rompió las piedras** en las que **Dios** había escrito los **Diez Mandamientos.**
 
 =====Términos Importantes =====
   * **[[:es-419:obe:other:moses]]**
