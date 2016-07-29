@@ -10,5 +10,5 @@
   * **[[:es-419:obe:kt/god]]**
 ===== Translation Notes: Notas de traducción =====
 
-   * **rico - Esto incluyó dinero, grandes rebaños de animales y otras posesiones.**
+**   * **rico** - Esto incluyó dinero, grandes rebaños de animales y otras posesiones.
 **[[:es-419:obs:notes:frames:07-06|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-08|>>]]**
