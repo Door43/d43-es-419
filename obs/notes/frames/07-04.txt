@@ -11,8 +11,6 @@
   * **[[:es-419:obe:kt/bless]]**
 ===== Translation Notes: Notas de traducción =====
 
-  * **Jacobo came to Isaac**  - In some languages it might be more natural to say, "Jacobo went to Isaac."
   * **Jacobo vino a Isaac **- En algunos idiomas esto puede ser mas natural decir, "Jacobo fue a Isaac".
-  * **he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
   * **el pensó que este era Esau **- El pensó que la persona que el estaba tocando y oliendo era Esau.
 **[[:es-419:obs:notes:frames:07-03|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-05|>>]]**
