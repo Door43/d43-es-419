@@ -12,5 +12,5 @@
 ===== Translation Notes: Notas de traducción =====
 
   * **Jacobo vino a Isaac **- En algunos idiomas esto puede ser mas natural decir, "Jacobo fue a Isaac".
-  * **el pensó que este era Esau **- El pensó que la persona que el estaba tocando y oliendo era Esau.
+  * **él pensó que este era Esaú **- El pensó que la persona que el estaba tocando y oliendo era Esaú.
 **[[:es-419:obs:notes:frames:07-03|<<]] | [[:es-419:obs:notes:07|Up]] | [[:es-419:obs:notes:frames:07-05|>>]]**
