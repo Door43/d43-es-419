@@ -3,18 +3,20 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
 Pero **Esaú** ya había** perdonado ** a **Jacob**, y estaban contentos por verse otra vez. Entonces Jacob **vivió en paz ** en** Canaán**. Entonces **Isaac** murió, y Jacob y Esaú **lo enterraron**. Las **promesas **** del** **pacto** que **Dios ** había prometido a **Abraham**, ahora** pasaban de Isaac a** **Jacob**.
+<code>
+=====Términos Importantes=====
+* [[:es-419:obe:other:esau]]
+* **[[:es-419:obe:kt:forgive]]**
+* **[[:es-419:obe:other:jacob]]**
+* **[[:es-419:obe:other:peace]]**
+* **[[:es-419:obe:other:canaan]]**
+* **[[:es-419:obe:other:isaac]]**
+* **[[:es-419:obe:kt:covenant]]**
+* **[[:es-419:obe:kt:promise]]**
+* **[[:es-419:obe:kt:god]]**
+* **[[:es-419:obe:other:abraham]]**
+</code>
 
-  =====Términos Importantes=====
-  * **[[:es-419:obe:other:esau]]**
-  * **[[:es-419:obe:kt:forgive]]**
-  * **[[:es-419:obe:other:jacob]]**
-  * **[[:es-419:obe:other:peace]]**
-  * **[[:es-419:obe:other:canaan]]**
-  * **[[:es-419:obe:other:isaac]]**
-  * **[[:es-419:obe:kt:covenant]]**
-  * **[[:es-419:obe:kt:promise]]**
-  * **[[:es-419:obe:kt:god]]**
-  * **[[:es-419:obe:other:abraham]]**
 ===== Translation Notes: Notas de Traducción =====
 
   * **vivía en paz **- Esto se refiere al hecho que Esaú y Jacobo no estaban enojados el uno con el otro y no se pelearon entre sí.
