@@ -16,11 +16,8 @@
   * **[[:es-419:obe:kt:promisedland]]**
 ==== Translation Notes: Notas de traducción ====
 
-  * **Moses made**  - Moses carved the stone tablets with tools such as a hammer and chisel.
   * **Moisés hizo**  - Moisés esculpió las tablas de piedra con instrumentos como un martillo y cincel.
-  * **listened to**  - See how you translated this phrase in **[[:es-419:obs:notes:frames:13-12|[13-12]]]**.
   * **escuchó**  - Ver como esta frase es traducida en **[[:es-419:obs:notes:frames:13-12|[13-12]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
   * //Una historia Biblica de//  - Estas referencias pueden ser ligeramente diferente en algunas traduciones biblicas.
 //Una historia de la Biblia de: Exodo 19-34//
 
