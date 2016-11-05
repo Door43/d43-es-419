@@ -1,0 +1,24 @@
+====== Ham ======
+
+===== Facts: =====
+
+Ham was the second of Noah's three sons who are mentioned in the Old Testament.
+
+  * During the worldwide flood that covered the whole earth, Ham and his brothers were with Noah in the ark, along with their wives.
+  * After the flood, there was an occasion where Ham was very disrespectful to his father, Noah. As a result, Noah cursed Ham's son Canaan and all his descendants, who eventually became known as the Canaanites.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[ark]], [[noah|Noah]], [[canaan|Canaan]] )
+
+Cam fue el segundo de los tres hijos de Noé, que se mencionan en el Antiguo Testamento.
+
+  * Durante el diluvio que cubrió toda la tierra, Cam y sus hermanos estaban con Noé en el arca, junto con sus esposas.
+  * Después del diluvio, hubo una ocasión donde Cam fue muy irrespetuoso con su papá, Noé. Como resultado, Noé maldijo al hijo de Cam, Canaán y todos sus descendientes, quienes eventualmente llegaron a ser los canaanitas.  
+===== Bible References: =====
+
+{{topic>:en:bible?ham&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
