@@ -1,0 +1,22 @@
+====== Hamor ======
+
+===== Facts: =====
+
+Hamor was a non-Jewish neighbor of Jacob.
+
+  * After Jacob returned to his home land with his wives and children, he bought a family burial ground from Hamor's sons.
+  * Hamor's son Shechem raped Jacob's daughter Dinah; her brothers took revenge on Hamor and his family.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+Jamor fue un vecino no judío de Jacob.
+
+  * Después de que Jacob regresara a su tierra de procedencia con sus esposas e hijos, él le compró un cementerio familiar a los hijos de Jamor.
+  * El hijo de Jamor, Siquém, raptó a Dina, la hija de Jacob; sus hermanos tomaron venganza contra Jamor y su familia. 
+===== Bible References: =====
+
+{{topic>:en:bible?hamor&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
