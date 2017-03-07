@@ -16,9 +16,10 @@ Al hablar de la calidad de la traducción, uno generalmente se refiere a dos cos
 
 La manera exacta de comprobar la calidad de una traducción pueden variar bastante, dependiendo del idioma y de cómo se haya llevado a cabo el proyecto de traducción. Por lo general, consideramos una traducción como buena cuando sea:
 
-  - **Exacta, Clara, Natural, y**  - Fiel al significado del original, determinado por la Iglesia en ese grupo y en alineación con la Iglesia global e histórica y consecuentemente:
-  - **Afirmada por la Iglesia**  - Aprobada y usada por la Iglesia. En adicción, una buena traducción será revisada por los hablantes del idioma en una comunidad y debe encontrarse:
-  * **Clara**  - Que esté lista para el más alto nivel de comprensión de los oyentes
-  * **Exacta**  - Fiel al significado original de la fuente del texto.
-  * **Natural**  - Usa formas del lenguaje que es comúnmente hablado.
+  - **Exacta, Clara, Natural, y Equivalente**  - Es decir, fiel al significado del original, tal como lo determine la Iglesia autóctona en ese grupo y de acuerdo con Iglesia global e histórica.  Y como consecuencia, una buena traducción también es :
+  - **Afirmada por la Iglesia**  - Es aprobada y usada por la Iglesia. 
+
+  - También es nuestra recomendación que un trabajo de traduccíon sea:
+  - 
+
 //ver también: [[https://door43.org/en/statement-of-faith|Declaración de Fe]] y [[https://door43.org/en/bible/notes/checking/level1/home|Información de Revisión]]//
