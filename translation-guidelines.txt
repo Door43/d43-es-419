@@ -8,8 +8,7 @@
   - **Fidedigna**  — Para asegurar que la traducción del contenido bíblico sea fidedigna, considere los textos bíblicos en sus idiomas originales como la autoridad máxima. El contenido bíblico fiable en otros idiomas puede usarse como fuente intermedia y para aclaraciones. Para más informaciones, vea [[https://door43.org/en/ta/translate/authoritative|Creando Traducciones Fidedignas ]].
   - **Histórica**  — Una traduccíon histórica comunica los eventos y datos históricos de la manera más exacta posible. Si es necesario, se puede dar más información con el fin de comunicar con exactitud el mensaje deseado a personas que no comparten ni la cultural ni el contexto de los destinatarios originales. Para más informaciones, vea la lección  **//Traduciendo// ********// las Escrituras - Cultura//** (de 7 min. de largo) por  [[http://youtu.be/9nLRLAgOIpw|computadora]] o por  [[http://youtu.be/girNfacETDE|tablet]]. También vea [[https://door43.org/en/ta/translate/historical|Creando Traducciones Históricas]] para más información.
   - **Equivalente**  — Una traducción se considera come equivalente si comunica los mismos sentimientos y actitudes del texto original. Lo más que se pueda, mantiene las formas literarias del texto original, incluyendo la narrativa, poesía, exhortación y profecía, presentándolas con las formas correspondientes en su idioma. Para más informaciones, vea [[https://door43.org/en/ta/translate/expressive|Creando Traducciones Expresivas ]].
-   - **Colaborativa**  — Cuando sea posible, trabaje junto a otros creyentes que hablen su mismo idioma para traducir, revisar y distribuir el contenido traducido, asegurándose que sea de la más alta calidad y disponible a la mayor cantidad de personas. Para más informaciones, vea[[https://door43.org/en/ta/translate/collaborative|Creando Traducciones Colaborativas ]].
-  - **En marcha**  — Motive la revisión periódica para comprobar cuando una revisión o una nueva traducción es necesaria. Para más informaciones, vea[[https://door43.org/en/ta/translate/ongoing|Creando Traducciones En Marcha ]].
+  
 ====== Cómo Identificar y Mantener la Calidad de la Traducción ======
 
 Al hablar de la calidad de la traducción, uno generalmente se refiere a dos cosas.  La calidad depende la fidelidad de la traducción al significado del original y del nivel en que la traducción se entienda y sea efectiva para los hablantes del idioma receptor. La estrategia que sugerimos implica trabajar junto con la Iglesia autóctona para revisar las formas de la traducción, controlar  que la traducción comunica bien con los hablantes del idioma, y verificar la fidelidad de la traducción.
@@ -17,9 +16,11 @@ Al hablar de la calidad de la traducción, uno generalmente se refiere a dos cos
 La manera exacta de comprobar la calidad de una traducción pueden variar bastante, dependiendo del idioma y de cómo se haya llevado a cabo el proyecto de traducción. Por lo general, consideramos una traducción como buena cuando sea:
 
   - **Exacta, Clara, Natural, y Equivalente**  - Es decir, fiel al significado del original, tal como lo determine la Iglesia autóctona en ese grupo y de acuerdo con Iglesia global e histórica.  Y como consecuencia, una buena traducción también es :
-  - **Afirmada por la Iglesia**  - Es aprobada y usada por la Iglesia. 
+  - **Afirmada por la Iglesia**  - Es aprobada y usada por la Iglesia. Para más informaciones, vea (https://git.door43.org/Door43/en-ta-translate-vol1/src/master/content/guidelines_church_approved.md|Creando Traducciones Afirmadas por la Iglesia ]].
 
-  - También es nuestra recomendación que un trabajo de traduccíon sea:
-  - 
+También es nuestra recomendación que un trabajo de traduccíon sea:
+
+  - **Colaborativo**  — Cuando sea posible, trabaje junto a otros creyentes que hablen su mismo idioma para traducir, revisar y distribuir el contenido traducido, asegurándose que sea de la más alta calidad y disponible a la mayor cantidad de personas. Para más informaciones, vea[[https://door43.org/en/ta/translate/collaborative|Creando Traducciones Colaborativas ]].
+  - **Continuo**  — Un trabajo de traducción jamás se acaba completamente. Anime a los que conocen bien el idoma a sugerir mejoras. Todo error debe corregirse inmediatamente. Igualmente, las traducciones deben examinarse de tanto en tanto para saber cuando una revisión o una nueva traducción sea necesaria. Para más informaciones, vea[[https://git.door43.org/Door43/en-ta-translate-vol2/src/master/content/guidelines_ongoing.md|Creando Traducciones Continuas ]].
 
 //ver también: [[https://door43.org/en/statement-of-faith|Declaración de Fe]] y [[https://door43.org/en/bible/notes/checking/level1/home|Información de Revisión]]//
