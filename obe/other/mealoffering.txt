@@ -1,0 +1,20 @@
+====== meal offering ======
+
+===== Definition: =====
+
+A "meal offering" was a sacrifice to God in the form of grain or bread made out of grain flour.
+
+  * Another name for this was the "grain offering."
+  * Meal offerings were usually sacrificed alongside of burnt offerings. 
+
+(See also: [[:es-419:obe:other:grain]], [[:es-419:obe:other:burntoffering]], [[:es-419:obe:other:sacrifice]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?mealoffering&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

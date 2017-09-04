@@ -1,0 +1,20 @@
+====== Jonathan ======
+
+===== Facts: =====
+
+The name "Jonathan" occurs many times in the Old Testament. It means, "Yahweh has given."
+
+  * The most well-known man named Jonathan was the oldest son of King Saul. He was David's best friend.
+  * Other Jonathans mentioned in the Old Testament include: a grandson of Moses; a nephew of King David; <font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>a son of Abiathar the priest, who served David;</font> a secretary in whose house the prophet Jeremiah was imprisoned; and many others..
+
+(See: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:En:obe:other:Saul]], [[:es-419:obe:other:David]], [[:es-419:obe:other:Jeremiah]])
+
+===== Bible References: =====
+
+{{topic>jonathan&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

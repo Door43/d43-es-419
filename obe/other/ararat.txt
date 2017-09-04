@@ -1,0 +1,21 @@
+====== Ararat ======
+
+===== Facts: =====
+
+In the Bible, "Ararat" is the name given to a land, a kingdom and mountains.
+
+  * The "land of Ararat" was probably located in what is now the northeastern part of the country of Turkey.
+  * Ararat is most well-known as the name of the mountains that Noah's ark came to rest on after the waters of the great flood began to recede.
+  * In modern times, a mountain called "Mount Ararat" is often thought to be the location of the "mountains of Ararat" in the Bible.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[noah|Noah]], [[ark|ark]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?ararat&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

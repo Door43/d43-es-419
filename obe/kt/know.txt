@@ -1,0 +1,23 @@
+====== have relations with, sleep with ======
+
+===== Definition: =====
+
+In the Bible, these terms are euphemisms that refer to having sexual intercourse. (See: [[en:ta:vol2:translate:figs_euphemism|Euphemism]])
+
+  * In Genesis, the original language text says that Adam "knew" Eve and she conceived children. This expression ("know" or "knew") is usually used for a husband with his wife, so the ULB has translated this as "have marital relations with." Some English versions translate this with other euphemistic expressions such as, "made love to" or "was intimate with."
+  * For references to sexual relations outside of marriage different expressions are used: "lie with" or "sleep with" or "have sex with" or "have relations with."
+
+===== Translation Suggestions: =====
+
+  * Some languages may use different expressions of this term in different contexts, depending on whether it is talking about a husband and wife or whether it is about some other relationship. It is important to make sure that the translation of this term has the correct meaning in each context.
+  * Depending on the context, expressions like these may be used: "sleep with" or "lie with" or "make love to" or "be intimate with."
+
+(See:  [[:En:obe:kt:sleep]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?know&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

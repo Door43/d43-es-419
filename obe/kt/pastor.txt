@@ -1,0 +1,24 @@
+====== pastor ======
+
+
+===== Definition: =====
+
+The term "pastor" is literally the same word as "shepherd." It is used as a title for someone who is the spiritual leader for a group of believers.
+
+  * In some languages, the word for "pastor" is the same as the word for "shepherd."
+  * The word translated as "pastor" is the same word that is used to refer to spiritual leaders in the Church.
+  * It is also the same word as is used to refer to Jesus as the "good Shepherd."
+
+===== Translation Suggestions: =====
+
+  * This term could also be translated as "shepherd" or "spiritual shepherd" or "shepherding Christian leader." 
+
+(See also: [[:En:obe:other:shepherd]], [[:es-419:obe:other:sheep]])
+
+===== Bible References: =====
+
+{{topic>pastor&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

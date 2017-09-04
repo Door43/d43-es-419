@@ -1,0 +1,25 @@
+====== seed ======
+
+===== Definition: =====
+
+A seed is the part of a plant that gets planted in the ground to reproduce more of the same kind of plant. It also has figurative meanings.
+
+  * The term "seed" is often used to refer to a person's offspring or descendants.
+  * This word often has a plural meaning, referring to more than one seed grain or more than one descendant.
+  * The term "seed" is also used figuratively and euphemistically to refer to the tiny cells inside a man or woman that combine to cause a baby to grow inside the woman.
+
+===== Translation Suggestions: =====
+
+  * For a literal seed, it is best to use the literal term for "seed" that is used in the target language for what a farmer plants in his field.
+  * For the figurative use that refers to people who are of the same family line, it may be more clear to use the word "descendant" or "descendants" instead of seed. Some languages may have a word that means "children and grandchildren."
+  * For a man or woman's "seed," consider how the target expresses this in a way that will not offend or embarrass people.  (See: [[en:ta:vol2:translate:figs_euphemism|euphemism]])
+
+(See also: [[:es-419:obe:other:descendant|descendant]], [[:En:obe:other:offspring]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?URLterm&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

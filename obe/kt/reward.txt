@@ -1,0 +1,24 @@
+====== reward ======
+
+===== Definition: =====
+
+A reward is something that someone receives because of something he has done, either good or bad. To reward someone is to give someone something he deserves.
+
+  * A reward can be a good or positive thing that a person receives because of doing something well or because he has obeyed God.
+  * Sometimes a reward can refer to negative consequences that may result from bad behavior, such as the statement "the reward of the wicked."
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, the term "reward" could be translated as "payment" or "something that is deserved" or "punishment."
+  * To reward someone could be translated by "repay" or "punish" or "give what is deserved."
+  * Make sure the translation of this term does not refer to wages. A reward is not specifically about earning money as part of a job.
+
+(See also: [[:es-419:obe:other:punish]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?reward&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

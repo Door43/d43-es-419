@@ -1,0 +1,17 @@
+====== Zacchaeus ======
+
+===== Facts: =====
+
+Zacchaeus was a tax collector from Jericho who climbed a tree in order to see Jesus
+
+  * Zacchaeus was completely changed when he believed in Jesus.
+  * He promised to give half his possessions to the poor.
+  * He also promised that he would pay people back four times the amount that he had overcharged them for their taxes.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[taxcollector]])
+
+===== Bible References: =====
+
+{{topic>:en:bible? zacchaeus&nocomments}}~~DISCUSSION~~{{tag>publish}}

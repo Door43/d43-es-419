@@ -1,0 +1,19 @@
+====== pledge ======
+
+===== Definition: =====
+
+To pledge or make a pledge means to formally and solemnly promise to do something or give something.
+
+  * In the Old Testament the officials of Israel pledged to be loyal to King David.
+  * The term "pledge" also refers to an object given as a guarantee or promise that a debt will be paid.
+  * The object given as a pledge would be returned to its owner when the promise was fulfilled.
+
+(See also: [[:es-419:obe:kt:promise]], [[:es-419:obe:kt:vow]])
+
+===== Bible References: =====
+
+{{topic>pledgem&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

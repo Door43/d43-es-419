@@ -1,0 +1,20 @@
+====== Mesopotamia ======
+
+===== Facts: =====
+
+In Bible times, Mesopotamia was the name of the region between the Tigris and Euphrates Rivers. Its location includes the modern day country of Iraq.
+
+  * The word "Mesopotamia" means "between rivers."
+  * Abraham lived in the Mesopotamian cities of Ur and Haran before moving on toward the land of Canaan.
+  * Babylon was another important city in Mesopotamia.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?mesopotamia&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

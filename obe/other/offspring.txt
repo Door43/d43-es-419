@@ -1,0 +1,18 @@
+====== offspring ======
+
+===== Definition: =====
+
+The term offspring is a general term for the biological descendants of people or animals.
+
+  * Often in the Bible, "offspring" has the same meaning as "children" or "descendants."
+  * The term "seed" is sometimes used figuratively to refer to offspring.
+
+(See also: [[:es-419:obe:other:descendant]], [[:es-419:obe:kt:seed]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?offspring&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

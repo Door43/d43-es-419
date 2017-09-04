@@ -1,0 +1,18 @@
+====== Shechem ======
+
+===== Facts: =====
+
+Shechem is a town in Canaan located about 40 miles north of Jerusalem. Shechem is also the name of a man in the Old Testament.
+
+  * Shechem is where Jacob settled after being reconciled to his brother Esau.
+  * Jacob bought land from the sons of Hamor in Shechem, which later became his family burial ground and where Jacob's sons buried him
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?shechem&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

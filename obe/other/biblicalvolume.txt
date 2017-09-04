@@ -1,0 +1,30 @@
+====== biblical volume ======
+
+===== Definition: =====
+
+The following terms are the most common biblical units of volume used to explain how much liquid (such as wine) or solid (dry) objects (such as grain) a certain container can hold.
+
+^  Type ^  Measurement ^  Value ^  Units |
+|  Dry |  omer |  2.00 |  liters |
+|  Dry |  ephah |  22.00 |  liters |
+|  Dry |  homer |  220.00 |  liters |
+|  Dry |  kor |  220.00 |  liters |
+|  Dry |  seah |  7.70 |  liters |
+|  Liquid |  metrete |  40.00 |  liters |
+|  Liquid |  bath |  22.00 |  liters |
+|  Liquid |  hin |  3.70 |  liters |
+|  Liquid |  kab |  1.23 |  liters |
+|  Liquid |  log |  0.31 |  liters |
+
+How to translate units of volume in the Bible:
+
+  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible. [See Transliterate]
+  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these units of measure during that time period.
+  - If it doesn't work to use the Bible term, then instead, state the equivalent amount using a unit of measure that is known.
+  - These methods could be combined, using the Bible term, but then also giving the equivalent amount in the text or a note.
+
+\\
+
+===== Bible References: =====
+
+{{topic>:en:bible?biblicalvolume&nocomments}}~~DISCUSSION~~{{tag>publish}}

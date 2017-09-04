@@ -1,0 +1,22 @@
+====== Paddan Aram ======
+
+===== Facts: =====
+
+Paddan Aram was the name of a region where Abraham's family lived before moving to the land of Canaan.
+
+  * The family of Abraham's brother Nahor stayed behind in Paddan Aram. They became know as "Arameans" and their language was called "Aramaic."
+  * The city of Haran was located in Paddan Aram and was the place where Rebekah's brother Laban lived.
+  * Paddan Aram was probably located in the region of modern-day Syria or southeastern Turkey.
+ 
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:Haran]], [[:es-419:obe:other:Rebekah]], [[:es-419:obe:other:Abraham]], [[:es-419:obe:other:Canaan]])
+
+===== Bible References: =====
+
+{{topic>paddanaram&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

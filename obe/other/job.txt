@@ -1,0 +1,22 @@
+====== Job ======
+
+===== Facts: =====
+
+Job was a man whom the Bible describes as blameless and righteous before God. He is best known for persevering in his faith in God through times of terrible suffering and grief.
+
+  * It is thought that Job lived on earth sometime after the worldwide flood of Noah's time and before the time of Abraham.
+  * Job was probably over two hundred years old when he died.
+  * The book of Job in the Bible tells about Job's suffering due to many catastrophic events in his life. It also tells how he and others responded to that suffering, as well as God's perspective as the sovereign Creator and ruler of the universe.
+  * After all the disasters, God eventually restored Job and greatly blessed him with family and wealth.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:abraham]], [[:es-419:obe:other:noah]], [[:es-419:obe:other:flood]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?job&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

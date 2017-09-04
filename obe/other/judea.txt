@@ -1,0 +1,28 @@
+====== Judea ======
+
+
+===== Facts: =====
+
+The term "Judea" comes from the name Judah which was one of the twelve tribes of Israel. It is used in both a narrow sense and a broad sense.
+
+    * Sometimes "Judea" is used in a narrow sense to refer only to the province located in the southern part of ancient Israel just west of the Dead Sea. Some translations call this province "Judah."
+    * Other times "Judea" has a broader sense and refers to all the provinces of ancient Israel, including Galilee, Samaria, Perea, Idumea and Judea (Judah).
+
+If translators want to make the distinction clear, the broader sense of Judea (ex. Luke 1:5) could be translated as "Judea Country" and the narrow sense (ex. Luke 1:39) could be translated as "Judea Province" or "Judah Province" since this is the part of the land of ancient Israel where the tribe of Judah had originally lived.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[judah]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?judea&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

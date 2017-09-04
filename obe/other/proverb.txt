@@ -1,0 +1,18 @@
+====== proverb ======
+
+===== Definition: =====
+
+A proverb is a short statement that expresses some wisdom or truth.
+
+  * Proverbs are powerful because they are easy to remember and repeat.
+  * Often a proverb will include examples from everyday life.
+  * Some proverbs are very clear and straightforward, while others are more difficult to understand.
+  * King Solomon was known for his wisdom and wrote over 1000 proverbs.
+  * Jesus often used proverbs or parables when he taught people.
+  * One way to translate "proverb" can be, "wise saying."
+
+(See also: [[en:obe:kt:wise]], [[en:obe:kt:true]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?proverb&nocomments}}~~DISCUSSION~~{{tag>publish}}

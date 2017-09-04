@@ -1,0 +1,20 @@
+====== flock, herd ======
+
+===== Definition: =====
+
+In the Bible, "flock" refers to a group of sheep or goats and "herd" refers to a group of cattle, oxen, or pigs.
+
+    * In English the term "herd" can also be used for sheep or goats, but in the Bible text it is usually not used this way.
+    * The term "flock" can not be used for pigs, oxen or cattle. Other languages may have similar rules for how terms for animal groups are used.
+
+(See also: [[:es-419:obe:other:sheep]], [[:es-419:obe:other:goat]], [[:es-419:obe:other:ox]], [[:es-419:obe:other:pig]])
+
+===== Bible References: =====
+
+{{topic>flock&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

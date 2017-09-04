@@ -1,0 +1,13 @@
+====== parable ======
+
+===== Definition: =====
+
+A parable is a short story used to illustrate a moral or religious lesson.
+
+  * Jesus used parables to teach his disciples.
+
+(See also: [[en:ta:vol1:translate:figs_parables]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?parable&nocomments}}~~DISCUSSION~~{{tag>publish}}

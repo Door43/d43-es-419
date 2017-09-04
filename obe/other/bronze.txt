@@ -1,0 +1,24 @@
+====== bronze ======
+
+===== Definition: =====
+
+The term "bronze" refers to a kind of metal that is made from melting together copper and tin. It has a reddish brown color.
+
+  * Bronze resists water corrosion and is a good conductor of heat.
+  * In ancient times, bronze was used for making tools, weapons, artwork, altars, cooking pots, and soldiers' armor, among other things.
+  * Many building materials for the tabernacle and temple were made of bronze.
+  * Idols of false gods were also often made of bronze metal.
+  * Bronze objects were made by first melting the bronze metal into a liquid and then pouring it into molds. This process was called "casting."
+
+
+(See also: [[:En:obe:other:armor]], [[:es-419:obe:kt:tabernacle]], [[:es-419:obe:kt:temple]])
+
+===== Bible References: =====
+
+{{topic>bronze&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

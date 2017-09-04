@@ -1,0 +1,20 @@
+====== council ======
+
+===== Definition: =====
+
+A council is a group of people who meet to discuss, give advice, and make decisions about important matters.
+
+  * A council is usually organized in an official and somewhat permanent way for a specific purpose, such as making decisions about legal matters.
+  * The most important Jewish Council was also known as the Sanhedrin. The Sanhedrin had 70 members, which included Jewish leaders such as chief priests, elders, scribes, Pharisees and Sadducees.
+  * Paul was brought before a Roman council when he was arrested for teaching the gospel.
+  * Depending on the context, the word "council" can also be translated as "legal assembly" or "political assembly."
+  * To be "in council" means to be in a special meeting to decide something.
+  * Note that the word "counsel" means advice or wisdom or insight. In some contexts its meaning is very similar to "council" especially when it refers to God's council.
+
+(See also: [[:es-419:obe:kt:assembly|assembly]], [[:es-419:obe:other:pharisee|Pharisee]], [[:es-419:obe:other:sadducee|Sadducee]], [[:es-419:obe:other:scribe|scribe, expert in the Jewish law]], [[:es-419:obe:kt:priest|priest]])
+
+===== Bible References: =====
+
+~~NOCACHE~~
+
+{{topic>:en:bible?council&nocomments}}~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,29 @@
+====== City of David ======
+
+
+===== Facts: =====
+
+
+The "City of David" is another name for both Jerusalem and Bethlehem.
+
+    * Jerusalem is where David lived while he ruled Israel.
+    * Bethlehem is where David was born.
+
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+
+(See also: [[david]], [[bethlehem]], [[jerusalem]])
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?cityofdavid&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

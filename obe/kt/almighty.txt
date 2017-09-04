@@ -1,0 +1,20 @@
+====== Almighty ======
+
+===== Facts: =====
+
+The term "Almighty" literally means "all-powerful" and in the Bible, it always refers to God.
+
+  * The phrase "the Almighty" or "the Almighty One" are titles that reveal that God has complete power and authority over everything.
+  * "Almighty God" or "God Almighty" are other titles for God that use this term.
+
+===== Translation Suggestions: =====
+
+  * This term could also be translated as "All-powerful" or "Completely Powerful One" or "God, who is completely powerful."
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[en:obe:kt:power]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?almighty&nocomments}}~~DISCUSSION~~{{tag>publish}}

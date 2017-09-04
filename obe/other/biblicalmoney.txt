@@ -1,0 +1,27 @@
+====== biblical money ======
+
+===== Description: =====
+
+The following terms are some of the most well-known units of money that are used in the Bible. In the Old Testament, the **shekel** referred to a type of weight (made of gold, silver, bronze, brass or iron) that was used for money and trade. In the New Testament, a shekel was a type of silver coin.
+
+   * shekel
+      * In the Old Testament (11 grams weight of various materials)
+      * In the New Testament (silver coin = 4 days' wages)
+  * talent
+      * In the Old Testament (33 kilograms weight of various materials)
+      * In the New Testament (money: silver talent = 6,000 days' wages)
+  * denarius (plural denarii; Roman silver coin = one day's wages)
+  * drachma (Greek silver coin = one day's wages)
+  * mite/lepton (copper coin = 1/64 day's wages)
+
+How to translate biblical units of money:
+
+  - Keep the Bible term, spelling it in a way that is similar to the way it sounds or is spelled in the Bible.
+  - An important reason for keeping the Bible terms is to show that the Bible is true and that people actually used these types of money during that time period.
+  - If it doesn't work to use the Bible term, then give the same value in terms of what can be earned by a day's work in Bible times or how much weight it represents.
+  - The above methods could be combined by using the Bible term but then also giving the equivalent amount in the text or a note.
+  - For units of money, it is important to NOT use modern money values since these will change from year to year and will cause any Bible translation that uses them to become outdated.
+
+===== Bible References: =====
+
+{{topic>:en:bible?biblicalmoney&nocomments}}~~DISCUSSION~~{{tag>publish}}

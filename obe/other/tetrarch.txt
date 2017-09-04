@@ -1,0 +1,15 @@
+====== tetrarch ======
+
+===== Definition: =====
+
+A tetrarch was a governing official who ruled over a division of the Roman Empire. Each tetrarch was under the authority of the Roman emperor.
+
+  * The title "tetrarch" comes from the fact that each tetrarch ruled over one of four divisions.
+  * Each division covered one or more provinces, such as Galilee or Samaria.
+  * "Tetrarch" could also be translated as "ruler" or "governor."
+
+(See also: [[governor]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?tetrarch&nocomments}}~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,25 @@
+====== trespass ======
+
+===== Definition: =====
+
+To "trespass" means to break a law or to violate the rights of another person.
+
+  * A trespass can be a violation of moral or civil law or a sin committed against another person.
+  * This term is related to the terms "sin," and "transgress," especially as it relates to disobeying God.
+  * All sins are trespasses against God.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, "to trespass against" could be translated as "to sin against" or "to break the rule."
+  * Some languages may have an idiom like "cross the line" that could be used to translate "trespass."
+  * Consider how this term fits with the meaning of the surrounding Bible text and compare it to other terms that have a similar meaning, such as "transgress" and "sin."
+
+(See also: [[:es-419:obe:other:disobey]], [[:es-419:obe:kt:sin]], [[:es-419:obe:kt:transgression]], [[:es-419:obe:kt:iniquity]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?trespass&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,25 @@
+====== sign (proof, reminder) ======
+
+===== Definition: =====
+
+A sign is an object, event, or action that communicates a special meaning.
+
+  * Signs can be reminders of something that was promised:\\
+      * The rainbow God created in the sky was a sign to remind people that he would never again destroy all life with a worldwide flood.\\
+      * God commanded the Israelites to circumcise their sons as a sign of his covenant with them.
+  * Signs can reveal or point to something:\\
+      * An angel told shepherds a sign that would help them know which baby in Bethlehem was the newborn Messiah.\\
+      * Judas kissed Jesus as a sign to the religious leaders that Jesus was the one they should arrest.\\
+  * Signs can prove that something is true:\\
+      * The miracles done by the prophets and apostles were signs that proved they were speaking God's message.\\
+      * The miracles that Jesus performed were signs that proved he was truly the Messiah.
+
+===== Translation Suggestions: =====
+
+  * Depending on its context, "sign" could also be translated as "signal" or "symbol" or "mark" or "evidence" or "proof" or "gesture."
+
+(See also: [[:es-419:obe:kt:miracle|miracle, wonder, sign]], [[:es-419:obe:kt:apostle|apostle, apostleship]], [[:es-419:obe:kt:christ|Christ, Messiah]], [[:es-419:obe:kt:covenant|covenant]], [[:es-419:obe:kt:circumcise|circumcise, circumcision]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sign&nocomments}}~~DISCUSSION~~{{tag>publish}}

@@ -1,0 +1,24 @@
+====== atonement, atone ======
+
+===== Definition: =====
+
+The term "atonement" refers to God's action in providing a sacrifice that would pay for sins. To "atone" for something means to make amends or make restitution for an injury or wrong that was done against someone.
+
+  * In the Old Testament, atonement for the sins of the Israelites was accomplished by a blood sacrifice, that is, by taking the life of an animal.
+  * As recorded in the New Testament, Christ's death on the cross is the only atonement for sin. When he died, he took the punishment that people deserved because of their sin. His death was the last blood sacrifice needed.
+
+===== Translation Suggestions: =====
+
+  * The term "atone" could be translated as "make amends for" or "pay back" or "make restitution for."
+  * Ways to translate "atonement" could include, "restitution" or "restoration" or "payment."
+  * Make sure the translation of this term does not refer to payment of money.
+
+(See also: [[:En:obe:kt:propitiation]], [[:En:obe:kt:forgive]], [[:es-419:obe:kt:reconcile]])
+
+===== Bible References: =====
+
+{{topic>atonement&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

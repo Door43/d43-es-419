@@ -1,0 +1,22 @@
+====== Caesar ======
+
+
+===== Facts: =====
+
+
+Caesar was a family name. A man named Augustus Caesar became the first ruler of the Roman Empire. Because of him, "Caesar" also became the title that was given to the rulers of the Roman Empire.
+
+
+    * Augustus Caesar was the ruler of the Roman Empire when Jesus was born.
+    * Tiberius Caesar was the ruler of the Roman Empire when Jesus was an adult.
+    * When "Caesar" is used as a title, it can be translated as: "King" or, "Emperor" or, "Czar" or, "Kaiser."
+    * When "Caesar" is used simply as a family name, it can be transliterated.
+
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+
+(See also: [[rome]], [[king]])
+===== Bible References: =====
+
+{{topic>:en:bible?caesar&nocomments}}~~DISCUSSION~~{{tag>publish}}

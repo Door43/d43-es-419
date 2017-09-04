@@ -1,0 +1,26 @@
+====== the twelve, the eleven ======
+
+===== Definition: =====
+
+The term "the twelve" refers to the twelve men that Jesus chose to be his closest disciples, or apostles.
+
+  * After Judas betrayed Jesus and then killed himself, the remaining apostles were referred to as "the eleven."
+  * Jesus had many other disciples, but the title "the twelve" distinguished those who followed him throughout his three-year ministry.
+  * The names of these twelve disciples are listed in Matthew 10, Mark 3, and Luke 6.
+  * During the time after Judas' death, and before they chose another disciple to replace him, they were called "the eleven."
+
+===== Translation Suggestions: =====
+
+  * For many languages it may be more clear or more natural to add the noun and say, "the twelve apostles" or "Jesus' twelve closest disciples."
+  * "The eleven" could also be translated as "Jesus' eleven remaining disciples."
+  * Some translations may prefer to use a capital letter to show that it was used as a title, as in, "the Twelve" and "the Eleven."
+
+(See also: [[:es-419:obe:kt:apostle]], [[:En:obe:kt:disciple]])
+
+===== Bible References: =====
+
+{{topic>thetwelve&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

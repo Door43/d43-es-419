@@ -1,0 +1,22 @@
+====== lampstand ======
+
+===== Definition: =====
+
+A lampstand was a special structure on which a lamp was placed in an elevated position to provide light to a room.
+
+  * A lamp in biblical times was a clay bowl of olive oil or fat, with a spout and wick that burned with an open flame to provide light.
+  * A lampstand could be constructed of wood or iron, but golden lampstands are mentioned in the book of Revelation in John's vision.
+
+===== Translation Suggestions =====
+
+  * This term could be translated as, "lamp pedestal" or "structure for holding a lamp." It would also be helpful to include a photo or drawing of a lampstand in the translated Bible.
+
+(See also: [[:es-419:obe:other:vision]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?lampstand&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

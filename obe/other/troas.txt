@@ -1,0 +1,21 @@
+====== Troas ======
+
+===== Facts: =====
+
+The city of Troas was a seaport located on the northwest coast of the ancient Roman province of Asia.
+
+  * Paul visited Troas at least three times in the course of his missionary journeys..
+  * On one occasion there, Paul preached long into the night and a young man named Eutychus fell asleep. Because he had been sitting in an open window, Eutychus fell down a long way and died. Through God's power, Paul raised this young man back to life.
+  * When Paul was in Rome he asked Timothy to bring his scrolls and his cloak which he had left behind in Troas.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[asia|Asia]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?troas&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

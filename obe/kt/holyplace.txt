@@ -1,0 +1,28 @@
+====== Holy Place, Most Holy Place ======
+
+===== Definition: =====
+
+In the Bible, the terms "Holy Place" and "Most Holy Place" refer to the two parts of the building of the tabernacle complex and later on, of the temple complex.
+
+
+  * These rooms were called "holy" because they were where God came to meet with his people the Israelites.
+  * It was only the high priests who were permitted to enter these rooms as representatives of the people.
+  * The Holy place was the first room and it contained two things: the altar of incense and the table with the consecrated bread on it.
+  * The Most Holy Place contained the ark of the covenant.
+
+===== Translation Suggestions: =====
+
+  * The term "Holy Place" could also be translated as, "Room Set Apart for God" or "Special Room for Meeting God" or "Place Reserved for God."
+  * The term, "Most Holy Place" could be translated as, "Room that is the Most Set Apart for God" or "Most Special Place for Meeting God."
+
+(See also: [[:es-419:obe:kt:holy]]. [[:es-419:obe:kt:setapart]], [[:En:obe:kt:temple]], [[:es-419:obe:kt:tabernacle]], [[:En:obe:other:arkofthecovenant]])
+
+===== Bible References: =====
+
+{{topic>holyplace&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

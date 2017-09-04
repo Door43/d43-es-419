@@ -1,0 +1,21 @@
+====== Golgotha ======
+
+===== Facts: =====
+
+The term "Golgotha" is the name of the place where Jesus was crucified. It comes from an Aramaic word that means, "Skull" or "Place of the Skull."
+
+  * Golgotha was located somewhere outside the city walls of Jerusalem, perhaps on a part of the Mount of Olives.
+  * In some older English versions of the Bible, Golgotha is translated as "Calvary," which comes from the Latin word for a skull.
+  * Many Bible versions use a word similar to "Golgotha" since its meaning is explained in the Bible text. Also see the link below about how to translate names in the Bible.
+
+[[en:ta:vol1:translate:translate_names|How to Translate Names]]
+
+(See also: [[:es-419:obe:other:mountofolives]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?golgotha&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

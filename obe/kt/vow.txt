@@ -1,0 +1,26 @@
+====== vow ======
+
+===== Definition: =====
+
+A vow is a promise that a person makes to God. The person promises to do a certain thing in order to specially honor God or to show devotion to him.
+
+  * A vow may be given to express devotion and love to God without asking for anything from him in return.
+  * A person may make a vow in order to ask God for his special protection, provision, or presence in exchange for making the vow.
+  * God is not required to fulfill a request that a person asks for in his vow.
+  * After a person makes a vow, he is obligated to fulfill that vow.
+  * Failure to keep a vow makes the person who made the vow subject to God's judgment.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, “vow” could be translated as “solemn promise” or “promise made to God.”
+  * This word should be translated differently than "oath."
+
+(See also: [[:es-419:obe:other:oath]], [[:es-419:obe:kt:promise]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?vow&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

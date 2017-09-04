@@ -1,0 +1,27 @@
+====== biblical time ======
+
+===== Definition: =====
+
+In the Bible, terms used to explain time include "watch" and "hour."
+
+In biblical times, a **watch** was a period of time at night during which a watchman or guard for a city would be on duty looking out for any threat from an enemy.
+
+   * In the Old Testament, the Israelites had three watches which were called "beginning" (sunset to 10 p.m.) "middle" (10 p.m. to 2 a.m.) and "morning" (2 a.m. to sunrise) watches.
+  * In the New Testament, the Jews followed the Roman system and had four watches, named simply "first" (sunset to 9 p.m.) "second" (9 p.m. to 12 midnight) "third" (12 midnight to 3 a.m.) and "fourth" (3 a.m. to sunrise) watches.
+  * These could also be translated with more general expressions such as "late evening" or "middle of the night" or "very early in the morning" depending on which watch is being referred to.
+
+The term **hour**  is often used in the Bible to tell more specifically what time a certain event took place.
+
+  * The Jews counted daylight hours starting at sunrise (around 6 a.m.). So for example, “the ninth hour” meant “around three in the afternoon.”
+  * Nighttime hours were counted starting at sunset (around 6 p.m.). So for example, “the third hour of the night” meant “around nine in the evening” in our present-day system..
+  * Since the time of sunrise and sunset varies, the time references will not correspond exactly to present-day times. So time expressions using hours could be translated with phrases such as “around nine” or “about six o'clock.” Some translations will prefer to add phrases like "in the evening" or "in the morning" or "in the afternoon" to make it clear what time of day is being talked about.
+
+(See also: [[en:obe:kt:hour]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?biblicaltime&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

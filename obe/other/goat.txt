@@ -1,0 +1,25 @@
+====== goat ======
+
+===== Definition: =====
+
+A goat is a medium-sized, four-legged animal, that is similar to a sheep and is raised primarily for its milk and meat. 
+
+  * Like sheep, goats were important animals of sacrifice, especially at Passover.
+  * Although goats have some similarities to sheep, there are also some clear differences:
+      * Goats have dark, coarse hair, but sheep have wool.
+      * The tail of a goat stands up, but the tail of a sheep hangs down.
+      * Goats are curious and don't stay in a group to follow a goatherd, but sheep like to stay in the safety of the whole herd and tend to follow their shepherd.
+  * In Bible times, goats were the main source of milk in Israel.
+  * Goat skins were used for tent coverings and wine bottles.
+  * In both the Old and New Testaments, goats were used as symbols for unrighteous people, perhaps because of their tendency to wander away from the one taking care of them.
+  * The Israelites also used goats as symbolic sin bearers. When one goat was sacrificed, the priest would lay his hands on a second live goat and send it into the desert as a symbol of the animal bearing the people's sins.
+
+(See also: [[:es-419:obe:other:sheep]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?goat&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

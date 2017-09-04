@@ -1,0 +1,21 @@
+====== law, principle ======
+
+===== Definition: =====
+
+A law is a legal rule that is typically written down and enforced by someone in authority. A principle is a guideline or standard for decision-making.
+
+Please
+
+  * Both "law" and "principle" can refer to a general rule or belief that guides a person's behavior.
+  * This meaning of "law" is different from the law of Moses.
+  * When a general law is being referred to, "law" could be translated as "principle" or "general rule."
+
+(See also: [[:es-419:obe:other:Law]], [[:es-419:obe:kt:LawofMoses]])
+
+===== Bible References: =====
+
+{{topic>law&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

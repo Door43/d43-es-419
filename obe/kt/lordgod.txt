@@ -1,0 +1,28 @@
+====== Lord ======
+
+===== Facts: =====
+
+The term "Lord" refers to someone who has ownership or authority over people. It is often used as a title that refers to God, who is the supreme ruler over everything.
+
+  * The phrases "the Lord God" or "the Lord" are often used when this term refers to God.
+  * This term is also frequently used in the title, "Lord Jesus Christ."
+  * Many Bible versions use the term "LORD" in the Old Testament to translate the word for God's personal name, "Yahweh." They capitalize all the letters to distinguish it from the actual word for "Lord."
+  * This tradition of using Lord instead of Yahweh started with the Jews who lived during the hundreds of years between the events of the Old and New Testaments. They became so afraid of mispronouncing God's holy name that they stopped saying the name "Yahweh" and said "Lord" instead.
+  * By the time the New Testament was written, this practice was well-established. So the Christians who wrote the New Testament followed this pattern and wrote "Lord" instead of "Yahweh" when referring to God.
+
+
+===== Translation Suggestions: =====
+
+  * Make sure it is clear that the name "Yahweh" in the Old Testament refers to the same God as the title "the Lord" in the New Testament.
+  * Some languages would translate this term as “the Master” or some other term that communicates ownership or supreme ruler.
+  * Many translations capitalize the first letter to make it clear to the reader that this is referring to God.
+
+(See: Jesus, Jesus Christ, Christ Jesus, lord, master, sir, Yahweh other)
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:kt:lord]], [[:es-419:obe:kt:god]], [[:es-419:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?lordgod&nocomments}}~~DISCUSSION~~{{tag>publish}}

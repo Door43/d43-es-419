@@ -1,0 +1,25 @@
+====== Elisha ======
+
+===== Facts: =====
+
+Elisha was a prophet in Israel during the reigns of kings Ahab, Ahaziah, Jehoram, Jehu, Jehoahaz, and Jehoash.
+
+  * God told the prophet Elijah to anoint Elisha as prophet.
+  * When Elijah was taken to heaven, Elisha became God's prophet to the kings of Israel. 
+  * Elisha did many miracles, including healing a man from Syria who had leprosy and raising from the dead the son of a woman from Shunem.
+
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[en:obe:kt:prophet]], [[elijah]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?elisha&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+~~NOCACHE~~

@@ -1,0 +1,24 @@
+====== propitiation ======
+
+===== Definition: =====
+
+The term "propitiation" refers to something that is done to satisfy the justice of God and to appease his wrath.
+
+  * The offering of the sacrificial blood of Jesus Christ is the propitiation to God for mankind's sins.
+  * Jesus' death on the cross allows God to look on us with favor and to offer us eternal life.
+
+
+===== Translation Suggestions: =====
+
+  * This term could be translated as "satisfaction" or "appeasement" or "causing God to look on us with favor."
+
+(See also: [[:es-419:obe:kt:atonement]], [[:es-419:obe:other:sacrifice]], [[:es-419:obe:kt:eternity]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?propitiation&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

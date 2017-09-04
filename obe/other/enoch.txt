@@ -1,0 +1,21 @@
+====== Enoch ======
+
+===== Facts: =====
+
+The Enoch who is mentioned several times in the Old and New Testaments was the father of Methuselah and the great-grandfather of Noah.
+
+  * Enoch had a close relationship with God.
+  * When he was 365 years old, he was taken up to be with God without dying.
+  * This Enoch was descended from Seth. He was a different man from the Enoch whose father was Cain. Some languages may prefer to spell the names of these two men a little bit differently from each other to make it clear that they were two different people.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[noah|Noah]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?enoch&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

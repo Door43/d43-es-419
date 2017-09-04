@@ -1,0 +1,25 @@
+====== flood ======
+
+===== Definition: =====
+
+A flood is a great amount of water that covers over land completely so that the ground cannot be seen.
+
+  * In Noah's time, people had become so evil that God caused a worldwide flood to come over the entire surface of the earth, even covering the mountaintops. All other floods cover a much smaller land area.
+  * Figurative uses of "flood" refer to a large amount of something or to circumstances that are overwhelming.
+
+===== Translation Suggestions: =====
+
+  * Ways to translate "flood" could include, "an overflowing of water" or "large amounts of water."
+  * For the expression "like a flood of water" where water is already mentioned, the word "flood" could be translated as "an overwhelming amount" or "an overflowing."
+  * The term "flood" can also be used figuratively, as in "let not the flood sweep over me" or "they surround me like a flood." If possible, this figurative language should be kept in a translation.
+  * For example, "I flood my bed with tears" could be translated as "my tears soak my bed with water like a flood."
+
+(See also: [[:es-419:obe:other:noah|Noah]], [[:es-419:obe:other:ark|ark]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?flood&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

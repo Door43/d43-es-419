@@ -1,0 +1,11 @@
+====== queen ======
+
+===== Definition: =====
+
+A queen is either the female ruler of a country or the wife of a king.
+
+(See also: [[king]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?queen&nocomments}}~~DISCUSSION~~{{tag>publish}}

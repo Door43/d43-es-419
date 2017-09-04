@@ -1,0 +1,21 @@
+====== Lebanon ======
+
+===== Facts: =====
+
+Lebanon is a beautiful mountainous region located along the coast of the Mediterranean Sea, north of Israel. In Bible times<font 14px line-height: 19.6000003814697px;/inherit;;inherit;;inherit>, this region was also thickly wooded</font>
+
+  * King Solomon sent workers to Lebanon to harvest cedar trees for use in building God's temple.
+  * Ancient Lebanon was inhabited by Phoenician people who were skilled builders of ships that were used for a successful trading industry.
+  * The cities of Tyre and Sidon were located in Lebanon. It was in these cities that a valuable purple dye was first used.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:phonecia]] , [[:es-419:obe:other:cedar]])
+
+===== Bible References: =====
+
+{{topic>Lebanon&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

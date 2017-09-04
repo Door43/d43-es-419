@@ -1,0 +1,27 @@
+====== deceive, deceived, deceiver, deception ======
+
+===== Definition: =====
+
+The term "deceive" means to cause someone to believe something that is not true.  The false belief is called "deception."
+
+  * When someone believes something that is not true, that person is being "deceived."
+  * A person who causes others to believe something false is deceiving them and is a "deceiver."
+
+===== Translation Suggestions: =====
+
+  * Other ways to translate "deceive" could include "lie to" or "cause to have a false belief" or "lead someone to think something that is not true."
+  * The term "deceived" could also be translated as, "lied to" or "tricked" or "fooled."
+  * "Deceiver" could be translated as, "liar" or "one who misleads"  or "someone who deceives."
+  * The term "deception" could be translated with a word or phrase that means "falsehood" or  "lying" or "trickery" or "dishonesty."
+
+(See: [[:es-419:obe:kt:true]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?deceive&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

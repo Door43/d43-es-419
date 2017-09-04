@@ -1,0 +1,21 @@
+====== Bethel ======
+
+===== Facts: =====
+
+Bethel was a city in Abram's time located just north of Jerusalem in the land of Canaan. In the Old Testament, Bethel is mentioned more than any other city except Jerusalem.
+
+  * Abram (Abraham) camped east of Bethel and built an altar to God after receiving God's promises for the first time. The actual name of the city was not yet Bethel at that time, but later it became the name that it was most known by.
+  * When fleeing from his brother Esau, Jacob stayed overnight near this city and slept outdoors on the ground there. While he was sleeping, he had a dream showing angels going up and down a ladder to heaven. In that dream, God promised Jacob the same blessings he had given Abram (Abraham).
+  * Jacob is the one who named this city "Bethel." Its earlier name was Luz. To make this clear, some translations may translate it as "Luz (later called Bethel)" in the passage about Abraham, as well as when Jacob first arrives there (before he changed the name).
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[en:obe:other:abraham]] [[jacob]] [[jerusalem]] [[altar]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?bethel&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

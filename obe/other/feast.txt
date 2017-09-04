@@ -1,0 +1,19 @@
+====== feast ======
+
+===== Definition: =====
+
+A feast is an event where a group of people take part in a very large meal, often to celebrate something together.
+
+  * The religious festivals that God commanded the Jews to celebrate often included having a feast together.
+  * Kings and other rich and powerful people often gave elaborate feasts.
+  * In the story about the lost son, the father had a special feast prepared to celebrate the return of his son.
+  * A feast sometimes lasted for several days or more.
+  * <font 14px line-height: 19.6000003814697px/inherit;;inherit;;inherit>In some English versions, the word "feasts" is used to refer to the religious holidays or "festivals" that the Jews celebrated.</font>
+
+(See also: [[:En:obe:other:festival]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?feast&nocomments}}~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

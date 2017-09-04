@@ -1,0 +1,23 @@
+====== Chaldea, Chaldean ======
+
+===== Facts: =====
+
+Chaldea was a region in southern Babylonia. The people who lived in this land were called Chaldeans.
+
+  * The city of Ur, where Abraham was from, was located in Chaldea.
+  * Around 600 BC, Chaldea became known as Babylonia.
+  * A few years after that time, Jerusalem was captured and the Israelites were exiled to Babylonia.
+  * Ten years after Jerusalem was captured, the Babylonian King Nebuchadnezzar destroyed the temple there.
+  * The people living in Babylonia were still sometimes referred to as "Chaldeans."
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[babylon|Babylon]], [[ur|Ur]], [[en:obe:other:abraham|Abraham]], [[shinar|Shinar]] )
+
+===== Bible References: =====
+
+{{topic>chaldeans&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

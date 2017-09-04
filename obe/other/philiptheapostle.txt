@@ -1,0 +1,22 @@
+====== Philip, the apostle ======
+
+===== Facts: =====
+
+Philip, the apostle, was one of the original twelve disciples of Jesus.
+
+  * Philip was from the town of Bethsaida; he introduced Nathanael to Jesus.
+  * Once Jesus questioned Philip about how to provide food for a crowd of over 5,000 people.
+  * At the last Passover supper that Jesus ate with his disciples, he talked to them about God, his Father. Philip asked Jesus to show them the Father.
+  * Some languages may prefer to spell this Philip's name in a different way from the other Philip (the evangelist) to avoid confusion.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[philip|Philip the evangelist]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?philiptheapostle&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

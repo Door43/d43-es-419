@@ -1,0 +1,21 @@
+====== Annas ======
+
+===== Facts: =====
+
+Annas was the Jewish high priest in Jerusalem for 10 years, from approximately AD 6 to 15. Then he was removed from the high priesthood by the Roman government, although he continued to be an influential leader among the Jews.
+
+  * Annas was father-in-law to Caiaphas, the official high priest during the ministry of Jesus.
+  * Jesus was initially brought to Annas for questioning during his trial, even though it was Caiaphas who was officially the high priest at that time.
+  * After high priests retired, they still kept the title, along with some of the responsibilities of the office, so Annas was still referred to as high priest during the priesthood of Caiaphas and others. 
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[caiaphas|Caiaphas]], [[en:obe:kt:priest|priest]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?annas&nocomments}}
+
+~~NOCACHE~~
+
+{{tag>publish}}

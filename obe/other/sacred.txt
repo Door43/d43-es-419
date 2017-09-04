@@ -1,0 +1,29 @@
+====== sacred ======
+
+===== Definition: =====
+
+The term "sacred" describes something that is holy and set apart for honoring God.
+
+  * Scripture is sacred because it is God's word.
+  * The Sabbath is sacred because it is God's resting day.
+  * The tabernacle was sacred because it was where God met with his people.
+  * The objects designated as "sacred" have value because they have been set apart for God's use.
+  * This term can also be used to describe religious objects that are used for worshiping false gods.
+
+
+==== Translation Suggestions: ====
+
+
+  * Other words that could be used to translate this term include, "consecrated" or "set apart" or "dedicated."
+  * he term "holy" could also be used in certain contexts, especially with the meaning of being set apart for God's use and honor.
+  * Note that "sacred" is always used with objects, not people.
+
+(See also: [[:es-419:obe:kt:holy]], [[:es-419:obe:kt:consecrate]])
+
+===== Bible References: =====
+
+{{topic>sacred&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

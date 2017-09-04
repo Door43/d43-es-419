@@ -1,0 +1,21 @@
+====== Amos ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>amos&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft amo01 ktlink}}

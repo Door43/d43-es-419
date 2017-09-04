@@ -1,0 +1,19 @@
+====== condemn ======
+
+===== Definition: =====
+
+To condemn is to claim that someone has done something wrong and judge him for that.
+
+  * Sometimes this word means that a harsh judgment is being made.
+  * Sometimes "condemn" means to falsely accuse or punish someone who is innocent.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, this term could be translated as "harshly judge" or "criticize falsely."
+  * The phrase "condemn him" could be translated as,"prove that he is guilty" or "state that he must be punished for his sin."
+
+(See also: [[:es-419:obe:kt:judge]], [[:es-419:obe:other:punish]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?condemn&nocomments}}~~DISCUSSION~~{{tag>publish}}

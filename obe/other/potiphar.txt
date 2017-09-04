@@ -1,0 +1,20 @@
+====== Potiphar ======
+
+===== Facts: =====
+
+Potiphar was an important official for the pharaoh of Egypt during the time when Jacob, his wives, and his children were living in the land of Canaan. Potiphar was the captain of the guard.
+
+  * Potiphar bought Jacob's son Joseph as a slave and appointed him to be in charge of his household.
+  * When Joseph was falsely accused of doing wrong, Potiphar had Joseph put in prison.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:JosephOT]], [[:es-419:obe:other:Jacob]], [[:es-419:obe:other:Egypt]], [[:es-419:obe:other:Pharaoh]])
+
+===== Bible References: =====
+
+{{topic>potiphar&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

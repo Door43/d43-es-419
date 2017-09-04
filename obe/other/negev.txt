@@ -1,0 +1,23 @@
+====== Negev ======
+
+===== Facts: =====
+
+The Negev is a desert region in the southern part of Israel.
+
+  * The original word means "the South" and some English versions translate it this way.
+  * It could be that this southern region is not the same location as the present day Negev Desert.
+  * When Abraham lived in the city of Kadesh, he was in the Negev or southern region.
+  * The Jewish tribes of Judah and Simeon lived in this southern region.
+  * The largest city in the Negev region is Beersheba.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[judah]], [[simeon]], [[israel]], [[en:obe:other:abraham]], [[beersheba]], [[kadesh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?negev&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

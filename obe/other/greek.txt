@@ -1,0 +1,21 @@
+====== Greek, Grecian, Hellenistic ======
+
+===== Facts: =====
+
+During New Testament times, Greek was the language spoken in Greece and throughout the Roman Empire; the original New Testament texts were written in Greek.
+
+  * The term "Greek" was also used in the Bible sometimes to refer in general to someone who was not a Jew. This is because at that time, most non-Jewish people in the Roman Empire spoke Greek, even though they might be of a different nationality. An example of this was the Syro-Phoenician woman in Mark 7.
+  * When used in this way, for someone who is not a Jew, other ways to translate "Greek" would be, "Gentile" or "non-Jew."
+  * A "Grecian" Jew was a Jew who spoke Greek and who had grown up in the Greek culture. Some English versions use the term "Hellenistic" instead, which is a transliteration of the Greek word. [TA: transliteration] This is in contrast to "Hebraic" Jews, who spoke only Hebrew.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[greece|Greece]], Gentile other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?greek&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

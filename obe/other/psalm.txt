@@ -1,0 +1,19 @@
+====== psalm ======
+
+===== Definition: =====
+
+A psalm is a sacred song, often a poem set to music. The Old Testament book of Psalms has a collection of these songs written by the Israelites.
+
+  * Both Moses and King David wrote psalms that were used by the nation of Israel in their worship of God.
+  * Psalms can be used to express joy, faith and reverence, as well as pain and sorrow.
+  * In the New Testament, Christians are instructed to sing psalms to God as a form of worship.
+
+(See also: [[moses]], [[david]], [[israel]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?psalm&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

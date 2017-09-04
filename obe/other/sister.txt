@@ -1,0 +1,25 @@
+====== sister ======
+
+===== Definition: =====
+
+A sister is a female person who shares at least one biological parent with another person.
+
+  *In the New Testament, "sister" is sometimes used figuratively to refer to a woman who is a fellow believer in Jesus Christ.
+  * Sometimes the New Testament writers used the phrase, "brothers and sisters" to emphasize that they were talking about all believers in Christ, both men and women.
+  * When they referred specifically to a "sister," they were referring to a certain woman who was a fellow believer.
+
+===== Translation Suggestions: =====
+
+  * It is best to translate this term with the literal word that is used in the target language to refer to a natural or biological sister, unless this would give wrong meaning.
+  * Other ways to translate this could include, "sister in Christ" or "spiritual sister."
+
+
+(See also: [[:es-419:obe:kt:brother]] [[:es-419:obe:kt:inchrist]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sister&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

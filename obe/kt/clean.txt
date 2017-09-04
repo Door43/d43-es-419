@@ -1,0 +1,22 @@
+====== clean, cleanse ======
+
+===== Definition: =====
+
+The tern "clean" literally means to not have any dirt or stain. In the Bible, it is often used figuratively to mean, "pure," "holy," or "free from sin."
+
+  * "Cleanse" is the process of making something "clean." It could also be translated as "wash" or "purify."
+  * In the Old Testament, God told the Israelites which animals were “clean” and which ones were “unclean.” Only the clean animals were permitted to be used for eating or for sacrifice.
+  * A person who had certain skin diseases would be unclean until the skin was healed enough to no longer be contagious. Instructions for cleansing the skin had to be obeyed in order for that person to be declared "clean" again.
+  * Sometimes "clean" is used figuratively to refer to moral purity.
+
+===== Translation Suggestions: =====
+
+  * This term could be translated with the common word for "clean" or "pure" (in the sense of being not dirty).
+  * "Cleanse" could be translated by "wash" or "purify."
+  * Make sure that the words used for "clean" and "cleanse" can also be understood in a figurative sense.
+
+(See also: [[:es-419:obe:kt:holy]], [[:es-419:obe:kt:unclean]], [[:es-419:obe:other:sacrifice]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?clean&nocomments}}{{tag>publish}}

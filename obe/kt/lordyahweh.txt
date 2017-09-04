@@ -1,0 +1,19 @@
+====== Lord Yahweh ======
+
+===== Facts: =====
+
+Many times in the Old Testament, the names "Lord" and "Yahweh" are used together to refer to God. This phrase can be difficult to translate if a form of "Lord" is used to render "Yahweh." 
+
+===== Translation Suggestions: =====
+
+  * If you transliterate "Yahweh" or use a unique phrase for it, you can simply put "Lord" with it. (You will have to decide whether the title "Lord" or the name "Yahweh" comes first.)
+  * If you normally render "Yahweh" as "Lord" you may need to adjust the phrase rather than simply repeat it as "Lord Lord." English sometimes renders "Yahweh" as "LORD." The whole phrase then becomes "Lord LORD." Some readers may not recognize the difference.
+  * You may want to translate "Lord Yahweh" with a similar phrase such as "Lord God" or "God who is the Lord." 
+
+(See also: [[:es-419:obe:kt:lordgod]], [[:es-419:obe:kt:yahweh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?lordyahweh&nocomments&nocomments}}
+
+~~DISCUSSION~~{{tag>publish}}

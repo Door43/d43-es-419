@@ -1,0 +1,22 @@
+====== Gomorrah ======
+
+===== Facts: =====
+
+Gomorrah was a city located in a fertile valley somewhere to the east of the region of Babylonia.
+
+  * Gomorrah is almost always mentioned along with the city of Sodom; the people in these cities had a reputation for being wicked.
+  * There were many kings at war in the region where Sodom and Gomorrah were located.
+  * When Lot's family got captured in a conflict between Sodom and other cities, Abraham and his men rescued them.
+  * Not long after that, Sodom and Gomorrah were destroyed by God because of the wickedness of the people who lived there.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:En:obe:other:Babylon]], [[:es-419:obe:other:Sodom]], [[:es-419:obe:other:Lot]], [[en:obe:other:abraham]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?gomorrah&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

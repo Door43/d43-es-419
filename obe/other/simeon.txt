@@ -1,0 +1,22 @@
+====== Simeon ======
+
+===== Facts: =====
+
+In the Bible, there are several men named Simeon.
+
+  * In the Old Testament, the second son of Jacob (Israel) and Leah was named Simeon. His descendants became one of the twelve tribes of Israel.
+  * The tribe of Simeon occupied the southernmost territory in the promised land of Canaan, an area that was part of Judah's inheritance.
+  * In the New Testament, a godly man named Simeon was in the temple at Jerusalem when Joseph and Mary brought the baby Jesus there to dedicate him to God. Simeon blessed Jesus and praised God for providing the Messiah who would be the Savior for all people.
+  * To make it clear that these and other men with the name Simeon are actually different people, some translators may choose to spell their names slightly differently.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:Jacob]], [[:es-419:obe:other:Canaan]], [[:es-419:obe:other:Judah]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?simeon&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

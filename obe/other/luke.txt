@@ -1,0 +1,21 @@
+====== Luke ======
+
+===== Facts: =====
+
+Luke was the author of two books of the New Testament: the gospel of Luke and the book of Acts.
+
+  * In his letter to the Colossians, Paul refers to Luke as a doctor. Paul also mentions Luke in two of his other letters.
+  * Luke accompanied Paul on two of his missionary journeys and helped him in his work.
+  * In some early church writings, it is said that Luke was born in the city of Antioch in Syria.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[antioch|Antioch]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?luke&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,21 @@
+====== Goliath ======
+
+===== Facts: =====
+
+Goliath was a huge soldier in the army of the Philistines who was killed by David using a slingshot and a stone.
+
+  * Goliath was between two and three meters tall. He is often referred to as a giant because of his great size.
+  * Although Goliath had better weapons and was much bigger than David, God gave David the strength and ability to defeat Goliath.
+  * The Israelites were declared victorious over the Philistines as a result of David's victory over Goliath.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:philistines]], [[:es-419:obe:other:david]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?goliath&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

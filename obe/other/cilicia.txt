@@ -1,0 +1,21 @@
+====== Cilicia ======
+
+===== Facts: =====
+
+Cilicia was a small Roman province located in the southeastern part of what is now the modern-day country of Turkey. It borders the Aegean Sea.
+
+  * The apostle Paul was a citizen from the city of Tarsus located in Cilicia.
+  * Paul spent several years in Cilicia after his encounter with Jesus on the road to Damascus.
+  * Some of the Jews from Cilicia were among those who confronted Stephen.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[paul|Paul]], [[stephen|Stephen]], [[tarsus|Tarsus]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?Cilicia&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

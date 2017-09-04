@@ -1,0 +1,21 @@
+ ====== harp ======
+
+===== Definition: =====
+
+A harp is a stringed musical instrument, usually having a large open frame with vertical strings.
+
+  * Fir wood was used to make harps and other musical instruments.
+  * In ancient times, harps were often held in the hands and played while walking.
+  * Harps were often used to praise God. 
+  * David played a harp that soothed King Saul's troubled spirit. He also wrote several psalms which were set to harp music.
+ 
+
+(See also: [[:es-419:obe:other:fir]], [[:es-419:obe:other:psalm]], [[:es-419:obe:other:David]])
+
+===== Bible References: =====
+
+{{topic>harp&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

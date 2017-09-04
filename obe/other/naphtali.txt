@@ -1,0 +1,22 @@
+====== Naphtali ======
+
+===== Facts: =====
+
+Naphtali was the sixth son of Jacob. His descendants formed the tribe of Naphtali, which was one of the twelve tribes of Israel.
+
+  * Naphtali was the tribe that lived in the most northern part of the land of Israel.
+  * This tribe is mentioned in both the Old and New Testaments of the Bible.
+  * The name Naphtali was also used to refer to the territory where this tribe lived. This could be translated as "the land belonging to the Naphtali tribe" or "the land where the descendants of Naphtali lived."
+  * The name Naphtali means "wrestling."
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:es-419:obe:other:12tribesofisrael]], [[:es-419:obe:other:jacob]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?naphtali&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

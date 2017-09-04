@@ -1,0 +1,24 @@
+====== assembly ======
+
+===== Definition: =====
+
+The term "assembly" usually refers to a group of people who come together to discuss problems, give advice, and make decisions.
+
+  * An assembly can be a group that is organized in an official and somewhat permanent way, or it can be a group of people who come together temporarily for a specific purpose or occasion.
+  * In the Old Testament there was a special kind of assembly called a "sacred assembly" where the people of Israel would gather to worship before the Lord.
+  * Sometimes the term "assembly" is used to refer to a large gathering of enemy forces. This could translated as "army."
+  * <font 14px line-height: 15.6800003051758px/inherit;;inherit;;inherit>In the New Testament, the Jewish judicial assembly or council was also known as the "Sanhedrin</font>    ."
+
+===== Translation Suggestions =====
+
+  * Depending on the context, "assembly" could also be translated as "special gathering" or "congregation" or "council" or "army."
+
+(See also: [[:es-419:obe:other:council|council]], [[:es-419:obe:other:sanhedrin|Sanhedrin]], [[en:obe:other:)
+
+===== Bible References: =====
+
+{{topic>:en:bible?assembly&nocomments}}
+
+~~NOCACHE~~
+
+{{tag>publish}}

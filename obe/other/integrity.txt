@@ -1,0 +1,24 @@
+====== integrity ======
+
+===== Definition: =====
+
+The term "integrity" refers to being honest, with strong moral principles and behavior, even when nobody else is observing.
+
+  * Certain characters in the Bible, such as Joseph and Daniel, showed integrity when they refused to participate in evil, but chose instead to obey God.
+  * The book of Proverbs says that it is better to be poor and have integrity than to be rich and have corrupt values.
+
+===== Translation Suggestions =====
+
+  * The term "integrity" could also be translated as, "honesty" or "moral uprightness" or "behaving truthfully."
+
+
+
+(See also: [[:es-419:obe:other:josephot]], [[:es-419:obe:other:daniel]])
+
+===== Bible References: =====
+
+{{topic>integrity&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

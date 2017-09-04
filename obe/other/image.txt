@@ -1,0 +1,23 @@
+====== image, carved figure ======
+
+===== Definition: =====
+
+An image is something that is like something else, in appearance or in essence. A "carved image" is another name for an idol.
+
+  * A carved image (or "graven image") is a metal or wooden object that has been made to look like an animal, person, or thing, for the purpose of worshiping a false god.
+  * Sometimes in the Bible the carved idol is referred to with just the word "image."
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, the term "image" could also be translated as "statue" or "engraved idol" or "carved religious object."
+  * It may be more clear in some languages to always use the term "carved image," even in places in the text where only the term "image" is used.
+
+(See also: [[:es-419:obe:other:idol|idol]], [[:es-419:obe:kt:falsegod|false god, god]], [[:es-419:obe:kt:god|God]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?image&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,22 @@
+====== cow, calf, bull ======
+
+===== Definition: =====
+
+A cow is a female, four-legged bovine animal that eats grass and is primarily raised for its meat and milk. A calf is its offspring. These animals are included in the general term, "cattle."
+
+  * Cows and their calves are also used as a trading commodity.
+  * In the Bible, the Jewish people used cows for sacrifices, especially a certain type called the red heifer.
+  * A heifer is a cow that has not yet had a baby.
+  * The male of this type animal is called a "bull." An "ox" is a special type of bull that is used for agricultural work, like pulling a plow.
+
+(See also: [[:es-419:obe:other:ox]], [[:es-419:obe:other:yoke]])
+
+(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]]
+
+===== Bible References: =====
+
+{{topic>cow&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,21 @@
+====== Cain ======
+
+===== Facts: =====
+
+Cain and his younger brother Abel were the first sons of Adam and Eve mentioned in the Bible.
+
+  * Cain was a farmer who produced food crops while Abel was a sheep herder.
+  * Cain killed his brother Abel in a fit of jealousy, because God had accepted Abel's sacrifice, but had not accepted Cain's sacrifice.
+  * As punishment, God sent him away from Eden and told him that the land would no longer yield crops for him.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[abel|Abel]], [[sacrifice]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?cain&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

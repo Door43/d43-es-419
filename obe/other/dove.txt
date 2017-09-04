@@ -1,0 +1,22 @@
+====== dove, pigeon ======
+
+===== Definition: =====
+
+Doves and pigeons are similar, small, gray-brown birds. Some languages distinguish them, and others use the same name for them.
+
+  * If doves or pigeons are not known in the language area where the translation is being done, this could be translated as "a small grayish brown bird called a dove" or "a small gray or brown bird, similar to a (name of local bird)".
+  * Doves and pigeons were used in sacrifices to God, especially for people who could not afford to buy a larger animal.
+  * A dove brought the leaf of an olive tree to Noah when the flood waters were going down.
+  * Doves sometimes symbolize purity, innocence, or peace.
+
+(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:es-419:obe:other:olive]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?dove&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

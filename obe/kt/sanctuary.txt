@@ -1,0 +1,25 @@
+====== sanctuary ======
+
+===== Definition: =====
+
+The term "sanctuary" literally means "holy (place)" and refers to a place that God has made sacred and holy. It also can refer to a place that provides protection and safety.
+
+  * In the Old Testament, the term "sanctuary" is often used to refer to the building containing the "Holy Place" and "Most Holy Place" of the tabernacle or temple.
+  * God refers to the sanctuary as the place where he lived among his people, the Israelites.
+  * He also called himself a "sanctuary" or safe place for his people where they can find protection.
+
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, the term "sanctuary" could be translated as "holy place" or "sacred building" or "God's holy dwelling place" or "holy place of protection" or "sacred place of safety."
+  * The phrase "shekel of the sanctuary" could be translated as, "kind of shekel given for the tabernacle" or "shekel used as a tax to take care of the tabernacle." 
+
+(See also: [[:es-419:obe:other:sacred]], [[:es-419:obe:kt:holy]], [[:es-419:obe:kt:tabernacle]], [[:es-419:obe:kt:temple]], [[:es-419:obe:other:tax]], [[:es-419:obe:other:biblicalmoney]], [[:es-419:obe:kt:HolySpirit]])
+
+===== Bible References: =====
+
+{{topic>sanctuary&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

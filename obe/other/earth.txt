@@ -1,0 +1,27 @@
+====== earth ======
+
+===== Definition: =====
+
+The term "earth" has several different meanings.
+
+  * It can refer to the world that human beings live on, along with all other forms of life.
+  * "Earth" can also refer to the ground or dirt that covers the land.
+
+===== Translation Suggestions: =====
+
+
+    * Consider what word or words the local language and nearby national languages use to describe the planet and world on which we live.
+  * Depending on the context, "earth" could be translated as "world" or "land" or "dirt."
+  * Sometimes "earth" can be translated as "people on the earth."
+
+(See also: [[:es-419:obe:kt:world]])
+
+===== Bible References: =====
+
+{{topic>earth&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

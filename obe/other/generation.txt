@@ -1,0 +1,25 @@
+====== generation ======
+
+
+===== Definition: =====
+
+
+A generation is a group of people who are born and live at the same time.
+
+
+    * A generation is usually the group of people that span from parents to children.
+    * In the Bible, a generation is usually considered to be 40 years long.
+
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?generation&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

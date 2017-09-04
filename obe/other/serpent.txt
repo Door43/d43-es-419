@@ -1,0 +1,20 @@
+====== serpent, snake ======
+
+===== Facts: =====
+
+The term "serpent" is another name for a snake. It is also what Satan was called when he spoke to Eve in the garden of Eden.
+
+  * After the serpent tempted Eve to sin, God cursed it saying that from then on all snakes would slither along the ground, implying that before that they might have had legs.
+  * The term for a poisonous snake, "viper" also occurs in the Bible.
+
+(Translation suggestions:  [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[en:obe:kt:satan|Satan, devil, evil one]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?serpent&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,24 @@
+====== Yahweh of hosts, God of hosts ======
+
+===== Definition: =====
+
+The term "hosts" is an older word that refers to a large number of something, such as an army of people.
+
+  * Older versions of the English Bible use the term "hosts" to refer to angels, armies, and stars.
+  * The expression "Yahweh of hosts" or "God of hosts" is a title that expresses God's authority over the thousands of angels who obey him.
+
+===== Translation Suggestions: =====
+
+  * Ways to translate the title "Yahweh of hosts" or "God of hosts" could include, "Yahweh, who rules all the angels" or "God, the ruler over armies of angels."
+
+(See also: [[:es-419:obe:kt:Yahweh]], [[:es-419:obe:kt:angel]], [[:es-419:obe:kt:authority]])
+
+===== Bible References: =====
+
+{{topic>yahwehofhosts&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

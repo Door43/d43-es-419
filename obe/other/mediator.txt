@@ -1,0 +1,23 @@
+====== mediator ======
+
+===== Definition: =====
+
+A mediator is a person who helps two parties resolve their differences and become reconciled.
+
+  * The wrath of God is the result of sin, and the punishment for sin is death. Because of sin, the relationship between God and His people is broken. Jesus is the mediator between God the Father and His people, restoring that broken relationship through his death as payment for their sin.
+
+==== Translation Suggestions: ====
+
+
+  * Ways to translate "mediator" could be, "go-between person" or "reconciler" or "person who brings peace."
+  * Compare this term with how the term "priest" is translated. It is best if these two terms are translated differently.
+
+(See also: [[:es-419:obe:kt:priest]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?mediator&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

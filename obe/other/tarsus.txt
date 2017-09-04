@@ -1,0 +1,21 @@
+====== Tarsus ======
+
+===== Facts: =====
+
+Tarsus was an ancient and prosperous city located in the Roman province of Celicia, in what is now south central Turkey.
+
+  * Its location along a major river and near the shore of the Mediterranean Sea made it part of an important trade route.
+  * At one point in history it was known as the capital city of Celicia.
+  * Tarsus was the birthplace of Paul the apostle.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[paul|Paul]], [[saul|Saul]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?tarsus&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

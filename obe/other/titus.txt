@@ -1,0 +1,14 @@
+====== Titus ======
+
+===== Facts: =====
+
+Titus was an early church leader who was trained by the apostle Paul.
+
+  * Titus was given the job of appointing church leaders in Crete.
+  * One New Testament book is a letter that was written to Titus by Paul.
+  * As a Gentile church leader, Titus was not required to be circumcised.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+===== Bible References: =====
+
+{{topic>:en:bible?Titus&nocomments}}{{tag>publish}}

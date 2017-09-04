@@ -1,0 +1,21 @@
+====== Asia ======
+
+===== Facts: =====
+
+In Bible times, "Asia" was the name of a province of the Roman Empire. It was located in the westernmost part of what is modern-day Turkey.
+
+  * Paul traveled to Asia and shared the gospel in several cities there. Among these were the cities of Ephesus and Colossae. 
+  * To avoid confusion with modern day Asia, it may be necessary to translate this as, "the ancient Roman province called Asia."
+  * All of the churches referenced in Revelation were in the Roman province of Asia.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[rome|Rome]], [[paul|Paul]], [[ephesus|Ephesus]], other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?asia&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

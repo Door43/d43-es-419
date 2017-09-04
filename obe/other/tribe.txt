@@ -1,0 +1,20 @@
+====== tribe ======
+
+===== Definition: =====
+
+A tribe is a group of people who are biologically related and who are usually descended from a common ancestor. Each tribe is mad
+
+  * People from the same tribe share a common language and culture.
+  * In the Old Testament, God divided the people of Israel into twelve tribes. Each tribe was descended from a son or grandson of Jacob.
+  * A tribe is larger than a clan. There are several clans in each tribe.
+  * A tribe is smaller than a nation. There are several tribes in each nation.
+
+(See also: [[:es-419:obe:other:clan]], [[:es-419:obe:other:peoplegroup]], [[:es-419:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?tribe&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

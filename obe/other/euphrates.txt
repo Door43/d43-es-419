@@ -1,0 +1,24 @@
+====== Euphrates ======
+
+===== Facts: =====
+
+The Euphrates is the name of one of the four rivers that flowed through the Garden of Eden. It is the river that is most often mentioned in the Bible.
+
+  * The modern day river named Euphrates is located in the Middle East and is the longest and most important river in Asia.
+  * Together with the Tigris River, the Euphrates borders a region of land known as Mesopotamia.
+  * The ancient city of Ur where Abraham came from was at the mouth of the Euphrates River.
+  * This river was one of the boundaries of the land that God promised to give to Abraham (Genesis 15:18).
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?euphrates&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

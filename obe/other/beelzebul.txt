@@ -1,0 +1,30 @@
+====== Beelzebul ======
+
+
+===== Facts: =====
+
+
+Beelzebul is the ruler of the demons and another name for Satan.
+
+
+    * Beelzebul is also spelled Beelzebub in some versions of the Bible.
+    * Beelzebul can also be translated as "Satan" or, "the devil" or, "the evil one."
+
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+
+(See also: [[en:obe:kt:demon]], [[en:obe:kt:satan]])
+
+===== Bible References: =====
+
+
+{{topic>:en:bible? beelzebul&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,23 @@
+====== bread ======
+
+
+===== Definition: =====
+
+Bread is a food made from flour mixed with water and oil. It is usually made with something that makes it rise, such as yeast. It is then shaped into a loaf and baked.
+
+  * Bread can also be made without something to make it rise.
+  * Bread was the main food in biblical times, and is still a basic food in many cultures.
+  * Because bread was the main food, the word "bread" was sometimes used to refer to food in general, as in Luke 4:4. (See: [[en:ta:vol2:translate:figs_synecdoche|Synecdoche]])
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?bread&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

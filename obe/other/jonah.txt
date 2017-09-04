@@ -1,0 +1,32 @@
+====== Jonah ======
+
+
+===== Definition: =====
+
+
+Jonah was a Hebrew prophet in the Old Testament.
+
+
+  * The book of Jonah tells about when God sent Jonah to Nineveh.
+  * God told Jonah to go to Nineveh and tell the people to turn from their sins.
+  * Jonah refused and went on a ship to go to another country.
+  * The men in the ship threw Jonah out of it, and a large fish swallowed him.
+  * Jonah was in the belly of the fish for three days.
+  * Jonah went to Nineveh and preached to the people, and they turned from their sins.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[nineveh]])
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?jonah&nocomments}}
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~
